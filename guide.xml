@@ -77,32 +77,26 @@
   </channel>
   <channel id="CosmoteSport6.gr">
     <display-name lang="el">COSMOTESport6HD</display-name>
-    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-6-HD-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport7.gr">
     <display-name lang="el">COSMOTESport7HD</display-name>
-    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-7-HD-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport8.gr">
     <display-name lang="el">COSMOTESport8HD</display-name>
-    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-8-HD-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteCinema1.gr">
     <display-name lang="el">COSMOTECinema1HD</display-name>
-    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Cinema-1-HD-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteCinema2.gr">
     <display-name lang="el">COSMOTECinema2HD</display-name>
-    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Cinema-2-HD-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteCinema3.gr">
     <display-name lang="el">COSMOTECinema3</display-name>
-    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/ote-cinema-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="SVT1.se">
@@ -239,37 +233,30 @@
   </channel>
   <channel id="NBATV.us">
     <display-name lang="en">NBA TV USA</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbatv.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TNT.us">
     <display-name lang="en">TNT - Eastern Feed</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tnt-16.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="ESPN.us">
     <display-name lang="en">ESPN</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/espn.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="ESPN2.us">
     <display-name lang="en">ESPN 2</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/espn2.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="Hallmark.us">
     <display-name lang="en">Hallmark - Eastern Feed</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/hallmark.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN1.ca">
     <display-name lang="en">TSN1 HD</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN2.ca">
     <display-name lang="en">TSN2 HD</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN3.ca">
