@@ -467,16 +467,25 @@
     <category lang="el">Ελληνική σειρά</category>
   </programme>
   <programme start="20210804230000 +0300" stop="20210805013000 +0300" channel="ANT1.gr">
-    <title lang="el">Αλλάζουμε; (The Change-Up)</title>
-    <desc lang="el">Ένας μεγαλοδικηγόρος με γυναίκα και παιδιά και ένας εργένης, ανεύθυνος και γυναικάς αλλάζουν σώμα και καλούνται να ζήσουν ο ένας τη ζωή του άλλου. (150') Παραγωγή: ΗΠΑ.</desc>
+    <title lang="el">Αλλάζουμε;</title>
+    <title lang="xx">The Change-Up</title>
+    <desc lang="el">Ένας μεγαλοδικηγόρος με γυναίκα και παιδιά και ένας εργένης, ανεύθυνος και γυναικάς αλλάζουν σώμα και καλούνται να ζήσουν ο ένας τη ζωή του άλλου.</desc>
     <credits>
-      <director>Ντέιβιντ Ντόμπκιν</director>
-      <actor>Ράιαν Ρέινολντς</actor>
-      <actor>Τζέισον Μπέιτμαν</actor>
-      <actor>Λέσλι Μαν</actor>
+      <director>David Dobkin</director>
+      <actor>Ryan Reynolds(Mitch Planko)</actor>
+      <actor>Jason Bateman(Dave Lockwood)</actor>
+      <actor>Leslie Mann(Jamie Lockwood)</actor>
+      <actor>Olivia Wilde(Sabrina McKay)</actor>
+      <actor>Alan Arkin(Mitch\'s Dad)</actor>
+      <actor>Mircea Monroe(Tatiana)</actor>
+      <actor>Gregory Itzin(Flemming Steel)</actor>
+      <actor>Ned Schmidtke(Ted Norton)</actor>
+      <actor>Ming Lo(Ken Kinkabe)</actor>
+      <actor>Sydney Rouviere(Cara Lockwood)</actor>
     </credits>
     <date>2011</date>
-    <category lang="el">Ξένη ταινία</category>
+    <category lang="el">Ξένη ταινία - Κωμωδία</category>
+    <icon src="//tv.pathfinder.gr/Pathfinder/Tv/tv/ant12108042300.jpg" />
   </programme>
   <programme start="20210804060000 +0300" stop="20210804064500 +0300" channel="Star.gr">
     <title lang="el">Flash</title>
