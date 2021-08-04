@@ -2837,13 +2837,13 @@
     <date>2020</date>
     <episode-num system="onscreen">Säsong 12. Del 3 av 80</episode-num>
   </programme>
-  <programme start="20210804155500 +0200" stop="20210804165000 +0200" channel="TV4.se">
+  <programme start="20210804155500 +0200" stop="20210804165500 +0200" channel="TV4.se">
     <title lang="sv">En plats i solen - borta eller hemma bäst?</title>
     <desc lang="sv">Brittisk livsstilsserie från 2020. Pensionen är kommen för Elizabeth och Phillip, något de vill fira med två nya bostäder. Tanken är att sälja familjehemmet och köpa en lägenhet i Ipswich och en i Perpignan för att kunna kombinera deras stora intressen  segling och skidåkning. ,.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 12. Del 4 av 80</episode-num>
   </programme>
-  <programme start="20210804165000 +0200" stop="20210804175000 +0200" channel="TV4.se">
+  <programme start="20210804165500 +0200" stop="20210804175000 +0200" channel="TV4.se">
     <title lang="sv">Mandelmanns gård</title>
     <desc lang="sv">Svenskt livsstilsprogram från 2020. På Mandelmanns gård är våren kommen men förutsättningarna annorlunda - Gustav har opererat knät och pandemin har tagit över världen. Som en strimma ljus har hunden Selma flyttat in och Marie lagar gryta och förbereder inför fårsläpp. ,.</desc>
     <date>2020</date>
@@ -2936,28 +2936,39 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 18 av 250</episode-num>
   </programme>
-  <programme start="20210804223000 +0200" stop="20210804232500 +0200" channel="TV4.se">
+  <programme start="20210804223000 +0200" stop="20210804233000 +0200" channel="TV4.se">
     <title lang="sv">CSI</title>
     <desc lang="sv">Amerikansk kriminalserie från 2006. Law of gravity. Grissom återvänder efter sin ledighet. Keppler tar hand om ett fall där en polis hittas död tillsammans med en prostituerad på ett hotellrum. Han håller dock hemligt att han känner mannen som hittat kropparna. ,.</desc>
     <date>2006</date>
     <episode-num system="onscreen">Säsong 7. Del 15 av 24</episode-num>
   </programme>
-  <programme start="20210804232500 +0200" stop="20210805002500 +0200" channel="TV4.se">
+  <programme start="20210804233000 +0200" stop="20210805002500 +0200" channel="TV4.se">
     <title lang="sv">Hawaii five-0</title>
     <desc lang="sv">Amerikansk kriminalserie från 2016. The burden. Gruppen tar sig an ett tio år gammalt fall med en försvunnen tonåring efter att en pojkes minnen börjar vakna till liv under en hypnosbehandling. Dannys syster Bridget besöker Oahu för en konferens. ,.</desc>
     <date>2016</date>
     <episode-num system="onscreen">Säsong 7. Del 10 av 25</episode-num>
   </programme>
-  <programme start="20210804060000 +0200" stop="20210804063500 +0200" channel="Kanal5.se">
-    <title lang="sv">Brottning</title>
-    <desc lang="sv">Damer fristil, herrar grekisk-romersk, äterkval, åttondelsfinaler. . OS. OS: Brottning dag 4 session 7. Damer fristil, herrar grekisk-romersk. Återkval, åttondelsfinaler.</desc>
+  <programme start="20210804060000 +0200" stop="20210804061500 +0200" channel="Kanal5.se">
+    <title lang="sv">Sport generellt</title>
+    <desc lang="sv">damer. . Skateboard park: OS. OS: Skateboard park damer. 04/08 år 2021 i Kanal 5.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20210804063500 +0200" stop="20210804073000 +0200" channel="Kanal5.se">
+  <programme start="20210804061500 +0200" stop="20210804063000 +0200" channel="Kanal5.se">
     <title lang="sv">OS-studion</title>
     <desc lang="sv">Karin Frick och Jonas Karlsson leder OS-studion som sänds varje dag under hela OS från tidig morgon till sen eftermiddag. Tillsammans med reportrarna Isabel Boltenstern och Per Nyberg guidar de tittarna genom de största live-evenemangen.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 30 av 154</episode-num>
+  </programme>
+  <programme start="20210804063000 +0200" stop="20210804071500 +0200" channel="Kanal5.se">
+    <title lang="sv">Golf</title>
+    <desc lang="sv">dag, 1 damer. . OS. Kasumigaseki Country Club. OS: Golf dag 1 damer. Kasumigaseki Country Club. 04/08 år 2021 i Kanal 5.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20210804071500 +0200" stop="20210804073000 +0200" channel="Kanal5.se">
+    <title lang="sv">OS-studion</title>
+    <desc lang="sv">Karin Frick och Jonas Karlsson leder OS-studion som sänds varje dag under hela OS från tidig morgon till sen eftermiddag. Tillsammans med reportrarna Isabel Boltenstern och Per Nyberg guidar de tittarna genom de största live-evenemangen.</desc>
+    <date>2021</date>
+    <episode-num system="onscreen">Säsong 2020. Del 35 av 154</episode-num>
   </programme>
   <programme start="20210804073000 +0200" stop="20210804080000 +0200" channel="Kanal5.se">
     <title lang="sv">Segling</title>
@@ -2995,7 +3006,7 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 33 av 154</episode-num>
   </programme>
-  <programme start="20210804120000 +0200" stop="20210804144000 +0200" channel="Kanal5.se">
+  <programme start="20210804120000 +0200" stop="20210804141500 +0200" channel="Kanal5.se">
     <title lang="sv">Ridsport</title>
     <desc lang="sv">Banhoppning, individuell final. . OS. Equestrian Park. OS: Ridsport, banhoppning individuellt final. Equestrian Park. Kommentatorer: Henrik Johnsson och Linda Heed.</desc>
     <credits>
@@ -3003,7 +3014,18 @@
     </credits>
     <date>2021</date>
   </programme>
-  <programme start="20210804144000 +0200" stop="20210804160000 +0200" channel="Kanal5.se">
+  <programme start="20210804141500 +0200" stop="20210804143000 +0200" channel="Kanal5.se">
+    <title lang="sv">OS-studion</title>
+    <desc lang="sv">Karin Frick och Jonas Karlsson leder OS-studion som sänds varje dag under hela OS från tidig morgon till sen eftermiddag. Tillsammans med reportrarna Isabel Boltenstern och Per Nyberg guidar de tittarna genom de största live-evenemangen.</desc>
+    <date>2021</date>
+    <episode-num system="onscreen">Säsong 2020. Del 36 av 154</episode-num>
+  </programme>
+  <programme start="20210804143000 +0200" stop="20210804151500 +0200" channel="Kanal5.se">
+    <title lang="sv">Handboll</title>
+    <desc lang="sv">Kvartsfinal, damer. FrankrikeNederländerna. OS. OS: Handboll Frankrike - Nederländerna kvartsfinal D.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20210804151500 +0200" stop="20210804160000 +0200" channel="Kanal5.se">
     <title lang="sv">OS-studion</title>
     <desc lang="sv">Karin Frick och Jonas Karlsson leder OS-studion som sänds varje dag under hela OS från tidig morgon till sen eftermiddag. Tillsammans med reportrarna Isabel Boltenstern och Per Nyberg guidar de tittarna genom de största live-evenemangen.</desc>
     <date>2021</date>
@@ -3039,10 +3061,9 @@
     <episode-num system="onscreen">Säsong 2. Del 5 av 10</episode-num>
   </programme>
   <programme start="20210804230000 +0200" stop="20210804235500 +0200" channel="Kanal5.se">
-    <title lang="sv">OS: Höjdpunkter Tokyo 2020</title>
-    <desc lang="sv">OS: Höjdpunkter Tokyo 2020. 02/08 år 2021 i Kanal 5.</desc>
+    <title lang="sv">Övriga sporter</title>
+    <desc lang="sv">OS. OS: Höjdpunkter Tokyo 2020. 02/08 år 2021 i Kanal 5.</desc>
     <date>2021</date>
-    <episode-num system="onscreen">Säsong 2021</episode-num>
   </programme>
   <programme start="20210804235500 +0200" stop="20210805002500 +0200" channel="Kanal5.se">
     <title lang="sv">OS: Höjdpunkter Tokyo 2020</title>
@@ -3420,32 +3441,37 @@
     </credits>
     <date>1993</date>
   </programme>
-  <programme start="20210804060000 +0200" stop="20210804064000 +0200" channel="Kanal9.se">
-    <title lang="sv">Sport generellt</title>
-    <desc lang="sv">Damer. . Skateboard park: OS. OS: Skateboard park damer.</desc>
+  <programme start="20210804060000 +0200" stop="20210804061000 +0200" channel="Kanal9.se">
+    <title lang="sv">Golf</title>
+    <desc lang="sv">dag 1, damer. . OS. Kasumigaseki Country Club. OS: Golf dag 1 damer. Kasumigaseki Country Club. 04/08 år 2021 i Kanal 9.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20210804064000 +0200" stop="20210804081500 +0200" channel="Kanal9.se">
+  <programme start="20210804061000 +0200" stop="20210804075000 +0200" channel="Kanal9.se">
     <title lang="sv">Handboll</title>
-    <desc lang="sv">Kvartsfinal. OS. OS: Handboll kvartsfinal damer.</desc>
+    <desc lang="sv">Kvartsfinal, damer. NorgeUngern. OS. OS: Handboll Norge - Ungern kvartsfinal damer.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20210804081500 +0200" stop="20210804112500 +0200" channel="Kanal9.se">
+  <programme start="20210804075000 +0200" stop="20210804103000 +0200" channel="Kanal9.se">
     <title lang="sv">Bordtennis</title>
     <desc lang="sv">Semifinal. OS. OS: Bordtennis semifinal lag herrar.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20210804112500 +0200" stop="20210804150500 +0200" channel="Kanal9.se">
+  <programme start="20210804103000 +0200" stop="20210804112500 +0200" channel="Kanal9.se">
+    <title lang="sv">Basket</title>
+    <desc lang="sv">Kvartsfinal. OS. OS: Basket, kvartsfinal D.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20210804112500 +0200" stop="20210804145500 +0200" channel="Kanal9.se">
     <title lang="sv">Friidrott</title>
     <desc lang="sv">Dag 6, kval och finaler. . OS. OS: Friidrott, dag 6.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20210804150500 +0200" stop="20210804160000 +0200" channel="Kanal9.se">
+  <programme start="20210804145500 +0200" stop="20210804155500 +0200" channel="Kanal9.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Kvartsfinal, herrar. . OS: Beachvolleyboll. OS: Beachvolleyboll kvartsfinal herrar.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20210804160000 +0200" stop="20210804163000 +0200" channel="Kanal9.se">
+  <programme start="20210804155500 +0200" stop="20210804163000 +0200" channel="Kanal9.se">
     <title lang="sv">Gränsbevakarna Australien</title>
     <desc lang="sv">Australisk dokumentärserie från 2013. Vi följer expertteamet som på flygplatser och kustremsor bevakar Australiens gränser. Varje dag arbetar de med att skydda landet från illegal arbetskraft, potentiella terrorister, farliga sjukdomar och droghandel. 27/07 år 2021 i Kanal 9.</desc>
     <date>2013</date>
@@ -3469,25 +3495,25 @@
     <date>2010</date>
     <episode-num system="onscreen">Säsong 1. Del 5 av 8</episode-num>
   </programme>
-  <programme start="20210804190000 +0200" stop="20210804195500 +0200" channel="Kanal9.se">
+  <programme start="20210804190000 +0200" stop="20210804200000 +0200" channel="Kanal9.se">
     <title lang="sv">Ullared</title>
     <desc lang="sv">Svensk realityserie från 2018. Två välbekanta shoppare är tillbaka: Elin och Johanna. De faller för samma saker och kör sten, sax, påse för att undvika likadana inköp. Ola-Conny upptäcker att varuhusets koncern-VD Boris fått en medalj av självaste kungen. Boris berättar om mötet. ,.</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 11. Del 4 av 20</episode-num>
   </programme>
-  <programme start="20210804195500 +0200" stop="20210804202500 +0200" channel="Kanal9.se">
+  <programme start="20210804200000 +0200" stop="20210804203000 +0200" channel="Kanal9.se">
     <title lang="sv">Gränsbevakarna Australien</title>
     <desc lang="sv">Australisk dokumentärserie från 2013. Vi följer expertteamet som på flygplatser och kustremsor bevakar Australiens gränser. Varje dag arbetar de med att skydda landet från illegal arbetskraft, potentiella terrorister, farliga sjukdomar och droghandel. 27/05 år 2021 i Kanal 9.</desc>
     <date>2013</date>
     <episode-num system="onscreen">Säsong 10. Del 15 av 20</episode-num>
   </programme>
-  <programme start="20210804202500 +0200" stop="20210804210000 +0200" channel="Kanal9.se">
+  <programme start="20210804203000 +0200" stop="20210804210000 +0200" channel="Kanal9.se">
     <title lang="sv">Gränsbevakarna Australien</title>
     <desc lang="sv">Australisk dokumentärserie från 2013. Vi följer expertteamet som på flygplatser och kustremsor bevakar Australiens gränser. Varje dag arbetar de med att skydda landet från illegal arbetskraft, potentiella terrorister, farliga sjukdomar och droghandel. 27/05 år 2021 i Kanal 9.</desc>
     <date>2013</date>
     <episode-num system="onscreen">Säsong 10. Del 16 av 20</episode-num>
   </programme>
-  <programme start="20210804210000 +0200" stop="20210804230000 +0200" channel="Kanal9.se">
+  <programme start="20210804210000 +0200" stop="20210804225500 +0200" channel="Kanal9.se">
     <title lang="sv">Fist fight</title>
     <desc lang="sv">Amerikansk komedi från 2017. Det är sista dagen på terminen och den milde läraren Andy och hans kollegor har fullt sjå att hålla pli på eleverna. När Andy råkar bidra till att den tuffe kollegan Ron får sparken blir han till sin förskräckelse utmanad på slagsmål efter skolan.</desc>
     <credits>
@@ -3501,13 +3527,13 @@
     </credits>
     <date>2017</date>
   </programme>
-  <programme start="20210804230000 +0200" stop="20210804232500 +0200" channel="Kanal9.se">
+  <programme start="20210804225500 +0200" stop="20210804232500 +0200" channel="Kanal9.se">
     <title lang="sv">Gränsbevakarna Australien</title>
     <desc lang="sv">Australisk dokumentärserie från 2013. Vi följer expertteamet som på flygplatser och kustremsor bevakar Australiens gränser. Varje dag arbetar de med att skydda landet från illegal arbetskraft, potentiella terrorister, farliga sjukdomar och droghandel. 03/08 år 2021 i Kanal 9.</desc>
     <date>2013</date>
     <episode-num system="onscreen">Säsong 10. Del 13 av 20</episode-num>
   </programme>
-  <programme start="20210804232500 +0200" stop="20210805021500 +0200" channel="Kanal9.se">
+  <programme start="20210804232500 +0200" stop="20210805015500 +0200" channel="Kanal9.se">
     <title lang="sv">Simning</title>
     <desc lang="sv">Maratonsimning, herrar 10 km. . OS. OS: Maratonsimning, herrar 10 km.</desc>
     <date>2021</date>
@@ -6292,13 +6318,13 @@
     <title lang="sv">Tennis</title>
     <desc lang="sv">Washington. ATP World Tour 500-turnering. Washington.</desc>
   </programme>
-  <programme start="20210804220000 +0200" stop="20210804233300 +0200" channel="Eurosport1.se">
+  <programme start="20210804220000 +0200" stop="20210805001300 +0200" channel="Eurosport1.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Washington. ATP World Tour 500-turnering. Washington.</desc>
   </programme>
-  <programme start="20210804233300 +0200" stop="20210805020300 +0200" channel="Eurosport1.se">
-    <title lang="sv">Simning</title>
-    <desc lang="sv">Tokyo. Maratonsimning: Sommar-OS. Tokyo.</desc>
+  <programme start="20210804060300 +0200" stop="20210804064300 +0200" channel="Eurosport2.se">
+    <title lang="sv">Övriga sporter</title>
+    <desc lang="sv">Tokyo. Skateboard Sommar-OS. Tokyo.</desc>
   </programme>
   <programme start="20210804064300 +0200" stop="20210804084300 +0200" channel="Eurosport2.se">
     <title lang="sv">Basket</title>
@@ -6320,15 +6346,15 @@
     <title lang="sv">Basket</title>
     <desc lang="sv">Tokyo, Kvartsfinal. Sommar-OS. Tokyo, Kvartsfinal.</desc>
   </programme>
-  <programme start="20210804160300 +0200" stop="20210804173200 +0200" channel="Eurosport2.se">
+  <programme start="20210804160300 +0200" stop="20210804173500 +0200" channel="Eurosport2.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Tokyo, Kvartsfinal. Beachvolley: OS. Tokyo, Kvartsfinal.</desc>
   </programme>
-  <programme start="20210804173200 +0200" stop="20210804180300 +0200" channel="Eurosport2.se">
+  <programme start="20210804173500 +0200" stop="20210804180600 +0200" channel="Eurosport2.se">
     <title lang="sv">Basket</title>
     <desc lang="sv">Tokyo Damer. Sommar-OS. Tokyo Damer. ,.</desc>
   </programme>
-  <programme start="20210804180300 +0200" stop="20210804190300 +0200" channel="Eurosport2.se">
+  <programme start="20210804180600 +0200" stop="20210804190300 +0200" channel="Eurosport2.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Tokyo. Skateboard: OS. Tokyo. ,.</desc>
   </programme>
@@ -6336,19 +6362,23 @@
     <title lang="sv">Basket</title>
     <desc lang="sv">Tokyo Damer. Sommar-OS. Tokyo Damer.</desc>
   </programme>
-  <programme start="20210804203500 +0200" stop="20210804210600 +0200" channel="Eurosport2.se">
+  <programme start="20210804203500 +0200" stop="20210804210800 +0200" channel="Eurosport2.se">
     <title lang="sv">Basket</title>
     <desc lang="sv">Tokyo Damer. Sommar-OS. Tokyo Damer. ,.</desc>
   </programme>
-  <programme start="20210804210600 +0200" stop="20210804220000 +0200" channel="Eurosport2.se">
+  <programme start="20210804210800 +0200" stop="20210804220300 +0200" channel="Eurosport2.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Sommar-OS. ,.</desc>
   </programme>
-  <programme start="20210804220000 +0200" stop="20210804233500 +0200" channel="Eurosport2.se">
-    <title lang="sv">Boxning</title>
-    <desc lang="sv">Tokyo, DAY 11. Sommar-OS. Tokyo, DAY 11.</desc>
+  <programme start="20210804220300 +0200" stop="20210804223600 +0200" channel="Eurosport2.se">
+    <title lang="sv">Övriga sporter</title>
+    <desc lang="sv">Tokyo, Kvartsfinal. Beachvolley Sommar-OS. Tokyo, Kvartsfinal. ,.</desc>
   </programme>
-  <programme start="20210804233500 +0200" stop="20210805010400 +0200" channel="Eurosport2.se">
+  <programme start="20210804223600 +0200" stop="20210804233300 +0200" channel="Eurosport2.se">
+    <title lang="sv">Kraftsport</title>
+    <desc lang="sv">Tokyo, GROUP A. Tyngdlyftning, Sommar-OS. Tokyo, GROUP A. ,.</desc>
+  </programme>
+  <programme start="20210804233300 +0200" stop="20210805010300 +0200" channel="Eurosport2.se">
     <title lang="sv">Friidrott</title>
     <desc lang="sv">Tokyo, Omgång 6. Friidrott Tokyo Sommar-OS. Tokyo, Omgång 6. ,.</desc>
   </programme>
@@ -7354,7 +7384,7 @@
     </credits>
     <date>2015</date>
   </programme>
-  <programme start="20210804175500 +0200" stop="20210804200000 +0200" channel="ViasatFilmHits.se">
+  <programme start="20210804175500 +0200" stop="20210804200500 +0200" channel="ViasatFilmHits.se">
     <title lang="sv">Million dollar baby</title>
     <desc lang="sv">Amerikanskt drama från 2004. En före detta proffsboxare driver en boxningsklubb där det en dag dyker upp en tjej som vill bli proffsboxare. Han är inte intresserad av att hjälpa henne och är övertygad om att hon kommer att misslyckas. Hon är envis och börjar träna på egen hand. Snart har klubbens allt i allo fått upp ögonen för hennes talang och börjar coacha henne. Motgångar och folks misstro byts snart i framgång och beundran.</desc>
     <credits>
@@ -7367,7 +7397,7 @@
     </credits>
     <date>2004</date>
   </programme>
-  <programme start="20210804200000 +0200" stop="20210804220000 +0200" channel="ViasatFilmHits.se">
+  <programme start="20210804200500 +0200" stop="20210804220000 +0200" channel="ViasatFilmHits.se">
     <title lang="sv">Flykten från Alcatraz</title>
     <desc lang="sv">Amerikansk action från 1979. Frank Morris anländer till det rymningssäkra fängelset Alcatraz. Han har lyckats rymma från flera andra fängelser tidigare och börjar genast planera sin flykt från fängelseön. Tillsammans med tre andra interner förbereder han vägen till frihet.</desc>
     <credits>
