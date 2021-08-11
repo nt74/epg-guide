@@ -526,17 +526,25 @@
     <category lang="el">Ελληνική ταινία</category>
   </programme>
   <programme start="20210811230000 +0300" stop="20210812000000 +0300" channel="ANT1.gr">
-    <title lang="el">Γλυκός Πειρασμός (The Sweetest Thing)</title>
-    <desc lang="el">Η Κριστίνα λατρεύει το παιχνίδι του φλερτ, αλλά ακολουθεί πάντα έναν απαράβατο κανόνα: να μην ερωτεύεται... Μέχρι την στιγμή που γνωρίζει τον άνδρα των ονείρων της! (120') Παραγωγή: ΗΠΑ.</desc>
+    <title lang="el">Γλυκός Πειρασμός</title>
+    <title lang="xx">The Sweetest Thing</title>
+    <desc lang="el">Η Κριστίνα λατρεύει το παιχνίδι του φλερτ, αλλά ακολουθεί πάντα έναν απαράβατο κανόνα: να μην ερωτεύεται... Μέχρι την στιγμή που γνωρίζει τον άνδρα των ονείρων της!</desc>
     <credits>
-      <director>Ρότζερ Καμπλ</director>
-      <actor>Κάμερον Ντίαζ</actor>
-      <actor>Κριστίνα Απλγκέιτ</actor>
-      <actor>Σέλμα Μπλερ</actor>
-      <actor>Τόμας Τζέιν</actor>
+      <director>Roger Kumble</director>
+      <actor>Lillian Adams(Aunt Frida)</actor>
+      <actor>Herbert W. Ankrom(Wedding Guest #3)</actor>
+      <actor>Bryan Anthony(Geeky Guy)</actor>
+      <actor>Christina Applegate(Courtney)</actor>
+      <actor>Linda Asuma(Brawling Bridesmaid)</actor>
+      <actor>Jason Bateman(Roger)</actor>
+      <actor>Vahe Bejan(Taxi Driver)</actor>
+      <actor>Joe Bellan(Mr. Martin)</actor>
+      <actor>Selma Blair(Jane)</actor>
+      <actor>Chelsea Bond(Greta)</actor>
     </credits>
     <date>2002</date>
-    <category lang="el">Ξένη ταινία</category>
+    <category lang="el">Ξένη ταινία - Αισθηματική κομεντί</category>
+    <icon src="//tv.pathfinder.gr/Pathfinder/Tv/tv/ant12108112300.jpg" />
   </programme>
   <programme start="20210812000000 +0300" stop="20210812010000 +0300" channel="ANT1.gr">
     <title lang="el">New Amsterdam</title>
@@ -758,19 +766,25 @@
     <category lang="el">Ελληνική ταινία</category>
   </programme>
   <programme start="20210812230000 +0300" stop="20210813001500 +0300" channel="ANT1.gr">
-    <title lang="el">Καράτε Κιντ 3 (Karate Kid III)</title>
-    <desc lang="el">O Ντάνιελ Λα Ρούσο επιστρέφει από την Οκινάουα, ελπίζοντας για μια ήρεμη ζωή δουλεύοντας δίπλα στο σοφό κύριο Μιγιάγκι. Αντί γι' αυτό όμως, ο Ντάνιελ εκβιάζεται να διαγωνιστεί πάλι ενάντια στο μοχθηρό 'Κακό Αγόρι του Καράτε', τον Μάικ. (135') Παραγωγή: ΗΠΑ.</desc>
+    <title lang="el">Καράτε Κιντ</title>
+    <title lang="xx">Karate Kid III</title>
+    <desc lang="el">O Ντάνιελ Λα Ρούσο επιστρέφει από την Οκινάουα, ελπίζοντας για μια ήρεμη ζωή δουλεύοντας δίπλα στο σοφό κύριο Μιγιάγκι. Αντί γι' αυτό όμως, ο Ντάνιελ εκβιάζεται να διαγωνιστεί πάλι ενάντια στο μοχθηρό 'Κακό Αγόρι του Καράτε', τον Μάικ.</desc>
     <credits>
-      <director>Τζον Γκ. Άβιλντσεν</director>
-      <actor>Ραλφ Μάτσιο</actor>
-      <actor>Πατ Μορίτα</actor>
-      <actor>Ρόμπιν Λάιβλι</actor>
-      <actor>Ράντι Χέλερ</actor>
-      <actor>Μάρτιν Κόουβ</actor>
-      <actor>Σον Κάναν</actor>
+      <director>John G. Avildsen</director>
+      <actor>Ralph Macchio(Daniel)</actor>
+      <actor>Pat Morita(Mr. Miyagi)</actor>
+      <actor>Robyn Lively(Jessica Andrews)</actor>
+      <actor>Thomas Ian Griffith(Terry Silver)</actor>
+      <actor>Martin Kove(Kreese)</actor>
+      <actor>Sean Kanan(Mike Barnes)</actor>
+      <actor>Jonathan Avildsen(Snake)</actor>
+      <actor>William Christopher Ford(Dennis)</actor>
+      <actor>Randee Heller(Lucille)</actor>
+      <actor>Pat E. Johnson(Referee)</actor>
     </credits>
     <date>1989</date>
-    <category lang="el">Ξένη ταινία</category>
+    <category lang="el">Ξένη ταινία - Οικογενειακή</category>
+    <icon src="//tv.pathfinder.gr/Pathfinder/Tv/tv/ant12108122300.jpg" />
   </programme>
   <programme start="20210811004000 +0300" stop="20210811014000 +0300" channel="Star.gr">
     <title lang="el">Νόμος και Τάξη: Ειδική Ομάδα</title>
@@ -982,16 +996,25 @@
     <category lang="el">Ξένη σειρά</category>
   </programme>
   <programme start="20210811220000 +0300" stop="20210812003000 +0300" channel="Star.gr">
-    <title lang="el">Επιχείρηση Μαύρη Θάλασσα (Black Sea)</title>
-    <desc lang="el">Ο Ρόμπινσον, αξιωματικός του ναυτικού, απολύεται και αναλαμβάνει μία ριψοκίνδυνη αποστολή: επανδρώνει ένα υποβρύχιο με άνεργους Άγγλους και Ρώσους ναυτικούς για να το οδηγήσει στη Μαύρη Θάλασσα και να εντοπίσουν ένα βυθισμένο πλοίο των Ναζί, που φημολογείται ότι κουβαλά αμύθητη ποσότητα χρυσού. (150') Παραγωγή: Βρετανία, ΗΠΑ, Ρωσία.</desc>
+    <title lang="el">Επιχείρηση Μαύρη Θάλασσα</title>
+    <title lang="xx">Black Sea</title>
+    <desc lang="el">Ο Ρόμπινσον, αξιωματικός του ναυτικού, απολύεται και αναλαμβάνει μία ριψοκίνδυνη αποστολή: επανδρώνει ένα υποβρύχιο με άνεργους Άγγλους και Ρώσους ναυτικούς για να το οδηγήσει στη Μαύρη Θάλασσα και να εντοπίσουν ένα βυθισμένο πλοίο των Ναζί, που φημολογείται ότι κουβαλά αμύθητη ποσότητα χρυσού.</desc>
     <credits>
-      <director>Κέβιν Μακντόναλντ</director>
-      <actor>Τζουντ Λο</actor>
-      <actor>Καρλ Ντέιβις</actor>
-      <actor>Σκούτ ΜακΝέρι</actor>
+      <director>Kevin Macdonald</director>
+      <actor>Jude Law(Robinson)</actor>
+      <actor>Karl Davies(Liam)</actor>
+      <actor>Llewella Gideon(Job Centre Worker)</actor>
+      <actor>Jodie Whittaker(Chrissy)</actor>
+      <actor>Gus Barry(Martin (aged 12))</actor>
+      <actor>Konstantin Khabenskiy(Blackie)</actor>
+      <actor>Daniel Ryan(Kurston)</actor>
+      <actor>Scoot McNairy(Daniels)</actor>
+      <actor>Tobias Menzies(Lewis)</actor>
+      <actor>Michael Smiley(Reynolds)</actor>
     </credits>
     <date>2014</date>
-    <category lang="el">Ξένη ταινία</category>
+    <category lang="el">Ξένη ταινία - Περιπέτεια</category>
+    <icon src="//tv.pathfinder.gr/Pathfinder/Tv/tv/star2108112200.jpg" />
   </programme>
   <programme start="20210812003000 +0300" stop="20210812013000 +0300" channel="Star.gr">
     <title lang="el">Νόμος και Τάξη: Ειδική Ομάδα</title>
@@ -1020,17 +1043,25 @@
     <category lang="el">Ξένη σειρά</category>
   </programme>
   <programme start="20210812023000 +0300" stop="20210812043000 +0300" channel="Star.gr">
-    <title lang="el">Επικίνδυνο Κύκλωμα (Closed Circuit)</title>
-    <desc lang="el">Μια υπόθεση τρομοκρατίας υψηλού προφίλ συνδέει κατά απρόβλεπτο τρόπο δύο πρώην εραστές, δοκιμάζοντας τα όρια της αλληλεγγύης τους και θέτοντας τις ζωές τους σε κίνδυνο. (120') Παραγωγή: ΗΠΑ, Βρετανία.</desc>
+    <title lang="el">Επικίνδυνο Κύκλωμα</title>
+    <title lang="xx">Closed Circuit</title>
+    <desc lang="el">Μια υπόθεση τρομοκρατίας υψηλού προφίλ συνδέει κατά απρόβλεπτο τρόπο δύο πρώην εραστές, δοκιμάζοντας τα όρια της αλληλεγγύης τους και θέτοντας τις ζωές τους σε κίνδυνο.</desc>
     <credits>
-      <director>Τζον Κράουλι</director>
-      <actor>Έρικ Μπάνα</actor>
-      <actor>Ρεμπέκα Χολ</actor>
-      <actor>Κιάραν Χάιντς</actor>
-      <actor>Τζιμ Μπρόντμπεντ</actor>
+      <director>John Crowley</director>
+      <actor>Kate Lock(Mother)</actor>
+      <actor>Katherine Press(Pregnant Daughter)</actor>
+      <actor>Patrick Warner(Young Man on Cellphone)</actor>
+      <actor>Ricky Nixon(Fish Trader)</actor>
+      <actor>Daniel Tuite(Drinks Trader)</actor>
+      <actor>Zora Bishop(Mother of Toddler)</actor>
+      <actor>Vicky Jam(Teenage Girl)</actor>
+      <actor>Zahra Ahmadi(Woman on Cellphone)</actor>
+      <actor>Steve North(Angry Trader)</actor>
+      <actor>Denis Moschitto(Farroukh Erdogan)</actor>
     </credits>
     <date>2013</date>
-    <category lang="el">Ξένη ταινία</category>
+    <category lang="el">Ξένη ταινία - Θρίλερ</category>
+    <icon src="//tv.pathfinder.gr/Pathfinder/Tv/tv/star2108110230.jpg" />
   </programme>
   <programme start="20210812043000 +0300" stop="20210812060000 +0300" channel="Star.gr">
     <title lang="el">Covert Affairs</title>
@@ -1205,17 +1236,25 @@
     <category lang="el">Ξένη σειρά</category>
   </programme>
   <programme start="20210812220000 +0300" stop="20210813004500 +0300" channel="Star.gr">
-    <title lang="el">Ο Άνθρωπος που Ταπείνωσε τον Χίτλερ (Race)</title>
-    <desc lang="el">Ο στόχος του Τζέσι Όουενς να γίνει ο κορυφαίος αθλητής στίβου της ιστορίας τον φέρνει στην παγκόσμια σκηνή των Ολυμπιακών Αγώνων του 1936. Εκεί, ο Αφροαμερικανός αθλητής θα αντιμετωπίσει τη ναζιστική προπαγάνδα περί ανωτερότητας της Άριας φυλής. (165') Παραγωγή: Καναδάς, Γαλλία, Γερμανία.</desc>
+    <title lang="el">Ο Άνθρωπος που Ταπείνωσε τον Χίτλερ</title>
+    <title lang="xx">Race</title>
+    <desc lang="el">Ο στόχος του Τζέσι Όουενς να γίνει ο κορυφαίος αθλητής στίβου της ιστορίας τον φέρνει στην παγκόσμια σκηνή των Ολυμπιακών Αγώνων του 1936. Εκεί, ο Αφροαμερικανός αθλητής θα αντιμετωπίσει τη ναζιστική προπαγάνδα περί ανωτερότητας της Άριας φυλής.</desc>
     <credits>
-      <director>Στίβεν Χόπκινς</director>
-      <actor>Στεφάν Τζέιμς</actor>
-      <actor>Τζέισον Σουντέικις</actor>
-      <actor>Τζέρεμι Άιρονς</actor>
-      <actor>Γουίλιαμ Χαρτ</actor>
+      <director>Stephen Hopkins</director>
+      <actor>Stephan James(Jesse Owens)</actor>
+      <actor>Jason Sudeikis(Larry Snyder)</actor>
+      <actor>Eli Goree(Dave Albritton)</actor>
+      <actor>Shanice Banton(Ruth Solomon)</actor>
+      <actor>Carice van Houten(Leni Riefenstahl)</actor>
+      <actor>Jeremy Irons(Avery Brundage)</actor>
+      <actor>William Hurt(Jeremiah Mahoney)</actor>
+      <actor>David Kross(Carl \'Luz\' Long)</actor>
+      <actor>Jonathan Higgins(Dean Cromwell)</actor>
+      <actor>Tony Curran(Lawson Robertson)</actor>
     </credits>
     <date>2016</date>
-    <category lang="el">Ξένη ταινία</category>
+    <category lang="el">Ξένη ταινία - Δράμα</category>
+    <icon src="//tv.pathfinder.gr/Pathfinder/Tv/tv/star2108122200.jpg" />
   </programme>
   <programme start="20210811014500 +0300" stop="20210811024500 +0300" channel="Alpha.gr">
     <title lang="el">How It Really Happened</title>
@@ -2241,17 +2280,25 @@
     <category lang="el">Ξένη σειρά</category>
   </programme>
   <programme start="20210812230000 +0300" stop="20210813013000 +0300" channel="Skai.gr">
-    <title lang="el">Κέιτ και Λέοπολντ (Kate and Leopold)</title>
-    <desc lang="el">Όταν μια ρωγμή στον χρόνο φέρνει κοντά έναν Άγγλο αριστοκράτη του 19ου αιώνα και μια ανεξάρτητη και φιλόδοξη Νεοϋορκέζα του 21ου αιώνα, μια ρομαντική ιστορία αγάπης γεννιέται... σε μια ταινία που έχει προταθεί για Όσκαρ. (118') Παραγωγή: ΗΠΑ.</desc>
+    <title lang="el">Κέιτ και Λέοπολντ</title>
+    <title lang="xx">Kate and Leopold</title>
+    <desc lang="el">Όταν μια ρωγμή στον χρόνο φέρνει κοντά έναν Άγγλο αριστοκράτη του 19ου αιώνα και μια ανεξάρτητη και φιλόδοξη Νεοϋορκέζα του 21ου αιώνα, μια ρομαντική ιστορία αγάπης γεννιέται...</desc>
     <credits>
-      <director>Τζέιμς Μάνγκολντ</director>
-      <actor>Μεγκ Ράιαν</actor>
-      <actor>Χιου Τζάκμαν</actor>
-      <actor>Λιβ Σράιμπερ</actor>
-      <actor>Νατάσα Λιόν</actor>
+      <director>James Mangold</director>
+      <actor>Meg Ryan(Kate McKay)</actor>
+      <actor>Hugh Jackman(Leopold)</actor>
+      <actor>Liev Schreiber(Stuart Besser)</actor>
+      <actor>Breckin Meyer(Charlie McKay)</actor>
+      <actor>Natasha Lyonne(Darci)</actor>
+      <actor>Bradley Whitford(J.J. Camden)</actor>
+      <actor>Paxton Whitehead(Uncle Millard)</actor>
+      <actor>Spalding Gray(Dr. Geisler)</actor>
+      <actor>Josh Stamberg(Colleague Bob)</actor>
+      <actor>Matthew Sussman(Ad Executive Phil)</actor>
     </credits>
     <date>2001</date>
-    <category lang="el">Ξένη ταινία</category>
+    <category lang="el">Ξένη ταινία - Αισθηματική κομεντί</category>
+    <icon src="//tv.pathfinder.gr/Pathfinder/Tv/tv/skai2108122300.jpg" />
   </programme>
   <programme start="20210811000000 +0300" stop="20210811004500 +0300" channel="EpsilonTV.gr">
     <title lang="el">Private Eyes</title>
@@ -2363,16 +2410,25 @@
     <category lang="el">Ταξίδια</category>
   </programme>
   <programme start="20210811210000 +0300" stop="20210811233000 +0300" channel="EpsilonTV.gr">
-    <title lang="el">Ειδική Ομάδα Sweeney (The Sweeney)</title>
-    <desc lang="el">Η 'Flying Squad' της αστυνομίας του Λονδίνου είναι μια ομάδα με σκληροτράχηλους αστυνομικούς που φημίζονται για τις βίαιες μεθόδους τους. Η δράση ξεκινά με την έρευνα για φήμες περί μιας ληστείας τράπεζας και τον πνιγμό μιας γυναίκας ως συνέπεια μιας ληστείας σε κοσμηματοπωλείο. (150') Παραγωγή: Βρετανία.</desc>
+    <title lang="el">Ειδική Ομάδα Sweeney</title>
+    <title lang="xx">The Sweeney</title>
+    <desc lang="el">Η 'Flying Squad' της αστυνομίας του Λονδίνου είναι μια ομάδα με σκληροτράχηλους αστυνομικούς που φημίζονται για τις βίαιες μεθόδους τους. Η δράση ξεκινά με την έρευνα για φήμες περί μιας ληστείας τράπεζας και τον πνιγμό μιας γυναίκας ως συνέπεια μιας ληστείας σε κοσμηματοπωλείο.</desc>
     <credits>
-      <director>Νικ Λοβ</director>
-      <actor>Ρέι Γουίνστον</actor>
-      <actor>Μπεν Ντρου</actor>
-      <actor>Χέιλι Άτγουελ</actor>
+      <director>Nick Love</director>
+      <actor>Ray Winstone(DI Jack Regan)</actor>
+      <actor>Plan B(George Carter)</actor>
+      <actor>Hayley Atwell(DC Nancy Lewis)</actor>
+      <actor>Steven Mackintosh(DCI Ivan Lewis)</actor>
+      <actor>Paul Anderson(Francis Allen)</actor>
+      <actor>Alan Ford(Harry)</actor>
+      <actor>Damian Lewis(DCI Frank Haskins)</actor>
+      <actor>Caroline Chikezie(DC Kara Clarke)</actor>
+      <actor>Allen Leech(DC Simon Ellis)</actor>
+      <actor>Ronnie Fox(Johnny Wextru)</actor>
     </credits>
     <date>2012</date>
-    <category lang="el">Ξένη ταινία</category>
+    <category lang="el">Ξένη ταινία - Αστυνομική</category>
+    <icon src="//tv.pathfinder.gr/Pathfinder/Tv/tv/opentv2108112100.jpg" />
   </programme>
   <programme start="20210811233000 +0300" stop="20210812003000 +0300" channel="EpsilonTV.gr">
     <title lang="el">Private Eyes</title>
@@ -2959,16 +3015,25 @@
     <date>2020</date>
   </programme>
   <programme start="20210811220000 +0300" stop="20210812000000 +0300" channel="ERT2.gr">
-    <title lang="el">Η Ψυχή και το Σώμα (On Body and Soul)</title>
-    <desc lang="el">Δύο εσωστρεφείς άνθρωποι διαπιστώνουν ότι κάθε βράδυ βλέπουν ακριβώς το ίδιο όνειρο. Παρά τους φόβους και τις αναστολές τους, θα αποδεχτούν την παράξενη σύμπτωση και θα πλησιάσουν η μία τον άλλον... Η ταινία προτάθηκε για Όσκαρ. (112') Παραγωγή: Ουγγαρία.</desc>
+    <title lang="el">Η Ψυχή και το Σώμα</title>
+    <title lang="xx">On Body and Soul</title>
+    <desc lang="el">Δύο εσωστρεφείς άνθρωποι διαπιστώνουν ότι κάθε βράδυ βλέπουν ακριβώς το ίδιο όνειρο. Παρά τους φόβους και τις αναστολές τους, θα αποδεχτούν την παράξενη σύμπτωση και θα πλησιάσουν η μία τον άλλον...</desc>
     <credits>
-      <director>Ίλντικο Ενιέντι</director>
-      <actor>Γκέζα Μορτσάνι</actor>
-      <actor>Αλεξάντρα Μπορμπέλι</actor>
-      <actor>Ζόλταν Σνάιντερ</actor>
+      <director>Ildikó Enyedi</director>
+      <actor>Alexandra Borbély(Mária / Doctor)</actor>
+      <actor>Géza Morcsányi(Endre / Manager)</actor>
+      <actor>Réka Tenki(Klára / psychologist)</actor>
+      <actor>Zoltán Schneider(Jenö / HR manager)</actor>
+      <actor>Ervin Nagy(Sanyi / womanizer)</actor>
+      <actor>Itala Békés(Zsóka / older worker)</actor>
+      <actor>Tamás Jordán(Mária\'s therapist)</actor>
+      <actor>Éva Bata(Jenö felesége / Jenö\'s wife)</actor>
+      <actor>Pál Mácsai(Investigator)</actor>
+      <actor>Zsuzsa Járó(Zsuzsa / Endre\'s daughter)</actor>
     </credits>
     <date>2017</date>
     <category lang="el">Ξένη ταινία - Δράμα</category>
+    <icon src="//tv.pathfinder.gr/Pathfinder/Tv/tv/ert22108112200.jpg" />
   </programme>
   <programme start="20210812000000 +0300" stop="20210812010000 +0300" channel="ERT2.gr">
     <title lang="el">Ποιος Σκότωσε τον Ράπερ Τούπακ Σακούρ; Ε6 (Ε)</title>
@@ -3175,17 +3240,25 @@
     <category lang="el">Πολιτισμός</category>
   </programme>
   <programme start="20210812220000 +0300" stop="20210812234000 +0300" channel="ERT2.gr">
-    <title lang="el">Ένας Ονειρεμένος Γάμος (Easy Virtue)</title>
-    <desc lang="el">Συμπαραγωγή Βρετανίας και Καναδά. 'Πόλεμος' ξεσπά ανάμεσα σε μια όμορφη απελευθερωμένη Αμερικανίδα και τη συντηρητική καθωσπρέπει αριστοκράτισσα μητέρα του συζύγου της, η οποία είναι αποφασισμένη να τους χωρίσει με κάθε τρόπο. (100') Παραγωγή: Άλλη.</desc>
+    <title lang="el">Ένας Ονειρεμένος Γάμος</title>
+    <title lang="xx">Easy Virtue</title>
+    <desc lang="el">'Πόλεμος' ξεσπά ανάμεσα σε μια όμορφη απελευθερωμένη Αμερικανίδα και τη συντηρητική καθωσπρέπει αριστοκράτισσα μητέρα του συζύγου της, η οποία είναι αποφασισμένη να τους χωρίσει με κάθε τρόπο.</desc>
     <credits>
-      <director>Στέφαν Έλιοτ</director>
-      <actor>Τζέσικα Μπιλ</actor>
-      <actor>Κόλιν Φερθ</actor>
-      <actor>Κρίστιν Σκοτ Τόμας</actor>
-      <actor>Μπεν Μπαρνς</actor>
+      <director>Stephan Elliott</director>
+      <actor>Jessica Biel(Larita Whittaker)</actor>
+      <actor>Ben Barnes(John Whittaker)</actor>
+      <actor>Kristin Scott Thomas(Veronica Whittaker)</actor>
+      <actor>Colin Firth(Mr. Whittaker)</actor>
+      <actor>Kimberley Nixon(Hilda Whittaker)</actor>
+      <actor>Katherine Parkinson(Marion Whittaker)</actor>
+      <actor>Kris Marshall(Furber)</actor>
+      <actor>Christian Brassington(Phillip Hurst)</actor>
+      <actor>Charlotte Riley(Sarah Hurst)</actor>
+      <actor>Jim McManus(Jackson)</actor>
     </credits>
     <date>2008</date>
-    <category lang="el">Ξένη ταινία - Δράμα</category>
+    <category lang="el">Ξένη ταινία - Αισθηματική κομεντί</category>
+    <icon src="//tv.pathfinder.gr/Pathfinder/Tv/tv/ert22108122200.jpg" />
   </programme>
   <programme start="20210812234000 +0300" stop="20210813011500 +0300" channel="ERT2.gr">
     <title lang="el">Το Μυστικό Τραγούδι Του Κάστρου</title>
@@ -3941,9 +4014,9 @@
     </credits>
     <category lang="el">Κωμωδία - Κωμωδία</category>
   </programme>
-  <programme start="20210812175000 +0300" stop="20210812185000 +0300" channel="Mega.gr">
+  <programme start="20210812175000 +0300" stop="20210812183000 +0300" channel="Mega.gr">
     <title lang="el">Δύο Ξένοι</title>
-    <desc lang="el">Η Μαρίνα επιστρέφει από τους Δελφούς νιώθοντας ότι έχει πάρει το αίμα της πίσω, ενώ ο Κωνσταντίνος 'μετράει την πίεσή' του και τα νεύρα του. Η Ντένη και ο Τόλης πανηγυρίζουν για την εξέλιξη της επιχείρησης 'Δελφοί' χωρίς να ξέρουν ότι τα προβλήματα για τον Κωνσταντίνο μόλις αρχίζουν.</desc>
+    <desc lang="el">Ο Κωνσταντίνος, στα πλαίσια του πανικού του, δίνει επιτέλους αποσπάσματα από τον Ρωμαίο και την Ιουλιέτα για να τα προβάρει με τη Μαρίνα. Ο ενθουσιασμός της Μαρίνας όμως γρήγορα μετατρέπεται σε πανικό.</desc>
     <credits>
       <director>Αλέξανδρος Ρήγας</director>
       <actor>Νίκος Σεργιανόπουλος</actor>
@@ -3954,9 +4027,22 @@
     </credits>
     <category lang="el">Κωμωδία - Κωμωδία</category>
   </programme>
-  <programme start="20210812185000 +0300" stop="20210812194500 +0300" channel="Mega.gr">
+  <programme start="20210812183000 +0300" stop="20210812191000 +0300" channel="Mega.gr">
     <title lang="el">Δύο Ξένοι</title>
-    <desc lang="el">Ο Κωνσταντίνος, στα πλαίσια του πανικού του, δίνει επιτέλους αποσπάσματα από τον Ρωμαίο και την Ιουλιέτα για να τα προβάρει με τη Μαρίνα. Ο ενθουσιασμός της Μαρίνας όμως γρήγορα μετατρέπεται σε πανικό.</desc>
+    <desc lang="el">Η Μαρίνα και ο Τόλης μεταφέρουν τον λαβωμένο Κωνσταντίνο στο πλησιέστερο ιατρείο για να ράψουν το τραύμα του. Όμως, προς μεγάλη έκπληξη όλων, ο γιατρός είναι κτηνίατρος και ο Κωνσταντίνος πριν λιποθυμήσει νιώθει ότι βρίσκεται σε ζωολογικό κήπο.</desc>
+    <credits>
+      <director>Αλέξανδρος Ρήγας</director>
+      <actor>Νίκος Σεργιανόπουλος</actor>
+      <actor>Εβελίνα Παπούλια</actor>
+      <actor>Ντίνα Κώνστα</actor>
+      <actor>Αλέξανδρος Ρήγας</actor>
+      <actor>Αλεξάνδρα Παλαιολόγου</actor>
+    </credits>
+    <category lang="el">Κωμωδία - Κωμωδία</category>
+  </programme>
+  <programme start="20210812191000 +0300" stop="20210812194500 +0300" channel="Mega.gr">
+    <title lang="el">Δύο Ξένοι</title>
+    <desc lang="el">Ο Κωνσταντίνος και η Μαρίνα είναι μαζί! Μόνο ο Τόλης γνωρίζει την ερωτική τους ιστορία. Τουλάχιστον έτσι πιστεύουν αφού κανείς τους δεν πρόσεξε τη σκιά έξω από το σπίτι του Κωνσταντίνου το βράδυ της επιστροφής τους από τη Χαλκίδα.</desc>
     <credits>
       <director>Αλέξανδρος Ρήγας</director>
       <actor>Νίκος Σεργιανόπουλος</actor>
@@ -16077,35 +16163,35 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 8. Del 2 av 10</episode-num>
   </programme>
-  <programme start="20210811070000 +0200" stop="20210811070500 +0200" channel="Sportkanalen.se">
+  <programme start="20210811070000 +0200" stop="20210811070400 +0200" channel="Sportkanalen.se">
     <title lang="sv">Sporten</title>
     <desc lang="sv">inga Detaljer.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 20 av 250</episode-num>
   </programme>
-  <programme start="20210811070500 +0200" stop="20210811080000 +0200" channel="Sportkanalen.se">
+  <programme start="20210811070400 +0200" stop="20210811080000 +0200" channel="Sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">Höjdpunkter från bland annat SHL, SDHL, Serie A, La Liga, Handbollsligan och SHE.</desc>
     <date>2020</date>
   </programme>
-  <programme start="20210811080000 +0200" stop="20210811080500 +0200" channel="Sportkanalen.se">
+  <programme start="20210811080000 +0200" stop="20210811080400 +0200" channel="Sportkanalen.se">
     <title lang="sv">Sporten</title>
     <desc lang="sv">inga Detaljer.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 20 av 250</episode-num>
   </programme>
-  <programme start="20210811080500 +0200" stop="20210811090000 +0200" channel="Sportkanalen.se">
+  <programme start="20210811080400 +0200" stop="20210811090000 +0200" channel="Sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">Höjdpunkter från bland annat SHL, SDHL, Serie A, La Liga, Handbollsligan och SHE.</desc>
     <date>2020</date>
   </programme>
-  <programme start="20210811090000 +0200" stop="20210811090500 +0200" channel="Sportkanalen.se">
+  <programme start="20210811090000 +0200" stop="20210811090400 +0200" channel="Sportkanalen.se">
     <title lang="sv">Sporten</title>
     <desc lang="sv">inga Detaljer.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 20 av 250</episode-num>
   </programme>
-  <programme start="20210811090500 +0200" stop="20210811100000 +0200" channel="Sportkanalen.se">
+  <programme start="20210811090400 +0200" stop="20210811100000 +0200" channel="Sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">Höjdpunkter från bland annat SHL, SDHL, Serie A, La Liga, Handbollsligan och SHE.</desc>
     <date>2020</date>
@@ -16134,12 +16220,12 @@
     <desc lang="sv">US Open-finalen 2018 slutade med en av de största och mest uppmärksammade kontroverserna inom idrotten det året. Tennisvärldsstjärnan Serena Williams anklagades för att fuska och tappade fattningen totalt, med upprepade utspel mot domarna. I ESPN:s dokumentärserie Backstory berättas historien bakom det uppmärksammade bråket som skakade om tennisvärlden.</desc>
     <date>2019</date>
   </programme>
-  <programme start="20210811175500 +0200" stop="20210811202000 +0200" channel="Sportkanalen.se">
+  <programme start="20210811175500 +0200" stop="20210811201500 +0200" channel="Sportkanalen.se">
     <title lang="sv">Ishockey</title>
     <desc lang="sv">BrynäsTimrå. Försäsongsmatch. Ishockey från Tierps Ishall där Brynäs IF ställs mot Timrå IK i en försäsongsmatch.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20210811202000 +0200" stop="20210811203000 +0200" channel="Sportkanalen.se">
+  <programme start="20210811201500 +0200" stop="20210811203000 +0200" channel="Sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">Höjdpunkter från bland annat SHL, SDHL, Serie A, La Liga, Handbollsligan och SHE.</desc>
     <date>2020</date>
@@ -16163,16 +16249,21 @@
     <episode-num system="onscreen">Säsong 2. Del 2 av 9</episode-num>
   </programme>
   <programme start="20210811230000 +0200" stop="20210811233000 +0200" channel="Sportkanalen.se">
-    <title lang="sv">Wikegård vs</title>
-    <desc lang="sv">Svensk intervjuserie från 2020. Wikegård vs Henrik Zetterberg. Wikegård har tagit sig till Skåne för att träffa en av Sveriges största stjärnor, Henrik Zetterberg. Den före detta Detroit-stjärnan berättar om sin karriär, hur det var att psyka Sidney Crosby, passionen för trav och att lära sig bli svensk igen. ,.</desc>
-    <date>2020</date>
-    <episode-num system="onscreen">Säsong 4. Del 2 av 8</episode-num>
+    <title lang="sv">La liga world 21/22</title>
+    <desc lang="sv">Fotbollsmagasin som ger en unik inblick hos klubbarna och spelarna i La Liga. Exklusiva intervjuer och inslag.</desc>
+    <date>2021</date>
+    <episode-num system="onscreen">Säsong 2021. Del 1 av 41</episode-num>
   </programme>
-  <programme start="20210811233000 +0200" stop="20210812003000 +0200" channel="Sportkanalen.se">
+  <programme start="20210811233000 +0200" stop="20210812002500 +0200" channel="Sportkanalen.se">
     <title lang="sv">Fiskedestination</title>
     <desc lang="sv">Svenskt fiskemagasin från 2021. Broman och några nya vänner fiskar artrika Rajastrands FVO i Dorotea, där det vankas både öring, röding, regnbåge, harr, abborre och gädda. och Hagenwaldarer Det blir flugfiske, spinnfiske och lätt trolling i sjöar och en å i Dorotea Kommunu. ,.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 7. Del 8 av 12</episode-num>
+  </programme>
+  <programme start="20210812002500 +0200" stop="20210812003000 +0200" channel="Sportkanalen.se">
+    <title lang="sv">Höjdpunkter</title>
+    <desc lang="sv">Höjdpunkter från bland annat SHL, SDHL, Serie A, La Liga, Handbollsligan och SHE.</desc>
+    <date>2020</date>
   </programme>
   <programme start="20210812003000 +0200" stop="20210812010000 +0200" channel="Sportkanalen.se">
     <title lang="sv">One year two muskies?</title>
@@ -16186,41 +16277,51 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 8 av 20</episode-num>
   </programme>
-  <programme start="20210812013000 +0200" stop="20210812070000 +0200" channel="Sportkanalen.se">
+  <programme start="20210812013000 +0200" stop="20210812015500 +0200" channel="Sportkanalen.se">
     <title lang="sv">Sverige springer</title>
     <desc lang="sv">Pär Arvered och Cia Bildt Sandgren ska slå personligt rekord på halvmaran och stämmer av sin status med ett test på Bosön. Martin och Tage Börjesson tränar mot KIA Fjällmaraton och så berättar Helena Bjälkemo om livet som elitsatsande tvåbarnsmor. ,.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 8. Del 3 av 10</episode-num>
   </programme>
-  <programme start="20210812070000 +0200" stop="20210812070500 +0200" channel="Sportkanalen.se">
-    <title lang="sv">Sporten</title>
-    <desc lang="sv">inga Detaljer.</desc>
-    <date>2021</date>
-    <episode-num system="onscreen">Säsong 2021. Del 21 av 250</episode-num>
-  </programme>
-  <programme start="20210812070500 +0200" stop="20210812080000 +0200" channel="Sportkanalen.se">
+  <programme start="20210812015500 +0200" stop="20210812050000 +0200" channel="Sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">Höjdpunkter från bland annat SHL, SDHL, Serie A, La Liga, Handbollsligan och SHE.</desc>
     <date>2020</date>
   </programme>
-  <programme start="20210812080000 +0200" stop="20210812080500 +0200" channel="Sportkanalen.se">
-    <title lang="sv">Sporten</title>
-    <desc lang="sv">inga Detaljer.</desc>
-    <date>2021</date>
-    <episode-num system="onscreen">Säsong 2021. Del 21 av 250</episode-num>
-  </programme>
-  <programme start="20210812080500 +0200" stop="20210812090000 +0200" channel="Sportkanalen.se">
+  <programme start="20210812050000 +0200" stop="20210812070000 +0200" channel="Sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">Höjdpunkter från bland annat SHL, SDHL, Serie A, La Liga, Handbollsligan och SHE.</desc>
     <date>2020</date>
   </programme>
-  <programme start="20210812090000 +0200" stop="20210812090500 +0200" channel="Sportkanalen.se">
+  <programme start="20210812070000 +0200" stop="20210812070400 +0200" channel="Sportkanalen.se">
     <title lang="sv">Sporten</title>
     <desc lang="sv">inga Detaljer.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 21 av 250</episode-num>
   </programme>
-  <programme start="20210812090500 +0200" stop="20210812100000 +0200" channel="Sportkanalen.se">
+  <programme start="20210812070400 +0200" stop="20210812080000 +0200" channel="Sportkanalen.se">
+    <title lang="sv">Höjdpunkter</title>
+    <desc lang="sv">Höjdpunkter från bland annat SHL, SDHL, Serie A, La Liga, Handbollsligan och SHE.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20210812080000 +0200" stop="20210812080400 +0200" channel="Sportkanalen.se">
+    <title lang="sv">Sporten</title>
+    <desc lang="sv">inga Detaljer.</desc>
+    <date>2021</date>
+    <episode-num system="onscreen">Säsong 2021. Del 21 av 250</episode-num>
+  </programme>
+  <programme start="20210812080400 +0200" stop="20210812090000 +0200" channel="Sportkanalen.se">
+    <title lang="sv">Höjdpunkter</title>
+    <desc lang="sv">Höjdpunkter från bland annat SHL, SDHL, Serie A, La Liga, Handbollsligan och SHE.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20210812090000 +0200" stop="20210812090400 +0200" channel="Sportkanalen.se">
+    <title lang="sv">Sporten</title>
+    <desc lang="sv">inga Detaljer.</desc>
+    <date>2021</date>
+    <episode-num system="onscreen">Säsong 2021. Del 21 av 250</episode-num>
+  </programme>
+  <programme start="20210812090400 +0200" stop="20210812100000 +0200" channel="Sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">Höjdpunkter från bland annat SHL, SDHL, Serie A, La Liga, Handbollsligan och SHE.</desc>
     <date>2020</date>
@@ -16262,7 +16363,7 @@
     <date>2017</date>
     <episode-num system="onscreen">Säsong 1. Del 14 av 20</episode-num>
   </programme>
-  <programme start="20210812185000 +0200" stop="20210812211500 +0200" channel="Sportkanalen.se">
+  <programme start="20210812185000 +0200" stop="20210812211000 +0200" channel="Sportkanalen.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Omgång 11. RospiggarnaSmederna. Speedway Bauhaus-ligan. Speedway från Credentia Arena där Rospiggarna ställs mot Eskilstuna Smederna i omgång 11 av BAUHAUS-ligan.</desc>
     <credits>
@@ -16270,16 +16371,16 @@
     </credits>
     <date>2021</date>
   </programme>
-  <programme start="20210812211500 +0200" stop="20210812213000 +0200" channel="Sportkanalen.se">
+  <programme start="20210812211000 +0200" stop="20210812213000 +0200" channel="Sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">Höjdpunkter från bland annat SHL, SDHL, Serie A, La Liga, Handbollsligan och SHE.</desc>
     <date>2020</date>
   </programme>
   <programme start="20210812213000 +0200" stop="20210812220000 +0200" channel="Sportkanalen.se">
-    <title lang="sv">The electric odyssey</title>
-    <desc lang="sv">Magasin som följer förarna och teamen runt den unika racingtävlingen Extreme E, där eldrivna bilar möts i utmanande och spännande race runt om i världen - från Saudiarabiens öken till Grönlands isar och vidare till Amazonas regnskogar. ,.</desc>
+    <title lang="sv">La liga world</title>
+    <desc lang="sv">inga Detaljer.</desc>
     <date>2021</date>
-    <episode-num system="onscreen">Säsong 2021. Del 4 av 20</episode-num>
+    <episode-num system="onscreen">Säsong 2021. Del 1 av 41</episode-num>
   </programme>
   <programme start="20210812220000 +0200" stop="20210812223000 +0200" channel="Sportkanalen.se">
     <title lang="sv">Vinnare V64</title>
@@ -16368,43 +16469,35 @@
     <title lang="sv">Tennis</title>
     <desc lang="sv">Toronto. ATP World Tour 1000-turnering. Toronto.</desc>
   </programme>
-  <programme start="20210811210000 +0200" stop="20210811220300 +0200" channel="Eurosport1.se">
+  <programme start="20210811210000 +0200" stop="20210811225900 +0200" channel="Eurosport1.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Toronto. ATP World Tour 1000-turnering. Toronto.</desc>
   </programme>
-  <programme start="20210811220300 +0200" stop="20210811225900 +0200" channel="Eurosport1.se">
-    <title lang="sv">Kampsport</title>
-    <desc lang="sv">Full contact. Karate full contact. Full contact.</desc>
-  </programme>
-  <programme start="20210811225900 +0200" stop="20210811235900 +0200" channel="Eurosport1.se">
+  <programme start="20210811225900 +0200" stop="20210812000100 +0200" channel="Eurosport1.se">
     <title lang="sv">Formel E: VM</title>
     <desc lang="sv">Valencia, Sammanfattning. ,.</desc>
   </programme>
-  <programme start="20210811235900 +0200" stop="20210812012500 +0200" channel="Eurosport1.se">
+  <programme start="20210812000100 +0200" stop="20210812012400 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Danmark Runt, Etapp 2 Herrar. Cykel pro series. Danmark Runt, Etapp 2 Herrar. ,.</desc>
   </programme>
-  <programme start="20210812012500 +0200" stop="20210812015400 +0200" channel="Eurosport1.se">
-    <title lang="sv">Touring Car: Världscupen</title>
-    <desc lang="sv">Adria, Sammanfattning. ,.</desc>
-  </programme>
-  <programme start="20210812015400 +0200" stop="20210812025200 +0200" channel="Eurosport1.se">
+  <programme start="20210812012400 +0200" stop="20210812022100 +0200" channel="Eurosport1.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam, Kvartsfinal Herrar. Australian Open. Grand Slam, Kvartsfinal Herrar. ,.</desc>
   </programme>
-  <programme start="20210812025200 +0200" stop="20210812034800 +0200" channel="Eurosport1.se">
+  <programme start="20210812022100 +0200" stop="20210812033800 +0200" channel="Eurosport1.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam, Kvartsfinal Damer. Australian Open. Grand Slam, Kvartsfinal Damer. ,.</desc>
   </programme>
-  <programme start="20210812034800 +0200" stop="20210812043700 +0200" channel="Eurosport1.se">
+  <programme start="20210812033800 +0200" stop="20210812042600 +0200" channel="Eurosport1.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam, Kvartsfinal Herrar. Australian Open. Grand Slam, Kvartsfinal Herrar. ,.</desc>
   </programme>
-  <programme start="20210812043700 +0200" stop="20210812052500 +0200" channel="Eurosport1.se">
+  <programme start="20210812042600 +0200" stop="20210812051300 +0200" channel="Eurosport1.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam, Kvartsfinal Damer. Australian Open. Grand Slam, Kvartsfinal Damer. ,.</desc>
   </programme>
-  <programme start="20210812052500 +0200" stop="20210812060100 +0200" channel="Eurosport1.se">
+  <programme start="20210812051300 +0200" stop="20210812060100 +0200" channel="Eurosport1.se">
     <title lang="sv">Home of the Olympics</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
@@ -16504,75 +16597,75 @@
     <title lang="sv">Cykel</title>
     <desc lang="sv">Danmark Runt, Etapp 1. Cykel Pro Series Danmark Runt. Danmark Runt, Etapp 1. ,.</desc>
   </programme>
-  <programme start="20210811064900 +0200" stop="20210811084900 +0200" channel="Eurosport2.se">
+  <programme start="20210811064900 +0200" stop="20210811085000 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Herrar. World Tour - Liège-Bastogne-Liège. Herrar. ,.</desc>
   </programme>
-  <programme start="20210811084900 +0200" stop="20210811095100 +0200" channel="Eurosport2.se">
+  <programme start="20210811085000 +0200" stop="20210811095200 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel: World Tour - Giro d'Italia</title>
     <desc lang="sv">Höjdpunkter. ,.</desc>
   </programme>
-  <programme start="20210811095100 +0200" stop="20210811105000 +0200" channel="Eurosport2.se">
+  <programme start="20210811095200 +0200" stop="20210811105100 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Portimao 8-timmars, Loppet. Endurance Car Racing: VM. Portimao 8-timmars, Loppet. ,.</desc>
   </programme>
-  <programme start="20210811105000 +0200" stop="20210811115200 +0200" channel="Eurosport2.se">
+  <programme start="20210811105100 +0200" stop="20210811115300 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Portimao 8-timmars, Loppet. Endurance Car Racing: VM. Portimao 8-timmars, Loppet. ,.</desc>
   </programme>
-  <programme start="20210811115200 +0200" stop="20210811125400 +0200" channel="Eurosport2.se">
+  <programme start="20210811115300 +0200" stop="20210811125600 +0200" channel="Eurosport2.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam, Kvartsfinal Herrar. Australian Open. Grand Slam, Kvartsfinal Herrar. ,.</desc>
   </programme>
-  <programme start="20210811125400 +0200" stop="20210811135500 +0200" channel="Eurosport2.se">
+  <programme start="20210811125600 +0200" stop="20210811135600 +0200" channel="Eurosport2.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam, Kvartsfinal Damer. Australian Open. Grand Slam, Kvartsfinal Damer. ,.</desc>
   </programme>
-  <programme start="20210811135500 +0200" stop="20210811145600 +0200" channel="Eurosport2.se">
+  <programme start="20210811135600 +0200" stop="20210811145700 +0200" channel="Eurosport2.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam, Kvartsfinal Herrar. Australian Open. Grand Slam, Kvartsfinal Herrar. ,.</desc>
   </programme>
-  <programme start="20210811145600 +0200" stop="20210811155600 +0200" channel="Eurosport2.se">
+  <programme start="20210811145700 +0200" stop="20210811155700 +0200" channel="Eurosport2.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam, Kvartsfinal Damer. Australian Open. Grand Slam, Kvartsfinal Damer. ,.</desc>
   </programme>
-  <programme start="20210811155600 +0200" stop="20210811165600 +0200" channel="Eurosport2.se">
+  <programme start="20210811155700 +0200" stop="20210811165800 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Formel E, VM Midseason review. ,.</desc>
   </programme>
-  <programme start="20210811165600 +0200" stop="20210811172700 +0200" channel="Eurosport2.se">
+  <programme start="20210811165800 +0200" stop="20210811172900 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Nederländerna, Lopp 2. VM. Valkenswaard, Nederländerna. ,.</desc>
   </programme>
-  <programme start="20210811172700 +0200" stop="20210811180000 +0200" channel="Eurosport2.se">
+  <programme start="20210811172900 +0200" stop="20210811180300 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Nederländerna, Lopp 2. VM. Valkenswaard, Nederländerna. ,.</desc>
   </programme>
-  <programme start="20210811180000 +0200" stop="20210811183000 +0200" channel="Eurosport2.se">
+  <programme start="20210811180300 +0200" stop="20210811183300 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Tjeckien, Lopp 1. VM. Tjeckien.</desc>
   </programme>
-  <programme start="20210811183000 +0200" stop="20210811190000 +0200" channel="Eurosport2.se">
+  <programme start="20210811183300 +0200" stop="20210811190300 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Tjeckien, Lopp 1. VM. Tjeckien.</desc>
   </programme>
-  <programme start="20210811190000 +0200" stop="20210811193000 +0200" channel="Eurosport2.se">
+  <programme start="20210811190300 +0200" stop="20210811193300 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Tjeckien, Lopp 2. VM. Tjeckien.</desc>
   </programme>
-  <programme start="20210811193000 +0200" stop="20210811195800 +0200" channel="Eurosport2.se">
+  <programme start="20210811193300 +0200" stop="20210811200100 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Tjeckien, Lopp 2. VM. Tjeckien.</desc>
   </programme>
-  <programme start="20210811195800 +0200" stop="20210811202800 +0200" channel="Eurosport2.se">
+  <programme start="20210811200100 +0200" stop="20210811202900 +0200" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Snooker Joy of six. ,.</desc>
   </programme>
-  <programme start="20210811202800 +0200" stop="20210811212800 +0200" channel="Eurosport2.se">
+  <programme start="20210811202900 +0200" stop="20210811212700 +0200" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Final. Welsh Open. Cardiff, Storbritannien. ,.</desc>
   </programme>
-  <programme start="20210811212800 +0200" stop="20210811220000 +0200" channel="Eurosport2.se">
+  <programme start="20210811212700 +0200" stop="20210811220000 +0200" channel="Eurosport2.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Tennis ATP Uncovered.</desc>
   </programme>
@@ -16588,35 +16681,35 @@
     <title lang="sv">Yachting: Spirit of Yachting</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20210812002300 +0200" stop="20210812015300 +0200" channel="Eurosport2.se">
+  <programme start="20210812002300 +0200" stop="20210812015100 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Danmark Runt, Etapp 2 Herrar. Cykel Pro Series Danmark Runt. Danmark Runt, Etapp 2 Herrar. ,.</desc>
   </programme>
-  <programme start="20210812015300 +0200" stop="20210812025000 +0200" channel="Eurosport2.se">
+  <programme start="20210812015100 +0200" stop="20210812024700 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 16. World Tour - Vuelta a España. Etapp 16. ,.</desc>
   </programme>
-  <programme start="20210812025000 +0200" stop="20210812034500 +0200" channel="Eurosport2.se">
+  <programme start="20210812024700 +0200" stop="20210812034200 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 17. World Tour - Vuelta a España. Etapp 17. ,.</desc>
   </programme>
-  <programme start="20210812034500 +0200" stop="20210812043500 +0200" channel="Eurosport2.se">
+  <programme start="20210812034200 +0200" stop="20210812043100 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 18. World Tour - Vuelta a España. Etapp 18. ,.</desc>
   </programme>
-  <programme start="20210812043500 +0200" stop="20210812045900 +0200" channel="Eurosport2.se">
+  <programme start="20210812043100 +0200" stop="20210812045400 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Italien, Lopp 1. VM. Italien. ,.</desc>
   </programme>
-  <programme start="20210812045900 +0200" stop="20210812052300 +0200" channel="Eurosport2.se">
+  <programme start="20210812045400 +0200" stop="20210812051700 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Italien, Lopp 1. VM. Italien. ,.</desc>
   </programme>
-  <programme start="20210812052300 +0200" stop="20210812054500 +0200" channel="Eurosport2.se">
+  <programme start="20210812051700 +0200" stop="20210812053800 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Italien, Lopp 2. VM. Italien. ,.</desc>
   </programme>
-  <programme start="20210812054500 +0200" stop="20210812060000 +0200" channel="Eurosport2.se">
+  <programme start="20210812053800 +0200" stop="20210812060000 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Italien, Lopp 2. VM. Italien. ,.</desc>
   </programme>
@@ -16652,27 +16745,27 @@
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam, Semifinal Herrar. Australian Open. Grand Slam, Semifinal Herrar. ,.</desc>
   </programme>
-  <programme start="20210812145600 +0200" stop="20210812160000 +0200" channel="Eurosport2.se">
+  <programme start="20210812145600 +0200" stop="20210812160300 +0200" channel="Eurosport2.se">
     <title lang="sv">Formel E: VM</title>
     <desc lang="sv">Puebla, Sammanfattning. ,.</desc>
   </programme>
-  <programme start="20210812160000 +0200" stop="20210812180000 +0200" channel="Eurosport2.se">
+  <programme start="20210812160300 +0200" stop="20210812180300 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Tour of Norway, Etapp 1. World Tour - Tour of Norway. Tour of Norway, Etapp 1.</desc>
   </programme>
-  <programme start="20210812180000 +0200" stop="20210812183000 +0200" channel="Eurosport2.se">
+  <programme start="20210812180300 +0200" stop="20210812183300 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Flandern, Lopp 1. VM. Flandern.</desc>
   </programme>
-  <programme start="20210812183000 +0200" stop="20210812190000 +0200" channel="Eurosport2.se">
+  <programme start="20210812183300 +0200" stop="20210812190300 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Flandern, Lopp 1. VM. Flandern.</desc>
   </programme>
-  <programme start="20210812190000 +0200" stop="20210812193000 +0200" channel="Eurosport2.se">
+  <programme start="20210812190300 +0200" stop="20210812193300 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Flandern, Lopp 2. VM. Flandern.</desc>
   </programme>
-  <programme start="20210812193000 +0200" stop="20210812195800 +0200" channel="Eurosport2.se">
+  <programme start="20210812193300 +0200" stop="20210812195800 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Flandern, Lopp 2. VM. Flandern.</desc>
   </programme>
@@ -16785,8 +16878,9 @@
     <desc lang="sv">Nyheter, intervjuer och höjdpunkter från Wanda Diamond League. 11/08 år 2021 i V Sport 1.</desc>
   </programme>
   <programme start="20210812220000 +0200" stop="20210812230000 +0200" channel="ViasatSport.se">
-    <title lang="sv">Fotboll</title>
-    <desc lang="sv">TBA. Match meddelas senare.</desc>
+    <title lang="sv">Handboll</title>
+    <desc lang="sv">Lottning VMgruppspel 2021. Handboll VM. VM Handboll Damer.</desc>
+    <date>2021</date>
   </programme>
   <programme start="20210812230000 +0200" stop="20210813010000 +0200" channel="ViasatSport.se">
     <title lang="sv">Fotboll</title>
@@ -20568,11 +20662,20 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20210811180000 +0200" stop="20210811200000 +0200" channel="ESPN.us">
-    <title lang="en">Baseball</title>
-    <desc lang="en">Baseball. Southwest Regional Final.</desc>
+  <programme start="20210811180000 +0200" stop="20210811190000 +0200" channel="ESPN.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">Join SportsCenter for a review of the day's scores, highlights, commentary and feature stories from major sporting events.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Baseball</category>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20210811190000 +0200" stop="20210811200000 +0200" channel="ESPN.us">
+    <title lang="en">SportsCenter</title>
+    <desc lang="en">Join SportsCenter for a review of the day's scores, highlights, commentary and feature stories from major sporting events.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
@@ -20625,7 +20728,7 @@
     </rating>
   </programme>
   <programme start="20210812010000 +0200" stop="20210812040000 +0200" channel="ESPN.us">
-    <title lang="en">Baseball</title>
+    <title lang="en">Los Angeles Dodgers vs. Philadelphia Phillies</title>
     <desc lang="en">Baseball.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
@@ -20688,7 +20791,7 @@
     </rating>
   </programme>
   <programme start="20210812100000 +0200" stop="20210812120000 +0200" channel="ESPN.us">
-    <title lang="en">Baseball</title>
+    <title lang="en">Los Angeles Dodgers vs. Philadelphia Phillies</title>
     <desc lang="en">Baseball.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Baseball</category>
@@ -22720,7 +22823,7 @@
     </rating>
   </programme>
   <programme start="20210811050000 +0200" stop="20210811080000 +0200" channel="TSN2.ca">
-    <title lang="en">British Columbia Lions vs. Saskatchewan Roughriders</title>
+    <title lang="en">BC Lions vs. Saskatchewan Roughriders</title>
     <desc lang="en">Football.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
