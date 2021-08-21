@@ -6177,12 +6177,14 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 34 av 365</episode-num>
   </programme>
-  <programme start="20210821181500 +0200" stop="20210821183000 +0200" channel="SVT1.se">
-    <title lang="sv">Riverbed</title>
-    <desc lang="sv">Norsk kortfilm från 2020. Två unga systrar ger sig ut på en resa tillsammans för att genomföra mammans sista önskan: att vaka över henne tills själen lämnat kroppen. På flykt från de vuxna, som vill lämna kroppen till begravningsbyrån, försöker de förstå vad som händer när man dör.</desc>
-    <credits>
-      <director>Sylvelin Måkestad</director>
-    </credits>
+  <programme start="20210821181500 +0200" stop="20210821182000 +0200" channel="SVT1.se">
+    <title lang="sv">Radiohjälpens insamling för Afghanistan</title>
+    <desc lang="sv">Svenskt insamlingsprogram från 2021. Den humanitära situationen för civilbefolkningen är akut med upp till 14 miljoner som hotas av allvarlig hungerkatastrof. Den nya situationen har förvärrat en redan tidigare svår kris, med svår torka och covid-19-pandemi. Därför startar Radiohjälpen en insamling för Afghanistan  där de redan stora behoven ökar.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20210821182000 +0200" stop="20210821183000 +0200" channel="SVT1.se">
+    <title lang="sv">Tvillingar - lika men olika</title>
+    <desc lang="sv">Finsk dokumentär från 2020. 15-åriga tvillingarna Werneri och Waltteri är lika som bär och samma gäller för Anna och Jenni (30) och Satu och Taru (66). Men även om de ser ut som varandras spegelbilder är det viktigt för dem att bli bemötta som individer.</desc>
     <date>2020</date>
   </programme>
   <programme start="20210821183000 +0200" stop="20210821193000 +0200" channel="SVT1.se">
@@ -6362,17 +6364,16 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 39 av 315</episode-num>
   </programme>
-  <programme start="20210822181500 +0200" stop="20210822185500 +0200" channel="SVT1.se">
+  <programme start="20210822181500 +0200" stop="20210822182000 +0200" channel="SVT1.se">
+    <title lang="sv">Radiohjälpens insamling för Afghanistan</title>
+    <desc lang="sv">Svenskt insamlingsprogram från 2021. Den humanitära situationen för civilbefolkningen är akut med upp till 14 miljoner som hotas av allvarlig hungerkatastrof. Den nya situationen har förvärrat en redan tidigare svår kris, med svår torka och covid-19-pandemi. Därför startar Radiohjälpen en insamling för Afghanistan  där de redan stora behoven ökar.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20210822182000 +0200" stop="20210822190000 +0200" channel="SVT1.se">
     <title lang="sv">Diagnoskampen</title>
     <desc lang="sv">Norsk livsstilsserie från 2020. Lärdomar från landsbygden. Torunn, Reidar och Madeleine i inflyttarlaget har alla bott i små samhällen ute på landsbyden innan de flyttade in till stan. Har de vad som krävs för att besegra läkarlaget i säsongsavslutningen?</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 5. Del 8 av 8</episode-num>
-  </programme>
-  <programme start="20210822185500 +0200" stop="20210822190000 +0200" channel="SVT1.se">
-    <title lang="sv">Flugor</title>
-    <desc lang="sv">Svensk livsstilsserie från 2012. Satellit-tv. Dagens fluga är satellit-tv. Sverige hade varit svältfött med bara två kanaler. Men plötsligt bjöds vi på ett smörgåsbord av excesser. 02/07 år 2013 i SVT1.</desc>
-    <date>2012</date>
-    <episode-num system="onscreen">Säsong 2. Del 3 av 10</episode-num>
   </programme>
   <programme start="20210822190000 +0200" stop="20210822193000 +0200" channel="SVT1.se">
     <title lang="sv">Sportspegeln</title>
@@ -13206,295 +13207,295 @@
     <date>2014</date>
     <episode-num system="onscreen">Säsong 1. Del 12</episode-num>
   </programme>
-  <programme start="20210822060000 +0200" stop="20210822061200 +0200" channel="Nickelodeon.se">
+  <programme start="20210822060000 +0200" stop="20210822061500 +0200" channel="Nickelodeon.se">
     <title lang="sv">44 Katter</title>
     <desc lang="sv">Detektiven Pilou. Pilou har börjat leka privatdetektiv, och har till och med börjat klä ut sig till en. Det enda hon inte har är ett riktigt fall att lösa. Men när Fleur behöver kattungarnas hjälp att hitta en försvunnen blomma ser Pilou sin chans!</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 1. Del 21</episode-num>
   </programme>
-  <programme start="20210822061200 +0200" stop="20210822062300 +0200" channel="Nickelodeon.se">
+  <programme start="20210822061500 +0200" stop="20210822062700 +0200" channel="Nickelodeon.se">
     <title lang="sv">44 Katter</title>
     <desc lang="sv">En lek för Buffycats. Kattungarna ger sig ut på en skattjakt, där de måste hitta olika saker som är gömda över hela staden. Men leken blir allt mer komplicerad, och den sista saken på listan verkar rent av omöjlig av hitta!</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 1. Del 22</episode-num>
   </programme>
-  <programme start="20210822062300 +0200" stop="20210822063600 +0200" channel="Nickelodeon.se">
+  <programme start="20210822062700 +0200" stop="20210822064100 +0200" channel="Nickelodeon.se">
     <title lang="sv">44 Katter</title>
     <desc lang="sv">Superhjältekatten. Kattungarnas stora idol är den maskerade katthjälten som räddar katter runt om i staden. Men när deras hjälte blir fångad måste kattungarna själva ge sig på hjältelivet. De inser dock snart att det är svårt.</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 1. Del 23</episode-num>
   </programme>
-  <programme start="20210822063600 +0200" stop="20210822065800 +0200" channel="Nickelodeon.se">
+  <programme start="20210822064100 +0200" stop="20210822065400 +0200" channel="Nickelodeon.se">
     <title lang="sv">Alvinnn!!! Och Gänget</title>
     <desc lang="sv">Rymlingarna / Sherlock och Gänget. När pojkarna råkar slå sönder Daves helt nya platt-TV bestämmer dom sig allihop att rymma hemifrån. // Jeanette och Eleanor leker Sherlock Holmes och Watson när Theodores teddybjörn försvinner mystiskt.</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 3. Del 10</episode-num>
   </programme>
-  <programme start="20210822065800 +0200" stop="20210822072200 +0200" channel="Nickelodeon.se">
+  <programme start="20210822065400 +0200" stop="20210822072000 +0200" channel="Nickelodeon.se">
     <title lang="sv">Alvinnn!!! Och Gänget</title>
     <desc lang="sv">Självständighetsdagen / Motsatser Möts. När pojkarna tröttnar på att Dave bestämmer allt, bestämmer dom sig för att bygga ett trädhus i trädgården och flytta. // När en av Simons uppfinningar råkar välta, blir Alvin och Theodore magnetiska och sitter fast i varandra.</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 3. Del 11</episode-num>
   </programme>
-  <programme start="20210822072200 +0200" stop="20210822074500 +0200" channel="Nickelodeon.se">
+  <programme start="20210822072000 +0200" stop="20210822074500 +0200" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Henry och Hackspettarna. När Pipers basketbollstränare slutar övertalar hon Henry att ta över tjänsten. Samtidigt som han försöker få laget i vinnarform tvingas han kämpa mot styrelsen för Swellviews Ungdoms-Rörelse, som är allt annat än förtjusta i hans metoder. .</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 2. Del 4</episode-num>
   </programme>
-  <programme start="20210822074500 +0200" stop="20210822081000 +0200" channel="Nickelodeon.se">
+  <programme start="20210822074500 +0200" stop="20210822081100 +0200" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Kapten Man på Semester. När Kapten Man blir inbjuden till sin kusins bröllop, lämnar han Swellview i Henry och Charlottes händer. Men det dyker snart upp problem när de tvingas ta hand om stadens problem helt själva. .</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 2. Del 5</episode-num>
   </programme>
-  <programme start="20210822081000 +0200" stop="20210822083400 +0200" channel="Nickelodeon.se">
+  <programme start="20210822081100 +0200" stop="20210822083500 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">Syrran är värst. Max och Phoebe ger mamma den fulländade födelsedagspresenten genom att spåra upp hennes försvunna syster, men det blir inte som de tänkt sig när det visar sig att systrarna legat i luven på varandra i åratal.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 3. Del 19</episode-num>
   </programme>
-  <programme start="20210822083400 +0200" stop="20210822090000 +0200" channel="Nickelodeon.se">
+  <programme start="20210822083500 +0200" stop="20210822090000 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">På skolbänken igen. Efter att ha återvänt till sin grundskola för att slutföra en hjälte-examen, inser Phoebe och Max att det inte är det lättaste att klara femteklassens prov när instruktören är en tidigare klasskamrat som Max plågade när de var yngre.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 3. Del 20</episode-num>
   </programme>
-  <programme start="20210822090000 +0200" stop="20210822092100 +0200" channel="Nickelodeon.se">
+  <programme start="20210822090000 +0200" stop="20210822092400 +0200" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Plankton-paranoia / Patrik blir intelligent. Plankton har inte försökt stjäla Herr Krabbas recept på ett tag.och det gör Herr Krabba nervösö. // När Patrik upptäcker biblioteket i ananasen, introducerar Svampbob honom för en värld av fantastiskt läranded.</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 11. Del 235</episode-num>
   </programme>
-  <programme start="20210822092100 +0200" stop="20210822094500 +0200" channel="Nickelodeon.se">
+  <programme start="20210822092400 +0200" stop="20210822094800 +0200" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Kalla på polis / Flaskskeppen. Plankton åker i fängelse. Receptet blir bevismaterial. Svampbob och Herr Krabba gör upp en plan hur dom får tillbaks det. // Sandy bygger ett flaskskepp inför en stor tävling och Svampbob skaffar hjälp åt henne.</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 11. Del 236</episode-num>
   </programme>
-  <programme start="20210822094500 +0200" stop="20210822100700 +0200" channel="Nickelodeon.se">
+  <programme start="20210822094800 +0200" stop="20210822101000 +0200" channel="Nickelodeon.se">
     <title lang="sv">Lugn i stormen</title>
     <desc lang="sv">Simma lugnt / Skapa en schysst syrra. Lincoln köper en barnpool, men det hela går snabbt snett när resten av syskonskaran också vill använda den. // Då ingen av hans systrar delar hans intressen bestämmer sig Lincoln för att uppfostra Lilly till en minikopia av sig själv.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 1. Del 8</episode-num>
   </programme>
-  <programme start="20210822100700 +0200" stop="20210822103100 +0200" channel="Nickelodeon.se">
+  <programme start="20210822101000 +0200" stop="20210822103500 +0200" channel="Nickelodeon.se">
     <title lang="sv">Lugn i stormen</title>
     <desc lang="sv">Häftigaste hojen / En propp att lösa. När Lincoln får ärva en rosa cykel av Lori, lånar han istället Lynns coola BMX-cykel utan att fråga. // Någon har proppat igen husets toalett, och det är upp till Lincoln att ta reda på vem som gjorde det.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 1. Del 10</episode-num>
   </programme>
-  <programme start="20210822103100 +0200" stop="20210822105500 +0200" channel="Nickelodeon.se">
+  <programme start="20210822103500 +0200" stop="20210822105900 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Casagrande</title>
     <desc lang="sv">Simma lugnt / Svalt och skönt. När Bobby får reda på att Carl inte kan simma, erbjuder han sig att lära honom. // Kusinerna vill att Abuleo ska skaffa luftkonditionering. De bestämmer sig för att försöka tjäna extrapengar på en gatumarknad.</desc>
     <date>2019</date>
     <episode-num system="onscreen">Säsong 1. Del 14</episode-num>
   </programme>
-  <programme start="20210822105500 +0200" stop="20210822112200 +0200" channel="Nickelodeon.se">
+  <programme start="20210822105900 +0200" stop="20210822112300 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Casagrande</title>
     <desc lang="sv">Reptiler på vift / Laganda. Familjen Chang åker på semester och ber Ronnie Anne och hennes kusiner passa familjens orm Cam. // Ronnie Anne och hennes skateboard-kompisar samarbetar för att visa tränaren att de har vad som krävs för att bli ett lag.</desc>
     <date>2019</date>
     <episode-num system="onscreen">Säsong 1. Del 15</episode-num>
   </programme>
-  <programme start="20210822112200 +0200" stop="20210822114800 +0200" channel="Nickelodeon.se">
+  <programme start="20210822112300 +0200" stop="20210822114600 +0200" channel="Nickelodeon.se">
     <title lang="sv">Ollies ryggsäck</title>
     <desc lang="sv">Riskabla Rance / Monstruöst anklagad. När monsterprisjägaren Ashlor letar efter Ollie och hans kompisar, gömmer de sig med Rance. // Ollie ställs inför rätta i monsterdomstolen för att ha missbrukat ryggsäcken.</desc>
     <date>2019</date>
     <episode-num system="onscreen">Säsong 1. Del 14</episode-num>
   </programme>
-  <programme start="20210822114800 +0200" stop="20210822121600 +0200" channel="Nickelodeon.se">
+  <programme start="20210822114600 +0200" stop="20210822121200 +0200" channel="Nickelodeon.se">
     <title lang="sv">Ollies ryggsäck</title>
     <desc lang="sv">Storfot på fri fot / Farligt spel. Ollie vill krydda Portshills historia och kallar på Lucius Van Horn så att han kan låtsas vara Storfot. // Medan Ollie och Bernie är upptagna med att spela tv-spel, blir Cleo vän med ett monster som heter Trina.</desc>
     <date>2019</date>
     <episode-num system="onscreen">Säsong 1. Del 15</episode-num>
   </programme>
-  <programme start="20210822121600 +0200" stop="20210822124000 +0200" channel="Nickelodeon.se">
+  <programme start="20210822121200 +0200" stop="20210822123700 +0200" channel="Nickelodeon.se">
     <title lang="sv">Danger Force</title>
     <desc lang="sv">Kids återkomst. När Henry Hart återvänder och distraherar Ray, tvingas Danger Force ge sig ut på uppdrag utan Kapten Man. Läget förvärras när en läskig prisjägare från Dystopia kommer till Swellview med siktet inställt på Henry.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 9</episode-num>
   </programme>
-  <programme start="20210822124000 +0200" stop="20210822130300 +0200" channel="Nickelodeon.se">
+  <programme start="20210822123700 +0200" stop="20210822125900 +0200" channel="Nickelodeon.se">
     <title lang="sv">Danger Force</title>
     <desc lang="sv">Tusen-pranks-kriget: Del 1. Ett urgammalt prank-krig mellan Swellview och Rivalton blossar upp igen, och Skriets talang för "pranks" är Dangers Force bästa chans att vinna striden.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 10</episode-num>
   </programme>
-  <programme start="20210822130300 +0200" stop="20210822130900 +0200" channel="Nickelodeon.se">
+  <programme start="20210822125900 +0200" stop="20210822130500 +0200" channel="Nickelodeon.se">
     <title lang="sv">Orange Carpet</title>
     <desc lang="sv">Orange Carpet Special Edition: PAW Patrol: The Movie. I Orange Carpet Specialupplaga: Paw Patrol: Filmen tar vi en titt bakom kulisserna när Nickelodeons Dana Heath besöker ett verklighetens "paw patrol" för att se hur omplaceringshundar tränas och blir räddningshundar.</desc>
     <date>2014</date>
     <episode-num system="onscreen">Del 37</episode-num>
   </programme>
-  <programme start="20210822130900 +0200" stop="20210822133300 +0200" channel="Nickelodeon.se">
+  <programme start="20210822130500 +0200" stop="20210822133000 +0200" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Kapten Man på Semester. När Kapten Man blir inbjuden till sin kusins bröllop, lämnar han Swellview i Henry och Charlottes händer. Men det dyker snart upp problem när de tvingas ta hand om stadens problem helt själva. .</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 2. Del 5</episode-num>
   </programme>
-  <programme start="20210822133300 +0200" stop="20210822135600 +0200" channel="Nickelodeon.se">
+  <programme start="20210822133000 +0200" stop="20210822135200 +0200" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Saken är Biff. När han blir inbjuden till stadens mest exklusiva restaurang, bestämmer sig Henry för att ta med sig sin chef Ray dit. Men det hela blir betydligt mer komplicerat än vad Henry kunde ha anat. .</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 2. Del 7</episode-num>
   </programme>
-  <programme start="20210822135600 +0200" stop="20210822142000 +0200" channel="Nickelodeon.se">
+  <programme start="20210822135200 +0200" stop="20210822141700 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">Vänner för alltid. Phoebe och Max oroar sig för att de ska behöva umgås för jämnan när deras vänner börjar hänga med varandra. Syskonen tar till fula knep för att se till att det blir pinsamt för alla när de går på bio.</desc>
     <date>2014</date>
     <episode-num system="onscreen">Säsong 2. Del 11</episode-num>
   </programme>
-  <programme start="20210822142000 +0200" stop="20210822144500 +0200" channel="Nickelodeon.se">
+  <programme start="20210822141700 +0200" stop="20210822144200 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">Mammas superfan. Max och Phebe säljer av misstag några av Barbs gamla superhjältesaker till en superfan till Electress på familjens loppis, och måste skaffa tillbaka dem innan hon upptäcker det.</desc>
     <date>2014</date>
     <episode-num system="onscreen">Säsong 2. Del 13</episode-num>
   </programme>
-  <programme start="20210822144500 +0200" stop="20210822151000 +0200" channel="Nickelodeon.se">
+  <programme start="20210822144200 +0200" stop="20210822150700 +0200" channel="Nickelodeon.se">
     <title lang="sv">iCarly</title>
     <desc lang="sv">Övervakning. Efter att ha sett ett inslag på iCarly som visade en man som säljer olagliga filmkopior, bestämmer sig två poliser för att använda Carlys och Spencers våning som en övervakningsplats.</desc>
     <date>2007</date>
     <episode-num system="onscreen">Säsong 1. Del 21</episode-num>
   </programme>
-  <programme start="20210822151000 +0200" stop="20210822153500 +0200" channel="Nickelodeon.se">
+  <programme start="20210822150700 +0200" stop="20210822153100 +0200" channel="Nickelodeon.se">
     <title lang="sv">iCarly</title>
     <desc lang="sv">Jag kanske byter skola. Carly får veta att hon på grund av sin webbshow, kan få möjlighet till ett heltäckande stipendium till den privata elitskolan Briarwood. Carly är inte så sugen på det, men Sam och Freddie vet att de måste få henne att ändra sig.</desc>
     <date>2007</date>
     <episode-num system="onscreen">Säsong 1. Del 22</episode-num>
   </programme>
-  <programme start="20210822153500 +0200" stop="20210822155600 +0200" channel="Nickelodeon.se">
+  <programme start="20210822153100 +0200" stop="20210822155300 +0200" channel="Nickelodeon.se">
     <title lang="sv">Victorious</title>
     <desc lang="sv">Robbie säljer Rex. Mason Thornsmiths snobbiga 12-åriga son köper Rex av Robbie. Det dröjer dock inte länge innan Robbie saknar Rex och tar hjälp av Cat för att få honom tillbaka. Samtidigt går en maskerad typ runt på Hollywood Arts och kastar mjöl på studenterna.</desc>
     <date>2011</date>
     <episode-num system="onscreen">Säsong 3. Del 21</episode-num>
   </programme>
-  <programme start="20210822155600 +0200" stop="20210822162200 +0200" channel="Nickelodeon.se">
+  <programme start="20210822155300 +0200" stop="20210822161800 +0200" channel="Nickelodeon.se">
     <title lang="sv">Victorious</title>
     <desc lang="sv">Den dåliga rumskamraten. För att kunna skriva en låt tillsammans flyttar André in hos Tori. Snart inser de dock att de inte direkt passar som rumskamrater. Jade upptäcker en dålig bild på sig själv på Internet och smider planer för att få bort den.</desc>
     <date>2011</date>
     <episode-num system="onscreen">Säsong 3. Del 22</episode-num>
   </programme>
-  <programme start="20210822162200 +0200" stop="20210822164700 +0200" channel="Nickelodeon.se">
+  <programme start="20210822161800 +0200" stop="20210822164300 +0200" channel="Nickelodeon.se">
     <title lang="sv">Goldies nya gamla liv</title>
     <desc lang="sv">Smyg i säkerhet. När Sherri förbjuder Goldie att gå till en bal med Shawn kräver det hela desperata åtgärder, nämligen att smyga ut på kvällen. Men att fly till en fest är inte lätt när huset är fullt av andra människor som också smyger omkring i mörkret.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 15</episode-num>
   </programme>
-  <programme start="20210822164700 +0200" stop="20210822170900 +0200" channel="Nickelodeon.se">
+  <programme start="20210822164300 +0200" stop="20210822170700 +0200" channel="Nickelodeon.se">
     <title lang="sv">Goldies nya gamla liv</title>
     <desc lang="sv">En felaktig romantisk komedi. Goldie blir övertygad om att Sherri är kär i sin medarbetare och får med Maury i en plan för att få ihop dem. Under tiden är Loren förskräckt över att upptäcka att hon blivit kär i Danny.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 16</episode-num>
   </programme>
-  <programme start="20210822170900 +0200" stop="20210822173300 +0200" channel="Nickelodeon.se">
+  <programme start="20210822170700 +0200" stop="20210822173100 +0200" channel="Nickelodeon.se">
     <title lang="sv">Danger Force</title>
     <desc lang="sv">Skurkarnas Afton. Danger Force och Kapten Man låtsas vara skurkar i Slagsmålsgrottan för att fånga en bov. Om deras täckmantel röjs, måste de bekämpa alla Swellviews tuffaste brottslingar samtidigt.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 4</episode-num>
   </programme>
-  <programme start="20210822173300 +0200" stop="20210822175400 +0200" channel="Nickelodeon.se">
+  <programme start="20210822173100 +0200" stop="20210822175300 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">Betyg. Efter att ha ändrat sina betyg och flyttats upp till avancerad matte, får Max tävla mot Phoebe i "Matteduellen". Samtidigt försöker Hank, Nora och Billy att fånga den gäckande tidningstjuven.</desc>
     <date>2013</date>
     <episode-num system="onscreen">Säsong 1. Del 3</episode-num>
   </programme>
-  <programme start="20210822175400 +0200" stop="20210822181800 +0200" channel="Nickelodeon.se">
+  <programme start="20210822175300 +0200" stop="20210822181800 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">Phoebe mot Max. När Max utsätter Phoebe för ett practical joke när de ska ta skolfoton utbryter ett practical joke-krig mellan dem som går överstyr. Samtidigt försöker sig Hank och Barb på en ny uppfostringsmodell för att få Billy och Nora att hjälpa till hemma.</desc>
     <date>2013</date>
     <episode-num system="onscreen">Säsong 1. Del 4</episode-num>
   </programme>
-  <programme start="20210822181800 +0200" stop="20210822184000 +0200" channel="Nickelodeon.se">
+  <programme start="20210822181800 +0200" stop="20210822184300 +0200" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Kapten Klantskalle. Captain Man bestämmer sig för att hålla en tävling där vinnarna får en guidad visning av hans hemliga högkvarter. Men när några av Henrys vänner vinner tävlingen blir han orolig över hur han ska hålla sin identitet hemlig. .</desc>
     <date>2014</date>
     <episode-num system="onscreen">Säsong 1. Del 22</episode-num>
   </programme>
-  <programme start="20210822184000 +0200" stop="20210822190500 +0200" channel="Nickelodeon.se">
+  <programme start="20210822184300 +0200" stop="20210822190500 +0200" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Hinkfällan. Henry och Charlotte vill berätta för Jasper att Henry egentligen är Kid Danger. De bestämmer sig för att sätta honom på prov för att se om han verkligen skulle klara av att hålla deras hemlighet säker. .</desc>
     <date>2014</date>
     <episode-num system="onscreen">Säsong 1. Del 23</episode-num>
   </programme>
-  <programme start="20210822190500 +0200" stop="20210822193000 +0200" channel="Nickelodeon.se">
+  <programme start="20210822190500 +0200" stop="20210822192900 +0200" channel="Nickelodeon.se">
     <title lang="sv">Danger Force</title>
     <desc lang="sv">Vänner på prov. Utan deras vetskap, utsätter Kapten Man gänget i Danger Force för olika tester för att se om han kan lita på dem. Testerna spårar ur och frågan vem som kan lita på vem ställs på sin spets.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 15</episode-num>
   </programme>
-  <programme start="20210822193000 +0200" stop="20210822195000 +0200" channel="Nickelodeon.se">
+  <programme start="20210822192900 +0200" stop="20210822195300 +0200" channel="Nickelodeon.se">
     <title lang="sv">Lön För Mödan</title>
     <desc lang="sv">Hundbröllop. Lex älskar hundar och bröllop, så hon ser fram emot veckans KidDING - de ska planera ett hundbröllop!. Men när Presley börjar tycka att hundarna inte passar ihop leder till drama. Till och med på ett hundbröllop.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 12</episode-num>
   </programme>
-  <programme start="20210822195000 +0200" stop="20210822201500 +0200" channel="Nickelodeon.se">
+  <programme start="20210822195300 +0200" stop="20210822201800 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">Bli knasig. En komet gör att Thundermans krafter blir knasiga samtidigt som killen Phoebe är kär i bjuder henne på skoldansen. Phoebe och Max får veta att om de håller ihop kan de hålla sina krafter i styr, men ingen är speciellt glad för att ha den andra nära.</desc>
     <date>2013</date>
     <episode-num system="onscreen">Säsong 1. Del 10</episode-num>
   </programme>
-  <programme start="20210822201500 +0200" stop="20210822204000 +0200" channel="Nickelodeon.se">
+  <programme start="20210822201800 +0200" stop="20210822204200 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">Objudna restauranggäster. När ungarna råkar krascha presenten som Hank köpt till Barb på deras bröllopsdag, måste de ta hjälp av Blobbin, en vän till familjen och superhjältemedhjälpare, för att laga den och se till att deras föräldrar inte får reda på nåt.</desc>
     <date>2013</date>
     <episode-num system="onscreen">Säsong 1. Del 11</episode-num>
   </programme>
-  <programme start="20210822204000 +0200" stop="20210822210500 +0200" channel="Nickelodeon.se">
+  <programme start="20210822204200 +0200" stop="20210822210500 +0200" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Hinkfällan. Henry och Charlotte vill berätta för Jasper att Henry egentligen är Kid Danger. De bestämmer sig för att sätta honom på prov för att se om han verkligen skulle klara av att hålla deras hemlighet säker. .</desc>
     <date>2014</date>
     <episode-num system="onscreen">Säsong 1. Del 23</episode-num>
   </programme>
-  <programme start="20210822210500 +0200" stop="20210822213100 +0200" channel="Nickelodeon.se">
+  <programme start="20210822210500 +0200" stop="20210822213000 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">Mörkrets krafter. När Max var ond installerade han en manick för att förstöra ett superhjälte-möte och nu tar han hjälp av Phoebe för att rädda det. Men när deras krafter inte räcker till för att stoppa hotet tar Phoebe ett livsavgörande beslut.</desc>
     <date>2016</date>
     <episode-num system="onscreen">Säsong 4. Del 18</episode-num>
   </programme>
-  <programme start="20210822213100 +0200" stop="20210822215500 +0200" channel="Nickelodeon.se">
+  <programme start="20210822213000 +0200" stop="20210822215400 +0200" channel="Nickelodeon.se">
     <title lang="sv">Danger Force</title>
     <desc lang="sv">Vänner på prov. Utan deras vetskap, utsätter Kapten Man gänget i Danger Force för olika tester för att se om han kan lita på dem. Testerna spårar ur och frågan vem som kan lita på vem ställs på sin spets.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 15</episode-num>
   </programme>
-  <programme start="20210822215500 +0200" stop="20210822220000 +0200" channel="Nickelodeon.se">
+  <programme start="20210822215400 +0200" stop="20210822220000 +0200" channel="Nickelodeon.se">
     <title lang="sv">Orange Carpet</title>
     <desc lang="sv">Orange Carpet Special Edition: PAW Patrol: The Movie. I Orange Carpet Specialupplaga: Paw Patrol: Filmen tar vi en titt bakom kulisserna när Nickelodeons Dana Heath besöker ett verklighetens "paw patrol" för att se hur omplaceringshundar tränas och blir räddningshundar.</desc>
     <date>2014</date>
     <episode-num system="onscreen">Del 37</episode-num>
   </programme>
-  <programme start="20210822220000 +0200" stop="20210822221900 +0200" channel="Nickelodeon.se">
+  <programme start="20210822220000 +0200" stop="20210822222400 +0200" channel="Nickelodeon.se">
     <title lang="sv">Lön För Mödan</title>
     <desc lang="sv">Hundbröllop. Lex älskar hundar och bröllop, så hon ser fram emot veckans KidDING - de ska planera ett hundbröllop!. Men när Presley börjar tycka att hundarna inte passar ihop leder till drama. Till och med på ett hundbröllop.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 12</episode-num>
   </programme>
-  <programme start="20210822221900 +0200" stop="20210822224400 +0200" channel="Nickelodeon.se">
+  <programme start="20210822222400 +0200" stop="20210822224700 +0200" channel="Nickelodeon.se">
     <title lang="sv">Lön För Mödan</title>
     <desc lang="sv">Milkshake-tävling. Det är dags för MicroMooery's årliga Milkshake Suckdown-tävling. Munchys skrytiga storebror Jagetär den regerande mästaren men det här året har Lex, Presley och Munchy bestämt sig för att slå honom.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 6</episode-num>
   </programme>
-  <programme start="20210822224400 +0200" stop="20210822230500 +0200" channel="Nickelodeon.se">
+  <programme start="20210822224700 +0200" stop="20210822230900 +0200" channel="Nickelodeon.se">
     <title lang="sv">iCarly</title>
     <desc lang="sv">Den irriterande recensenten. När Carly träffar recensenten från 'Nevelocity' visar det sig vara en irriterande kille som vill dejta henne.</desc>
     <date>2007</date>
     <episode-num system="onscreen">Säsong 1. Del 4</episode-num>
   </programme>
-  <programme start="20210822230500 +0200" stop="20210822232900 +0200" channel="Nickelodeon.se">
+  <programme start="20210822230900 +0200" stop="20210822233400 +0200" channel="Nickelodeon.se">
     <title lang="sv">iCarly</title>
     <desc lang="sv">Jag vill bo med Spencer. Carly och hennes vänner måste bevisa för Carlys farfar att Spencer klarar av ansvaret att ta hand om Carly.</desc>
     <date>2007</date>
     <episode-num system="onscreen">Säsong 1. Del 5</episode-num>
   </programme>
-  <programme start="20210822232900 +0200" stop="20210822235300 +0200" channel="Nickelodeon.se">
+  <programme start="20210822233400 +0200" stop="20210822235900 +0200" channel="Nickelodeon.se">
     <title lang="sv">Victorious</title>
     <desc lang="sv">Beck faller för Tori. Tori går på audition för en film, men får inte rollen hon provspelat för. Istället tycker filmteamet att hon passar som stuntman. Men när Tori inte lyckas utföra sitt stunttrick, klär Beck ut sig till henne och gör tricket i hennes ställe.</desc>
     <date>2011</date>
     <episode-num system="onscreen">Säsong 2. Del 1</episode-num>
   </programme>
-  <programme start="20210822235300 +0200" stop="20210823001700 +0200" channel="Nickelodeon.se">
+  <programme start="20210822235900 +0200" stop="20210823002200 +0200" channel="Nickelodeon.se">
     <title lang="sv">Victorious</title>
     <desc lang="sv">Helen är tillbaks. När Hollywood Arts rektor slutar, anställer skolan en ny, som tvingar alla elever att göra om sina inträdesprov för att få behålla sina platser på skolan. Vem får stanna och vem slängs ut?</desc>
     <date>2011</date>
@@ -15842,15 +15843,15 @@
     <title lang="sv">Home of the Olympics</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20210821064400 +0200" stop="20210821075000 +0200" channel="Eurosport1.se">
+  <programme start="20210821064500 +0200" stop="20210821075100 +0200" channel="Eurosport1.se">
     <title lang="sv">Formel E: VM</title>
     <desc lang="sv">Berlin, Sammanfattning. ,.</desc>
   </programme>
-  <programme start="20210821075000 +0200" stop="20210821091600 +0200" channel="Eurosport1.se">
+  <programme start="20210821075100 +0200" stop="20210821091700 +0200" channel="Eurosport1.se">
     <title lang="sv">Endurance Car Racing, VM</title>
     <desc lang="sv">Monza 6-timmars, Sammanfattning. ,.</desc>
   </programme>
-  <programme start="20210821091600 +0200" stop="20210821111800 +0200" channel="Eurosport1.se">
+  <programme start="20210821091700 +0200" stop="20210821111800 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Damer. World Tour. Damer. ,.</desc>
   </programme>
@@ -15858,11 +15859,11 @@
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Le Mans 24-timmars, Uppvärmning. Endurance Car Racing: VM. Le Mans 24-timmars, Uppvärmning.</desc>
   </programme>
-  <programme start="20210821120300 +0200" stop="20210821132900 +0200" channel="Eurosport1.se">
+  <programme start="20210821120300 +0200" stop="20210821133000 +0200" channel="Eurosport1.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Road to Le Mans. Endurance car racing. Road to Le Mans.</desc>
   </programme>
-  <programme start="20210821132900 +0200" stop="20210821144800 +0200" channel="Eurosport1.se">
+  <programme start="20210821133000 +0200" stop="20210821144800 +0200" channel="Eurosport1.se">
     <title lang="sv">Endurance Car Racing, VM</title>
     <desc lang="sv">Monza 6-timmars, Sammanfattning. ,.</desc>
   </programme>
@@ -15882,23 +15883,23 @@
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Le Mans 24-timmars, Loppet. Endurance Car Racing: VM. Le Mans 24-timmars, Loppet.</desc>
   </programme>
-  <programme start="20210822060000 +0200" stop="20210822163000 +0200" channel="Eurosport1.se">
+  <programme start="20210822060000 +0200" stop="20210822163300 +0200" channel="Eurosport1.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Le Mans 24-timmars, Loppet. Endurance Car Racing: VM. Le Mans 24-timmars, Loppet.</desc>
   </programme>
-  <programme start="20210822163000 +0200" stop="20210822175700 +0200" channel="Eurosport1.se">
+  <programme start="20210822163300 +0200" stop="20210822175900 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Vuelta a España, Etapp 9. World Tour - Vuelta a España. Vuelta a España, Etapp 9.</desc>
   </programme>
-  <programme start="20210822175700 +0200" stop="20210822192800 +0200" channel="Eurosport1.se">
+  <programme start="20210822175900 +0200" stop="20210822193100 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Damer. World Tour - Clásica de San Sebastián. Damer. ,.</desc>
   </programme>
-  <programme start="20210822192800 +0200" stop="20210822202800 +0200" channel="Eurosport1.se">
+  <programme start="20210822193100 +0200" stop="20210822202800 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Novi Sad, Final. Mountainbike: EM. Novi Sad, Final. ,.</desc>
   </programme>
-  <programme start="20210822202800 +0200" stop="20210823010700 +0200" channel="Eurosport1.se">
+  <programme start="20210822202800 +0200" stop="20210823010400 +0200" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">British Open, Final. British Open. British Open, Final.</desc>
   </programme>
@@ -15930,15 +15931,15 @@
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam, Final Herrar. Australian Open. Grand Slam, Final Herrar. ,.</desc>
   </programme>
-  <programme start="20210821075600 +0200" stop="20210821100100 +0200" channel="Eurosport2.se">
+  <programme start="20210821075600 +0200" stop="20210821100200 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 7 Herrar. World Tour - Vuelta a España. Etapp 7 Herrar. ,.</desc>
   </programme>
-  <programme start="20210821100100 +0200" stop="20210821110300 +0200" channel="Eurosport2.se">
+  <programme start="20210821100200 +0200" stop="20210821110600 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Aragon, Loppet. Electric Touring Car: Världscupen. Aragon, Loppet. ,.</desc>
   </programme>
-  <programme start="20210821110300 +0200" stop="20210821123300 +0200" channel="Eurosport2.se">
+  <programme start="20210821110600 +0200" stop="20210821123300 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Damer. World Tour - Clásica de San Sebastián. Damer. ,.</desc>
   </programme>
@@ -15982,19 +15983,19 @@
     <title lang="sv">Tennis</title>
     <desc lang="sv">Cincinnati, Semifinal. ATP World Tour 1000-turnering. Cincinnati.</desc>
   </programme>
-  <programme start="20210822023000 +0200" stop="20210822033500 +0200" channel="Eurosport2.se">
+  <programme start="20210822023000 +0200" stop="20210822033600 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Damer. World Tour. Damer. ,.</desc>
   </programme>
-  <programme start="20210822033500 +0200" stop="20210822044300 +0200" channel="Eurosport2.se">
+  <programme start="20210822033600 +0200" stop="20210822044400 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Danmark Runt, Etapp 5 Herrar. Cykel Pro Series Danmark Runt. Danmark Runt, Etapp 5 Herrar. ,.</desc>
   </programme>
-  <programme start="20210822044300 +0200" stop="20210822050400 +0200" channel="Eurosport2.se">
+  <programme start="20210822044400 +0200" stop="20210822050600 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Milano-Sanremo 2008. ,.</desc>
   </programme>
-  <programme start="20210822050400 +0200" stop="20210822060000 +0200" channel="Eurosport2.se">
+  <programme start="20210822050600 +0200" stop="20210822060000 +0200" channel="Eurosport2.se">
     <title lang="sv">Bordtennis</title>
     <desc lang="sv">Warszawa, Final. Bordtennis EM. Warszawa, Final. ,.</desc>
   </programme>
@@ -16006,11 +16007,15 @@
     <title lang="sv">Snooker</title>
     <desc lang="sv">Kvartsfinal British Open. British Open. Kvartsfinal British Open.</desc>
   </programme>
-  <programme start="20210822083300 +0200" stop="20210822112700 +0200" channel="Eurosport2.se">
+  <programme start="20210822083300 +0200" stop="20210822100300 +0200" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Semifinal British Open. British Open. Semifinal British Open.</desc>
   </programme>
-  <programme start="20210822112700 +0200" stop="20210822120300 +0200" channel="Eurosport2.se">
+  <programme start="20210822100300 +0200" stop="20210822113000 +0200" channel="Eurosport2.se">
+    <title lang="sv">Kanot</title>
+    <desc lang="sv">Oklahoma. Supercupen. Oklahoma.</desc>
+  </programme>
+  <programme start="20210822113000 +0200" stop="20210822120300 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 8 Herrar. World Tour - Vuelta a España. Etapp 8 Herrar. ,.</desc>
   </programme>
@@ -18778,7 +18783,7 @@
     </credits>
     <date>1994</date>
   </programme>
-  <programme start="20210822081000 +0200" stop="20210822100000 +0200" channel="ViasatFilmHits.se">
+  <programme start="20210822081000 +0200" stop="20210822095500 +0200" channel="ViasatFilmHits.se">
     <title lang="sv">A beautiful day in the neighborhood</title>
     <desc lang="sv">Amerikanskt drama från 2019. Efter att en tidningsskribent får jobbet att skriva om Fred Rogers, försvinner snart hans skepticism och lär sig om godhet och kärlek. En historia om hur godhet alltid vinner över förakt, baserad på den sanna vänskapen mellan Fred Rogers och journalisten Tom Junod.</desc>
     <credits>
@@ -18792,7 +18797,7 @@
     </credits>
     <date>2019</date>
   </programme>
-  <programme start="20210822100000 +0200" stop="20210822121000 +0200" channel="ViasatFilmHits.se">
+  <programme start="20210822095500 +0200" stop="20210822120500 +0200" channel="ViasatFilmHits.se">
     <title lang="sv">The hate u give</title>
     <desc lang="sv">Amerikanskt drama från 2018. Om en tonåring som efter att ha bevittnat hur barndomsvännen skjuts till döds måste våga stå upp för vad som är rätt.</desc>
     <credits>
@@ -18805,7 +18810,7 @@
     </credits>
     <date>2018</date>
   </programme>
-  <programme start="20210822121000 +0200" stop="20210822140500 +0200" channel="ViasatFilmHits.se">
+  <programme start="20210822120500 +0200" stop="20210822140000 +0200" channel="ViasatFilmHits.se">
     <title lang="sv">Passengers</title>
     <desc lang="sv">Amerikansk science fiction från 2016. Avalon är ett rymdskepp som transporterar tusentals kolonister till en ny planet. Ett fel får dock sömnkapslarna till mekanikern Jim Preston och författaren Aurora Lane att öppnas nittio år för tidigt. Deras inledande umgänge leder till en spirande romans när robotbartendern Arthur av misstag avslöjar en oroväckande hemlighet. De är dock tvungna att samarbeta för att ta reda på varför skeppet har gått sönder. Det hela blir en kamp mot klockan för att rädda de tusentals personer som befinner sig ombord.</desc>
     <credits>
@@ -18818,7 +18823,7 @@
     </credits>
     <date>2016</date>
   </programme>
-  <programme start="20210822140500 +0200" stop="20210822154000 +0200" channel="ViasatFilmHits.se">
+  <programme start="20210822140000 +0200" stop="20210822153500 +0200" channel="ViasatFilmHits.se">
     <title lang="sv">Midnatt i Paris</title>
     <desc lang="sv">Amerikansk-spansk romantisk komedi från 2011. Gil och hans fästmö Inez reser med hennes föräldrar till Paris. Staden väcker gamla minnen hos Gil och han funderar över om han valt rätt väg i livet. När Inez går ut och dansar tar Gil en promenad vid midnatt och upptäcker det som skulle kunna vara den högsta källan till litterär inspiration. Gils dagliga promenader vid midnatt i Paris håller på att ta honom närmare till stadens hjärta men längre bort från kvinnan han snart ska gifta sig med.</desc>
     <credits>
@@ -18831,7 +18836,7 @@
     </credits>
     <date>2011</date>
   </programme>
-  <programme start="20210822154000 +0200" stop="20210822174000 +0200" channel="ViasatFilmHits.se">
+  <programme start="20210822153500 +0200" stop="20210822173500 +0200" channel="ViasatFilmHits.se">
     <title lang="sv">Emma</title>
     <desc lang="sv">Brittiskt romantiskt drama från 2020. Emma är vacker, smart och rik i 1800-talets England. Hon har även en tendens att lägga sig i andras kärleksliv, med blandade resultat.</desc>
     <credits>
@@ -18848,7 +18853,7 @@
     </credits>
     <date>2020</date>
   </programme>
-  <programme start="20210822174000 +0200" stop="20210822200000 +0200" channel="ViasatFilmHits.se">
+  <programme start="20210822173500 +0200" stop="20210822200000 +0200" channel="ViasatFilmHits.se">
     <title lang="sv">Da Vinci-koden</title>
     <desc lang="sv">Amerikansk thriller från 2006. En tyst och stillsam kväll på museet Louvren i Paris sker ett mord. Detta mord är början på avslöjandet av en illavarslande intrig innehållande hemligheter, som blivit beskyddade av ett sällskap sen Kristi dagar. Offrets barnbarn, kryptografen Sophie Neveu och den kände symbologen Robert Langdon börjar försöka reda ut ledtrådarna vilka leder till Leonardo da Vincis verk. För att komplicera ytterligare blir Langdon och Neveu misstänkta för mordet. Med bara några stegs försprång från polisen leder mysterierna Neveu och Langdon på en farlig resa genom Frankrike, England och genom historien själv.</desc>
     <credits>
