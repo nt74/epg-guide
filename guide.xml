@@ -925,8 +925,16 @@
     <category lang="el">Κωμωδία - Κωμωδία</category>
   </programme>
   <programme start="20211106174500 +0200" stop="20211106195000 +0200" channel="Star.gr">
-    <title lang="el">Ταινία</title>
-    <desc lang="el">Δείτε επιλεγμένες ταινίες.</desc>
+    <title lang="el">Το Ξύλο Βγήκε από τον Παράδεισο</title>
+    <desc lang="el">Σ' ένα ιδιωτικό κολέγιο, τα κακομαθημένα κοριτσόπουλα της υψηλής κοινωνίας κάνουν δύσκολη τη ζωή των καθηγητών τους. (91') Παραγωγή: Ελλάδα.</desc>
+    <credits>
+      <director>Αλέκος Σακελλάριος</director>
+      <actor>Αλίκη Βουγιουκλάκη</actor>
+      <actor>Δημήτρης Παπαμιχαήλ</actor>
+      <actor>Χρήστος Τσαγανέας</actor>
+    </credits>
+    <date>1959</date>
+    <category lang="el">Κωμωδία - Κωμωδία</category>
   </programme>
   <programme start="20211106195000 +0200" stop="20211106210000 +0200" channel="Star.gr">
     <title lang="el">Star News</title>
@@ -941,17 +949,18 @@
     <category lang="el">Κινούμενα Σχέδια</category>
   </programme>
   <programme start="20211106233000 +0200" stop="20211106234000 +0200" channel="Star.gr">
-    <title lang="el">V for Vendetta</title>
-    <desc lang="el">Στο μέλλον, η Βρετανία τελεί υπό τον τρόμο ενός απολυταρχικού καθεστώτος. Ορκισμένος επαναστάτης, ο μασκοφόρος εκδικητής 'V' αναλαμβάνει να αφυπνίσει τον λαό και να τον οδηγήσει στην ελευθερία. (165') Παραγωγή: ΗΠΑ, Βρετανία, Γερμανία.</desc>
+    <title lang="el">Ο Σωματοφύλακας (The Bodyguard)</title>
+    <desc lang="el">Μια τραγουδίστρια της ποπ δέχεται απειλητικά γράμματα από κάποιον ψυχοπαθή θαυμαστή της και προσλαμβάνει ένα σωματοφύλακα για να εξασφαλίσει την ηρεμία της. Σύντομα ένας παράφορος έρωτας γεννιέται. (165') Παραγωγή: ΗΠΑ.</desc>
     <credits>
-      <director>Τζέιμς ΜακΤιγκ</director>
-      <actor>Χιούγκο Γουίβινγκ</actor>
-      <actor>Νάταλι Πόρτμαν</actor>
-      <actor>Τζον Χερτ</actor>
-      <actor>Ρούπερτ Γκρέιβς</actor>
+      <director>Μικ Τζάκσον</director>
+      <actor>Κέβιν Κόστνερ</actor>
+      <actor>Γουίτνεϊ Χιούστον</actor>
+      <actor>Γκάρι Κεμπ</actor>
+      <actor>Μπιλ Κομπς</actor>
+      <actor>Ραλφ Γουέιτ</actor>
     </credits>
-    <date>2005</date>
-    <category lang="el">Περιπέτεια</category>
+    <date>1993</date>
+    <category lang="el">Θρίλερ - Θρίλερ</category>
   </programme>
   <programme start="20211106234000 +0200" stop="20211107013000 +0200" channel="Star.gr">
     <title lang="el">Ο Κυρίαρχος του Παιχνιδιού 4 (Boyka: Undisputed 4)</title>
@@ -1199,15 +1208,23 @@
   <programme start="20211106185000 +0200" stop="20211106200000 +0200" channel="Alpha.gr">
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
   </programme>
-  <programme start="20211106200000 +0200" stop="20211106223000 +0200" channel="Alpha.gr">
+  <programme start="20211106200000 +0200" stop="20211106235000 +0200" channel="Alpha.gr">
     <title lang="el">Just The 2 of Us</title>
     <desc lang="el">Αναπάντεχα ντουέτα σε μοναδικούς συνδυασμούς από τραγουδιστές και celebrities από όλους τους χώρους του θεάματος (και όχι μόνο), γίνονται ζευγάρια, διαγωνίζονται και βάζουν φωτιά στην ολοκαίνουρια, υπερσύγχρονη σκηνή.</desc>
     <category lang="el">Ψυχαγωγικό show</category>
   </programme>
-  <programme start="20211106223000 +0200" stop="20211107003000 +0200" channel="Alpha.gr">
-    <title lang="el">The Bachelor</title>
-    <desc lang="el">Ένας άντρας, 21 γυναίκες! Όλες θέλουν να κερδίσουν το μυαλό και την καρδιά του και θα κάνουν τα πάντα για να το πετύχουν! Στο τέλος, μόνο μία θα καταφέρει να τον κατακτήσει, να δεχτεί το μονόπετρο και να γίνει η γυναίκα της ζωής του. Παραγωγή: Ελλάδα.</desc>
-    <category lang="el">Reality Show</category>
+  <programme start="20211106235000 +0200" stop="20211107010000 +0200" channel="Alpha.gr">
+    <title lang="el">Σασμός</title>
+    <desc lang="el">Δύο οικογένειες σε σύγκρουση. Ένας ατέρμονος κύκλος αίματος συνεχίζεται και η παλιά βεντέτα ξυπνά σαν εφιάλτης. Η μνήμη των νεκρών ζητά εκδίκηση.</desc>
+    <credits>
+      <director>Κώστας Κωστόπουλος</director>
+      <actor>Δημήτρης Λάλος</actor>
+      <actor>Τάσος Νούσιας</actor>
+      <actor>Ορφέας Αυγουστίδης</actor>
+      <actor>Χριστίνα Χειλά-Φαμέλη</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="el">Κοινωνική</category>
   </programme>
   <programme start="20211105000000 +0200" stop="20211105010000 +0200" channel="MakedoniaTV.gr">
     <title lang="el">Suits</title>
@@ -1949,13 +1966,25 @@
     <desc lang="el">Πόσο εύκολο είναι για έναν αθλητή με ρεκόρ, μετάλλια, αναγνώριση και πετυχημένη καριέρα στον χώρο του να τα καταφέρει σε ένα άλλο άθλημα; Πασίγνωστοι αθλητές δοκιμάζονται σε διαφορετικά αθλήματα, ενώ ταυτόχρονα μαθαίνουμε για τη ζωή και την καριέρα τους.</desc>
   </programme>
   <programme start="20211106210000 +0200" stop="20211106230000 +0200" channel="EpsilonTV.gr">
-    <title lang="el">Ταινία</title>
-    <desc lang="el">Ταινία. (240').</desc>
-    <category lang="el">Ταινία</category>
+    <title lang="el">Μαδαγασκάρη 2 (Madagascar: Escape 2 Africa)</title>
+    <desc lang="el">Ο Άλεξ, το λιοντάρι, και η παρέα του ετοιμάζονται για το μεγάλο ταξίδι του γυρισμού από τη Μαδαγασκάρη στη Νέα Υόρκη. Για άλλη μια φορά όμως, καταλήγουν στη μέση του πουθενά, στην απέραντη Αφρική. (120') Παραγωγή: ΗΠΑ.</desc>
+    <credits>
+      <director>Τομ ΜακΓκάρθ</director>
+    </credits>
+    <date>2008</date>
+    <category lang="el">Παιδική εκπομπή</category>
   </programme>
   <programme start="20211106230000 +0200" stop="20211107003000 +0200" channel="EpsilonTV.gr">
-    <title lang="el">After Dark</title>
-    <desc lang="el">Ο Θέμης Γεωργαντάς έρχεται και κάνει αυτό που ξέρει καλύτερα: συναρπαστικές συνεντεύξεις σε αγαπημένες προσωπικότητες από όλους τους χώρους. Δημοφιλείς καλεσμένοι έχουν την ευκαιρία να αποκαλύψουν στο κοινό ιστορίες και πτυχές της ζωής τους την στιγμή που πρέπει να ειπωθούν, After Dark.</desc>
+    <title lang="el">Rocketman</title>
+    <desc lang="el">Ο ταραχώδης βίος και η μεγαλειώδης καριέρα του θρυλικού σερ Έλτον Τζον. Ανακαλύψτε πώς ένα ντροπαλό αγόρι από μια αγγλική πόλη εξελίχθηκε σε μια από τις πιο εμβληματικές φιγούρες της ποπ κουλτούρας. Η ταινία τιμήθηκε με Όσκαρ. (117') Παραγωγή: Βρετανία, ΗΠΑ, Καναδάς.</desc>
+    <credits>
+      <director>Ντέξτερ Φλέτσερ</director>
+      <actor>Τάρον Έγκερτον</actor>
+      <actor>Τζέιμι Μπελ</actor>
+      <actor>Ρίτσαρντ Μέιντεν</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="el">Βιογραφία</category>
   </programme>
   <programme start="20211105000000 +0200" stop="20211105000500 +0200" channel="ERT1.gr">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -2483,19 +2512,17 @@
     <title lang="el">Formula 1 2021 - Grand Prix Μεξικό (Ζ)</title>
     <desc lang="el">Κατατακτήριες Δοκιμές. Παρακολουθήστε τις κατατακτήριες δοκιμές που διεξάγονται στο Μεξικό, για το Παγκόσμιο Πρωτάθλημα Φόρμουλα 1.</desc>
   </programme>
-  <programme start="20211106220000 +0200" stop="20211107004500 +0200" channel="ERT2.gr">
-    <title lang="el">Μην το Πεις σε Κανέναν</title>
-    <desc lang="el">H γυναίκα του Άλεξ δολοφονήθηκε κάτω από αδιευκρίνιστες συνθήκες. Οκτώ χρόνια μετά, ο Άλεξ θεωρείται ο βασικός ύποπτος για τρεις φόνους. Μη μπορώντας να καταλάβει τι συμβαίνει, ο Άλεξ προσπαθεί να λύσει την υπόθεση. (165') Παραγωγή: Γαλλία.</desc>
+  <programme start="20211106220000 +0200" stop="20211107001000 +0200" channel="ERT2.gr">
+    <title lang="el">Η Αρχή της Ισότητας</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Η πραγματική ιστορία της Ρουθ Μπέιντερ Γκίνσμπεργκ, οι αγώνες της για ίσα δικαιώματα, και οι πρώτες υποθέσεις της ηρωικής της καριέρας που την οδήγησαν στα έδρανα του Ανωτάτου Δικαστηρίου των ΗΠΑ. (115') Παραγωγή: ΗΠΑ, Κίνα, Καναδάς.</desc>
     <credits>
-      <director>Γκιγιόμ Κανέ</director>
-      <actor>Φρανσουά Κλουζέ</actor>
-      <actor>Μαρί - Ζοζέ Κροζ</actor>
-      <actor>Αντρέ Ντισολιέ</actor>
-      <actor>Κρίστιν Σκοτ Τόμας</actor>
-      <actor>Φρανσουά Μπερλεάν</actor>
+      <director>Μίμι Λέντερ</director>
+      <actor>Φελίσιτι Τζόουνς</actor>
+      <actor>Άρμι Χάμερ</actor>
+      <actor>Τζάστιν Θερού</actor>
     </credits>
-    <date>2006</date>
-    <category lang="el">Μυστηρίου</category>
+    <date>2019</date>
+    <category lang="el">Βιογραφία</category>
   </programme>
   <programme start="20211105000000 +0200" stop="20211105010000 +0200" channel="ERT3.gr">
     <title lang="el">Route 66 Ε2 (Ε)</title>
@@ -5621,17 +5648,23 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 165 av 365</episode-num>
   </programme>
-  <programme start="20211105120500 +0100" stop="20211105123500 +0100" channel="SVT2.se">
+  <programme start="20211105120500 +0100" stop="20211105121000 +0100" channel="SVT2.se">
+    <title lang="sv">Nyheter på lätt svenska</title>
+    <desc lang="sv">inga Detaljer.</desc>
+    <date>2021</date>
+    <episode-num system="onscreen">Säsong 2021. Del 169 av 220</episode-num>
+  </programme>
+  <programme start="20211105121000 +0100" stop="20211105124000 +0100" channel="SVT2.se">
     <title lang="sv">Tjejer gör lumpen</title>
     <desc lang="sv">Finsk realityserie från 2020. Undantagstillstånd. Maria har visserligen fem månader kvar av sin militärtjänstgöring, men reservofficerskursen är klar och det ska firas med en avslutningsceremoni. Rosa får köra ett pansarterrängfordon, en s k Pasi och Melissa är spänd inför en krävande övning. Så plötsligt kommer nyheter om en världsomspännande viruspandemi och allting vänds över ända. 04/11 år 2021 i SVT2.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 3. Del 9 av 10</episode-num>
   </programme>
-  <programme start="20211105123500 +0100" stop="20211105125000 +0100" channel="SVT2.se">
-    <title lang="sv">Möte med</title>
-    <desc lang="sv">Sverigefinsk intervjuserie från 2021. Lovisa Jakobsson. Lovisa Jakobsson från Umeå lärde sig finska utan någon finsk bakgrund. Nu sjunger hon finska schlagers och kallar sig sverigefinne. 01/11 år 2021 i SVT2.</desc>
-    <date>2021</date>
-    <episode-num system="onscreen">Säsong 1. Del 14 av 18</episode-num>
+  <programme start="20211105124000 +0100" stop="20211105125000 +0100" channel="SVT2.se">
+    <title lang="sv">Glimt av Norge</title>
+    <desc lang="sv">Norsk reportageserie från 2015. Sågverket som blev konsthall. Vid mitten av 1800-talet var Soli Brug ett av Europas största sågverk, men verksamheten las ner i början av 1900-talet. På denna historiska mark förekommer idag ingen träindustriverksamhet, men sedan drygt 40 år i stället konstutställningar, en familjeverksamhet som drivs av tre generationer. 16/10 år 2016 i SVT2.</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">Säsong 2015. Del 6 av 6</episode-num>
   </programme>
   <programme start="20211105125000 +0100" stop="20211105160000 +0100" channel="SVT2.se">
     <title lang="sv">Forum: Socialdemokraternas kongress</title>
@@ -5864,12 +5897,12 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 44 av 53</episode-num>
   </programme>
-  <programme start="20211106222500 +0100" stop="20211106232500 +0100" channel="SVT2.se">
+  <programme start="20211106222500 +0100" stop="20211106233000 +0100" channel="SVT2.se">
     <title lang="sv">Nordiska rådets kulturprisgala 2021</title>
     <desc lang="sv">Nordisk gala från 2021. Musikspäckad gala från Köpenhamn, där Nordiska rådet delar ut priser inom litteratur, film, musik, barn- och ungdomslitteratur och miljö.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20211106232500 +0100" stop="20211107001000 +0100" channel="SVT2.se">
+  <programme start="20211106233000 +0100" stop="20211107001500 +0100" channel="SVT2.se">
     <title lang="sv">Efterlysta för mord</title>
     <desc lang="sv">Australisk dramaserie från 2018. På flykt undan såväl polisen som Leons mördare, gör Lola och Chelsea en omväg för att hitta Sophie. Maxine och Hamish utreder mordet på Leon. 03/11 år 2021 i SVT2.</desc>
     <date>2018</date>
@@ -6407,13 +6440,13 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 17. Del 24 av 29</episode-num>
   </programme>
-  <programme start="20211106130000 +0100" stop="20211106133000 +0100" channel="TV4.se">
+  <programme start="20211106130000 +0100" stop="20211106133500 +0100" channel="TV4.se">
     <title lang="sv">Idol, fortsättning</title>
     <desc lang="sv">Svensk underhållning från 2021. Den spännande idolkvällen fortsätter. Vem kommer lyckas hålla sig kvar till nästa vecka, och vem kommer att behöva lämna?. Fantastiska framträdanden och äkta känslor väntar - det är en kväll man absolut inte vill missa. ,.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 17. Del 6 av 11</episode-num>
   </programme>
-  <programme start="20211106133000 +0100" stop="20211106140000 +0100" channel="TV4.se">
+  <programme start="20211106133500 +0100" stop="20211106140000 +0100" channel="TV4.se">
     <title lang="sv">Idol extra</title>
     <desc lang="sv">Svensk underhållning från 2021. Intervjuer, eftersnack och analyser av kvällens tävling. ,.</desc>
     <date>2021</date>
@@ -8467,14 +8500,9 @@
     <date>2018</date>
     <episode-num system="onscreen">Säsong 7. Del 12</episode-num>
   </programme>
-  <programme start="20211106204000 +0100" stop="20211106221500 +0100" channel="TV10.se">
+  <programme start="20211106204000 +0100" stop="20211107000500 +0100" channel="TV10.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Mexikos GP. . Formel 1: Kval. Autódromo Hermanos Rodríguez, Mexico City. Körs på Autódromo Hermanos Rodríguez, Mexico City. (6/11-21).</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20211106221500 +0100" stop="20211107000500 +0100" channel="TV10.se">
-    <title lang="sv">Boxning: Inför Canelo vs Plant</title>
-    <desc lang="sv">Uppladdning inför mötet mellan Canelo Álvarez och Caleb Plant i MGM Grand Garden Arena i Paradise, Las Vegas. PPV på Viaplay.</desc>
     <date>2021</date>
   </programme>
   <programme start="20211105010000 +0100" stop="20211105020000 +0100" channel="Kanal11.se">
@@ -15171,13 +15199,13 @@
     <desc lang="sv">MiamiBoston. NBA. Basket från American Airlines Arena där Miami Heat ställs mot Boston Celtics i NBA. Engelsk kommentering. ,.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20211105180500 +0100" stop="20211105183000 +0100" channel="Sportkanalen.se">
+  <programme start="20211105180500 +0100" stop="20211105183500 +0100" channel="Sportkanalen.se">
     <title lang="sv">Serie A full impact</title>
     <desc lang="sv">Magasinet ger dig höjdpunkterna från alla matcher i den senaste omgången. ,.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 10 av 40</episode-num>
   </programme>
-  <programme start="20211105183000 +0100" stop="20211105200000 +0100" channel="Sportkanalen.se">
+  <programme start="20211105183500 +0100" stop="20211105200000 +0100" channel="Sportkanalen.se">
     <title lang="sv">C More dokumentär The Infinite Race</title>
     <desc lang="sv">Amerikansk dokumentär från 2020. ESPN-dokumentär som skildrar det mexikanska urfolket Tarahumara som har långdistanslöpning som en central del av sin kultur. De blev kända genom Christopher McDougalls bok Born to Run där han skildrar hur de i oerhörd fart kan springa sträckor på 16 mil i bara tunna sandaler. I trakten finns ett känt ultramaratonlopp men för Tarahumara är löpning både själslig och en faktisk flykt från förtryck.</desc>
     <credits>
@@ -15226,13 +15254,13 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 8 av 29</episode-num>
   </programme>
-  <programme start="20211105233000 +0100" stop="20211106000000 +0100" channel="Sportkanalen.se">
+  <programme start="20211105233000 +0100" stop="20211105235500 +0100" channel="Sportkanalen.se">
     <title lang="sv">Inside Serie A</title>
     <desc lang="sv">Italienskt sportmagasin från 2021. Unikt material och exklusiva intervjuer inför varje omgång.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 12 av 38</episode-num>
   </programme>
-  <programme start="20211106000000 +0100" stop="20211106003000 +0100" channel="Sportkanalen.se">
+  <programme start="20211105235500 +0100" stop="20211106003000 +0100" channel="Sportkanalen.se">
     <title lang="sv">Serie A full impact</title>
     <desc lang="sv">Magasinet ger dig höjdpunkterna från alla matcher i den senaste omgången. ,.</desc>
     <date>2021</date>
@@ -15368,31 +15396,31 @@
     <title lang="sv">Friidrott</title>
     <desc lang="sv">Paris Maraton. Friidrott Paris. Paris Maraton. ,.</desc>
   </programme>
-  <programme start="20211105083000 +0100" stop="20211105095000 +0100" channel="Eurosport1.se">
+  <programme start="20211105083000 +0100" stop="20211105095100 +0100" channel="Eurosport1.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Yankton Compound Damer. Bågskytte: World Cup. Yankton Compound Damer. ,.</desc>
   </programme>
-  <programme start="20211105095000 +0100" stop="20211105104900 +0100" channel="Eurosport1.se">
+  <programme start="20211105095100 +0100" stop="20211105105000 +0100" channel="Eurosport1.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Malibu Damer. Triathlon Super League. Malibu Damer. ,.</desc>
   </programme>
-  <programme start="20211105104900 +0100" stop="20211105124800 +0100" channel="Eurosport1.se">
+  <programme start="20211105105000 +0100" stop="20211105124500 +0100" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">4:e omgången. Home Nations Series - English Open. Crawley, Storbritannien. ,.</desc>
   </programme>
-  <programme start="20211105124800 +0100" stop="20211105190500 +0100" channel="Eurosport1.se">
+  <programme start="20211105124500 +0100" stop="20211105190600 +0100" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">English Open, Kvartsfinal Herrar. Home Nations Series - English Open. Crawley, Storbritannien.</desc>
   </programme>
-  <programme start="20211105190500 +0100" stop="20211105194800 +0100" channel="Eurosport1.se">
+  <programme start="20211105190600 +0100" stop="20211105194500 +0100" channel="Eurosport1.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Yankton Recurve. Bågskytte: World Cup. Yankton Recurve. ,.</desc>
   </programme>
-  <programme start="20211105194800 +0100" stop="20211105230700 +0100" channel="Eurosport1.se">
+  <programme start="20211105194500 +0100" stop="20211105230500 +0100" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">English Open, Kvartsfinal Herrar. Home Nations Series - English Open. Crawley, Storbritannien.</desc>
   </programme>
-  <programme start="20211105230700 +0100" stop="20211106000700 +0100" channel="Eurosport1.se">
+  <programme start="20211105230500 +0100" stop="20211106000700 +0100" channel="Eurosport1.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Pietramurata Lopp 2 MX2. VM. Pietramurata. ,.</desc>
   </programme>
@@ -15408,11 +15436,11 @@
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Pietramurata Lopp 1 MXGP. VM. Pietramurata. ,.</desc>
   </programme>
-  <programme start="20211106031200 +0100" stop="20211106040100 +0100" channel="Eurosport1.se">
+  <programme start="20211106031200 +0100" stop="20211106040000 +0100" channel="Eurosport1.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Pietramurata Lopp 2 MXGP. VM. Pietramurata. ,.</desc>
   </programme>
-  <programme start="20211106040100 +0100" stop="20211106053300 +0100" channel="Eurosport1.se">
+  <programme start="20211106040000 +0100" stop="20211106053300 +0100" channel="Eurosport1.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Yankton Compound Damer. Bågskytte: World Cup. Yankton Compound Damer. ,.</desc>
   </programme>
@@ -15420,23 +15448,23 @@
     <title lang="sv">Brottning</title>
     <desc lang="sv">Oslo. Brottning, VM. Oslo. ,.</desc>
   </programme>
-  <programme start="20211106060000 +0100" stop="20211106070000 +0100" channel="Eurosport1.se">
+  <programme start="20211106060000 +0100" stop="20211106065500 +0100" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Damer. World Tour - Flandern runt. Damer. ,.</desc>
   </programme>
-  <programme start="20211106070000 +0100" stop="20211106080200 +0100" channel="Eurosport1.se">
+  <programme start="20211106065500 +0100" stop="20211106075700 +0100" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Iowa City Herrar. Cykelcross: USCX Cyclocross Series. Iowa City Herrar. ,.</desc>
   </programme>
-  <programme start="20211106080200 +0100" stop="20211106090000 +0100" channel="Eurosport1.se">
+  <programme start="20211106075700 +0100" stop="20211106090000 +0100" channel="Eurosport1.se">
     <title lang="sv">Endurance Car Racing, VM</title>
     <desc lang="sv">Bahrain 6-timmars Sammanfattning. ,.</desc>
   </programme>
-  <programme start="20211106090000 +0100" stop="20211106105800 +0100" channel="Eurosport1.se">
+  <programme start="20211106090000 +0100" stop="20211106110000 +0100" channel="Eurosport1.se">
     <title lang="sv">Boxning</title>
     <desc lang="sv">Belgrad Semifinal. AIBA World Boxing Championships. Belgrad Semifinal. ,.</desc>
   </programme>
-  <programme start="20211106105800 +0100" stop="20211106115500 +0100" channel="Eurosport1.se">
+  <programme start="20211106110000 +0100" stop="20211106115500 +0100" channel="Eurosport1.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">München. Triathlon Super League. München. ,.</desc>
   </programme>
@@ -15444,31 +15472,31 @@
     <title lang="sv">Snooker</title>
     <desc lang="sv">Kvartsfinal. Home Nations Series - English Open. Crawley, Storbritannien. ,.</desc>
   </programme>
-  <programme start="20211106134800 +0100" stop="20211106173000 +0100" channel="Eurosport1.se">
+  <programme start="20211106134800 +0100" stop="20211106172900 +0100" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">English Open, Semifinal Herrar. Home Nations Series - English Open. Crawley, Storbritannien.</desc>
   </programme>
-  <programme start="20211106173000 +0100" stop="20211106175400 +0100" channel="Eurosport1.se">
+  <programme start="20211106172900 +0100" stop="20211106175200 +0100" channel="Eurosport1.se">
     <title lang="sv">Yachting: Spirit of Yachting</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20211106175400 +0100" stop="20211106182200 +0100" channel="Eurosport1.se">
+  <programme start="20211106175200 +0100" stop="20211106181600 +0100" channel="Eurosport1.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Rally ERC ERC All Access. ,.</desc>
   </programme>
-  <programme start="20211106182200 +0100" stop="20211106184800 +0100" channel="Eurosport1.se">
+  <programme start="20211106181600 +0100" stop="20211106184300 +0100" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Cykel Cycling show. ,.</desc>
   </programme>
-  <programme start="20211106184800 +0100" stop="20211106221800 +0100" channel="Eurosport1.se">
+  <programme start="20211106184300 +0100" stop="20211106221800 +0100" channel="Eurosport1.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Mallorca. Bancykling: Champions League. Mallorca.</desc>
   </programme>
-  <programme start="20211106221800 +0100" stop="20211106233300 +0100" channel="Eurosport1.se">
+  <programme start="20211106221800 +0100" stop="20211106233400 +0100" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
-    <desc lang="sv">English Open, Semifinal Herrar. Home Nations Series - English Open. Crawley, Storbritannien.</desc>
+    <desc lang="sv">Semifinal. Home Nations Series - English Open. Crawley, Storbritannien.</desc>
   </programme>
-  <programme start="20211106233300 +0100" stop="20211107000800 +0100" channel="Eurosport1.se">
+  <programme start="20211106233400 +0100" stop="20211107000900 +0100" channel="Eurosport1.se">
     <title lang="sv">Endurance racing world championships: EWC all access</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
@@ -15500,31 +15528,31 @@
     <title lang="sv">Home of the Olympics Legends Live On</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20211105065700 +0100" stop="20211105075600 +0100" channel="Eurosport2.se">
+  <programme start="20211105065700 +0100" stop="20211105075900 +0100" channel="Eurosport2.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Malibu Damer. Triathlon Super League. Malibu Damer. ,.</desc>
   </programme>
-  <programme start="20211105075600 +0100" stop="20211105085700 +0100" channel="Eurosport2.se">
+  <programme start="20211105075900 +0100" stop="20211105090000 +0100" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 5 Damer. World Tour - The Women's Tour. Etapp 5 Damer. ,.</desc>
   </programme>
-  <programme start="20211105085700 +0100" stop="20211105095500 +0100" channel="Eurosport2.se">
+  <programme start="20211105090000 +0100" stop="20211105095900 +0100" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Northern Ireland Open Kvartsfinal Herrar. Snooker Home Nations Series. Northern Ireland Open Kvartsfinal Herrar. ,.</desc>
   </programme>
-  <programme start="20211105095500 +0100" stop="20211105105500 +0100" channel="Eurosport2.se">
+  <programme start="20211105095900 +0100" stop="20211105105800 +0100" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Northern Ireland Open Kvartsfinal Herrar. Snooker Home Nations Series. Northern Ireland Open Kvartsfinal Herrar. ,.</desc>
   </programme>
-  <programme start="20211105105500 +0100" stop="20211105115700 +0100" channel="Eurosport2.se">
+  <programme start="20211105105800 +0100" stop="20211105120000 +0100" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Pietramurata Lopp 1 MXGP. VM. Pietramurata. ,.</desc>
   </programme>
-  <programme start="20211105115700 +0100" stop="20211105125800 +0100" channel="Eurosport2.se">
+  <programme start="20211105120000 +0100" stop="20211105130000 +0100" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Pietramurata Lopp 2 MXGP. VM. Pietramurata. ,.</desc>
   </programme>
-  <programme start="20211105125800 +0100" stop="20211105140000 +0100" channel="Eurosport2.se">
+  <programme start="20211105130000 +0100" stop="20211105140000 +0100" channel="Eurosport2.se">
     <title lang="sv">Ridsport</title>
     <desc lang="sv">Sacramento. Världscupen. Sacramento. ,.</desc>
   </programme>
@@ -15548,55 +15576,59 @@
     <title lang="sv">Tennis</title>
     <desc lang="sv">Paris, Kvartsfinal Singel. ATP World Tour 1000-turnering. Paris.</desc>
   </programme>
-  <programme start="20211105230800 +0100" stop="20211106012300 +0100" channel="Eurosport2.se">
+  <programme start="20211105230800 +0100" stop="20211106005300 +0100" channel="Eurosport2.se">
     <title lang="sv">Boxning</title>
     <desc lang="sv">Belgrad Semifinal. AIBA World Boxing Championships. Belgrad Semifinal.</desc>
   </programme>
-  <programme start="20211106012300 +0100" stop="20211106020600 +0100" channel="Eurosport2.se">
+  <programme start="20211106005300 +0100" stop="20211106012400 +0100" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Lopp 1 Argentina. Superbike-VM. Lopp 1. ,.</desc>
   </programme>
-  <programme start="20211106020600 +0100" stop="20211106030600 +0100" channel="Eurosport2.se">
+  <programme start="20211106012400 +0100" stop="20211106022400 +0100" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Lopp 2 Argentina. Superbike-VM. Lopp 2. ,.</desc>
   </programme>
-  <programme start="20211106030600 +0100" stop="20211106035500 +0100" channel="Eurosport2.se">
+  <programme start="20211106022400 +0100" stop="20211106031400 +0100" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Northern Ireland Open Kvartsfinal Herrar. Snooker Home Nations Series. Northern Ireland Open Kvartsfinal Herrar. ,.</desc>
   </programme>
-  <programme start="20211106035500 +0100" stop="20211106045200 +0100" channel="Eurosport2.se">
+  <programme start="20211106031400 +0100" stop="20211106041000 +0100" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Northern Ireland Open Kvartsfinal Herrar. Snooker Home Nations Series. Northern Ireland Open Kvartsfinal Herrar. ,.</desc>
   </programme>
-  <programme start="20211106045200 +0100" stop="20211106060000 +0100" channel="Eurosport2.se">
+  <programme start="20211106041000 +0100" stop="20211106051900 +0100" channel="Eurosport2.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Malibu Damer. Triathlon Super League. Malibu Damer. ,.</desc>
+  </programme>
+  <programme start="20211106051900 +0100" stop="20211106060000 +0100" channel="Eurosport2.se">
+    <title lang="sv">Tennis</title>
+    <desc lang="sv">Tennis ATP Uncovered. ,.</desc>
   </programme>
   <programme start="20211106060000 +0100" stop="20211106063000 +0100" channel="Eurosport2.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Yankton Compound. Bågskytte: World Cup. Yankton Compound. ,.</desc>
   </programme>
-  <programme start="20211106063000 +0100" stop="20211106070100 +0100" channel="Eurosport2.se">
+  <programme start="20211106063000 +0100" stop="20211106065700 +0100" channel="Eurosport2.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Yankton Recurve. Bågskytte: World Cup. Yankton Recurve. ,.</desc>
   </programme>
-  <programme start="20211106070100 +0100" stop="20211106080200 +0100" channel="Eurosport2.se">
+  <programme start="20211106065700 +0100" stop="20211106075800 +0100" channel="Eurosport2.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">München. Triathlon Super League. München. ,.</desc>
   </programme>
-  <programme start="20211106080200 +0100" stop="20211106090000 +0100" channel="Eurosport2.se">
+  <programme start="20211106075800 +0100" stop="20211106085600 +0100" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 6 Damer. World Tour - The Women's Tour. Etapp 6 Damer. ,.</desc>
   </programme>
-  <programme start="20211106090000 +0100" stop="20211106095900 +0100" channel="Eurosport2.se">
+  <programme start="20211106085600 +0100" stop="20211106095500 +0100" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Northern Ireland Open Semifinal Herrar. Snooker Home Nations Series. Northern Ireland Open Semifinal Herrar. ,.</desc>
   </programme>
-  <programme start="20211106095900 +0100" stop="20211106105500 +0100" channel="Eurosport2.se">
+  <programme start="20211106095500 +0100" stop="20211106105100 +0100" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Northern Ireland Open Semifinal Herrar. Snooker Home Nations Series. Northern Ireland Open Semifinal Herrar. ,.</desc>
   </programme>
-  <programme start="20211106105500 +0100" stop="20211106114800 +0100" channel="Eurosport2.se">
+  <programme start="20211106105100 +0100" stop="20211106114800 +0100" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Trentino Lopp 2 MX2 Herrar. VM. Trentino. ,.</desc>
   </programme>
@@ -15628,11 +15660,11 @@
     <title lang="sv">Brottning</title>
     <desc lang="sv">Oslo. Brottning, VM. Oslo. ,.</desc>
   </programme>
-  <programme start="20211106220800 +0100" stop="20211106234500 +0100" channel="Eurosport2.se">
+  <programme start="20211106220800 +0100" stop="20211106234900 +0100" channel="Eurosport2.se">
     <title lang="sv">Boxning</title>
     <desc lang="sv">Belgrad Final. AIBA World Boxing Championships. Belgrad Final.</desc>
   </programme>
-  <programme start="20211106234500 +0100" stop="20211107004600 +0100" channel="Eurosport2.se">
+  <programme start="20211106234900 +0100" stop="20211107004700 +0100" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Garda Lopp 1 MXGP. VM. Garda. ,.</desc>
   </programme>
@@ -15808,17 +15840,19 @@
     </credits>
     <date>2021</date>
   </programme>
-  <programme start="20211106005000 +0100" stop="20211106024000 +0100" channel="ViasatSportPremium.se">
-    <title lang="sv">Fotboll</title>
-    <desc lang="sv">Omgång 11. SouthamptonAston Villa. Premier League. St Mary's Stadium, Southampton. Omgång 11. Från St Mary's Stadium, Southampton. Kommentator: Robert Tennisberg (5/11-21). 05/11 år 2021 i V Sport Premium. Kommentator: Robert Tennisberg.</desc>
-    <credits>
-      <presenter>Robert Tennisberg (5/11-21) 05/11 år 2021 i V Sport Premium  Producerat år 2021  Kommentator:</presenter>
-    </credits>
-    <date>2021</date>
-  </programme>
-  <programme start="20211106024000 +0100" stop="20211106083000 +0100" channel="ViasatSportPremium.se">
+  <programme start="20211106005000 +0100" stop="20211106010500 +0100" channel="ViasatSportPremium.se">
     <title lang="sv">Sändningsuppehåll</title>
     <desc lang="sv">Sändningsuppehåll. 04/11 år 2021 i V Sport Premium.</desc>
+  </programme>
+  <programme start="20211106010500 +0100" stop="20211106033000 +0100" channel="ViasatSportPremium.se">
+    <title lang="sv">Ishockey</title>
+    <desc lang="sv">Winnipeg JetsChicago Blackhawks. NHL. Canada Life Centre, Winnipeg. Från Canada Life Centre, Winnipeg. (5/11-21).</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20211106033000 +0100" stop="20211106083000 +0100" channel="ViasatSportPremium.se">
+    <title lang="sv">Ishockey</title>
+    <desc lang="sv">Los Angeles KingsNew Jersey Devils. NHL. Staples Center, Los Angeles. Från Staples Center, Los Angeles. (5/11-21).</desc>
+    <date>2021</date>
   </programme>
   <programme start="20211106083000 +0100" stop="20211106103000 +0100" channel="ViasatSportPremium.se">
     <title lang="sv">Fotboll</title>
@@ -15887,12 +15921,18 @@
     </credits>
     <date>2021</date>
   </programme>
-  <programme start="20211106222000 +0100" stop="20211107001000 +0100" channel="ViasatSportPremium.se">
-    <title lang="sv">Fotboll</title>
-    <desc lang="sv">Omgång 11. Manchester UnitedManchester City. Premier League. Old Trafford, Manchester. Omgång 11. Från Old Trafford, Manchester. 06/11 år 2021 i V Sport Premium.</desc>
-    <credits>
-      <presenter>Glenn Strömberg Niklas Holmgren</presenter>
-    </credits>
+  <programme start="20211106222000 +0100" stop="20211106225000 +0100" channel="ViasatSportPremium.se">
+    <title lang="sv">Football's Greatest: Dennis Bergkamp</title>
+    <desc lang="sv">I denna serie får vi uppleva några av de bästa fotbollsspelarna genom tiderna. 14/06 år 2021 i V Sport Premium.</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20211106225000 +0100" stop="20211106230500 +0100" channel="ViasatSportPremium.se">
+    <title lang="sv">Sändningsuppehåll</title>
+    <desc lang="sv">Sändningsuppehåll. 06/11 år 2021 i V Sport Premium.</desc>
+  </programme>
+  <programme start="20211106230500 +0100" stop="20211107020000 +0100" channel="ViasatSportPremium.se">
+    <title lang="sv">Ishockey</title>
+    <desc lang="sv">Florida PanthersCarolina Hurricanes. NHL. FLA Live Arena i Sunrise, Florida. Från FLA Live Arena i Sunrise, Florida. (6/11-21).</desc>
     <date>2021</date>
   </programme>
   <programme start="20211105005000 +0100" stop="20211105024000 +0100" channel="ViasatFotboll.se">
