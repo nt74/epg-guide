@@ -1071,7 +1071,7 @@
     <date>2021</date>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20211202223000 +0200" stop="20211203004000 +0200" channel="Alpha.gr">
+  <programme start="20211202223000 +0200" stop="20211203010000 +0200" channel="Alpha.gr">
     <title lang="el">The Bachelor</title>
     <desc lang="el">Ένας άντρας, 21 γυναίκες! Όλες θέλουν να κερδίσουν το μυαλό και την καρδιά του και θα κάνουν τα πάντα για να το πετύχουν! Στο τέλος, μόνο μία θα καταφέρει να τον κατακτήσει, να δεχτεί το μονόπετρο και να γίνει η γυναίκα της ζωής του. Παραγωγή: Ελλάδα.</desc>
     <category lang="el">Reality Show</category>
@@ -2347,7 +2347,7 @@
     <title lang="el">Πλανήτης Σεφ</title>
     <desc lang="el">Από όπου και αν κατάγονται, Βραζιλία, Αργεντινή, Ιαπωνία, Νότια Αφρική ή Φιλιππίνες, όλοι έμαθαν να μαγειρεύουν στη Γαλλία, προτού ανοίξουν δικό τους εστιατόριο. Γνωρίστε αυτούς του δημιουργικούς Σεφ. Παραγωγή: Γαλλία.</desc>
   </programme>
-  <programme start="20211202054500 +0200" stop="20211202070000 +0200" channel="ERT2.gr">
+  <programme start="20211202054500 +0200" stop="20211202061500 +0200" channel="ERT2.gr">
     <title lang="el">Έμα (Ε)</title>
     <desc lang="el">Βρετανική μίνι-σειρά παραγωγής 2009. Η Έμα Γούντχαους φαίνεται απόλυτα ικανοποιημένη: έχει έναν στοργικό πατέρα τον οποίον αγαπά, φίλους και σπίτι. Αλλά η Έμμα έχει μια κακή συνήθεια - τα προξενειά. Της είναι αδύνατον να αντισταθεί στο πειρασμό να βρει κατάλληλους μνηστήρες για τις φίλες της.</desc>
     <credits>
@@ -2358,6 +2358,17 @@
       <actor>Ρόμπερτ Μπάτχερστ</actor>
     </credits>
     <category lang="el">Κωμωδία - Κωμωδία</category>
+  </programme>
+  <programme start="20211202061500 +0200" stop="20211202070000 +0200" channel="ERT2.gr">
+    <title lang="el">Παιχνίδια Ματαιοδοξίας Κ1 (Ε)</title>
+    <desc lang="el">Η ιστορία διαδραματίζεται με φόντο τους Ναπολεόντιους πολέμους και ακολουθεί τη ζωή της Μπέκι Σαρπ, καθώς προσπαθεί να ξεφύγει από τη φτώχια και να αναδυθεί κοινωνικά. Παραγωγή: Βρετανία, ΗΠΑ.</desc>
+    <credits>
+      <director>Τζέιμς Στρονγκ</director>
+      <actor>Ολίβια Κουκ</actor>
+      <actor>Τομ Μπέιτμαν</actor>
+      <actor>Τζόνι Φλιν</actor>
+    </credits>
+    <category lang="el">Ιστορική</category>
   </programme>
   <programme start="20211202070000 +0200" stop="20211202072500 +0200" channel="ERT2.gr">
     <title lang="el">Ζιγκ και Σαρκό</title>
@@ -2376,12 +2387,12 @@
     <desc lang="el">Συμπαραγωγή Γαλλίας-Καναδά, 2017. Η πεντάχρονη Έλεν ονειρεύεται να γίνει δασκάλα και κάνει μάθημα στα παιχνίδια της. Παρά το γεγονός ότι οι μαθητές της είναι αρκετά άτακτοι, ανακαλύπτουν πως ακούγοντας και βοηθώντας τους άλλους, είναι ο καλύτερος τρόπος για να μάθουν.</desc>
   </programme>
   <programme start="20211202083000 +0200" stop="20211202090000 +0200" channel="ERT2.gr">
-    <title lang="el">Ιατρική και Λαϊκές Παραδόσεις Κ1 (Ε)</title>
-    <desc lang="el">Επεισόδιο: Κένυα. Μια παγκόσμια περιοδεία στις αρχαίες ιατρικές πρακτικές και σε μαγευτικά τοπία. Ο Bernard Fontanille, γιατρός έκτακτης ανάγκης, ταξιδεύει στις τέσσερις γωνιές του πλανήτη για να φροντίσει και να θεραπεύσει ανθρώπους και να απαλύνει τον πόνο τους.</desc>
+    <title lang="el">Ιατρική και Λαϊκές Παραδόσεις Κ2 Ε4 (Ε)</title>
+    <desc lang="el">Επεισόδιο: Καμερούν. Σειρά ντοκιμαντέρ, Γαλλικής παραγωγής 2013-2014. Μια παγκόσμια περιοδεία στις αρχαίες ιατρικές πρακτικές και σε μαγευτικά τοπία. Ο Bernard Fontanille, γιατρός έκτακτης ανάγκης, ταξιδεύει στις τέσσερις γωνιές του πλανήτη για να φροντίσει και να θεραπεύσει ανθρώπους και να απαλύνει τον πόνο τους.</desc>
   </programme>
   <programme start="20211202090000 +0200" stop="20211202100000 +0200" channel="ERT2.gr">
-    <title lang="el">Η Μαγική Χώρα του Οζ Κ1 Ε2 (Ε)</title>
-    <desc lang="el">Ωκεανός. Στο σημερινό επεισόδιο θα δούμε πώς οι τρεις θάλασσες που περιβάλλουν τη χώρα -Νότια Θάλασσα, Ειρηνικός και Ινδικός Ωκεανός- δημιουργούν ένα μοναδικό περιβάλλον για θαλάσσιες μετακινήσεις κάθε είδους.</desc>
+    <title lang="el">Στις Ερήμους της Αραβίας Ε3 (Ε)</title>
+    <desc lang="el">Επεισόδιο: Ζωή και Θάνατος στους Αμμόλοφους. Ακόμα και τα πιο σκληροτράχηλα είδη γνωρίζουν ότι θάνατος καραδοκεί και καθημερινά παλεύουν για να εξασφαλίσουν τα απαραίτητα για την επιβίωση: τροφή, νερό, καταφύγιο. Παραγωγή: Καναδάς.</desc>
   </programme>
   <programme start="20211202100000 +0200" stop="20211202110000 +0200" channel="ERT2.gr">
     <title lang="el">Σιδηροδρομικοί Σταθμοί της Ευρώπης Ε1 (Ε)</title>
@@ -2393,13 +2404,12 @@
     <category lang="el">Εκπομπή Μαγειρικής</category>
   </programme>
   <programme start="20211202120000 +0200" stop="20211202130000 +0200" channel="ERT2.gr">
-    <title lang="el">Κομφούκιος, Ένας Γκουρμέ Φιλόσοφος</title>
-    <desc lang="el">Επεισόδιο: Πικρές γεύσεις. Οι Κινέζοι αγαπούν το πικρό, το χρησιμοποιούν παντού διότι πιστεύουν ότι εξισορροπεί τις γεύσεις και η σεφ Κριστίν Κούσινγκ ανακαλύπτει τη γοητεία των πικρών ποτών στο Χονγκ Κονγκ και στην Μπανγκόκ. Παραγωγή: Καναδάς.</desc>
-    <date>2017</date>
+    <title lang="el">Πλανήτης Σεφ Κ1 Ε3 (Ε)</title>
+    <desc lang="el">Επεισόδιο: Αργεντινή - Mauro Colagreco. Από όπου και αν κατάγονται, Βραζιλία, Αργεντινή, Ιαπωνία, Νότια Αφρική ή Φιλιππίνες, όλοι έμαθαν να μαγειρεύουν στη Γαλλία, προτού ανοίξουν δικό τους εστιατόριο. Γνωρίστε αυτούς του δημιουργικούς Σεφ. Παραγωγή: Γαλλία.</desc>
   </programme>
   <programme start="20211202130000 +0200" stop="20211202140000 +0200" channel="ERT2.gr">
-    <title lang="el">Ιστορίες Όμορφης Ζωής Ε5 (Ε)</title>
-    <desc lang="el">Επεισόδιο: Όλα Καθαρά. Σε μια γρήγορη, απαιτητική και συχνά τοξική ρουτίνα, ο τρόπος που φροντίζουμε τον εαυτό μας, ο τρόπος που σκεφτόμαστε, μπορεί να γίνει πιο απλός και πιο καθαρός.</desc>
+    <title lang="el">Ιστορίες Όμορφης Ζωής</title>
+    <desc lang="el">Επεισόδιο: Σύγχρονη διατροφή. Απέναντι στις γρήγορες γαστρονομικές λύσεις και συνήθειες, η ανάγκη για μια πιο ισορροπημένη διατροφή γίνεται όλο και πιο επιτακτική.</desc>
   </programme>
   <programme start="20211202140000 +0200" stop="20211202143000 +0200" channel="ERT2.gr">
     <title lang="el">1.000 Χρώματα του Χρήστου</title>
@@ -2411,13 +2421,13 @@
     <desc lang="el">Μάθετε καθημερινά τα νέα από το 24ο Διεθνές Φεστιβάλ Κινηματογράφου Ολυμπίας για Παιδιά και Νέους.</desc>
   </programme>
   <programme start="20211202143500 +0200" stop="20211202150000 +0200" channel="ERT2.gr">
-    <title lang="el">Η Καλύτερη Τούρτα Κερδίζει Ε4 (Ε)</title>
-    <desc lang="el">Οι καλύτεροι αμερικανοί ζαχαροπλάστες φτιάχνουν τούρτες γενεθλίων και διαγωνίζονται μεταξύ τους, για να εντυπωσιάσουν τους πιο αυστηρούς κριτές. Παραγωγή: ΗΠΑ, Καναδάς.</desc>
+    <title lang="el">Η Καλύτερη Τούρτα Κερδίζει</title>
+    <desc lang="el">Επεισόδιο: Χόκεϊ επί πάγου. Οι καλύτεροι αμερικανοί ζαχαροπλάστες φτιάχνουν τούρτες γενεθλίων και διαγωνίζονται μεταξύ τους, για να εντυπωσιάσουν τους πιο αυστηρούς κριτές. Παραγωγή: ΗΠΑ, Καναδάς.</desc>
     <date>2019</date>
   </programme>
   <programme start="20211202150000 +0200" stop="20211202160000 +0200" channel="ERT2.gr">
-    <title lang="el">Η Μαγική Χώρα του Οζ Κ1 Ε3 (Ε)</title>
-    <desc lang="el">Άνθρωπος. Παρά τον μικρό πληθυσμό της Αυστραλίας, οι αλλαγές που επιφέρει ο άνθρωπος είναι σαρωτικές. Μαθαίνουμε ιστορίες επιτυχίας της φύσης αλλά και για τους αδύναμους καθώς η ήπειρος βιώνει ραγδαία μεταβολή.</desc>
+    <title lang="el">Στις Ερήμους της Αραβίας Ε4 (Ε)</title>
+    <desc lang="el">Επεισόδιο: Τα θαύματα του Γουάντι. Γύρω από τα Γουάντις, τις μικρές νερότρυπες μέσα στην έρημο που προσφέρουν πόρους ζωτικής σημασίας, η ζωή ανθίζει. Ο κίνδυνος όμως καραδοκεί, καθώς οι θηρευτές εμφανίζονται. Παραγωγή: Καναδάς.</desc>
   </programme>
   <programme start="20211202160000 +0200" stop="20211202170000 +0200" channel="ERT2.gr">
     <title lang="el">Σιδηροδρομικοί Σταθμοί της Ευρώπης</title>
@@ -2428,56 +2438,53 @@
     <desc lang="el">Επεισόδιο: Είμαι Επικίνδυνη. H Στέλλα Κάσδαγλη (συγγραφέας και συνιδρύτρια του Women on Top), η Μαρία Γιαννιού (Corporate Trainer, ιδρύτρια του Lead From Within και συνιδρύτρια του Women Act) και ο ηθοποιός Αναστάσης Ροϊλός μιλούν για το βιβλίο Είμαι Επικίνδυνη.</desc>
   </programme>
   <programme start="20211202180000 +0200" stop="20211202190000 +0200" channel="ERT2.gr">
-    <title lang="el">Λογική και Ευαισθησία</title>
-    <desc lang="el">Επεισόδιο: (τελευταίο). Δραματική μίνι σειρά εποχής, παραγωγής BBC 2008. Αυτή είναι η ιστορία δύο αδελφών, που προσπαθούν να ανακαλύψουν το σεξουαλικό πάθος και την αγάπη στη συντηρητική Αγγλία του 19ου αιώνα. Βασισμένη στο κλασικό μυθιστόρημα της Τζέιν Όστεν.</desc>
+    <title lang="el">Παιχνίδια Ματαιοδοξίας</title>
+    <desc lang="el">Έφτασε η στιγμή της Μπέκι να λάμψει, καθώ τη συστήνουν στον βασιλιά. Με μεγάλο κόστος, βέβαια. Θα κρατηθεί ο γάμος της, μετά τις νέες εξελίξεις; Παραγωγή: Βρετανία, ΗΠΑ.</desc>
     <credits>
-      <director>Τζον Αλεξάντερ</director>
-      <actor>Τσάριτι Γουέικφιλντ</actor>
-      <actor>Χάτι Μόραχαν</actor>
-      <actor>Ντέιβιντ Μόρισεϊ</actor>
-      <actor>Ντόμινικ Κούπερ</actor>
-      <actor>Τζάνετ Μακ Τιρ</actor>
+      <director>Τζέιμς Στρονγκ</director>
+      <actor>Ολίβια Κουκ</actor>
+      <actor>Τομ Μπέιτμαν</actor>
+      <actor>Τζόνι Φλιν</actor>
     </credits>
+    <category lang="el">Ιστορική</category>
   </programme>
   <programme start="20211202190000 +0200" stop="20211202200000 +0200" channel="ERT2.gr">
-    <title lang="el">Μεγάλες Προσδοκίες</title>
-    <desc lang="el">Μια τρομακτική συνάντηση στους βάλτους μ' έναν δραπέτη και το κάλεσμα από τη μυστηριώδη Μις Χάβισαμ αλλάζουν τη ζωή του ορφανού Πιπ για πάντα. Τολμά να πιστέψει πως θα μπορούσε να έχει ένα άλλο μέλλον, πέρα από τους βάλτους - ένα μέλλον που να συνδέεται μ' αυτό της όμορφης Εστέλα.</desc>
+    <title lang="el">Παιχνίδια Ματαιοδοξίας</title>
+    <desc lang="el">Η Μπέκι είναι μόνη και σε άθλιες συνθήκες διαβίωσης. Ο Ντόμπιν ανακαλύπτει ότι η Αμέλια θέλει να ξανά παντρευτεί και της εκμυστηρεύεται τα αισθήματά του. Οι Σέντλεϊ έχουν μια απροσδόκητη συνάντηση στις διακοπές. Παραγωγή: Βρετανία, ΗΠΑ.</desc>
     <credits>
-      <director>Μπράιαν Κερκ</director>
-      <actor>Ντάγκλας Μπουθ</actor>
-      <actor>Τζακ Ροθ</actor>
-      <actor>Τζίλιαν Άντερσον</actor>
-      <actor>Ρέι Γουίνστον</actor>
+      <director>Τζέιμς Στρονγκ</director>
+      <actor>Ολίβια Κουκ</actor>
+      <actor>Τομ Μπέιτμαν</actor>
+      <actor>Τζόνι Φλιν</actor>
     </credits>
-    <category lang="el">Εποχής</category>
+    <category lang="el">Ιστορική</category>
   </programme>
   <programme start="20211202200000 +0200" stop="20211202210000 +0200" channel="ERT2.gr">
-    <title lang="el">Ο Αταίριαστος</title>
-    <desc lang="el">Ένα νεαρό αγόρι προσπαθεί να προσαρμοστεί στη νέα του ζωή, σε ένα χωριό της μεταπολεμικής Αγγλίας, έπειτα από τον θάνατο της μητέρας του.</desc>
+    <title lang="el">Η Κολεξιόν</title>
+    <desc lang="el">Επεισόδιο: Η Μυρωδιά. Η νέα εμπορική συμφωνία κινδυνεύει να χαλάσει όταν Paul και Jules διαφωνούν για το πώς θα διαχειριστούν την επιχείρηση. Ο θρίαμβος της Nina ως μοντέλου παίρνει άσχημη τροπή. Παραγωγή: Βρετανία.</desc>
     <credits>
-      <director>Ίεν Σόφτλι</director>
+      <actor>Ρίτσαρντ Κόιλ</actor>
+      <actor>Μάμι Γκάμερ</actor>
+      <actor>Τομ Ράιλι</actor>
     </credits>
-    <category lang="el">Κοινωνική</category>
+    <date>2016</date>
+    <category lang="el">Εποχής</category>
   </programme>
   <programme start="20211202210000 +0200" stop="20211202220000 +0200" channel="ERT2.gr">
     <title lang="el">Doctor Foster</title>
     <desc lang="el">Η γιατρός Φόστερ είναι μια αξιοσέβαστη επαγγελματίας, άνθρωπος που την εμπιστεύονται όλοι και ταυτόχρονα είναι και μια αφοσιωμένη μητέρα και σύζυγος. Η ζωή της όλη ανατρέπεται, όταν υποψιάζεται ότι ο άντρας της έχει εξωσυζυγική σχέση. Παραγωγή: Βρετανία.</desc>
   </programme>
-  <programme start="20211202220000 +0200" stop="20211202234500 +0200" channel="ERT2.gr">
-    <title lang="el">Μετά τον Χωρισμό (Custody)</title>
-    <desc lang="el">Με τον χωρισμό των γονιών του να μετατρέπει σταδιακά την οικογενειακή ζωή τους σε πεδίο μάχης, ένα ανήλικο αγόρι βρίσκεται παγιδευμένο ανάμεσα στη φοβισμένη, υπερπροστατευτική μητέρα του και στον ανεξέλεγκτα βίαιο πατέρα του. (91') Παραγωγή: Γαλλία.</desc>
+  <programme start="20211202220000 +0200" stop="20211203000000 +0200" channel="ERT2.gr">
+    <title lang="el">Η Κόκκινη Τζόαν (Red Joan)</title>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Αγγλία, 2000. Μια φιλήσυχη συνταξιούχος συλλαμβάνεται από τις βρετανικές μυστικές υπηρεσίες με την κατηγορία της εσχάτης προδοσίας για την αποκάλυψη κρατικών μυστικών στους Σοβιετικούς... Η ταινία βασίζεται σε αληθινή ιστορία. (101') Παραγωγή: Βρετανία.</desc>
     <credits>
-      <director>Ξαβιέ Λεγκράν</director>
-      <actor>Λεά Ντρουκέρ</actor>
-      <actor>Ντενί Μενοσέ</actor>
-      <actor>Τομάς Γκιοριά</actor>
+      <director>Τρέβορ Ναν</director>
+      <actor>Τζούντι Ντεντς</actor>
+      <actor>Σόφι Κούκσον</actor>
+      <actor>Στίβεν Κάμπελ Μουρ</actor>
     </credits>
-    <date>2018</date>
+    <date>2019</date>
     <category lang="el">Ταινία - Δράμα</category>
-  </programme>
-  <programme start="20211202234500 +0200" stop="20211203000000 +0200" channel="ERT2.gr">
-    <title lang="el">Η Εποχή των Εικόνων</title>
-    <desc lang="el">Ο κύριος Ροβινσώνας Κρούσος έμεινε σπίτι. Περιπέτειες σχεδιασμού σε συνθήκες κρίσης.</desc>
   </programme>
   <programme start="20211201000000 +0200" stop="20211201003000 +0200" channel="ERT3.gr">
     <title lang="el">Εκεί που Γεννιούνται οι Θρύλοι Κ1 Ε7 (Ε)</title>
@@ -4465,7 +4472,7 @@
     <date>2020</date>
     <category lang="el">Μυστηρίου</category>
   </programme>
-  <programme start="20211202043500 +0200" stop="20211202065000 +0200" channel="CosmoteCinema1.gr">
+  <programme start="20211202043500 +0200" stop="20211202065500 +0200" channel="CosmoteCinema1.gr">
     <title lang="el">Μην τα Βάζετε με τους Τζόουνς (Keeping Up With the Joneses)</title>
     <desc lang="el">Η ήσυχη ζωή ενός συνηθισμένου ζευγαριού των προαστίων αποκτά ενδιαφέρον όταν δίπλα του μετακομίζουν οι Τζόουνς. Οι νέοι γείτονες είναι όμορφοι, εκλεπτυσμένοι και τέλειοι σε ό,τι κάνουν. Κι όμως... δεν είναι αυτό που δείχνουν! (101') Παραγωγή: ΗΠΑ.</desc>
     <credits>
@@ -4477,7 +4484,7 @@
     <date>2016</date>
     <category lang="el">Κωμωδία - Κωμωδία</category>
   </programme>
-  <programme start="20211202065000 +0200" stop="20211202082500 +0200" channel="CosmoteCinema1.gr">
+  <programme start="20211202065500 +0200" stop="20211202083000 +0200" channel="CosmoteCinema1.gr">
     <title lang="el">Take Care</title>
     <desc lang="el">Όταν ένα αυτοκινητιστικό ατύχημα την καθηλώνει στο κρεβάτι, η Φράνι συνειδητοποιεί ότι οι φίλοι της δεν έχουν καμιά διάθεση να τη φροντίσουν. Μέσα στην απελπισία της, στρέφεται στον πρώην της... και τα ευτράπελα ξεκινούν. (90') Παραγωγή: ΗΠΑ.</desc>
     <credits>
@@ -4489,7 +4496,7 @@
     <date>2014</date>
     <category lang="el">Ταινία - Κωμωδία</category>
   </programme>
-  <programme start="20211202082500 +0200" stop="20211202100000 +0200" channel="CosmoteCinema1.gr">
+  <programme start="20211202083000 +0200" stop="20211202100000 +0200" channel="CosmoteCinema1.gr">
     <title lang="el">Cerise</title>
     <desc lang="el">Η αντιδραστική 14χρονη Σερίς βρίσκεται από τα προάστια του Παρισιού στην Ουκρανία, για να ζήσει με τον μέχρι πρότινος άφαντο πατέρα της. Ενώ μια επανάσταση σιγοβράζει γύρω της, η ανήσυχη έφηβη αρχίζει να ανακαλύπτει τον εαυτό της. (90') Παραγωγή: Γαλλία.</desc>
     <credits>
@@ -4590,7 +4597,7 @@
     <date>2018</date>
     <category lang="el">Κωμωδία - Κωμωδία</category>
   </programme>
-  <programme start="20211202230000 +0200" stop="20211202231500 +0200" channel="CosmoteCinema1.gr">
+  <programme start="20211202230000 +0200" stop="20211202231000 +0200" channel="CosmoteCinema1.gr">
     <title lang="el">Hitman: Εκτελεστής 47 (Hitman)</title>
     <desc lang="el">Ο Πράκτορας 47, επαγγελματίας δολοφόνος, αναλαμβάνει να σκοτώσει τον Ρώσο πρόεδρο, αλλά παγιδεύεται σε μια πολιτική πλεκτάνη. Στο στόχαστρο της Ιντερπόλ και του ρωσικού στρατού, πρέπει τώρα να ανακαλύψει ποιοι του έστησαν τη θανάσιμη παγίδα. (89') Παραγωγή: Γαλλία, ΗΠΑ.</desc>
     <credits>
@@ -4602,9 +4609,9 @@
     <date>2007</date>
     <category lang="el">Δράσης</category>
   </programme>
-  <programme start="20211202231500 +0200" stop="20211203003500 +0200" channel="CosmoteCinema1.gr">
+  <programme start="20211202231000 +0200" stop="20211203004500 +0200" channel="CosmoteCinema1.gr">
     <title lang="el">When Rock Music Changed the World</title>
-    <desc lang="el">ΠΡΕΜΙΕΡΑ. Παγκόσμια Ημέρα κατά του AIDS. Η συναυλία προς τιμή του θρυλικού Φρέντι Μέρκιουρι ήταν -μετά το Live Aid- η μεγαλύτερη συναυλία στην ιστορία. Μέσα από αφηγήσεις όσων συμμετείχαν και πλούσιο υλικό πίσω από τις κάμερες γνωρίζουμε επιτέλους την ιστορία της! (75') Παραγωγή: Βρετανία.</desc>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Παγκόσμια Ημέρα κατά του AIDS. Η συναυλία προς τιμή του θρυλικού Φρέντι Μέρκιουρι ήταν -μετά το Live Aid- η μεγαλύτερη συναυλία στην ιστορία. Μέσα από αφηγήσεις όσων συμμετείχαν και πλούσιο υλικό πίσω από τις κάμερες γνωρίζουμε επιτέλους την ιστορία της! (90') Παραγωγή: Βρετανία.</desc>
     <credits>
       <director>Τζέιμς Ρόγκαν</director>
     </credits>
@@ -5381,11 +5388,23 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 1. Del 9 av 10</episode-num>
   </programme>
-  <programme start="20211201101000 +0100" stop="20211201111000 +0100" channel="SVT1.se">
-    <title lang="sv">1 mot Sverige</title>
-    <desc lang="sv">Svensk frågesport från 2021. Direktsänd frågesport med spektakulära experiment. Vi firar första advent med explosioner, att ro i ett badkar och tävlande bebisar. Så ta nu chansen för alla kan vara med och tävla live via DUO-appen och hela Sverige tävlar som ett lag. Vem vinner - Frida Bucht ifrån Kiruna eller lag Sverige?. Vid sin sida har den tävlande Ellen Bergström och Kodjo Akolor som en hjälpande hand. 28/11 år 2021 i SVT1.</desc>
+  <programme start="20211201101000 +0100" stop="20211201102500 +0100" channel="SVT1.se">
+    <title lang="sv">Big cities</title>
+    <desc lang="sv">Svensk dokumentärserie från 2017. Energihjälpen. Belgien är Europas mest tätbefolkade land. Det ställer stora krav på en mer hållbar livsstil. Michaël Cotton och Damien Carnoy har minskat sin egen energiförbrukning, men de har också utvecklat alternativa bostäder. Nu vill de sprida sina erfarenheter till andra medborgare. 24/11 år 2021 i SVT1.</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">Säsong 2017. Del 17 av 28</episode-num>
+  </programme>
+  <programme start="20211201102500 +0100" stop="20211201104000 +0100" channel="SVT1.se">
+    <title lang="sv">En annan sida av historien</title>
+    <desc lang="sv">Svensk utbildningsserie från 2021. Andra världskriget. Utan hjälp från de länder som stormakterna hade koloniserat hade förmodligen andra världskrigets historia sett annorlunda ut. Hur var det för de soldater som fick lämna sina familjer på andra sidan jorden för att kriga för ett land där man fick sämre förutsättningar än de övriga soldaterna?. 24/11 år 2021 i SVT1.</desc>
     <date>2021</date>
-    <episode-num system="onscreen">Säsong 1. Del 7 av 10</episode-num>
+    <episode-num system="onscreen">Säsong 2021. Del 6 av 8</episode-num>
+  </programme>
+  <programme start="20211201104000 +0100" stop="20211201111000 +0100" channel="SVT1.se">
+    <title lang="sv">Ögonblicken som förändrade sporten</title>
+    <desc lang="sv">Cathy Freemans guld förenar ett land. Kathrine Switzer spränger gränserna för kvinnligt långlopp. Och intresset för dressyr ökar kraftigt när Joep Bartels får idén att utföra sporten till musik. UR. 03/04 år 2019 i SVT1.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">Säsong 1. Del 7 av 8</episode-num>
   </programme>
   <programme start="20211201111000 +0100" stop="20211201115500 +0100" channel="SVT1.se">
     <title lang="sv">Go'kväll</title>
@@ -6503,18 +6522,15 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 153 av 260</episode-num>
   </programme>
-  <programme start="20211201224000 +0100" stop="20211201225000 +0100" channel="TV4.se">
+  <programme start="20211201224000 +0100" stop="20211201225500 +0100" channel="TV4.se">
     <title lang="sv">Sporten</title>
     <desc lang="sv">De senaste nyheterna från sportvärlden.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 153 av 260</episode-num>
   </programme>
-  <programme start="20211201225000 +0100" stop="20211201230000 +0100" channel="TV4.se">
+  <programme start="20211201225500 +0100" stop="20211201230000 +0100" channel="TV4.se">
     <title lang="sv">TV4Vädret</title>
-    <desc lang="sv">Se hur vädret ska bli där du befinner dig. Följ våra senaste väderleksrapporter när det passar dig eller live när det sänds. Väderprognosen .</desc>
-    <credits>
-      <presenter>meteorologerna på TV4</presenter>
-    </credits>
+    <desc lang="sv">Meteorologerna på TV4 presenterar väderprognosen.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 153 av 260</episode-num>
   </programme>
@@ -7581,13 +7597,13 @@
     </credits>
     <date>2017</date>
   </programme>
-  <programme start="20211201190000 +0100" stop="20211201195500 +0100" channel="Sjuan.se">
+  <programme start="20211201190000 +0100" stop="20211201200000 +0100" channel="Sjuan.se">
     <title lang="sv">Bachelorette Sverige</title>
     <desc lang="sv">Svensk realityserie från 2021. Pontus blir besviken när hans härliga dag på havet med Julia förstörs av att en ny kille snor iväg henne. Samtidigt kommer en gammal bachelorbekant till huset. Med de nya killarna ökar konkurrensen i huset ytterligare och stämningen blir spänd.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 1. Del 11 av 20</episode-num>
   </programme>
-  <programme start="20211201195500 +0100" stop="20211201210000 +0100" channel="Sjuan.se">
+  <programme start="20211201200000 +0100" stop="20211201210000 +0100" channel="Sjuan.se">
     <title lang="sv">På kryssning med Jane McDonald i Australien</title>
     <desc lang="sv">Brittisk reseserie från 2019. Resan i Australien lider mot sitt slut. Men först blir det en lyxig gourmetmiddag på kryssningsfartyget som slutar i fest. Jane hinner även med en utflykt med kameler, en krokodilträff och åker undervattensskoter i Stora barriärrevet. ,.</desc>
     <date>2019</date>
@@ -7712,13 +7728,13 @@
     <date>1999</date>
     <episode-num system="onscreen">Säsong 7. Del 9 av 24</episode-num>
   </programme>
-  <programme start="20211202160500 +0100" stop="20211202171500 +0100" channel="Sjuan.se">
+  <programme start="20211202160500 +0100" stop="20211202171000 +0100" channel="Sjuan.se">
     <title lang="sv">Det okända</title>
     <desc lang="sv">Svensk ockultserie från 2011. Ekebyhov. Personalen på Ekebyhovs Slott stöter på många besynnerligheter. Bland annat brukar lamporna tändas när vakten låst och stängt slottet för natten. Mediet Terry Evans åker till slottet för att försöka skapa lugn och ro i de pampiga salarna. ,.</desc>
     <date>2011</date>
     <episode-num system="onscreen">Säsong 12. Del 8 av 11</episode-num>
   </programme>
-  <programme start="20211202171500 +0100" stop="20211202190000 +0100" channel="Sjuan.se">
+  <programme start="20211202171000 +0100" stop="20211202190000 +0100" channel="Sjuan.se">
     <title lang="sv">A shoe addict's Christmas</title>
     <desc lang="sv">Amerikanskt romantiskt drama från 2018. Noelle jobbar i varuhus, älskar skor, och inte har mycket till övers för julen. Men när hon av misstag blir instängd i varuhuset en vinterkväll ska hon få nytt perspektiv på helgfirandet. Plötsligt möter hon mystiska Charlie som visar sig vara hennes skyddsängel och som tar med henne på en julresa i tid och rum.</desc>
     <credits>
@@ -9319,13 +9335,13 @@
     </credits>
     <date>1984</date>
   </programme>
-  <programme start="20211202032500 +0100" stop="20211202040000 +0100" channel="TV12.se">
+  <programme start="20211202032500 +0100" stop="20211202035500 +0100" channel="TV12.se">
     <title lang="sv">Mordutredarnas nya fall</title>
     <desc lang="sv">Amerikansk dokumentärserie från 2008. All that glitters is gold. En sönderskjuten bil hittas under bro i Kalifornien. En 20-årig kvinna hittas mördad en månad senare och rött glitter visar sig bli en viktig ledtråd i jakten på mördaren. ,.</desc>
     <date>2008</date>
     <episode-num system="onscreen">Säsong 8. Del 32 av 50</episode-num>
   </programme>
-  <programme start="20211202040000 +0100" stop="20211202050000 +0100" channel="TV12.se">
+  <programme start="20211202035500 +0100" stop="20211202050000 +0100" channel="TV12.se">
     <title lang="sv">Cheaters</title>
     <desc lang="sv">Amerikansk realityserie från 2012. Elisabeths konstnärligt lagda make Johnny har börjat arbeta med nakenmodeller och hon oroar sig för att Johnny gör mer än bara tittar på modellerna. Desmond undrar om hans flickvän Dee ser sig om efter någon annan. ,.</desc>
     <date>2012</date>
@@ -10538,7 +10554,7 @@
   </programme>
   <programme start="20211202140000 +0100" stop="20211202170000 +0100" channel="Kunskapskanalen.se">
     <title lang="sv">UR Samtiden</title>
-    <desc lang="sv">Svenskt samhällsprogram från 2021. 14:00 Spionskandalen. 14:55 Store Mosse - en norrlandsmyr i Småland. 15:20 Myr och mosse - kär(r)t barn har många namn. 15:35 En fluga till frukost - mossens finurliga flora. 15:45 När människan kom till mossen. 15:55 Mästerflygaren på Store Mosse. 16:05 Mossens mystiska väsen. 16:15 Hur lagar man en mosse?. 16:30 Sanningen om vitmossan. 16:39 Kalas på as. 16:40 Edvard Wibeck - en nationalparkspionjär. 16:50 Fox och Foggy - kungaparet på Store Mos</desc>
+    <desc lang="sv">Svenskt samhällsprogram från 2021. 14:00 Spionskandalen. 14:55 Store Mosse - en norrlandsmyr i Småland. 15:20 Myr och mosse - kär(r)t barn har många namn. 15:35 En fluga till frukost - mossens finurliga flora. 15:45 När människan kom till mossen. 15:55 Mästerflygaren på Store Mosse. 16:05 Mossens mystiska väsen. 16:15 Hur lagar man en mosse?. 16:30 Sanningen om vitmossan. 16:39 Kalas på as. 16:40 Edvard Wibeck - en nationalparkspionjär. 16:50 Fox och Foggy - kungaparet på Store</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2021. Del 336 av 365</episode-num>
   </programme>
@@ -15776,31 +15792,31 @@
     <title lang="sv">Cykel</title>
     <desc lang="sv">Giro del Veneto Herrar. Cykel Giro del Veneto. Giro del Veneto Herrar. ,.</desc>
   </programme>
-  <programme start="20211201064800 +0100" stop="20211201083900 +0100" channel="Eurosport1.se">
+  <programme start="20211201064800 +0100" stop="20211201083800 +0100" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 17 Herrar. World Tour - Tour de France. Etapp 17 Herrar. ,.</desc>
   </programme>
-  <programme start="20211201083900 +0100" stop="20211201090800 +0100" channel="Eurosport1.se">
+  <programme start="20211201083800 +0100" stop="20211201090600 +0100" channel="Eurosport1.se">
     <title lang="sv">Touring Car: Världscupen</title>
     <desc lang="sv">Adria Sammanfattning. ,.</desc>
   </programme>
-  <programme start="20211201090800 +0100" stop="20211201103400 +0100" channel="Eurosport1.se">
+  <programme start="20211201090600 +0100" stop="20211201103200 +0100" channel="Eurosport1.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam Final Damer. US Open. Grand Slam Final Damer. ,.</desc>
   </programme>
-  <programme start="20211201103400 +0100" stop="20211201110500 +0100" channel="Eurosport1.se">
+  <programme start="20211201103200 +0100" stop="20211201110500 +0100" channel="Eurosport1.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Adria Lopp 1. Touring Car: Världscupen. Adria Lopp 1. ,.</desc>
   </programme>
-  <programme start="20211201110500 +0100" stop="20211201113800 +0100" channel="Eurosport1.se">
+  <programme start="20211201110500 +0100" stop="20211201114000 +0100" channel="Eurosport1.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Adria Lopp 2. Touring Car: Världscupen. Adria Lopp 2. ,.</desc>
   </programme>
-  <programme start="20211201113800 +0100" stop="20211201123900 +0100" channel="Eurosport1.se">
+  <programme start="20211201114000 +0100" stop="20211201130600 +0100" channel="Eurosport1.se">
     <title lang="sv">Friidrott</title>
     <desc lang="sv">Paris Maraton. Friidrott Paris. Paris Maraton. ,.</desc>
   </programme>
-  <programme start="20211201123900 +0100" stop="20211201134800 +0100" channel="Eurosport1.se">
+  <programme start="20211201130600 +0100" stop="20211201134800 +0100" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">3:a omgången UK Championship. UK Championship. 3:a omgången UK Championship. ,.</desc>
   </programme>
@@ -15824,19 +15840,19 @@
     <title lang="sv">Snooker</title>
     <desc lang="sv">4:e omgången UK Championship. UK Championship. 4:e omgången UK Championship.</desc>
   </programme>
-  <programme start="20211202003000 +0100" stop="20211202013000 +0100" channel="Eurosport1.se">
+  <programme start="20211202003000 +0100" stop="20211202020400 +0100" channel="Eurosport1.se">
     <title lang="sv">Curling</title>
     <desc lang="sv">Lillehammer Match om 3:e pris Damer. EM. Lillehammer. ,.</desc>
   </programme>
-  <programme start="20211202013000 +0100" stop="20211202024900 +0100" channel="Eurosport1.se">
+  <programme start="20211202020400 +0100" stop="20211202032500 +0100" channel="Eurosport1.se">
     <title lang="sv">Curling</title>
     <desc lang="sv">Lillehammer Final Damer. EM. Lillehammer. ,.</desc>
   </programme>
-  <programme start="20211202024900 +0100" stop="20211202042500 +0100" channel="Eurosport1.se">
+  <programme start="20211202032500 +0100" stop="20211202051200 +0100" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 17 Herrar. World Tour - Tour de France. Etapp 17 Herrar. ,.</desc>
   </programme>
-  <programme start="20211202042500 +0100" stop="20211202060000 +0100" channel="Eurosport1.se">
+  <programme start="20211202051200 +0100" stop="20211202060000 +0100" channel="Eurosport1.se">
     <title lang="sv">Home of the Olympics Hall of fame Tokyo golf</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
@@ -15876,21 +15892,25 @@
     <title lang="sv">Skidskytte</title>
     <desc lang="sv">Östersund Sprint Damer. Världscupen. Östersund.</desc>
   </programme>
-  <programme start="20211202150700 +0100" stop="20211202163300 +0100" channel="Eurosport1.se">
+  <programme start="20211202150700 +0100" stop="20211202160000 +0100" channel="Eurosport1.se">
     <title lang="sv">Skidskytte</title>
     <desc lang="sv">Individuell Herrar. Världscupen. Östersund. ,.</desc>
   </programme>
-  <programme start="20211202163300 +0100" stop="20211202175200 +0100" channel="Eurosport1.se">
-    <title lang="sv">Skidskytte</title>
-    <desc lang="sv">Östersund Sprint Herrar. Världscupen. Östersund.</desc>
+  <programme start="20211202160000 +0100" stop="20211202180000 +0100" channel="Eurosport1.se">
+    <title lang="sv">Tennis</title>
+    <desc lang="sv">Kvartsfinal. Davis Cup. Kvartsfinal.</desc>
   </programme>
-  <programme start="20211202175200 +0100" stop="20211202194800 +0100" channel="Eurosport1.se">
-    <title lang="sv">Snooker</title>
-    <desc lang="sv">4:e omgången UK Championship. UK Championship. 4:e omgången UK Championship.</desc>
+  <programme start="20211202180000 +0100" stop="20211202194800 +0100" channel="Eurosport1.se">
+    <title lang="sv">Tennis</title>
+    <desc lang="sv">Kvartsfinal. Davis Cup. Kvartsfinal.</desc>
   </programme>
-  <programme start="20211202194800 +0100" stop="20211202233200 +0100" channel="Eurosport1.se">
+  <programme start="20211202194800 +0100" stop="20211202200000 +0100" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">UK Championship 4:e omgången. UK Championship. UK Championship 4:e omgången.</desc>
+  </programme>
+  <programme start="20211202200000 +0100" stop="20211202233200 +0100" channel="Eurosport1.se">
+    <title lang="sv">Tennis</title>
+    <desc lang="sv">Kvartsfinal. Davis Cup. Kvartsfinal.</desc>
   </programme>
   <programme start="20211202233200 +0100" stop="20211203003200 +0100" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
@@ -15948,15 +15968,15 @@
     <title lang="sv">Freestyle: Världscupen i Stubai</title>
     <desc lang="sv">Slopestyle Herrar och damer. Världscupen. Stubai. ,.</desc>
   </programme>
-  <programme start="20211201130100 +0100" stop="20211201135600 +0100" channel="Eurosport2.se">
+  <programme start="20211201130100 +0100" stop="20211201140000 +0100" channel="Eurosport2.se">
     <title lang="sv">Curling</title>
     <desc lang="sv">Lillehammer Match om 3:e pris Damer. EM. Lillehammer. ,.</desc>
   </programme>
-  <programme start="20211201135600 +0100" stop="20211201151300 +0100" channel="Eurosport2.se">
+  <programme start="20211201140000 +0100" stop="20211201151800 +0100" channel="Eurosport2.se">
     <title lang="sv">Curling</title>
     <desc lang="sv">Lillehammer Final Damer. EM. Lillehammer. ,.</desc>
   </programme>
-  <programme start="20211201151300 +0100" stop="20211201160000 +0100" channel="Eurosport2.se">
+  <programme start="20211201151800 +0100" stop="20211201160000 +0100" channel="Eurosport2.se">
     <title lang="sv">Rally: EM Ungern</title>
     <desc lang="sv">Ungern Sammanfattning. ,.</desc>
   </programme>
@@ -15972,31 +15992,31 @@
     <title lang="sv">Tennis</title>
     <desc lang="sv">Kvartsfinal. Davis Cup. Kvartsfinal.</desc>
   </programme>
-  <programme start="20211201220100 +0100" stop="20211201232000 +0100" channel="Eurosport2.se">
+  <programme start="20211201220100 +0100" stop="20211201232100 +0100" channel="Eurosport2.se">
     <title lang="sv">Curling</title>
     <desc lang="sv">Lillehammer Final Damer. EM. Lillehammer. ,.</desc>
   </programme>
-  <programme start="20211201232000 +0100" stop="20211202004500 +0100" channel="Eurosport2.se">
+  <programme start="20211201232100 +0100" stop="20211202004600 +0100" channel="Eurosport2.se">
     <title lang="sv">Ridsport</title>
     <desc lang="sv">Lexington. Världscupen. Lexington. ,.</desc>
   </programme>
-  <programme start="20211202004500 +0100" stop="20211202021500 +0100" channel="Eurosport2.se">
+  <programme start="20211202004600 +0100" stop="20211202021600 +0100" channel="Eurosport2.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam Final Damer. US Open. Grand Slam Final Damer. ,.</desc>
   </programme>
-  <programme start="20211202021500 +0100" stop="20211202024400 +0100" channel="Eurosport2.se">
+  <programme start="20211202021600 +0100" stop="20211202024500 +0100" channel="Eurosport2.se">
     <title lang="sv">Touring Car: Världscupen</title>
     <desc lang="sv">Sotji Sammanfattning. ,.</desc>
   </programme>
-  <programme start="20211202024400 +0100" stop="20211202033100 +0100" channel="Eurosport2.se">
+  <programme start="20211202024500 +0100" stop="20211202033300 +0100" channel="Eurosport2.se">
     <title lang="sv">Home of the Olympics Hall of fame Tokyo golf</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20211202033100 +0100" stop="20211202041800 +0100" channel="Eurosport2.se">
+  <programme start="20211202033300 +0100" stop="20211202041900 +0100" channel="Eurosport2.se">
     <title lang="sv">Skidskytte</title>
     <desc lang="sv">Individuell Herrar. Världscupen. Östersund. ,.</desc>
   </programme>
-  <programme start="20211202041800 +0100" stop="20211202060000 +0100" channel="Eurosport2.se">
+  <programme start="20211202041900 +0100" stop="20211202060000 +0100" channel="Eurosport2.se">
     <title lang="sv">Skidskytte</title>
     <desc lang="sv">Individuell Damer. Världscupen. Östersund. ,.</desc>
   </programme>
@@ -16004,61 +16024,69 @@
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Lopp 1 Indonesien. Superbike-VM. Lopp 1. ,.</desc>
   </programme>
-  <programme start="20211202062200 +0100" stop="20211202065600 +0100" channel="Eurosport2.se">
+  <programme start="20211202062200 +0100" stop="20211202065700 +0100" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Lopp 2 Indonesien. Superbike-VM. Lopp 2. ,.</desc>
   </programme>
-  <programme start="20211202065600 +0100" stop="20211202075300 +0100" channel="Eurosport2.se">
+  <programme start="20211202065700 +0100" stop="20211202075400 +0100" channel="Eurosport2.se">
     <title lang="sv">Friidrott</title>
     <desc lang="sv">New York Maraton. Friidrott New York. New York Maraton. ,.</desc>
   </programme>
-  <programme start="20211202075300 +0100" stop="20211202091800 +0100" channel="Eurosport2.se">
+  <programme start="20211202075400 +0100" stop="20211202090600 +0100" channel="Eurosport2.se">
     <title lang="sv">Ridsport</title>
     <desc lang="sv">Las Vegas. Världscupen. Las Vegas. ,.</desc>
   </programme>
-  <programme start="20211202091800 +0100" stop="20211202094700 +0100" channel="Eurosport2.se">
+  <programme start="20211202090600 +0100" stop="20211202093700 +0100" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Lopp 2 Indonesien. Superbike-VM. Lopp 2. ,.</desc>
   </programme>
-  <programme start="20211202094700 +0100" stop="20211202104300 +0100" channel="Eurosport2.se">
+  <programme start="20211202093700 +0100" stop="20211202103300 +0100" channel="Eurosport2.se">
     <title lang="sv">Home of the Olympics Hall of fame Tokyo tennis</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20211202104300 +0100" stop="20211202120800 +0100" channel="Eurosport2.se">
+  <programme start="20211202103300 +0100" stop="20211202115800 +0100" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Paris Tours, Herrar. Cykel Pro Series Paris Tours. Paris Tours, Herrar. ,.</desc>
   </programme>
-  <programme start="20211202120800 +0100" stop="20211202130700 +0100" channel="Eurosport2.se">
+  <programme start="20211202115800 +0100" stop="20211202125800 +0100" channel="Eurosport2.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">London. Triathlon Super League. London. ,.</desc>
   </programme>
-  <programme start="20211202130700 +0100" stop="20211202134800 +0100" channel="Eurosport2.se">
+  <programme start="20211202125800 +0100" stop="20211202134800 +0100" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">4:e omgången UK Championship. UK Championship. 4:e omgången UK Championship. ,.</desc>
   </programme>
-  <programme start="20211202134800 +0100" stop="20211202175000 +0100" channel="Eurosport2.se">
+  <programme start="20211202134800 +0100" stop="20211202173200 +0100" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">UK Championship 4:e omgången. UK Championship. UK Championship 4:e omgången.</desc>
   </programme>
-  <programme start="20211202175000 +0100" stop="20211202200000 +0100" channel="Eurosport2.se">
-    <title lang="sv">Tennis</title>
-    <desc lang="sv">Kvartsfinal. Davis Cup. Kvartsfinal.</desc>
-  </programme>
-  <programme start="20211202200000 +0100" stop="20211202220400 +0100" channel="Eurosport2.se">
-    <title lang="sv">Tennis</title>
-    <desc lang="sv">Kvartsfinal. Davis Cup. Kvartsfinal.</desc>
-  </programme>
-  <programme start="20211202220400 +0100" stop="20211202230000 +0100" channel="Eurosport2.se">
+  <programme start="20211202173200 +0100" stop="20211202182800 +0100" channel="Eurosport2.se">
     <title lang="sv">Curling</title>
     <desc lang="sv">Lillehammer Final Herrar. EM. Lillehammer. ,.</desc>
   </programme>
-  <programme start="20211202230000 +0100" stop="20211202232800 +0100" channel="Eurosport2.se">
+  <programme start="20211202182800 +0100" stop="20211202185700 +0100" channel="Eurosport2.se">
     <title lang="sv">Touring Car: Världscupen</title>
     <desc lang="sv">Sotji Sammanfattning. ,.</desc>
   </programme>
-  <programme start="20211202232800 +0100" stop="20211203004300 +0100" channel="Eurosport2.se">
+  <programme start="20211202185700 +0100" stop="20211202200800 +0100" channel="Eurosport2.se">
     <title lang="sv">Ridsport</title>
     <desc lang="sv">Las Vegas. Världscupen. Las Vegas. ,.</desc>
+  </programme>
+  <programme start="20211202200800 +0100" stop="20211202220100 +0100" channel="Eurosport2.se">
+    <title lang="sv">Tennis</title>
+    <desc lang="sv">Grand Slam Final Herrar. US Open. Grand Slam Final Herrar. ,.</desc>
+  </programme>
+  <programme start="20211202220100 +0100" stop="20211202224900 +0100" channel="Eurosport2.se">
+    <title lang="sv">Cykel</title>
+    <desc lang="sv">Iowa City Damer. Cykelcross: USCX Cyclocross Series. Iowa City Damer. ,.</desc>
+  </programme>
+  <programme start="20211202224900 +0100" stop="20211202233600 +0100" channel="Eurosport2.se">
+    <title lang="sv">Home of the Olympics Hall of fame Tokyo tennis</title>
+    <desc lang="sv">inga Detaljer.</desc>
+  </programme>
+  <programme start="20211202233600 +0100" stop="20211203002200 +0100" channel="Eurosport2.se">
+    <title lang="sv">Kampsport</title>
+    <desc lang="sv">Full contact. Karate full contact. Full contact. ,.</desc>
   </programme>
   <programme start="20211201010000 +0100" stop="20211201130000 +0100" channel="ViasatSport.se">
     <title lang="sv">Sändningsuppehåll</title>
@@ -16262,12 +16290,16 @@
     <desc lang="sv">Premier League-studio. 01/12 år 2021 i V Sport Premium.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20211201234500 +0100" stop="20211202010500 +0100" channel="ViasatSportPremium.se">
-    <title lang="sv">NHL On The Fly</title>
-    <desc lang="sv">Studioprogram med analyser och highlights från den gångna nattens matcher i NHL. 27/11 år 2021 i V Sport Premium.</desc>
-    <date>2020</date>
+  <programme start="20211201234500 +0100" stop="20211202013500 +0100" channel="ViasatSportPremium.se">
+    <title lang="sv">Fotboll</title>
+    <desc lang="sv">Omgång 14. Aston VillaManchester City. Premier League. Villa Park, Birmingham. Omgång 14. Från Villa Park, Birmingham. Kommentator: Robert Tennisberg (1/12-21). Kommentator: Robert Tennisberg.</desc>
+    <credits>
+      <presenter>Robert Tennisberg
+    (1/12-21)  Producerat år 2021  Kommentator:</presenter>
+    </credits>
+    <date>2021</date>
   </programme>
-  <programme start="20211202010500 +0100" stop="20211202040500 +0100" channel="ViasatSportPremium.se">
+  <programme start="20211202013500 +0100" stop="20211202040500 +0100" channel="ViasatSportPremium.se">
     <title lang="sv">Ishockey</title>
     <desc lang="sv">Toronto Maple LeafsColorado Avalanche. NHL. Scotiabank Arena, Toronto. Från Scotiabank Arena, Toronto. (1/12-21).</desc>
     <date>2021</date>
