@@ -5251,11 +5251,29 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 4. Del 9 av 40</episode-num>
   </programme>
-  <programme start="20211230102000 +0100" stop="20211230133500 +0100" channel="SVT1.se">
-    <title lang="sv">Ishockey</title>
-    <desc lang="sv">SverigeUSA. Junior-VM. Edmonton, Kanada. Sverige-USA. Match mellan Sverige och USA från Junior-VM i ishockey som hålls i Edmonton, Kanada. Dusan Umicevic är programledare i studio i Stockholm med experten Håkan Loob. Repris från natten. 30/12 år 2021 i SVT1.</desc>
+  <programme start="20211230102000 +0100" stop="20211230112000 +0100" channel="SVT1.se">
+    <title lang="sv">En resa till Peps Persson</title>
+    <desc lang="sv">Norsk dokumentär från 2021. Filmarna och musikerna Ulf Myrvold och Laara Stinnerbom ger sig iväg på en resa från Norge till Göinge med förhoppningen att få träffa Peps Persson. Till deras stora glädje bjuder Peps in dem till sin studio för ett öppet och anspråkslöst samtal. På resan träffar de också hans mångårige vän och trumslagare Bosse Skoglund samt många andra som arbetat med och inspirerats av Peps Persson.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20211230112000 +0100" stop="20211230122000 +0100" channel="SVT1.se">
+    <title lang="sv">Arvinge okänd - Danmark</title>
+    <desc lang="sv">Dansk dokumentärserie från 2020. Den rika kusinen från Schweiz. I början av 1900-talet lämnar Doras pappa Julius Danmark och slår sig ner i Schweiz. När Dora dör mer än 100 år senare är det utan kända arvingar och hela hennes miljonarv kommer att hamna i schweiziska statskassan, om inga arvingar dyker upp. Eftersom pappan kom från Danmark är det där som sökandet börjar, men spåren kommer att leda längre bort än så. Programledaren Mette Frisk och Adam Jon Kronegh från danska Riksarkivet gräver i okända familjehistorier och söker upp personer med rätt till ett arv. 07/08 år 2021 i SVT1.</desc>
+    <date>2020</date>
+    <episode-num system="onscreen">Säsong 1. Del 2 av 4</episode-num>
+  </programme>
+  <programme start="20211230122000 +0100" stop="20211230132000 +0100" channel="SVT1.se">
+    <title lang="sv">Med Lars Monsen på villovägar</title>
+    <desc lang="sv">Norsk äventyrsunderhållning från 2016. Lars väntar sig att hamna i skogen, men får en stor överraskning när han tar av sig ögonbindeln. Han upptäcker att han befinner sig ombord på en liten roddbåt ute till havs. 09/07 år 2018 i SVT1.</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">Säsong 2. Del 6 av 6</episode-num>
+  </programme>
+  <programme start="20211230132000 +0100" stop="20211230133500 +0100" channel="SVT1.se">
+    <title lang="sv">Jag satsar allt - en film om Funkisfestivalen</title>
+    <desc lang="sv">Svensk dokumentär från 2021. Artisterna har förberett sig länge och snart är det äntligen dags för dem att framföra sina nummer inför publiken. Rätt låt, rätt kläder och rätt stämning, sedan är det bara att köra! Men är det viktigast att delta eller att vinna?. Följ med och träffa några av deltagarna i Funkisfestivalen, både på och bakom scenen. Funkisfestivalen är en av de aktiviteter som fått stöd via Radiohjälpens insamling under Melodifestivalen.</desc>
     <credits>
-      <presenter>Jonas Andersson Chris Härenstam Reporter: Marie Lehmann</presenter>
+      <director>Jonas Embring</director>
+      <director>Lisa Partby</director>
     </credits>
     <date>2021</date>
   </programme>
@@ -12169,289 +12187,289 @@
     <date>2019</date>
     <episode-num system="onscreen">Säsong 1. Del 5</episode-num>
   </programme>
-  <programme start="20211231055600 +0100" stop="20211231062000 +0100" channel="Nickelodeon.se">
+  <programme start="20211231055600 +0100" stop="20211231061900 +0100" channel="Nickelodeon.se">
     <title lang="sv">Paw Patrol</title>
     <desc lang="sv">Valparna räddar Lömskefot / Valparna stoppar en skenande frisbee. Resande Travis skäller för hjälp när han hittar en mystisk varelse i nöd. PAW Patrol ger sig iväg för att rädda en Lömskefot!. // En leksak ställer till det i Äventyrsbukten, men Ryder vet vilka han ska ringa för att rädda den skenande frisbeen!</desc>
     <date>2019</date>
     <episode-num system="onscreen">Säsong 6. Del 22</episode-num>
   </programme>
-  <programme start="20211231062000 +0100" stop="20211231064800 +0100" channel="Nickelodeon.se">
+  <programme start="20211231061900 +0100" stop="20211231064500 +0100" channel="Nickelodeon.se">
     <title lang="sv">Paw Patrol</title>
     <desc lang="sv">Valparna räddar en räddare / Valparna räddar Spöket från Groddammen. Borgmästare Rospigg försöker hjälpa PAW Patrol att rädda Danny, men till slut måste valparna också rädda räddaren. // Valparna löser mysteriet med spöket från Groddammen och hjälper grodorna hem när de har skrämts iväg av ett läskigt ljud.</desc>
     <date>2019</date>
     <episode-num system="onscreen">Säsong 6. Del 23</episode-num>
   </programme>
-  <programme start="20211231064800 +0100" stop="20211231070000 +0100" channel="Nickelodeon.se">
+  <programme start="20211231064500 +0100" stop="20211231070000 +0100" channel="Nickelodeon.se">
     <title lang="sv">Paw Patrol</title>
     <desc lang="sv">Valparna räddar en Rospigg. Äventyrbuktens finaste staty hamnar på havets botten och borgmästaren och valparna måste hitta ett sätt att få upp den.</desc>
     <date>2013</date>
     <episode-num system="onscreen">Säsong 1. Del 14</episode-num>
   </programme>
-  <programme start="20211231070000 +0100" stop="20211231071200 +0100" channel="Nickelodeon.se">
+  <programme start="20211231070000 +0100" stop="20211231071300 +0100" channel="Nickelodeon.se">
     <title lang="sv">Rugrats (2021)</title>
     <desc lang="sv">Den picklade tunnan. Tommy och Chuckie lyssnar på musik ihop och inser att det hotar deras vänskap.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 1. Del 8</episode-num>
   </programme>
-  <programme start="20211231071200 +0100" stop="20211231073600 +0100" channel="Nickelodeon.se">
+  <programme start="20211231071300 +0100" stop="20211231073700 +0100" channel="Nickelodeon.se">
     <title lang="sv">Rugrats (2021)</title>
     <desc lang="sv">Inget körkort / Jag drömmer om Duffy. Angelica får bebisarnas hjälp med att vänja sig vid livet utan sin Cynthia-bil när hon inte längre får ha den. // Tommy och hans vänner måste hitta ett sätt att lugna Angelica när hon inser att hon kan få alla leksaker hon ber om.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 1. Del 7</episode-num>
   </programme>
-  <programme start="20211231073600 +0100" stop="20211231080000 +0100" channel="Nickelodeon.se">
+  <programme start="20211231073700 +0100" stop="20211231075800 +0100" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Sandys knasiga brorsdöttrar / Osäkerhets-vakter. SvampBob tar sig vatten över huvudet när han ska vara barnvakt åt Sandys tre brorsdöttrar. // SvampBob och Patrik Stjärna volonterar som museivakter, medan Bläckward försöker hänga upp sin tavla utan att någon ser honom.</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 12. Del 249</episode-num>
   </programme>
-  <programme start="20211231080000 +0100" stop="20211231081400 +0100" channel="Nickelodeon.se">
+  <programme start="20211231075800 +0100" stop="20211231081000 +0100" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Sjöborre-panik. SvampBob hittar en otäck sjöborre i köket på Krångliga Krabban och gör allt för att försöka bli av med den.</desc>
     <date>2012</date>
     <episode-num system="onscreen">Säsong 9. Del 183</episode-num>
   </programme>
-  <programme start="20211231081400 +0100" stop="20211231084200 +0100" channel="Nickelodeon.se">
+  <programme start="20211231081000 +0100" stop="20211231083600 +0100" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Krångligt fett / Tv-stjärnan. Herr Krabba och Plankton tävlar om kunderna med flottig mat. // SvampBob provar en ny karriär som modell i en reklam för kökssvampar.</desc>
     <date>2009</date>
     <episode-num system="onscreen">Säsong 7. Del 130</episode-num>
   </programme>
-  <programme start="20211231084200 +0100" stop="20211231090000 +0100" channel="Nickelodeon.se">
+  <programme start="20211231083600 +0100" stop="20211231090100 +0100" channel="Nickelodeon.se">
     <title lang="sv">Nicky, Ricky, Dicky &amp; Dawn</title>
     <desc lang="sv">Storstadsmytkläder. Storstadsmyten Grisfot tar över Edgewood när Dawn fejkar en artikel till sin blogg på skolans hemsida. Till och med grabbarna hakar på Grisfot-yran.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 2. Del 2</episode-num>
   </programme>
-  <programme start="20211231090000 +0100" stop="20211231093000 +0100" channel="Nickelodeon.se">
+  <programme start="20211231090100 +0100" stop="20211231092700 +0100" channel="Nickelodeon.se">
     <title lang="sv">Game shakers</title>
     <desc lang="sv">Superfult huvud. När Dub förstör en ful staty av sig själv kan inte Kenzie bestämma sig för om hon ska anmäla honom eller inte. .</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 3. Del 5</episode-num>
   </programme>
-  <programme start="20211231093000 +0100" stop="20211231095400 +0100" channel="Nickelodeon.se">
+  <programme start="20211231092700 +0100" stop="20211231095100 +0100" channel="Nickelodeon.se">
     <title lang="sv">Game shakers</title>
     <desc lang="sv">Flykten från Utah. Efter att Trip har blivit ivägskickad till ett hem för besvärliga pojkar bestämmer sig tjejerna för att rädda honom. .</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 3. Del 6</episode-num>
   </programme>
-  <programme start="20211231095400 +0100" stop="20211231101800 +0100" channel="Nickelodeon.se">
+  <programme start="20211231095100 +0100" stop="20211231101600 +0100" channel="Nickelodeon.se">
     <title lang="sv">Alvinnn!!! Och Gänget</title>
     <desc lang="sv">Möss och ekorrar / Simon räddar världen. Tjejerna förälskar sig i en söt liten mus som är dömd till att bli mat åt en orm i ett NO-projekt i skolan. // Simons nya uppfinning hotar att förgöra hela världen genom att skapa en tidsloop och ändra gravitationen i huset. .</desc>
     <date>2019</date>
     <episode-num system="onscreen">Säsong 4. Del 24</episode-num>
   </programme>
-  <programme start="20211231101800 +0100" stop="20211231104200 +0100" channel="Nickelodeon.se">
+  <programme start="20211231101600 +0100" stop="20211231104100 +0100" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Spån på månen Del 1 &amp; 2. Sandy tar sin "Vetenskapsgrupp" på en resa till månen. I rymden så kan ingen höra ditt; nyah-nyah-nyah-nyah!</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 11. Del 237</episode-num>
   </programme>
-  <programme start="20211231104200 +0100" stop="20211231110600 +0100" channel="Nickelodeon.se">
+  <programme start="20211231104100 +0100" stop="20211231110600 +0100" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Splintan / Vilket drag. När SvampBob lagars mat, råkar han får en flisa handen. // SvampBob och Patrik har roligt med deras nya "dragflöjter" och det i sin tur, gör naturligtvis Bläckward, tokig.</desc>
     <date>2008</date>
     <episode-num system="onscreen">Säsong 6. Del 105</episode-num>
   </programme>
-  <programme start="20211231110600 +0100" stop="20211231113200 +0100" channel="Nickelodeon.se">
+  <programme start="20211231110600 +0100" stop="20211231113000 +0100" channel="Nickelodeon.se">
     <title lang="sv">Tyler Perrys Young Dylan</title>
     <desc lang="sv">Kuppen. När ett värdefullt samlarobjekt, som Rebecca och Charlie tar med till skolan i hemlighet, tas i beslag av rektorn, måste Dylan hjälpa sina kusiner med en komplicerad kupp innan Myles inser att föremålet saknas.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2. Del 7</episode-num>
   </programme>
-  <programme start="20211231113200 +0100" stop="20211231120000 +0100" channel="Nickelodeon.se">
+  <programme start="20211231113000 +0100" stop="20211231115600 +0100" channel="Nickelodeon.se">
     <title lang="sv">Tyler Perrys Young Dylan</title>
     <desc lang="sv">Glider runt och snackar strunt. Rebecca vill använda sin nya el-sparkcykel i ett inlägg på sociala media, och Dylan vill använda den i en rapvideo, men båda måste gömma den från hennes föräldrar om de vill behålla den.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2. Del 8</episode-num>
   </programme>
-  <programme start="20211231120000 +0100" stop="20211231122400 +0100" channel="Nickelodeon.se">
+  <programme start="20211231115600 +0100" stop="20211231122100 +0100" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
-    <desc lang="sv">Monster och kryp. Efter att ha upptäckt att Links före detta flickvän är en superskurk som vill ha Link för sig själv, tar Phoebe hjälp av Max för att avslöja sin rivals egentliga motiv.</desc>
+    <desc lang="sv">Monster Och Kryp. Efter att ha upptäckt att Links före detta flickvän är en superskurk som vill ha Link för sig själv, tar Phoebe hjälp av Max för att avslöja sin rivals egentliga motiv.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 3. Del 3</episode-num>
   </programme>
-  <programme start="20211231122400 +0100" stop="20211231124800 +0100" channel="Nickelodeon.se">
+  <programme start="20211231122100 +0100" stop="20211231124600 +0100" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
-    <desc lang="sv">Tjuvar på scen. Max försöker återupprätta sitt rykte som ond med småbrott, men när hans bästa vänner blir måltavla måste han välja mellan dem och sitt rykte.</desc>
+    <desc lang="sv">Tjuvar på Scen. Max försöker återupprätta sitt rykte som ond med småbrott, men när hans bästa vänner blir måltavla måste han välja mellan dem och sitt rykte.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 3. Del 4</episode-num>
   </programme>
-  <programme start="20211231124800 +0100" stop="20211231131200 +0100" channel="Nickelodeon.se">
+  <programme start="20211231124600 +0100" stop="20211231131000 +0100" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Varning för Spoiler. Henry och Ray tampas med stadens nya skurk, den irriterande Spoilern. Piper gör allt hon kan, och lite till, för att få gå med i en populär Kapten Man-fanclub. .</desc>
     <date>2014</date>
     <episode-num system="onscreen">Säsong 1. Del 13</episode-num>
   </programme>
-  <programme start="20211231131200 +0100" stop="20211231133600 +0100" channel="Nickelodeon.se">
+  <programme start="20211231131000 +0100" stop="20211231133500 +0100" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Jordens Undergång. När en supervulkan djupt under Swellview börjar visa tecken på att få ett utbrott blir Henry och Ray övertygade om att världen kommer gå under. Piper är övertygad om att hon är glutenintolerant. .</desc>
     <date>2014</date>
     <episode-num system="onscreen">Säsong 1. Del 15</episode-num>
   </programme>
-  <programme start="20211231133600 +0100" stop="20211231140000 +0100" channel="Nickelodeon.se">
+  <programme start="20211231133500 +0100" stop="20211231135800 +0100" channel="Nickelodeon.se">
     <title lang="sv">Alvinnn!!! Och Gänget</title>
     <desc lang="sv">Det utvalda jordekorren / Bröderna Dangus. Alvin smyger sig in i Simons nya VR-spel och förflyttas till en värld som är i desperate behov av en hjälte. // Gänget upptäcker att konstapel Dangus har en bror som är mobbare och uppmuntrar Dangus att trotsa honom. .</desc>
     <date>2019</date>
     <episode-num system="onscreen">Säsong 4. Del 20</episode-num>
   </programme>
-  <programme start="20211231140000 +0100" stop="20211231141200 +0100" channel="Nickelodeon.se">
+  <programme start="20211231135800 +0100" stop="20211231141000 +0100" channel="Nickelodeon.se">
     <title lang="sv">Alvinnn!!! Och Gänget</title>
     <desc lang="sv">Klubben. När Alvin drömmer om att gå med i en privat klubb ordnar han så att Dave får spela squash även fast han inte kan det.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 5. Del 10</episode-num>
   </programme>
-  <programme start="20211231141200 +0100" stop="20211231142400 +0100" channel="Nickelodeon.se">
+  <programme start="20211231141000 +0100" stop="20211231142200 +0100" channel="Nickelodeon.se">
     <title lang="sv">Lugn i stormen</title>
     <desc lang="sv">I de lugnaste vatten. När Lana får veta att hennes favoritfisk riskerar att förlora sitt hem på grund av ett byggarbete börjar hon genast smida planer.</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 3. Del 14</episode-num>
   </programme>
-  <programme start="20211231142400 +0100" stop="20211231143600 +0100" channel="Nickelodeon.se">
+  <programme start="20211231142200 +0100" stop="20211231143500 +0100" channel="Nickelodeon.se">
     <title lang="sv">Lugn i stormen</title>
     <desc lang="sv">Supersvår snattargåta. När Leni får sparken från sitt jobb på grund av att det försvunnit sjalar, bestämmer sig Lincoln och Clyde för att lösa mysteriet! .</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 3. Del 14</episode-num>
   </programme>
-  <programme start="20211231143600 +0100" stop="20211231150000 +0100" channel="Nickelodeon.se">
+  <programme start="20211231143500 +0100" stop="20211231145700 +0100" channel="Nickelodeon.se">
     <title lang="sv">Lugn i stormen</title>
     <desc lang="sv">Säg det med en sång. Luna vill vinna en sångskrivartävling och måste därför bestämma sig för vilken sorts låt hon ska skriva. Ska hon skriva en låt som kommer från hjärtat, eller en som tilltalar så många som möjligt?</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 3. Del 17</episode-num>
   </programme>
-  <programme start="20211231150000 +0100" stop="20211231152400 +0100" channel="Nickelodeon.se">
+  <programme start="20211231145700 +0100" stop="20211231152200 +0100" channel="Nickelodeon.se">
     <title lang="sv">Lugn i stormen</title>
     <desc lang="sv">Fullkomligt fasansfullt / Knockad docka. Lincoln och Clyde ska besöka ett spökhus, men först måste de tuffa till sig och bli kvitt sina rädslor. // Lola upptäcker att Lucy har en gammal ömtålig docka och bestämmer sig för att låna den utan hennes tillåtelse.</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 3. Del 20</episode-num>
   </programme>
-  <programme start="20211231152400 +0100" stop="20211231153800 +0100" channel="Nickelodeon.se">
+  <programme start="20211231152200 +0100" stop="20211231153600 +0100" channel="Nickelodeon.se">
     <title lang="sv">Familjen Casagrande</title>
     <desc lang="sv">Bästa vänner. Carlitos ger sig ut på ett vilt äventyr för att hämta sitt favoritgosedjur från arkaden.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 2. Del 12</episode-num>
   </programme>
-  <programme start="20211231153800 +0100" stop="20211231160200 +0100" channel="Nickelodeon.se">
+  <programme start="20211231153600 +0100" stop="20211231160200 +0100" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Leva som Larry / Solblekt. Allihop är imponerade av Hummern Harry våghalsiga liv, särskilt SvampBob och Patrik. // Alla som är något i Bikini Botten ska gå på ett stort party. Men man måste ha en viss solbränna för att komma in.</desc>
     <date>2008</date>
     <episode-num system="onscreen">Säsong 6. Del 106</episode-num>
   </programme>
-  <programme start="20211231160200 +0100" stop="20211231162600 +0100" channel="Nickelodeon.se">
+  <programme start="20211231160200 +0100" stop="20211231162700 +0100" channel="Nickelodeon.se">
     <title lang="sv">Korallkollo: Svampbobs underår</title>
     <desc lang="sv">Matattacken / Pearl-passning. Efter att Svampbob och Patrik äter av ett hemligt matexpereiment måste Plankton motverka dom monstruösa biverkningarna. // Herr Krabba måste hitta en barnvakt till Pearl, men hon visar sig vara krävande att ta hand om.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 6</episode-num>
   </programme>
-  <programme start="20211231162600 +0100" stop="20211231165200 +0100" channel="Nickelodeon.se">
+  <programme start="20211231162700 +0100" stop="20211231165200 +0100" channel="Nickelodeon.se">
     <title lang="sv">Rugrats (2021)</title>
     <desc lang="sv">Fröken Bortrensning / Ny valp. När en professionell organisatör kommer förbi, måste Tommy och hans vänner hindra henne från att slänga bort alla leksaker. // När Tommys föräldrar tar hem en fostervalp, måste Tommy se till att inte Spike blir ersatt.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 1. Del 3</episode-num>
   </programme>
-  <programme start="20211231165200 +0100" stop="20211231171600 +0100" channel="Nickelodeon.se">
+  <programme start="20211231165200 +0100" stop="20211231171700 +0100" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
-    <desc lang="sv">Må Z-Styrkan vara med dig. Max och Phoebe ber Cherry rycka in när Phoebe skadar sig kvällen före ett möte med Z-Styrkan, men ett nödrop på superhjältar äventyrar planen och tvillingarnas framtid som brottsbekämpare.</desc>
+    <desc lang="sv">Må Z-Styrkan Vara Med Dig. Max och Phoebe ber Cherry rycka in när Phoebe skadar sig kvällen före ett möte med Z-Styrkan, men ett nödrop på superhjältar äventyrar planen och tvillingarnas framtid som brottsbekämpare.</desc>
     <date>2016</date>
     <episode-num system="onscreen">Säsong 4. Del 10</episode-num>
   </programme>
-  <programme start="20211231171600 +0100" stop="20211231174200 +0100" channel="Nickelodeon.se">
+  <programme start="20211231171700 +0100" stop="20211231174200 +0100" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Hemlig dejt. Henry och gänget fixar en hemlig underjordsrestaurang i Man-Grottan där Charlotte kan ha sin middag med musikstjärnan Jack Swagger. När ryktet sprids om att Jack är i stan, dundrar objudna gäster in på festen.</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 5. Del 34</episode-num>
   </programme>
-  <programme start="20211231174200 +0100" stop="20211231180600 +0100" channel="Nickelodeon.se">
+  <programme start="20211231174200 +0100" stop="20211231180500 +0100" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Flyktrummet. En grinig fabriksägare lurar Kid Danger och Kapten Man att gå in i ett flyktrum. De blir instängda med två nya barn, Mika och Miles, som är ovanligt bra på att lösa gåtorna som de måste svara på för att komma ut.</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 5. Del 36</episode-num>
   </programme>
-  <programme start="20211231180600 +0100" stop="20211231183000 +0100" channel="Nickelodeon.se">
+  <programme start="20211231180500 +0100" stop="20211231182900 +0100" channel="Nickelodeon.se">
     <title lang="sv">Tyler Perrys Young Dylan</title>
     <desc lang="sv">Naturlig skönhet. Dylan försöker hjälpa Charlie med läxorna, men får stå till svars för sitt okonventionella sätt att göra hemuppgifterna när deras lärare utmanar Dylan på en rap-tävling.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 11</episode-num>
   </programme>
-  <programme start="20211231183000 +0100" stop="20211231185400 +0100" channel="Nickelodeon.se">
+  <programme start="20211231182900 +0100" stop="20211231185200 +0100" channel="Nickelodeon.se">
     <title lang="sv">Danger force</title>
     <desc lang="sv">Skurkarnas Afton. Danger Force och Kapten Man låtsas vara skurkar i Slagsmålsgrottan för att fånga en bov. Om deras täckmantel röjs, måste de bekämpa alla Swellviews tuffaste brottslingar samtidigt.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 4</episode-num>
   </programme>
-  <programme start="20211231185400 +0100" stop="20211231192000 +0100" channel="Nickelodeon.se">
+  <programme start="20211231185200 +0100" stop="20211231191900 +0100" channel="Nickelodeon.se">
     <title lang="sv">Danger force</title>
     <desc lang="sv">Mika mitt emellan. Mika får en sista lektion i konsten att inte tjalla, men en överraskning från Schwoz mamma äventyrar hennes chanser att klara provet.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 8</episode-num>
   </programme>
-  <programme start="20211231192000 +0100" stop="20211231194400 +0100" channel="Nickelodeon.se">
+  <programme start="20211231191900 +0100" stop="20211231194200 +0100" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Kapten Mamma. Kapten Man har blivit en riktig gnällbebis efter att han blivit gravid. Hans förlossningsvärkar är så illa att Kid Danger och Piper måste ge sig ut ensamma för att stoppa ett par fett-tjuvar.</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 5. Del 26</episode-num>
   </programme>
-  <programme start="20211231194400 +0100" stop="20211231200600 +0100" channel="Nickelodeon.se">
+  <programme start="20211231194200 +0100" stop="20211231200600 +0100" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Synlige Brad. Kapten Man och Kid Danger kommer behöva en gnutta magi och lite hjälp av en gammal vän om de ska lyckas fånga en tjuv.</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 5. Del 27</episode-num>
   </programme>
-  <programme start="20211231200600 +0100" stop="20211231203000 +0100" channel="Nickelodeon.se">
+  <programme start="20211231200600 +0100" stop="20211231203100 +0100" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
-    <desc lang="sv">Den ofrivilliga hjälten. Phoebe försöker komma i gång med superhjälte-träningen, men när hon smyger ut på en fest och räddar en människas liv, ber hon Max att ta åt sig äran, och plötsligt blir han en hjälte.</desc>
+    <desc lang="sv">Den Ofrivilliga Hjälten. Phoebe försöker komma i gång med superhjälte-träningen, men när hon smyger ut på en fest och räddar en människas liv, ber hon Max att ta åt sig äran, och plötsligt blir han en hjälte.</desc>
     <date>2014</date>
     <episode-num system="onscreen">Säsong 2. Del 22</episode-num>
   </programme>
-  <programme start="20211231203000 +0100" stop="20211231205400 +0100" channel="Nickelodeon.se">
+  <programme start="20211231203100 +0100" stop="20211231205600 +0100" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Surr-surr hjärnan / Vattensvampen. Svamp-Bob och Patrik har fastnat för den senaste flugan - att låta sin egen hjärna flyga som en drönare. // När Svamp-Bob och Patrik leker "Vattumannen och Sjöpojken" är allt frid och fröjd, tills deras fiende dyker upp.</desc>
     <date>2016</date>
     <episode-num system="onscreen">Säsong 10. Del 205</episode-num>
   </programme>
-  <programme start="20211231205400 +0100" stop="20211231211800 +0100" channel="Nickelodeon.se">
+  <programme start="20211231205600 +0100" stop="20211231212200 +0100" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Fast egendom-ligt / Doktor Svamp-Bob. När Svamp-Bob tror att han är allergisk mot sin ananas, erbjuder sig Bläckward att hjälpa honom att hitta ett nytt hem. // Bläckward ska till sjukhuset för en näsoperation och Svamp-Bob hänger med som moraliskt stöd.</desc>
     <date>2016</date>
     <episode-num system="onscreen">Säsong 10. Del 206</episode-num>
   </programme>
-  <programme start="20211231211800 +0100" stop="20211231214200 +0100" channel="Nickelodeon.se">
+  <programme start="20211231212200 +0100" stop="20211231214500 +0100" channel="Nickelodeon.se">
     <title lang="sv">Rugrats (2021)</title>
     <desc lang="sv">En stor lycklig familj / Den sista ballongen. Angelica utnyttjar ett familjeproblem för att få Tommy och Chucki att leka familj. // Tommy och bebisarna hjälper Chuckie att ta hand om det han tror är den sista ballongen i världen.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 1. Del 5</episode-num>
   </programme>
-  <programme start="20211231214200 +0100" stop="20211231220600 +0100" channel="Nickelodeon.se">
+  <programme start="20211231214500 +0100" stop="20211231220600 +0100" channel="Nickelodeon.se">
     <title lang="sv">Rugrats (2021)</title>
     <desc lang="sv">Framtidsskaparen / Hejdå Reptar. Angelica använder ett filter på sin mobil för att lura i Susie att hon kommer att förvandlas till en taco. // Tommy hjälper Chuckie att skicka ett meddelande till hans Reptar-docka som de tror har rest till yttre rymden.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 1. Del 9</episode-num>
   </programme>
-  <programme start="20211231220600 +0100" stop="20211231223000 +0100" channel="Nickelodeon.se">
+  <programme start="20211231220600 +0100" stop="20211231223100 +0100" channel="Nickelodeon.se">
     <title lang="sv">Familjen Casagrande</title>
     <desc lang="sv">Pippi på flykt / Golfmästaren. När Sancho hamnar i trubbel i stan, hjälper Sergio honom att bli det perfekta husdjuret!. // Bobby oroar sig för att Lori har en ny kärlek, och hälsar på henne på college och försöker imponera med sina nya golfkunskaper. .</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 2. Del 15</episode-num>
   </programme>
-  <programme start="20211231223000 +0100" stop="20211231225400 +0100" channel="Nickelodeon.se">
+  <programme start="20211231223100 +0100" stop="20211231225200 +0100" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Dubbelfara. Kapten Man och Kid Danger försöker fånga mobb-bossen Rob Moss, och bestämmer sig därför för att infiltrera hans högkvarter.</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 5. Del 19</episode-num>
   </programme>
-  <programme start="20211231225400 +0100" stop="20211231231800 +0100" channel="Nickelodeon.se">
+  <programme start="20211231225200 +0100" stop="20211231231600 +0100" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Massagestolen. När Kapten Man dyker upp med en häftig ny massagestol får Henry, Charlotte och Jasper ställa upp i en tuff tävling som utmanar dem både fysiskt och psykiskt, för att se vem av dem som får stolen.</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 5. Del 20</episode-num>
   </programme>
-  <programme start="20211231231800 +0100" stop="20211231234200 +0100" channel="Nickelodeon.se">
+  <programme start="20211231231600 +0100" stop="20211231233900 +0100" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Var är syrran: Del 1. Det är någon som stjäl paket i Swellview, och Henry och Ray bestämmer sig för att gillra en fälla för tjuven.</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 5. Del 24</episode-num>
   </programme>
-  <programme start="20211231234200 +0100" stop="20220101000600 +0100" channel="Nickelodeon.se">
+  <programme start="20211231233900 +0100" stop="20220101000100 +0100" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">Dejt med förvecklingar. En desperat Phoebe håller Max borta från ett skolprojekt genom att lura i honom att en tjej på skolan vill gå ut med honom. Men när Max och hans dejt inser att de blivit lurade, söker de hämnd.</desc>
     <date>2015</date>
@@ -14771,17 +14789,17 @@
     <episode-num system="onscreen">Säsong 7. Del 2 av 6</episode-num>
   </programme>
   <programme start="20211231003000 +0100" stop="20211231010000 +0100" channel="Sportkanalen.se">
-    <title lang="sv">La liga world</title>
-    <desc lang="sv">inga Detaljer.</desc>
-    <date>2021</date>
-    <episode-num system="onscreen">Säsong 2021. Del 21 av 41</episode-num>
+    <title lang="sv">NB80's</title>
+    <desc lang="sv">Del tre av fem i en tillbakablick på 1980-talets NBA. I del tre får vi bland annat se bilder från NBA-draften 1984 - som introducerade flera legendarer inom ligan. Dessutom avgörs Slam Dunk Contest för första gången under ligans All Star-helg. ,. Säsong 1. Del 3 av 5.</desc>
+    <date>2011</date>
+    <episode-num system="onscreen">Del tre av fem i en tillbakablick på 1980-talets NBA. Säsong 1. Del 3 av 5</episode-num>
   </programme>
-  <programme start="20211231010000 +0100" stop="20211231034000 +0100" channel="Sportkanalen.se">
+  <programme start="20211231010000 +0100" stop="20211231032500 +0100" channel="Sportkanalen.se">
     <title lang="sv">Basket</title>
     <desc lang="sv">BrooklynPhiladelphia. NBA. Basket från Barclays Center där Brooklyn Nets ställs mot Philadelphia 76ers i NBA. Engelsk kommentering.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20211231034000 +0100" stop="20211231120000 +0100" channel="Sportkanalen.se">
+  <programme start="20211231032500 +0100" stop="20211231120000 +0100" channel="Sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">Höjdpunkter från bland annat SHL, SDHL, Serie A, La Liga, Handbollsligan och SHE.</desc>
     <date>2020</date>
@@ -14897,19 +14915,19 @@
     <title lang="sv">Ridsport</title>
     <desc lang="sv">Rom. Global champions tour. Rom. ,.</desc>
   </programme>
-  <programme start="20211230084000 +0100" stop="20211230102000 +0100" channel="Eurosport1.se">
+  <programme start="20211230084000 +0100" stop="20211230102200 +0100" channel="Eurosport1.se">
     <title lang="sv">Ridsport</title>
     <desc lang="sv">Sacramento. Världscupen. Sacramento. ,.</desc>
   </programme>
-  <programme start="20211230102000 +0100" stop="20211230112000 +0100" channel="Eurosport1.se">
+  <programme start="20211230102200 +0100" stop="20211230112200 +0100" channel="Eurosport1.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">1:a åket Storslalom Damer. Världscupen. Lienz. ,.</desc>
   </programme>
-  <programme start="20211230112000 +0100" stop="20211230122000 +0100" channel="Eurosport1.se">
+  <programme start="20211230112200 +0100" stop="20211230122100 +0100" channel="Eurosport1.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">2:a åket Storslalom Damer. Världscupen. Lienz. ,.</desc>
   </programme>
-  <programme start="20211230122000 +0100" stop="20211230132000 +0100" channel="Eurosport1.se">
+  <programme start="20211230122100 +0100" stop="20211230132000 +0100" channel="Eurosport1.se">
     <title lang="sv">Ridsport Global Champions Tour Säsongssammanfattning</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
@@ -14961,11 +14979,11 @@
     <title lang="sv">Kraftsport</title>
     <desc lang="sv">Norge. Styrkelyft: VM. Norge. ,.</desc>
   </programme>
-  <programme start="20211231012200 +0100" stop="20211231025700 +0100" channel="Eurosport1.se">
+  <programme start="20211231012200 +0100" stop="20211231025800 +0100" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Kvartsfinal World Grand Prix. World Grand Prix. Kvartsfinal World Grand Prix. ,.</desc>
   </programme>
-  <programme start="20211231025700 +0100" stop="20211231041600 +0100" channel="Eurosport1.se">
+  <programme start="20211231025800 +0100" stop="20211231041600 +0100" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Kvartsfinal World Grand Prix. World Grand Prix. Kvartsfinal World Grand Prix. ,.</desc>
   </programme>
@@ -15366,17 +15384,9 @@
     <desc lang="sv">Florida PanthersTampa Bay Lightning. NHL. FLA Live Arena i Sunrise, Florida. Från FLA Live Arena i Sunrise, Florida. (30/12-21).</desc>
     <date>2021</date>
   </programme>
-  <programme start="20211231040500 +0100" stop="20211231090000 +0100" channel="ViasatSportPremium.se">
+  <programme start="20211231040500 +0100" stop="20211231110000 +0100" channel="ViasatSportPremium.se">
     <title lang="sv">Ishockey</title>
     <desc lang="sv">Seattle KrakenCalgary Flames. NHL. Climate Pledge Arena, Seattle. Från Climate Pledge Arena, Seattle. (30/12-21).</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20211231090000 +0100" stop="20211231110000 +0100" channel="ViasatSportPremium.se">
-    <title lang="sv">Fotboll</title>
-    <desc lang="sv">Omgång 20. BrentfordManchester City. Premier League. Brentford Community Stadium, Brentford. Omgång 20. Från Brentford Community Stadium, Brentford. (29/12-21). 30/12 år 2021 i V Sport Premium.</desc>
-    <credits>
-      <presenter>Anders Bjuhr</presenter>
-    </credits>
     <date>2021</date>
   </programme>
   <programme start="20211231110000 +0100" stop="20211231130000 +0100" channel="ViasatSportPremium.se">
@@ -15453,40 +15463,40 @@
     </credits>
     <date>2021</date>
   </programme>
-  <programme start="20211230143000 +0100" stop="20211230162500 +0100" channel="ViasatFotboll.se">
+  <programme start="20211230143000 +0100" stop="20211230163000 +0100" channel="ViasatFotboll.se">
     <title lang="sv">Fotboll</title>
-    <desc lang="sv">Omgång 20. ChelseaBrighton. Premier League. Stamford Bridge, London. Omgång 20. Från Stamford Bridge, London. (29/12-21). 30/12 år 2021 i V Sport Football.</desc>
+    <desc lang="sv">Omgång 20. ChelseaBrighton. Premier League. Stamford Bridge, London. Omgång 20. Från Stamford Bridge, London. 30/12 år 2021 i V Sport Football.</desc>
     <credits>
-      <presenter>Johanna Frisk Claes Andersson</presenter>
+      <presenter>Johanna Frisk Claes Andersson Niklas Holmgren</presenter>
     </credits>
     <date>2021</date>
   </programme>
-  <programme start="20211230162500 +0100" stop="20211230182000 +0100" channel="ViasatFotboll.se">
+  <programme start="20211230163000 +0100" stop="20211230183000 +0100" channel="ViasatFotboll.se">
     <title lang="sv">Fotboll</title>
-    <desc lang="sv">Omgång 20. WatfordWest Ham. Premier League. Vicarage Road, Watford. Omgång 20. Från Vicarage Road, Watford. (28/12-21). 29/12 år 2021 i V Sport Football.</desc>
+    <desc lang="sv">Omgång 20. WatfordWest Ham. Premier League. Vicarage Road, Watford. Omgång 20. Från Vicarage Road, Watford. Kommentator: Gustav Karlsson (28/12-21). 29/12 år 2021 i V Sport Football. Kommentator: Robert Tennisberg, Gustav Karlsson.</desc>
     <credits>
-      <presenter>Robert Tennisberg</presenter>
+      <presenter>Gustav Karlsson (28/12-21) 29/12 år 2021 i V Sport Football  Producerat år 2021  Kommentator:</presenter>
     </credits>
     <date>2021</date>
   </programme>
-  <programme start="20211230182000 +0100" stop="20211230202000 +0100" channel="ViasatFotboll.se">
+  <programme start="20211230183000 +0100" stop="20211230204000 +0100" channel="ViasatFotboll.se">
     <title lang="sv">Fotboll</title>
-    <desc lang="sv">Omgång 25. ReadingFulham. Championship. Select Car Leasing Stadium, Reading. Omgång 25. Från Select Car Leasing Stadium, Reading. (29/12-21). 29/12 år 2021 i V Sport Football.</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20211230202000 +0100" stop="20211230223000 +0100" channel="ViasatFotboll.se">
-    <title lang="sv">Fotboll</title>
-    <desc lang="sv">Omgång 20. EvertonNewcastle. Premier League. Goodison Park, Liverpool. Omgång 20. Från Goodison Park, Liverpool. (30/12-21).</desc>
+    <desc lang="sv">Omgång 20. Crystal PalaceNorwich. Premier League. Selhurst Park, London. Omgång 20. Från Selhurst Park, London. (28/12-21). 29/12 år 2021 i V Sport Football.</desc>
     <credits>
       <presenter>Lars Sandberg</presenter>
     </credits>
     <date>2021</date>
   </programme>
-  <programme start="20211230223000 +0100" stop="20211230233000 +0100" channel="ViasatFotboll.se">
-    <title lang="sv">Premier League review</title>
-    <desc lang="sv">Magasin från den senaste omgången i Premier League. 28/12 år 2021 i V Sport Football.</desc>
+  <programme start="20211230204000 +0100" stop="20211230224500 +0100" channel="ViasatFotboll.se">
+    <title lang="sv">Fotboll</title>
+    <desc lang="sv">Omgång 25. Bristol CityQueens PR. Championship. Ashton Gate, Bristol. Omgång 25. Från Ashton Gate, Bristol. (30/12-21).</desc>
+    <date>2021</date>
   </programme>
-  <programme start="20211230233000 +0100" stop="20211231012000 +0100" channel="ViasatFotboll.se">
+  <programme start="20211230224500 +0100" stop="20211230234500 +0100" channel="ViasatFotboll.se">
+    <title lang="sv">Premier League Monday review</title>
+    <desc lang="sv">inga Detaljer.</desc>
+  </programme>
+  <programme start="20211230234500 +0100" stop="20211231013500 +0100" channel="ViasatFotboll.se">
     <title lang="sv">Fotboll</title>
     <desc lang="sv">Omgång 20. Manchester UnitedBurnley. Premier League. Old Trafford, Manchester. Omgång 20. Från Old Trafford, Manchester. (30/12-21).</desc>
     <credits>
@@ -15494,15 +15504,7 @@
     </credits>
     <date>2021</date>
   </programme>
-  <programme start="20211231012000 +0100" stop="20211231031000 +0100" channel="ViasatFotboll.se">
-    <title lang="sv">Fotboll</title>
-    <desc lang="sv">Omgång 20. EvertonNewcastle. Premier League. Goodison Park, Liverpool. Omgång 20. Från Goodison Park, Liverpool. (30/12-21). 30/12 år 2021 i V Sport Football.</desc>
-    <credits>
-      <presenter>Lars Sandberg</presenter>
-    </credits>
-    <date>2021</date>
-  </programme>
-  <programme start="20211231031000 +0100" stop="20211231103000 +0100" channel="ViasatFotboll.se">
+  <programme start="20211231013500 +0100" stop="20211231103000 +0100" channel="ViasatFotboll.se">
     <title lang="sv">Sändningsuppehåll</title>
     <desc lang="sv">Sändningsuppehåll. 30/12 år 2021 i V Sport Football.</desc>
   </programme>
