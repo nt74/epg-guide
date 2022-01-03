@@ -4248,14 +4248,9 @@
     <title lang="el">COSMOTESport8HD</title>
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
   </programme>
-  <programme start="20220104220000 +0200" stop="20220104223000 +0200" channel="CosmoteSport8.gr">
+  <programme start="20220104220000 +0200" stop="20220105000000 +0200" channel="CosmoteSport8.gr">
     <title lang="el">COSMOTESport8HD</title>
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
-  </programme>
-  <programme start="20220104223000 +0200" stop="20220105003000 +0200" channel="CosmoteSport8.gr">
-    <title lang="el">Μπάσκετ: Βαλένθια - Γκραν Κανάρια (Ζ)</title>
-    <desc lang="el">ACB Liga Endesa 2021-22. 16η αγωνιστική. Η 39η σεζόν του ισπανικού πρωταθλήματος περιλαμβάνει 17 ομάδες από τη σεζόν 2020-21, μεταξύ των οποίων τα μεγάλα φαβορί για τον τίτλο Ρεάλ Μαδρίτης και Μπαρτσελόνα. Η νέα προσθήκη στη λίγκα είναι η νεοφώτιστη Ρίο Μπρεογκάν. Περιγραφή: Ρήγας Δάρδαλης.</desc>
-    <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20220103004000 +0200" stop="20220103023500 +0200" channel="CosmoteCinema1.gr">
     <title lang="el">Απόδραση στον Αέρα (Con Air)</title>
