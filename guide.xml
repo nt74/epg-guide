@@ -1283,14 +1283,14 @@
   <programme start="20220206195500 +0200" stop="20220206200000 +0200" channel="Alpha.gr">
     <title lang="el">Καιρός</title>
   </programme>
-  <programme start="20220206200000 +0200" stop="20220206213000 +0200" channel="Alpha.gr">
+  <programme start="20220206200000 +0200" stop="20220206214500 +0200" channel="Alpha.gr">
     <title lang="el">Η Τέλεια Απόδραση</title>
     <desc lang="el">Κάθε φορά που ένας παίκτης απαντάει σωστά, ο συμπαίκτης του κερδίζει χρόνο για να κάνει επιδρομή στο κλουβί με τα εκατοντάδες δώρα. Όλα μπορούν να γίνουν δικά τους, αρκεί να μπορέσουν να τα βγάλουν από το κλουβί πριν τελειώσει ο χρόνος.</desc>
     <category lang="el">Τηλεπαιχνίδι - Τηλεπαιχνίδι</category>
   </programme>
-  <programme start="20220206213000 +0200" stop="20220206231000 +0200" channel="Alpha.gr">
+  <programme start="20220206214500 +0200" stop="20220206231000 +0200" channel="Alpha.gr">
     <title lang="el">Sherlock Holmes</title>
-    <desc lang="el">Συμπαραγωγή ΗΠΑ και Γερμανίας. Ο θρυλικός ντετέκτιβ Sherlock Holmes και ο πιστός του φίλος και βοηθός Dr. Watson θα αγωνιστούν για να ξεσκεπάσουν μια φονική πλεκτάνη που απειλεί να καταστρέψει την Αγγλία. (165') Παραγωγή: Άλλη.</desc>
+    <desc lang="el">Συμπαραγωγή ΗΠΑ και Γερμανίας. Ο θρυλικός ντετέκτιβ Sherlock Holmes και ο πιστός του φίλος και βοηθός Dr. Watson θα αγωνιστούν για να ξεσκεπάσουν μια φονική πλεκτάνη που απειλεί να καταστρέψει την Αγγλία. (150') Παραγωγή: Άλλη.</desc>
     <credits>
       <director>Γκάι Ρίτσι</director>
       <actor>Ρόμπερτ Ντάουνι Τζούνιορ</actor>
@@ -2966,7 +2966,7 @@
   <programme start="20220206205500 +0200" stop="20220206210000 +0200" channel="Mega.gr">
     <title lang="el">Δελτίο Καιρού</title>
   </programme>
-  <programme start="20220206210000 +0200" stop="20220206221000 +0200" channel="Mega.gr">
+  <programme start="20220206210000 +0200" stop="20220206220000 +0200" channel="Mega.gr">
     <title lang="el">Η Γη της Ελιάς</title>
     <desc lang="el">Ένα ασθενοφόρο παίρνει τη Βασιλική, η οποία υποφέρει από τους πόνους. Ο Πότης ακούει τη σειρήνα και ξεκινά 'έρευνα' για να μάθει ποιον μεταφέρουν στο νοσοκομείο. Ο Αλέξης έχει πλέον καταλάβει ότι η κατάσταση του όλο και χειροτερεύει, και παίρνει τηλέφωνο τον ψυχίατρό του για να του αλλάξει αγωγή. Παραγωγή: Ελλάδα.</desc>
     <credits>
@@ -2978,7 +2978,7 @@
       <actor>Λύδια Κονιόρδου</actor>
     </credits>
   </programme>
-  <programme start="20220206221000 +0200" stop="20220206224000 +0200" channel="Mega.gr">
+  <programme start="20220206220000 +0200" stop="20220206224000 +0200" channel="Mega.gr">
     <title lang="el">Σπίτι με το MEGA</title>
     <desc lang="el">Χρήστος Παπαδόπουλος. Ο δεξιοτέχνης μουσικός και συνθέτης, μέλος του συγκροτήματος 'Τα Παιδιά απ' την Πάτρα', που έγραψε ιστορία τη δεκαετία του '80, έχει ετοιμάσει μία ξεχωριστή βραδιά με πρωταγωνιστή το λαϊκό τραγούδι. (ΤΠ).</desc>
     <category lang="el">Μουσική εκπομπή</category>
@@ -3940,7 +3940,7 @@
     <category lang="el">Αθλητική Εκπομπή - Αγώνας</category>
     <episode-num system="onscreen">S250</episode-num>
   </programme>
-  <programme start="20220206233000 +0200" stop="20220207033000 +0200" channel="CosmoteSport6.gr">
+  <programme start="20220206233000 +0200" stop="20220207040000 +0200" channel="CosmoteSport6.gr">
     <title lang="el">Τένις: ATP</title>
     <desc lang="el">Open Sud de France. Ημιτελικοί. Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας</category>
@@ -7783,13 +7783,13 @@
     <date>2012</date>
     <episode-num system="onscreen">Säsong 1. Del 5 av 17</episode-num>
   </programme>
-  <programme start="20220205083500 +0100" stop="20220205093500 +0100" channel="Kanal9.se">
+  <programme start="20220205083500 +0100" stop="20220205093000 +0100" channel="Kanal9.se">
     <title lang="sv">Gold rush</title>
     <desc lang="sv">Amerikansk realityserie från 2017. Inferno. Vi följer Jack och Todd Hoffman, far och son, i deras desperata kamp för att hitta guld i Alaska. Tillsammans med ett team arbetslösa gruvarbetare kämpar Jack och Todd i Alaskas vildmark för att skapa en gyllene framtid för sig och sina familjer. 27/08 år 2021 i Kanal 9.</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 8. Del 7 av 21</episode-num>
   </programme>
-  <programme start="20220205093500 +0100" stop="20220205113500 +0100" channel="Kanal9.se">
+  <programme start="20220205093000 +0100" stop="20220205113500 +0100" channel="Kanal9.se">
     <title lang="sv">Ishockey</title>
     <desc lang="sv">Gruppspel, damer. TjeckienSverige. OS. National Indoor Stadium. OS: Ishockey Tjeckien - Sverige damer gruppspel. National Indoor Stadium. Kommentatorer: Tommy Åström och Daniel Rudslätt.</desc>
     <credits>
@@ -15047,8 +15047,8 @@
     <desc lang="sv">Final HS106 Damer. Vinter-OS. Final HS106 Damer.</desc>
   </programme>
   <programme start="20220205132300 +0100" stop="20220205145300 +0100" channel="Eurosport1.se">
-    <title lang="sv">Vintersport</title>
-    <desc lang="sv">Beijing Dag 1. Dag 1. Beijing Dag 1.</desc>
+    <title lang="sv">Skridsko</title>
+    <desc lang="sv">Dag 1. Short track: OS. Beijing Dag 1.</desc>
   </programme>
   <programme start="20220205145300 +0100" stop="20220205162800 +0100" channel="Eurosport1.se">
     <title lang="sv">Ishockey</title>
@@ -15062,29 +15062,29 @@
     <title lang="sv">Beijing today</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220205180000 +0100" stop="20220205193200 +0100" channel="Eurosport1.se">
+  <programme start="20220205180000 +0100" stop="20220205193100 +0100" channel="Eurosport1.se">
     <title lang="sv">Curling</title>
-    <desc lang="sv">Beijing Gruppspel Dubbel Mixed. Curling Vinter-OS Beijing. Beijing Gruppspel Dubbel Mixed. ,.</desc>
+    <desc lang="sv">Gruppspel Dubbel Mixed. OS. Beijing Gruppspel Dubbel Mixed. ,.</desc>
   </programme>
-  <programme start="20220205193200 +0100" stop="20220205210300 +0100" channel="Eurosport1.se">
+  <programme start="20220205193100 +0100" stop="20220205210200 +0100" channel="Eurosport1.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Damer. Snowboard: OS. Damer. ,.</desc>
   </programme>
-  <programme start="20220205210300 +0100" stop="20220205220300 +0100" channel="Eurosport1.se">
-    <title lang="sv">Sport generellt</title>
-    <desc lang="sv">Sport. ,.</desc>
+  <programme start="20220205210200 +0100" stop="20220205220200 +0100" channel="Eurosport1.se">
+    <title lang="sv">Beijing today: Winter Olympic Games</title>
+    <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220205220300 +0100" stop="20220205230300 +0100" channel="Eurosport1.se">
+  <programme start="20220205220200 +0100" stop="20220205230200 +0100" channel="Eurosport1.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Final Puckelpist Herrar. Freestyle: OS. Final Puckelpist Herrar. ,.</desc>
   </programme>
-  <programme start="20220205230300 +0100" stop="20220205233500 +0100" channel="Eurosport1.se">
+  <programme start="20220205230200 +0100" stop="20220205233400 +0100" channel="Eurosport1.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">OS. ,.</desc>
   </programme>
-  <programme start="20220205233500 +0100" stop="20220206010500 +0100" channel="Eurosport1.se">
+  <programme start="20220205233400 +0100" stop="20220206010500 +0100" channel="Eurosport1.se">
     <title lang="sv">Backhoppning</title>
-    <desc lang="sv">Final HS106 Damer. Vinter-OS. Final HS106 Damer. ,.</desc>
+    <desc lang="sv">Final HS106 Damer. OS. Final HS106 Damer. ,.</desc>
   </programme>
   <programme start="20220206010500 +0100" stop="20220206023300 +0100" channel="Eurosport1.se">
     <title lang="sv">Skidskytte</title>
@@ -15106,13 +15106,13 @@
     <title lang="sv">Alpint</title>
     <desc lang="sv">Störtlopp Herrar. Vinter-OS. Störtlopp Herrar.</desc>
   </programme>
-  <programme start="20220206063100 +0100" stop="20220206065700 +0100" channel="Eurosport1.se">
+  <programme start="20220206063100 +0100" stop="20220206065500 +0100" channel="Eurosport1.se">
     <title lang="sv">Vintersport</title>
-    <desc lang="sv">2:a åket Singel Herrar. OS: Rodel. Beijing 2:a åket Singel Herrar. ,.</desc>
+    <desc lang="sv">2:a åket Singel Herrar. Rodel: OS. Beijing 2:a åket Singel Herrar. ,.</desc>
   </programme>
-  <programme start="20220206065700 +0100" stop="20220206080300 +0100" channel="Eurosport1.se">
+  <programme start="20220206065500 +0100" stop="20220206080300 +0100" channel="Eurosport1.se">
     <title lang="sv">Backhoppning</title>
-    <desc lang="sv">Final HS106 Damer. Vinter-OS. Final HS106 Damer. ,.</desc>
+    <desc lang="sv">Final HS106 Damer. OS. Final HS106 Damer. ,.</desc>
   </programme>
   <programme start="20220206080300 +0100" stop="20220206094500 +0100" channel="Eurosport1.se">
     <title lang="sv">Längdåkning</title>
@@ -15186,29 +15186,29 @@
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Damer. Snowboard: OS. Damer.</desc>
   </programme>
-  <programme start="20220205060000 +0100" stop="20220205062400 +0100" channel="Eurosport2.se">
+  <programme start="20220205060000 +0100" stop="20220205062600 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Kval Puckelpist Herrar. Freestyle: OS. Kval Puckelpist Herrar. ,.</desc>
   </programme>
-  <programme start="20220205062400 +0100" stop="20220205070300 +0100" channel="Eurosport2.se">
+  <programme start="20220205062600 +0100" stop="20220205070300 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Kval Puckelpist Damer. Freestyle: OS. Kval Puckelpist Damer. ,.</desc>
   </programme>
-  <programme start="20220205070300 +0100" stop="20220205090000 +0100" channel="Eurosport2.se">
+  <programme start="20220205070300 +0100" stop="20220205085900 +0100" channel="Eurosport2.se">
     <title lang="sv">Curling</title>
-    <desc lang="sv">SverigeKanada Gruppspel Dubbel Mixed. Curling Vinter-OS Beijing. Sverige - Kanada Gruppspel Dubbel Mixed.</desc>
+    <desc lang="sv">SverigeKanada Gruppspel Dubbel Mixed. OS. Sverige - Kanada Gruppspel Dubbel Mixed.</desc>
   </programme>
-  <programme start="20220205090000 +0100" stop="20220205093300 +0100" channel="Eurosport2.se">
+  <programme start="20220205085900 +0100" stop="20220205093300 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Kval Puckelpist Damer. Freestyle: OS. Kval Puckelpist Damer. ,.</desc>
   </programme>
-  <programme start="20220205093300 +0100" stop="20220205112000 +0100" channel="Eurosport2.se">
+  <programme start="20220205093300 +0100" stop="20220205112100 +0100" channel="Eurosport2.se">
     <title lang="sv">Skridsko</title>
     <desc lang="sv">Damer. OS. Beijing Damer.</desc>
   </programme>
-  <programme start="20220205112000 +0100" stop="20220205123300 +0100" channel="Eurosport2.se">
+  <programme start="20220205112100 +0100" stop="20220205123300 +0100" channel="Eurosport2.se">
     <title lang="sv">Konståkning</title>
-    <desc lang="sv">Kortprogram Lag. Vinter-OS. Kortprogram Lag. ,.</desc>
+    <desc lang="sv">Kortprogram Lag. OS. Kortprogram Lag. ,.</desc>
   </programme>
   <programme start="20220205123300 +0100" stop="20220205141000 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
@@ -15230,19 +15230,19 @@
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 5 Tour of Saudi Arabia Herrar. Cykel Tour of Saudi Arabia. Etapp 5 Tour of Saudi Arabia Herrar.</desc>
   </programme>
-  <programme start="20220205183000 +0100" stop="20220205192800 +0100" channel="Eurosport2.se">
+  <programme start="20220205183000 +0100" stop="20220205192900 +0100" channel="Eurosport2.se">
     <title lang="sv">Skridsko</title>
-    <desc lang="sv">Beijing Damer. OS. Beijing Damer. ,.</desc>
+    <desc lang="sv">Damer. OS. Beijing Damer. ,.</desc>
   </programme>
-  <programme start="20220205192800 +0100" stop="20220206010100 +0100" channel="Eurosport2.se">
+  <programme start="20220205192900 +0100" stop="20220206010200 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">OS. ,.</desc>
   </programme>
-  <programme start="20220206010100 +0100" stop="20220206020000 +0100" channel="Eurosport2.se">
-    <title lang="sv">Sport generellt</title>
-    <desc lang="sv">Sport. ,.</desc>
+  <programme start="20220206010200 +0100" stop="20220206015900 +0100" channel="Eurosport2.se">
+    <title lang="sv">Beijing today: Vinter-OS</title>
+    <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220206020000 +0100" stop="20220206023300 +0100" channel="Eurosport2.se">
+  <programme start="20220206015900 +0100" stop="20220206023300 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">OS. ,.</desc>
   </programme>
@@ -15263,8 +15263,8 @@
     <desc lang="sv">Herrar. Snowboard: OS. Herrar.</desc>
   </programme>
   <programme start="20220206060000 +0100" stop="20220206073800 +0100" channel="Eurosport2.se">
-    <title lang="sv">Snowboard: Vinter-OS</title>
-    <desc lang="sv">Herrar. Vinter-OS. Herrar.</desc>
+    <title lang="sv">Vintersport</title>
+    <desc lang="sv">Herrar. Snowboard: OS. Herrar.</desc>
   </programme>
   <programme start="20220206073800 +0100" stop="20220206090600 +0100" channel="Eurosport2.se">
     <title lang="sv">Curling</title>
@@ -15274,35 +15274,35 @@
     <title lang="sv">Vintersport</title>
     <desc lang="sv">2:a åket Singel Herrar. OS: Rodel. Beijing 2:a åket Singel Herrar. ,.</desc>
   </programme>
-  <programme start="20220206094100 +0100" stop="20220206104500 +0100" channel="Eurosport2.se">
+  <programme start="20220206094100 +0100" stop="20220206104600 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Final Puckelpist Herrar. Freestyle: OS. Final Puckelpist Herrar. ,.</desc>
   </programme>
-  <programme start="20220206104500 +0100" stop="20220206121800 +0100" channel="Eurosport2.se">
+  <programme start="20220206104600 +0100" stop="20220206121900 +0100" channel="Eurosport2.se">
     <title lang="sv">Skidskytte</title>
-    <desc lang="sv">Stafett Mixed. Vinter-OS. Beijing Stafett Mixed. ,.</desc>
+    <desc lang="sv">Stafett Mixed. OS. Beijing Stafett Mixed. ,.</desc>
   </programme>
-  <programme start="20220206121800 +0100" stop="20220206130000 +0100" channel="Eurosport2.se">
+  <programme start="20220206121900 +0100" stop="20220206130000 +0100" channel="Eurosport2.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">ATP Uncovered Tennis. ,.</desc>
   </programme>
-  <programme start="20220206130000 +0100" stop="20220206150700 +0100" channel="Eurosport2.se">
+  <programme start="20220206130000 +0100" stop="20220206150800 +0100" channel="Eurosport2.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Singel Final. ATP World Tour 250-turnering. Pune.</desc>
   </programme>
-  <programme start="20220206150700 +0100" stop="20220206160300 +0100" channel="Eurosport2.se">
-    <title lang="sv">Snowboard: Vinter-OS</title>
-    <desc lang="sv">Herrar. Vinter-OS. Herrar. ,.</desc>
+  <programme start="20220206150800 +0100" stop="20220206160300 +0100" channel="Eurosport2.se">
+    <title lang="sv">Vintersport</title>
+    <desc lang="sv">Herrar. Snowboard: OS. Herrar. ,.</desc>
   </programme>
   <programme start="20220206160300 +0100" stop="20220206173300 +0100" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Volta a la Comunitat Valenciana, Etapp 5 Herrar. Volta a la Comunitat Valenciana.</desc>
   </programme>
-  <programme start="20220206173300 +0100" stop="20220206183000 +0100" channel="Eurosport2.se">
+  <programme start="20220206173300 +0100" stop="20220206182900 +0100" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Volta a la Comunitat Valenciana Damer. Cykel Volta a la Comunitat Valenciana. Volta a la Comunitat Valenciana Damer.</desc>
   </programme>
-  <programme start="20220206183000 +0100" stop="20220207003200 +0100" channel="Eurosport2.se">
+  <programme start="20220206182900 +0100" stop="20220207003100 +0100" channel="Eurosport2.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">Störtlopp Herrar. Vinter-OS. Störtlopp Herrar. ,.</desc>
   </programme>
@@ -15484,7 +15484,7 @@
     </credits>
     <date>2022</date>
   </programme>
-  <programme start="20220206165500 +0100" stop="20220206190000 +0100" channel="ViasatSportPremium.se">
+  <programme start="20220206165500 +0100" stop="20220206195000 +0100" channel="ViasatSportPremium.se">
     <title lang="sv">Fotboll</title>
     <desc lang="sv">Omgång 4. NottinghamLeicester. FA-cupen. City Ground, West Bridgford. Omgång 4. Från City Ground, West Bridgford. (6/2-22).</desc>
     <credits>
@@ -15492,14 +15492,9 @@
     </credits>
     <date>2022</date>
   </programme>
-  <programme start="20220206190000 +0100" stop="20220206195500 +0100" channel="ViasatSportPremium.se">
-    <title lang="sv">Premier League Sunday Review</title>
-    <desc lang="sv">Premier League-magasin. 24/12 år 2021 i V Sport Premium.</desc>
-    <date>2021</date>
-  </programme>
-  <programme start="20220206195500 +0100" stop="20220206220000 +0100" channel="ViasatSportPremium.se">
+  <programme start="20220206195000 +0100" stop="20220206220000 +0100" channel="ViasatSportPremium.se">
     <title lang="sv">Fotboll</title>
-    <desc lang="sv">Final. Afrikanska mästerskapen. Paul Biya Stadium i Yaounde, Kamerun. Final. Från Paul Biya Stadium i Yaounde, Kamerun.</desc>
+    <desc lang="sv">Final. . SenegalEgypten. Afrikanska mästerskapen. Paul Biya Stadium i Yaounde, Kamerun. Final. Från Paul Biya Stadium i Yaounde, Kamerun.</desc>
     <credits>
       <presenter>Martin Åslund Henrik Strömblad</presenter>
     </credits>
