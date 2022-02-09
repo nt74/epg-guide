@@ -2196,7 +2196,7 @@
     <desc lang="el">Το νέο, διασκεδαστικό τηλεπαιχνίδι της ΕΡΤ, που παρουσιάζει ο Νίκος Κουρής, δεν θα τεστάρει μόνο τις γνώσεις και τη μνήμη μας, αλλά κυρίως την παρατηρητικότητα, την αυτοσυγκέντρωση και την ψυχραιμία μας.</desc>
   </programme>
   <programme start="20220210140000 +0200" stop="20220210150000 +0200" channel="ERT1.gr">
-    <title lang="el">Χαιρέτα μου τον Πλάτανο</title>
+    <title lang="el">Χαιρέτα μου τον Πλάτανο Κ2 Ε79 (Ε)</title>
     <desc lang="el">Όσο η Βαλέρια συνέρχεται από το χουνέρι που της σκάρωσαν οι χωριανοί, τόσο τον Σάββα τον ζώνουνε τα φίδια, την ίδια στιγμή που οι Πλατανιώτες θέτουν σε εφαρμογή τα σχέδιά τους, προκειμένου να σώσουν τα σπίτια τους από του Τζίμη τα δόντια! Παραγωγή: Ελλάδα.</desc>
     <credits>
       <director>Αντρέας Μορφονιός</director>
@@ -2236,7 +2236,7 @@
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων - Αθλητικά - Καιρός</title>
   </programme>
   <programme start="20220210220000 +0200" stop="20220210230000 +0200" channel="ERT1.gr">
-    <title lang="el">Η Τούρτα της Μαμάς</title>
+    <title lang="el">Η Τούρτα της Μαμάς Κ2 Ε7 (Ε)</title>
     <desc lang="el">Επεισόδιο: Τα γενέθλια της μαμάς μου. Σήμερα είναι τα γενέθλια της Ευανθίας. Οι πάντες όμως φαίνονται απορροφημένοι από την καθημερινότητα τους και κανείς δεν δείχνει να θυμάται την γιορτή της ακόμα και όταν η Ευανθία τους 'διατάζει' όλους να είναι στο αποψινό τραπέζι.</desc>
     <credits>
       <director>Αλέξανδρος Ρήγας</director>
@@ -3541,19 +3541,19 @@
     <desc lang="el">NBA 2021-22. Κανονική Περίοδος. Το ΝΒΑ γιορτάζει 75 χρόνια από τη δημιουργία του με 82 αγώνες κανονικής περιόδου και γεμάτα γήπεδα! Οι πρωταθλητές Μπακς του Γιάννη Αντετοκούνμπο καλούνται να υπερασπιστούν τον τίτλο τους απέναντι στους Λέικερς του Λεμπρόν Τζέιμς, τους Νετς του Ντουράντ και τους Ουόριορς του Κάρι!</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20220210190000 +0200" stop="20220210210000 +0200" channel="CosmoteSport4.gr">
+  <programme start="20220210190000 +0200" stop="20220210211500 +0200" channel="CosmoteSport4.gr">
     <title lang="el">Μπάσκετ: ΤΣΣΚΑ Μόσχας - Ούνικς Καζάν</title>
     <desc lang="el">VTB United League 2021-22. Κανονική Περίοδος. Η 13η σεζόν της VTB φιλοξενεί 12 ομάδες από 5 χώρες, εκ των οποίων οι 8 είναι από τη Ρωσία και οι υπόλοιπες από τη Λευκορωσία, την Εσθονία, το Καζακστάν και την Πολωνία. Οι 10 εξ αυτών συμμετέχουν σε ευρωπαϊκή διοργάνωση φέτος, γεγονός που καταδεικνύει τη δυναμικότητα της λίγκας. Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20220210210000 +0200" stop="20220210213000 +0200" channel="CosmoteSport4.gr">
+  <programme start="20220210211500 +0200" stop="20220210214500 +0200" channel="CosmoteSport4.gr">
     <title lang="el">NBA Daily</title>
     <desc lang="el">Η εκπομπή καλύπτει διαφορετικές ιστορίες από τον κόσμο του ΝΒΑ σε καθημερινή βάση, ενημερώνοντας τους φίλους του μπάσκετ αναφορικά με τους αγώνες και τους σταρ του αθλήματος.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20220210213000 +0200" stop="20220210234500 +0200" channel="CosmoteSport4.gr">
+  <programme start="20220210214500 +0200" stop="20220210234500 +0200" channel="CosmoteSport4.gr">
     <title lang="el">Μπάσκετ: Σάρλοτ Χόρνετς - Σικάγο Μπουλς</title>
-    <desc lang="el">NBA 2021-22. Κανονική Περίοδος. Το ΝΒΑ γιορτάζει 75 χρόνια από τη δημιουργία του με 82 αγώνες κανονικής περιόδου και γεμάτα γήπεδα! Οι πρωταθλητές Μπακς του Γιάννη Αντετοκούνμπο καλούνται να υπερασπιστούν τον τίτλο τους απέναντι στους Λέικερς του Λεμπρόν Τζέιμς, τους Νετς του Ντουράντ και τους Ουόριορς του Κάρι!</desc>
+    <desc lang="el">NBA 2021-22. Κανονική Περίοδος. Το ΝΒΑ γιορτάζει 75 χρόνια από τη δημιουργία του με 82 αγώνες κανονικής περιόδου και γεμάτα γήπεδα! Οι πρωταθλητές Μπακς του Γιάννη Αντετοκούνμπο καλούνται να υπερασπιστούν τον τίτλο τους απέναντι στους Λέικερς του Λεμπρόν Τζέιμς, τους Νετς του Ντουράντ και τους Ουόριορς του Κάρι! Περιγραφή: Κώστας Κατέβας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20220210234500 +0200" stop="20220211020500 +0200" channel="CosmoteSport4.gr">
@@ -6346,13 +6346,13 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 13. Del 53 av 120</episode-num>
   </programme>
-  <programme start="20220210035500 +0100" stop="20220210050000 +0100" channel="TV4.se">
+  <programme start="20220210035500 +0100" stop="20220210050500 +0100" channel="TV4.se">
     <title lang="sv">En plats i solen - borta eller hemma bäst?</title>
     <desc lang="sv">Brittisk livsstilsserie från 2021. Ben Hillman har tagit sig an utmaningen att hitta ett boende där Dianne och Mick från Newcastle kan leva lyckliga i alla sina dar. I den livliga resorten Gran Alicant i Spanien hoppas han kunna hitta något som passar dem. ,.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 13. Del 54 av 120</episode-num>
   </programme>
-  <programme start="20220210050000 +0100" stop="20220210053000 +0100" channel="TV4.se">
+  <programme start="20220210050500 +0100" stop="20220210053000 +0100" channel="TV4.se">
     <title lang="sv">Home and away</title>
     <desc lang="sv">Australisk dramaserie från 2016. Justin får veta varför Brody har betett sig så konstigt på sistone. Leah bryter ihop och Ash börjar misstänka att Irene vill behålla Luc. John och Marilyns lycka förstörs av ett telefonsamtal. ,.</desc>
     <date>2016</date>
@@ -6536,7 +6536,7 @@
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 88 av 163</episode-num>
   </programme>
-  <programme start="20220209064000 +0100" stop="20220209073000 +0100" channel="Kanal5.se">
+  <programme start="20220209064000 +0100" stop="20220209073500 +0100" channel="Kanal5.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">Slalom, åk 2, damer. . OS. Genting Snow Park. OS: Alpint, slalom damer åk 2. Genting Snow Park. Kommentatorer: Niklas Jarelind och Hans Olsson.</desc>
     <credits>
@@ -6544,7 +6544,7 @@
     </credits>
     <date>2022</date>
   </programme>
-  <programme start="20220209073000 +0100" stop="20220209080500 +0100" channel="Kanal5.se">
+  <programme start="20220209073500 +0100" stop="20220209080500 +0100" channel="Kanal5.se">
     <title lang="sv">OS-studion</title>
     <desc lang="sv">Jonas Karlsson och Karin Frick guidar tittarna till alla höjdpunkter och all dramatik direkt från vinterspelen i Peking.</desc>
     <date>2022</date>
@@ -6578,7 +6578,7 @@
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 85 av 163</episode-num>
   </programme>
-  <programme start="20220209130500 +0100" stop="20220209160000 +0100" channel="Kanal5.se">
+  <programme start="20220209130500 +0100" stop="20220209153000 +0100" channel="Kanal5.se">
     <title lang="sv">Curling</title>
     <desc lang="sv">Gruppspel, herrar. SverigeKina. OS. National Aquatics Centre. OS: Curling: Sverige - Kina herrar gruppspel. National Aquatics Centre. Kommentatorer: Paul Ahlgren och Sara Carlsson.</desc>
     <credits>
@@ -6586,13 +6586,21 @@
     </credits>
     <date>2022</date>
   </programme>
-  <programme start="20220209160000 +0100" stop="20220209170500 +0100" channel="Kanal5.se">
+  <programme start="20220209153000 +0100" stop="20220209163000 +0100" channel="Kanal5.se">
+    <title lang="sv">Ishockey</title>
+    <desc lang="sv">Gruppspel, herrar. TjeckienDanmark. OS. National Indoor Stadium. OS: Ishockey: Tjeckien - Danmark herrar gruppspel. National Indoor Stadium. Kommentatorer: Tommy Åström och Viktor Stålberg.</desc>
+    <credits>
+      <presenter>Viktor Stålberg Tommy Åström</presenter>
+    </credits>
+    <date>2022</date>
+  </programme>
+  <programme start="20220209163000 +0100" stop="20220209171000 +0100" channel="Kanal5.se">
     <title lang="sv">OS-studion</title>
     <desc lang="sv">Jonas Karlsson och Karin Frick guidar tittarna till alla höjdpunkter och all dramatik direkt från vinterspelen i Peking.</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 86 av 163</episode-num>
   </programme>
-  <programme start="20220209170500 +0100" stop="20220209190000 +0100" channel="Kanal5.se">
+  <programme start="20220209171000 +0100" stop="20220209190000 +0100" channel="Kanal5.se">
     <title lang="sv">OS: Höjdpunkter</title>
     <desc lang="sv">Höjdpunkter från Vinter-OS i Peking 2022.</desc>
     <date>2022</date>
@@ -7197,19 +7205,19 @@
     <date>2015</date>
     <episode-num system="onscreen">Säsong 1. Del 6 av 6</episode-num>
   </programme>
-  <programme start="20220209090000 +0100" stop="20220209095500 +0100" channel="Sjuan.se">
+  <programme start="20220209090000 +0100" stop="20220209100000 +0100" channel="Sjuan.se">
     <title lang="sv">En plats i solen - borta eller hemma bäst?</title>
     <desc lang="sv">Brittisk livsstilsserie från 2019. Sue och Simon Parry från Bedfordshire är på jakt efter ett hus i Costa Tropical i södra Spanien. De letar efter ett fridfullt hus där de kan avnjuta de spanska solstrålarna. Laura Hamilton visar paret fem fantastiska alternativ. ,.</desc>
     <date>2019</date>
     <episode-num system="onscreen">Säsong 11. Del 51 av 90</episode-num>
   </programme>
-  <programme start="20220209095500 +0100" stop="20220209105500 +0100" channel="Sjuan.se">
+  <programme start="20220209100000 +0100" stop="20220209110000 +0100" channel="Sjuan.se">
     <title lang="sv">En plats i solen - borta eller hemma bäst?</title>
     <desc lang="sv">Brittisk livsstilsserie från 2019. Den ensamstående mamman Lesley och hennes dotter Claire letar efter hus i vackra Costa del Sol. Lesley har gått ner i arbetstid och behöver en plats att slappna av på. Frågan är om något av alternativen som Danni visar kommer falla dem i smaken?. ,.</desc>
     <date>2019</date>
     <episode-num system="onscreen">Säsong 11. Del 52 av 90</episode-num>
   </programme>
-  <programme start="20220209105500 +0100" stop="20220209120000 +0100" channel="Sjuan.se">
+  <programme start="20220209110000 +0100" stop="20220209120000 +0100" channel="Sjuan.se">
     <title lang="sv">Mannen som talar med hundar</title>
     <desc lang="sv">Amerikansk realityserie från 2010. Cesar möter komiker som behöver hjälp. Hunden Sammy är som en tornado när det gäller mat, och ihop med hunden George som förvarar sin mat blir det en dålig mix. Ägarna till gamla boxern Pimp och överbeskyddande bulldogen Hoochie Mama får också hjälp. ,.</desc>
     <date>2010</date>
@@ -8271,10 +8279,10 @@
     <episode-num system="onscreen">Säsong 7. Del 27</episode-num>
   </programme>
   <programme start="20220209200000 +0100" stop="20220209210000 +0100" channel="TV10.se">
-    <title lang="sv">Alone</title>
-    <desc lang="sv">Amerikansk dokumentärserie från 2015. The freeze. Temperaturen sjunker på ön och de tävlande måste förbereda sig för vintern. Samtliga kämpar med isoleringen och kylan och en av dem tar till en riskabel åtgärd som kan slå fel.</desc>
-    <date>2015</date>
-    <episode-num system="onscreen">Säsong 1. Del 8 av 10</episode-num>
+    <title lang="sv">Mountain men</title>
+    <desc lang="sv">Amerikansk reality från 2017. Escape to the wild. Har du någonsin undrat hur det skulle vara att leva utan samhällets nät?. Har du någonsin önskat att du kunde strunta i samhällets alla moderniteter och leva i vildmarken, bara av saker som naturen erbjuder?. Eustace Conway, Tom Oar och Marty Meierotto, är tre män som har ägnat sina liv åt att överleva i sin enklaste form. Men hur enkelt är det egentligen? Från Blue Ridge Mountains i North Carolina till de sju månader långa vintrar på Yaak River i Montana till det iskalla Alaskas är landet fullt av oförsonlig terräng. Följj med när dessa tre män kämpar mot jordskred, fallande träd, härjande väder och även hungriga djur, för att se till att de får den mat och förnödenheter de behöver för att klara sig genom de långa brutala vintermånaderna. 07/08 år 2021 i TV10.</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">Säsong 6. Del 1</episode-num>
   </programme>
   <programme start="20220209210000 +0100" stop="20220209213000 +0100" channel="TV10.se">
     <title lang="sv">Pawn stars</title>
@@ -8451,10 +8459,10 @@
     <episode-num system="onscreen">Säsong 7. Del 28</episode-num>
   </programme>
   <programme start="20220210200000 +0100" stop="20220210210000 +0100" channel="TV10.se">
-    <title lang="sv">Alone</title>
-    <desc lang="sv">Amerikansk dokumentärserie från 2015. Brokedown palace. Isoleringen i vildmarken börjar ta ut sin rätt på deltagarna. De kämpar alla med de yttre faktorerna såväl som att hålla sig på rätt köl psykologiskt.</desc>
-    <date>2015</date>
-    <episode-num system="onscreen">Säsong 1. Del 9 av 10</episode-num>
+    <title lang="sv">Mountain men</title>
+    <desc lang="sv">Amerikansk reality från 2017. No goin' back. Vintern gör en plötslig entré och lämnar Marty i ofattbara kyla medan Morgan och Tom hittar nya allierade och Rich kämpar mot en grizzlybjörn. 07/08 år 2021 i TV10.</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">Säsong 6. Del 2</episode-num>
   </programme>
   <programme start="20220210210000 +0100" stop="20220210213000 +0100" channel="TV10.se">
     <title lang="sv">Pawn stars</title>
@@ -15351,14 +15359,16 @@
     <desc lang="sv">CharlotteChicago. NBA. Basket från Spectrum Center där Charlotte Hornets ställs mot Chicago Bulls i NBA. Engelsk kommentering. ,.</desc>
     <date>2022</date>
   </programme>
-  <programme start="20220210180000 +0100" stop="20220210181500 +0100" channel="Sportkanalen.se">
+  <programme start="20220210180000 +0100" stop="20220210181000 +0100" channel="Sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
     <desc lang="sv">Höjdpunkter från bland annat SHL, SDHL, Serie A, La Liga, Handbollsligan och SHE.</desc>
     <date>2020</date>
   </programme>
-  <programme start="20220210181500 +0100" stop="20220210184500 +0100" channel="Sportkanalen.se">
-    <title lang="sv">Sändningsuppehåll</title>
-    <desc lang="sv">inga Detaljer.</desc>
+  <programme start="20220210181000 +0100" stop="20220210184500 +0100" channel="Sportkanalen.se">
+    <title lang="sv">Wikegård vs</title>
+    <desc lang="sv">Svensk intervjuserie från 2021. Wikegård vs John Klingberg. Wikegård är i Göteborg och träffar en av Sveriges mest spelskickliga backar: John Klingberg. NHL-stjärnan berättar om uppväxten i en hockeytokig familj och om när tänderna slogs ut under en match. Wikegård får sig också en utklassning på golfbanan. ,.</desc>
+    <date>2021</date>
+    <episode-num system="onscreen">Säsong 7. Del 3 av 6</episode-num>
   </programme>
   <programme start="20220210184500 +0100" stop="20220210185500 +0100" channel="Sportkanalen.se">
     <title lang="sv">Studio: Handbollsligan</title>
@@ -15386,8 +15396,10 @@
     <date>2020</date>
   </programme>
   <programme start="20220210210000 +0100" stop="20220210220000 +0100" channel="Sportkanalen.se">
-    <title lang="sv">Sändningsuppehåll</title>
-    <desc lang="sv">inga Detaljer.</desc>
+    <title lang="sv">La liga highlights</title>
+    <desc lang="sv">Höjdpunkter från den senaste omgången av La Liga. ,.</desc>
+    <date>2021</date>
+    <episode-num system="onscreen">Säsong 2021. Del 23 av 38</episode-num>
   </programme>
   <programme start="20220210220000 +0100" stop="20220210223000 +0100" channel="Sportkanalen.se">
     <title lang="sv">Vinnare V64</title>
@@ -15396,9 +15408,10 @@
     <episode-num system="onscreen">Säsong 2022. Del 23 av 190</episode-num>
   </programme>
   <programme start="20220210223000 +0100" stop="20220210230000 +0100" channel="Sportkanalen.se">
-    <title lang="sv">Vintersport</title>
-    <desc lang="sv">. Freeride World Tour. Baqueria Beret, Spanien. Sammandrag från säsongens första tävling på Freeride World Tour. Tävlingen avgjordes i Baqueria Beret, Spanien. Med exklusiva inslag och intervjuer med svenska och internationella åkare. ,.</desc>
+    <title lang="sv">Freeride world tour</title>
+    <desc lang="sv">Sammandrag från säsongens första tävling på Freeride World Tour. Tävlingen avgjordes i Baqueria Beret, Spanien. Med exklusiva inslag och intervjuer med svenska och internationella åkare.</desc>
     <date>2022</date>
+    <episode-num system="onscreen">Säsong 2022. Del 1 av 5</episode-num>
   </programme>
   <programme start="20220210230000 +0100" stop="20220211000000 +0100" channel="Sportkanalen.se">
     <title lang="sv">SailGP highlights</title>
@@ -15430,55 +15443,55 @@
     <title lang="sv">Curling</title>
     <desc lang="sv">Final Dubbel Mixed. OS. Beijing Final Dubbel Mixed. ,.</desc>
   </programme>
-  <programme start="20220209060000 +0100" stop="20220209062300 +0100" channel="Eurosport1.se">
+  <programme start="20220209060000 +0100" stop="20220209063600 +0100" channel="Eurosport1.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">4:e åket Singel Damer. Rodel: OS. Beijing 4:e åket Singel Damer. ,.</desc>
   </programme>
-  <programme start="20220209062300 +0100" stop="20220209064800 +0100" channel="Eurosport1.se">
+  <programme start="20220209063600 +0100" stop="20220209064500 +0100" channel="Eurosport1.se">
     <title lang="sv">Essential Olympic Stories Home of the Olympics</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220209064800 +0100" stop="20220209083600 +0100" channel="Eurosport1.se">
+  <programme start="20220209064500 +0100" stop="20220209083300 +0100" channel="Eurosport1.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">2:a åket Slalom Damer. OS. 2:a åket Slalom Damer.</desc>
   </programme>
-  <programme start="20220209083600 +0100" stop="20220209090300 +0100" channel="Eurosport1.se">
+  <programme start="20220209083300 +0100" stop="20220209090000 +0100" channel="Eurosport1.se">
     <title lang="sv">Essential Olympic Stories Home of the Olympics</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220209090300 +0100" stop="20220209095800 +0100" channel="Eurosport1.se">
+  <programme start="20220209090000 +0100" stop="20220209095500 +0100" channel="Eurosport1.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">HS106 Herrar. Nordisk kombination: OS. HS106 Herrar.</desc>
   </programme>
-  <programme start="20220209095800 +0100" stop="20220209115600 +0100" channel="Eurosport1.se">
+  <programme start="20220209095500 +0100" stop="20220209115500 +0100" channel="Eurosport1.se">
     <title lang="sv">Ishockey</title>
     <desc lang="sv">ROCSchweiz Gruppspel Herrar. OS. ROC - Schweiz Gruppspel Herrar.</desc>
   </programme>
-  <programme start="20220209115600 +0100" stop="20220209125300 +0100" channel="Eurosport1.se">
+  <programme start="20220209115500 +0100" stop="20220209125000 +0100" channel="Eurosport1.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">10km Herrar. Nordisk kombination: OS. 10km Herrar.</desc>
   </programme>
-  <programme start="20220209125300 +0100" stop="20220209144300 +0100" channel="Eurosport1.se">
+  <programme start="20220209125000 +0100" stop="20220209144000 +0100" channel="Eurosport1.se">
     <title lang="sv">Skridsko</title>
     <desc lang="sv">Dag 3. Short track: OS. Beijing Dag 3.</desc>
   </programme>
-  <programme start="20220209144300 +0100" stop="20220209162800 +0100" channel="Eurosport1.se">
+  <programme start="20220209144000 +0100" stop="20220209162500 +0100" channel="Eurosport1.se">
     <title lang="sv">Ishockey</title>
     <desc lang="sv">TjeckienDanmark Gruppspel Herrar. OS. Tjeckien - Danmark Gruppspel Herrar.</desc>
   </programme>
-  <programme start="20220209162800 +0100" stop="20220209170300 +0100" channel="Eurosport1.se">
+  <programme start="20220209162500 +0100" stop="20220209170000 +0100" channel="Eurosport1.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">OS.</desc>
   </programme>
-  <programme start="20220209170300 +0100" stop="20220209180000 +0100" channel="Eurosport1.se">
+  <programme start="20220209170000 +0100" stop="20220209175700 +0100" channel="Eurosport1.se">
     <title lang="sv">Beijing today: Winter Olympic Games</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220209180000 +0100" stop="20220209185800 +0100" channel="Eurosport1.se">
+  <programme start="20220209175700 +0100" stop="20220209185900 +0100" channel="Eurosport1.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Final Big Air Herrar. Freestyle: OS. Final Big Air Herrar. ,.</desc>
   </programme>
-  <programme start="20220209185800 +0100" stop="20220209193000 +0100" channel="Eurosport1.se">
+  <programme start="20220209185900 +0100" stop="20220209193000 +0100" channel="Eurosport1.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">ATP Uncovered Tennis.</desc>
   </programme>
@@ -15490,25 +15503,25 @@
     <title lang="sv">Tennis</title>
     <desc lang="sv">ATP World Tour 500-turnering. Rotterdam.</desc>
   </programme>
-  <programme start="20220209233000 +0100" stop="20220210000100 +0100" channel="Eurosport1.se">
+  <programme start="20220209233000 +0100" stop="20220210000200 +0100" channel="Eurosport1.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">HS106 Herrar. Nordisk kombination: OS. Beijing HS106 Herrar. ,.</desc>
   </programme>
-  <programme start="20220210000100 +0100" stop="20220210003200 +0100" channel="Eurosport1.se">
+  <programme start="20220210000200 +0100" stop="20220210003400 +0100" channel="Eurosport1.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">10km Herrar. Nordisk kombination: OS. Beijing 10km Herrar. ,.</desc>
   </programme>
-  <programme start="20220210003200 +0100" stop="20220210013200 +0100" channel="Eurosport1.se">
+  <programme start="20220210003400 +0100" stop="20220210013200 +0100" channel="Eurosport1.se">
     <title lang="sv">Ishockey</title>
     <desc lang="sv">Gruppspel Herrar. OS. Gruppspel Herrar. ,.</desc>
   </programme>
-  <programme start="20220210013200 +0100" stop="20220210023300 +0100" channel="Eurosport1.se">
+  <programme start="20220210013200 +0100" stop="20220210023000 +0100" channel="Eurosport1.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Sport. ,.</desc>
   </programme>
-  <programme start="20220210023300 +0100" stop="20220210030000 +0100" channel="Eurosport1.se">
+  <programme start="20220210023000 +0100" stop="20220210030000 +0100" channel="Eurosport1.se">
     <title lang="sv">Konståkning</title>
-    <desc lang="sv">Friprogram Herrar. Vinter-OS. Friprogram Herrar.</desc>
+    <desc lang="sv">Friprogram Herrar. OS. Friprogram Herrar.</desc>
   </programme>
   <programme start="20220210030000 +0100" stop="20220210033000 +0100" channel="Eurosport1.se">
     <title lang="sv">Konståkning</title>
@@ -15518,15 +15531,15 @@
     <title lang="sv">Alpint</title>
     <desc lang="sv">Störtlopp, kombinerat Herrar. Vinter-OS. Störtlopp, kombinerat Herrar.</desc>
   </programme>
-  <programme start="20220210050000 +0100" stop="20220210060000 +0100" channel="Eurosport1.se">
+  <programme start="20220210050000 +0100" stop="20220210050300 +0100" channel="Eurosport1.se">
     <title lang="sv">Konståkning</title>
-    <desc lang="sv">Friprogram Herrar. Vinter-OS. Friprogram Herrar.</desc>
+    <desc lang="sv">Friprogram Herrar. OS. Friprogram Herrar.</desc>
   </programme>
-  <programme start="20220210060000 +0100" stop="20220210063900 +0100" channel="Eurosport1.se">
+  <programme start="20220210050300 +0100" stop="20220210063100 +0100" channel="Eurosport1.se">
     <title lang="sv">Konståkning</title>
-    <desc lang="sv">Friprogram Herrar. Vinter-OS. Friprogram Herrar.</desc>
+    <desc lang="sv">Friprogram Herrar. OS. Friprogram Herrar.</desc>
   </programme>
-  <programme start="20220210063900 +0100" stop="20220210073000 +0100" channel="Eurosport1.se">
+  <programme start="20220210063100 +0100" stop="20220210073000 +0100" channel="Eurosport1.se">
     <title lang="sv">Curling</title>
     <desc lang="sv">Gruppspel herrar. . OS. Beijing Gruppspel Herrar. ,.</desc>
   </programme>
@@ -15614,31 +15627,31 @@
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Herrar. Snowboard: OS. Herrar.</desc>
   </programme>
-  <programme start="20220209052300 +0100" stop="20220209071300 +0100" channel="Eurosport2.se">
+  <programme start="20220209060000 +0100" stop="20220209071300 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
-    <desc lang="sv">Herrar. Snowboard: OS. Herrar.</desc>
+    <desc lang="sv">Herrar. Freestyle: OS. Herrar.</desc>
   </programme>
   <programme start="20220209071300 +0100" stop="20220209073300 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Damer. Snowboard: OS. Damer.</desc>
   </programme>
-  <programme start="20220209073300 +0100" stop="20220209091500 +0100" channel="Eurosport2.se">
+  <programme start="20220209073300 +0100" stop="20220209091600 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Damer. Snowboard: OS. Damer.</desc>
   </programme>
-  <programme start="20220209091500 +0100" stop="20220209101700 +0100" channel="Eurosport2.se">
+  <programme start="20220209091600 +0100" stop="20220209101400 +0100" channel="Eurosport2.se">
     <title lang="sv">Längdåkning</title>
     <desc lang="sv">Final Sprint, fristil. OS. Final Sprint, fristil. ,.</desc>
   </programme>
-  <programme start="20220209101700 +0100" stop="20220209111800 +0100" channel="Eurosport2.se">
+  <programme start="20220209101400 +0100" stop="20220209111400 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Damer. Snowboard: OS. Damer. ,.</desc>
   </programme>
-  <programme start="20220209111800 +0100" stop="20220209121900 +0100" channel="Eurosport2.se">
+  <programme start="20220209111400 +0100" stop="20220209121700 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Herrar. Snowboard: OS. Herrar. ,.</desc>
   </programme>
-  <programme start="20220209121900 +0100" stop="20220209132300 +0100" channel="Eurosport2.se">
+  <programme start="20220209121700 +0100" stop="20220209132300 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Final Big Air Herrar. Freestyle: OS. Final Big Air Herrar. ,.</desc>
   </programme>
@@ -15658,55 +15671,55 @@
     <title lang="sv">Curling</title>
     <desc lang="sv">NorgeSchweiz Gruppspel Herrar. OS. Norge - Schweiz Gruppspel Herrar.</desc>
   </programme>
-  <programme start="20220209160000 +0100" stop="20220209163000 +0100" channel="Eurosport2.se">
+  <programme start="20220209160000 +0100" stop="20220209162900 +0100" channel="Eurosport2.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">1:a åket Slalom Damer. Vinter-OS. 1:a åket Slalom Damer. ,.</desc>
   </programme>
-  <programme start="20220209163000 +0100" stop="20220209170400 +0100" channel="Eurosport2.se">
+  <programme start="20220209162900 +0100" stop="20220209170300 +0100" channel="Eurosport2.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">2:a åket Slalom Damer. Vinter-OS. 2:a åket Slalom Damer. ,.</desc>
   </programme>
-  <programme start="20220209170400 +0100" stop="20220209180100 +0100" channel="Eurosport2.se">
+  <programme start="20220209170300 +0100" stop="20220209180000 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Damer. Snowboard: OS. Damer. ,.</desc>
   </programme>
-  <programme start="20220209180100 +0100" stop="20220209183100 +0100" channel="Eurosport2.se">
+  <programme start="20220209180000 +0100" stop="20220209183000 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">HS106 Herrar. Nordisk kombination: OS. Beijing HS106 Herrar. ,.</desc>
   </programme>
-  <programme start="20220209183100 +0100" stop="20220209190500 +0100" channel="Eurosport2.se">
+  <programme start="20220209183000 +0100" stop="20220209190300 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">10km Herrar. Nordisk kombination: OS. Beijing 10km Herrar. ,.</desc>
   </programme>
-  <programme start="20220209190500 +0100" stop="20220209205900 +0100" channel="Eurosport2.se">
+  <programme start="20220209190300 +0100" stop="20220209205900 +0100" channel="Eurosport2.se">
     <title lang="sv">Skridsko</title>
     <desc lang="sv">Dag 3. Short track: OS. Beijing Dag 3. ,.</desc>
   </programme>
-  <programme start="20220209205900 +0100" stop="20220209215600 +0100" channel="Eurosport2.se">
+  <programme start="20220209205900 +0100" stop="20220209215700 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Damer. Snowboard: OS. Damer. ,.</desc>
   </programme>
-  <programme start="20220209215600 +0100" stop="20220209225700 +0100" channel="Eurosport2.se">
+  <programme start="20220209215700 +0100" stop="20220209225800 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Final Big Air Herrar. Freestyle: OS. Final Big Air Herrar. ,.</desc>
   </programme>
-  <programme start="20220209225700 +0100" stop="20220209232700 +0100" channel="Eurosport2.se">
+  <programme start="20220209225800 +0100" stop="20220209232700 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">OS. ,.</desc>
   </programme>
-  <programme start="20220209232700 +0100" stop="20220210002400 +0100" channel="Eurosport2.se">
+  <programme start="20220209232700 +0100" stop="20220210002300 +0100" channel="Eurosport2.se">
     <title lang="sv">Beijing today: Vinter-OS</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220210002400 +0100" stop="20220210005400 +0100" channel="Eurosport2.se">
+  <programme start="20220210002300 +0100" stop="20220210005200 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">1:a åket Dubbel. Rodel: OS. Beijing 1:a åket Dubbel. ,.</desc>
   </programme>
-  <programme start="20220210005400 +0100" stop="20220210012900 +0100" channel="Eurosport2.se">
+  <programme start="20220210005200 +0100" stop="20220210012600 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">2:a åket Dubbel. Rodel: OS. Beijing 2:a åket Dubbel. ,.</desc>
   </programme>
-  <programme start="20220210012900 +0100" stop="20220210023300 +0100" channel="Eurosport2.se">
+  <programme start="20220210012600 +0100" stop="20220210023300 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Snowboard: OS. ,.</desc>
   </programme>
@@ -15718,91 +15731,91 @@
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Damer. Snowboard: OS. Damer.</desc>
   </programme>
-  <programme start="20220210040000 +0100" stop="20220210054000 +0100" channel="Eurosport2.se">
+  <programme start="20220210040000 +0100" stop="20220210053800 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Herrar. Snowboard: OS. Herrar.</desc>
   </programme>
-  <programme start="20220210054000 +0100" stop="20220210054700 +0100" channel="Eurosport2.se">
+  <programme start="20220210053800 +0100" stop="20220210054500 +0100" channel="Eurosport2.se">
     <title lang="sv">Essential Olympic Stories Home of the Olympics</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220210054700 +0100" stop="20220210060000 +0100" channel="Eurosport2.se">
+  <programme start="20220210054500 +0100" stop="20220210060000 +0100" channel="Eurosport2.se">
     <title lang="sv">Essential Olympic Stories Home of the Olympics</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220210060000 +0100" stop="20220210062300 +0100" channel="Eurosport2.se">
+  <programme start="20220210060000 +0100" stop="20220210062200 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">1:a åket Dubbel. Rodel: OS. Beijing 1:a åket Dubbel. ,.</desc>
   </programme>
-  <programme start="20220210062300 +0100" stop="20220210070300 +0100" channel="Eurosport2.se">
+  <programme start="20220210062200 +0100" stop="20220210070300 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">2:a åket Dubbel. Rodel: OS. Beijing 2:a åket Dubbel. ,.</desc>
   </programme>
-  <programme start="20220210070300 +0100" stop="20220210083900 +0100" channel="Eurosport2.se">
+  <programme start="20220210070300 +0100" stop="20220210084000 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Herrar. Snowboard: OS. Herrar.</desc>
   </programme>
-  <programme start="20220210083900 +0100" stop="20220210100700 +0100" channel="Eurosport2.se">
+  <programme start="20220210084000 +0100" stop="20220210100000 +0100" channel="Eurosport2.se">
     <title lang="sv">Curling</title>
-    <desc lang="sv">Gruppspel Herrar. Vinter-OS. Gruppspel Herrar.</desc>
+    <desc lang="sv">Gruppspel Herrar. OS. Gruppspel Herrar.</desc>
   </programme>
-  <programme start="20220210100700 +0100" stop="20220210105100 +0100" channel="Eurosport2.se">
-    <title lang="sv">Curling</title>
-    <desc lang="sv">Gruppspel Herrar. Vinter-OS. Beijing Gruppspel Herrar. ,.</desc>
-  </programme>
-  <programme start="20220210105100 +0100" stop="20220210120300 +0100" channel="Eurosport2.se">
+  <programme start="20220210100000 +0100" stop="20220210110800 +0100" channel="Eurosport2.se">
     <title lang="sv">Längdåkning</title>
     <desc lang="sv">Final Sprint, fristil. OS. Final Sprint, fristil. ,.</desc>
   </programme>
-  <programme start="20220210120300 +0100" stop="20220210133500 +0100" channel="Eurosport2.se">
+  <programme start="20220210110800 +0100" stop="20220210120300 +0100" channel="Eurosport2.se">
+    <title lang="sv">Konståkning</title>
+    <desc lang="sv">Friprogram Herrar. OS. Friprogram Herrar. ,.</desc>
+  </programme>
+  <programme start="20220210120300 +0100" stop="20220210133600 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Hopp, lag Mixed. Freestyle: OS. Hopp, lag Mixed.</desc>
   </programme>
-  <programme start="20220210133500 +0100" stop="20220210143300 +0100" channel="Eurosport2.se">
+  <programme start="20220210133600 +0100" stop="20220210143300 +0100" channel="Eurosport2.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">Slalom, kombinerat Herrar. Vinter-OS. Slalom, kombinerat Herrar. ,.</desc>
   </programme>
-  <programme start="20220210143300 +0100" stop="20220210155800 +0100" channel="Eurosport2.se">
+  <programme start="20220210143300 +0100" stop="20220210160000 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Stafett. Rodel: OS. Stafett.</desc>
   </programme>
-  <programme start="20220210155800 +0100" stop="20220210162800 +0100" channel="Eurosport2.se">
+  <programme start="20220210160000 +0100" stop="20220210163000 +0100" channel="Eurosport2.se">
     <title lang="sv">Konståkning</title>
-    <desc lang="sv">Friprogram Herrar. Vinter-OS. Friprogram Herrar. ,.</desc>
+    <desc lang="sv">Friprogram Herrar. OS. Friprogram Herrar. ,.</desc>
   </programme>
-  <programme start="20220210162800 +0100" stop="20220210170200 +0100" channel="Eurosport2.se">
+  <programme start="20220210163000 +0100" stop="20220210170300 +0100" channel="Eurosport2.se">
     <title lang="sv">Curling</title>
-    <desc lang="sv">Gruppspel Herrar. Vinter-OS. Beijing Gruppspel Herrar. ,.</desc>
+    <desc lang="sv">Gruppspel Herrar. OS. Beijing Gruppspel Herrar. ,.</desc>
   </programme>
-  <programme start="20220210170200 +0100" stop="20220210175900 +0100" channel="Eurosport2.se">
+  <programme start="20220210170300 +0100" stop="20220210180000 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Herrar. Snowboard: OS. Herrar. ,.</desc>
   </programme>
-  <programme start="20220210175900 +0100" stop="20220210190000 +0100" channel="Eurosport2.se">
+  <programme start="20220210180000 +0100" stop="20220210190200 +0100" channel="Eurosport2.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">Störtlopp, kombinerat Herrar. Vinter-OS. Störtlopp, kombinerat Herrar. ,.</desc>
   </programme>
-  <programme start="20220210190000 +0100" stop="20220210195800 +0100" channel="Eurosport2.se">
+  <programme start="20220210190200 +0100" stop="20220210200000 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Damer. Snowboard: OS. Damer. ,.</desc>
   </programme>
-  <programme start="20220210195800 +0100" stop="20220210205900 +0100" channel="Eurosport2.se">
+  <programme start="20220210200000 +0100" stop="20220210210200 +0100" channel="Eurosport2.se">
     <title lang="sv">Skridsko</title>
     <desc lang="sv">Damer. OS. Beijing Damer. ,.</desc>
   </programme>
-  <programme start="20220210205900 +0100" stop="20220210215600 +0100" channel="Eurosport2.se">
+  <programme start="20220210210200 +0100" stop="20220210215800 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Hopp, lag Mixed. Freestyle: OS. Hopp, lag Mixed. ,.</desc>
   </programme>
-  <programme start="20220210215600 +0100" stop="20220210225700 +0100" channel="Eurosport2.se">
+  <programme start="20220210215800 +0100" stop="20220210230000 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Herrar. Snowboard: OS. Herrar. ,.</desc>
   </programme>
-  <programme start="20220210225700 +0100" stop="20220210232700 +0100" channel="Eurosport2.se">
+  <programme start="20220210230000 +0100" stop="20220210233000 +0100" channel="Eurosport2.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">OS. ,.</desc>
   </programme>
-  <programme start="20220210232700 +0100" stop="20220211002800 +0100" channel="Eurosport2.se">
+  <programme start="20220210233000 +0100" stop="20220211003200 +0100" channel="Eurosport2.se">
     <title lang="sv">Beijing today: Vinter-OS</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
@@ -15978,12 +15991,12 @@
     <desc lang="sv">Dallas StarsNashville Predators. NHL. American Airlines Center, Dallas. Från American Airlines Center, Dallas. (9/2-22).</desc>
     <date>2022</date>
   </programme>
-  <programme start="20220210043500 +0100" stop="20220210094500 +0100" channel="ViasatSportPremium.se">
+  <programme start="20220210043500 +0100" stop="20220210100000 +0100" channel="ViasatSportPremium.se">
     <title lang="sv">Ishockey</title>
     <desc lang="sv">Vancouver CanucksNew York Islanders. NHL. Rogers Arena, Vancouver. Från Rogers Arena, Vancouver. (9/2-22).</desc>
     <date>2022</date>
   </programme>
-  <programme start="20220210094500 +0100" stop="20220210121500 +0100" channel="ViasatSportPremium.se">
+  <programme start="20220210100000 +0100" stop="20220210120000 +0100" channel="ViasatSportPremium.se">
     <title lang="sv">Fotboll</title>
     <desc lang="sv">Omgång 4. LiverpoolCardiff. FA-cupen. Anfield, Liverpool. Omgång 4. Från Anfield, Liverpool. (6/2-22). 07/02 år 2022 i V Sport Premium.</desc>
     <credits>
@@ -15991,7 +16004,7 @@
     </credits>
     <date>2022</date>
   </programme>
-  <programme start="20220210121500 +0100" stop="20220210141000 +0100" channel="ViasatSportPremium.se">
+  <programme start="20220210120000 +0100" stop="20220210140000 +0100" channel="ViasatSportPremium.se">
     <title lang="sv">Fotboll</title>
     <desc lang="sv">Omgång 24. NorwichCrystal Palace. Premier League. Carrow Road, Norwich. Omgång 24. Från Carrow Road, Norwich. (9/2-22). ,.</desc>
     <credits>
@@ -15999,7 +16012,7 @@
     </credits>
     <date>2022</date>
   </programme>
-  <programme start="20220210141000 +0100" stop="20220210160500 +0100" channel="ViasatSportPremium.se">
+  <programme start="20220210140000 +0100" stop="20220210160000 +0100" channel="ViasatSportPremium.se">
     <title lang="sv">Fotboll</title>
     <desc lang="sv">Omgång 24. Aston VillaLeeds. Premier League. Villa Park, Birmingham. Omgång 24. Från Villa Park, Birmingham. Kommentator: Robert Tennisberg (9/2-22). 09/02 år 2022 i V Sport Premium. Kommentator: Robert Tennisberg.</desc>
     <credits>
@@ -16008,7 +16021,7 @@
     </credits>
     <date>2022</date>
   </programme>
-  <programme start="20220210160500 +0100" stop="20220210180000 +0100" channel="ViasatSportPremium.se">
+  <programme start="20220210160000 +0100" stop="20220210180000 +0100" channel="ViasatSportPremium.se">
     <title lang="sv">Fotboll</title>
     <desc lang="sv">Omgång 24. TottenhamSouthampton. Premier League. Tottenham Hotspur Stadium, London. Omgång 24. Från Tottenham Hotspur Stadium, London. (9/2-22).</desc>
     <credits>
