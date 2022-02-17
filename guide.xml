@@ -2331,8 +2331,13 @@
     <title lang="el">Αλπικό Σκι: Πεκίνο 2022 (Ζ)</title>
     <desc lang="el">Σύνθετη κατάβαση γυναικών. Απολαύστε την αγωνιστική δράση από την 24η Χειμερινή Ολυμπιάδα που διεξάγεται στο Πεκίνο το διάστημα 4 - 20 Φεβρουαρίου 2022.</desc>
   </programme>
-  <programme start="20220218070000 +0200" stop="20220218073000 +0200" channel="ERT2.gr">
-    <title lang="el">Φλούπαλου</title>
+  <programme start="20220218070000 +0200" stop="20220218070500 +0200" channel="ERT2.gr">
+    <title lang="el">Athleticus Ε44 (Ε)</title>
+    <desc lang="el">Επεισόδιο: Το αχτύπητο δίδυμο. Σε αυτή τη 3D σειρά κινουμένων σχεδίων, κάθε είδους ζώο διαγωνίζεται σε κλασσικά αθλήματα. Παραγωγή: Γαλλία.</desc>
+    <date>2017</date>
+  </programme>
+  <programme start="20220218070500 +0200" stop="20220218073000 +0200" channel="ERT2.gr">
+    <title lang="el">Φλούπαλου (Ε)</title>
     <desc lang="el">Επεισόδια 61 και 62. Σε μια μαγική κοιλάδα, μερικά απίθανα παιδιά περνάνε υπέροχα.</desc>
   </programme>
   <programme start="20220218073000 +0200" stop="20220218075500 +0200" channel="ERT2.gr">
@@ -2349,13 +2354,17 @@
     <title lang="el">Γυριστρούλης (Ε)</title>
     <desc lang="el">Επεισόδια 29 και 30. Ο Γυριστρούλης είναι ένα αξιολάτρευτο αγόρι που με την φαντασία του μεταφέρεται σε απίθανα μέρη που όλα είναι πιθανά.</desc>
   </programme>
-  <programme start="20220218081500 +0200" stop="20220218083000 +0200" channel="ERT2.gr">
-    <title lang="el">Πάφιν Ροκ (Ε)</title>
-    <desc lang="el">Παραγωγή Ιρλανδίας, 2015. Μέσα από την καθημερινή περιπλάνηση στην άγρια φύση του απομονωμένου βιότοπου, δύο θαλασσοπούλια, η Ούνα και ο αδερφός της Μπάμπα, διδάσκονται τα μυστικά της επιβίωσης και την αξία της φιλίας.</desc>
+  <programme start="20220218081500 +0200" stop="20220218082500 +0200" channel="ERT2.gr">
+    <title lang="el">Πάφιν Ροκ Ε29 (Ε)</title>
+    <desc lang="el">Επεισόδιο: Ο φίλος του Μπάμπα. Παραγωγή Ιρλανδίας, 2015. Μέσα από την καθημερινή περιπλάνηση στην άγρια φύση του απομονωμένου βιότοπου, δύο θαλασσοπούλια, η Ούνα και ο αδερφός της Μπάμπα, διδάσκονται τα μυστικά της επιβίωσης και την αξία της φιλίας.</desc>
+  </programme>
+  <programme start="20220218082500 +0200" stop="20220218083000 +0200" channel="ERT2.gr">
+    <title lang="el">Πάφιν Ροκ Ε30 (Ε)</title>
+    <desc lang="el">Επεισόδιο: Μαθήματα πτήσης. Παραγωγή Ιρλανδίας, 2015. Μέσα από την καθημερινή περιπλάνηση στην άγρια φύση του απομονωμένου βιότοπου, δύο θαλασσοπούλια, η Ούνα και ο αδερφός της Μπάμπα, διδάσκονται τα μυστικά της επιβίωσης και την αξία της φιλίας.</desc>
   </programme>
   <programme start="20220218083000 +0200" stop="20220218110000 +0200" channel="ERT2.gr">
-    <title lang="el">Χειμερινοί Ολυμπιακοί Αγώνες - Πεκίνο</title>
-    <desc lang="el">Στιγμιότυπα. Ανασκόπηση της αγωνιστικής δράσης στην 24η Χειμερινή Ολυμπιάδα που διεξάγεται στο Πεκίνο το διάστημα 4 - 20 Φεβρουαρίου 2022.</desc>
+    <title lang="el">Κέρλινγκ: Χειμερινοί Ολυμπιακοί Αγώνες - Πεκίνο</title>
+    <desc lang="el">Μικρός τελικός. Απολαύστε την αγωνιστική δράση από την 24η Χειμερινή Ολυμπιάδα που διεξάγεται στο Πεκίνο το διάστημα 4 - 20 Φεβρουαρίου 2022.</desc>
   </programme>
   <programme start="20220218110000 +0200" stop="20220218115500 +0200" channel="ERT2.gr">
     <title lang="el">Δίαθλο: Πεκίνο 2022 (Ζ)</title>
@@ -2370,8 +2379,8 @@
     <desc lang="el">Σύντομο ομαδικό πρόγραμμα ζευγαριών. Παρακολουθήστε ένα συναρπαστικό πρόγραμμα καλλιτεχνικού πατινάζ στο πλαίσιο των Χειμερινών Ολυμπιακών Αγώνων.</desc>
   </programme>
   <programme start="20220218154500 +0200" stop="20220218173000 +0200" channel="ERT2.gr">
-    <title lang="el">Χειμερινοί Ολυμπιακοί Αγώνες - Πεκίνο</title>
-    <desc lang="el">Το Πεκίνο φιλοξενεί την 24η Χειμερινή Ολυμπιάδα.</desc>
+    <title lang="el">Χόκεϊ επί Πάγου: Χειμερινοί Ολυμπιακοί Αγώνες - Πεκίνο 2022 (Ζ)</title>
+    <desc lang="el">Β' Ημιτελικός ανδρών. Απολαύστε την αγωνιστική δράση από την 24η Χειμερινή Ολυμπιάδα που διεξάγεται στο Πεκίνο το διάστημα 4 - 20 Φεβρουαρίου 2022.</desc>
   </programme>
   <programme start="20220218173000 +0200" stop="20220218180000 +0200" channel="ERT2.gr">
     <title lang="el">Sing the Spot Ε1 (Ε)</title>
@@ -2577,9 +2586,13 @@
     <title lang="el">Απίθανα Ταξίδια με Τρένο Κ5 Ε1 (Ε)</title>
     <desc lang="el">Επεισόδιο: Αυστραλία. Ο Philippe Gougler παίρνει το θρυλικό τρένο που τον περιμένει κοντά στη θάλασσα: το GHAN, το οποίο διασχίζει την Αυστραλία πολύ άνετα από βορρά προς νότο μέσα σε 3 ημέρες.</desc>
   </programme>
-  <programme start="20220218160000 +0200" stop="20220218170000 +0200" channel="ERT3.gr">
+  <programme start="20220218160000 +0200" stop="20220218164500 +0200" channel="ERT3.gr">
     <title lang="el">Ο Κόσμος των Σπορ</title>
     <desc lang="el">H εκπομπή μας μεταφέρει τον παλμό της αθλητικής επικαιρότητας με τις πιο φρέσκες ειδήσεις, σχολιασμό της ειδησεογραφίας, αναλύσεις, καλεσμένους στο στούντιο και απευθείας συνδέσεις.</desc>
+  </programme>
+  <programme start="20220218164500 +0200" stop="20220218170000 +0200" channel="ERT3.gr">
+    <title lang="el">Pre Game</title>
+    <desc lang="el">Πριν από τους αγώνες, το Pre Game μας βάζει στον αγωνιστικό χώρο, πλάι στους πρωταγωνιστές και μας αποκαλύπτει καρέ-καρέ τα σχέδια των προπονητών λίγο πριν από τις μάχες των ομάδων.</desc>
   </programme>
   <programme start="20220218170000 +0200" stop="20220218190000 +0200" channel="ERT3.gr">
     <title lang="el">Μπάσκετ: Προμηθέας Πάτρας - ΚΑΕ Παναθηναϊκός ΟΠΑΠ (Ζ)</title>
@@ -2589,14 +2602,16 @@
   <programme start="20220218190000 +0200" stop="20220218190500 +0200" channel="ERT3.gr">
     <title lang="el">Σύντομο Δελτίο Ειδήσεων</title>
   </programme>
-  <programme start="20220218190500 +0200" stop="20220218194000 +0200" channel="ERT3.gr">
-    <title lang="el">Χωρίς Αποσκευές: Λατινική Αμερική Ε16 (Ε)</title>
-    <desc lang="el">Επεισόδιο: Μεξικό - Κάκτοι. Ανακαλύψτε την ιστορία και την ομορφιά της Λατινικής Αμερικής. Από την παραγωγή πούρων και τα ρετρό αυτοκίνητα στην Αβάνα στiς πολύχρωμες γιορτές του Σαν Κριστομπάλ, αυτός είναι ένας οδηγός για νέους αλλά και έμπειρους ταξιδιώτες. Παραγωγή: Βουλγαρία.</desc>
-    <date>2018</date>
+  <programme start="20220218190500 +0200" stop="20220218192000 +0200" channel="ERT3.gr">
+    <title lang="el">Δελτίο Καιρού</title>
   </programme>
-  <programme start="20220218194000 +0200" stop="20220218200000 +0200" channel="ERT3.gr">
+  <programme start="20220218192000 +0200" stop="20220218194000 +0200" channel="ERT3.gr">
     <title lang="el">Μνήμες Γηπέδων</title>
     <desc lang="el">Αθλητικό ένθετο.</desc>
+  </programme>
+  <programme start="20220218194000 +0200" stop="20220218200000 +0200" channel="ERT3.gr">
+    <title lang="el">Pre Game</title>
+    <desc lang="el">Πριν από τους αγώνες, το Pre Game μας βάζει στον αγωνιστικό χώρο, πλάι στους πρωταγωνιστές και μας αποκαλύπτει καρέ-καρέ τα σχέδια των προπονητών λίγο πριν από τις μάχες των ομάδων.</desc>
   </programme>
   <programme start="20220218200000 +0200" stop="20220218220000 +0200" channel="ERT3.gr">
     <title lang="el">Μπάσκετ: Ολυμπιακός - ΑΕΚ (Ζ)</title>
@@ -3845,17 +3860,23 @@
     <title lang="el">COSMOTESport7HD</title>
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
   </programme>
-  <programme start="20220218160000 +0200" stop="20220218180000 +0200" channel="CosmoteSport7.gr">
+  <programme start="20220218160000 +0200" stop="20220218170000 +0200" channel="CosmoteSport7.gr">
     <title lang="el">COSMOTESport7HD</title>
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
   </programme>
-  <programme start="20220218180000 +0200" stop="20220218200000 +0200" channel="CosmoteSport7.gr">
+  <programme start="20220218170000 +0200" stop="20220218190000 +0200" channel="CosmoteSport7.gr">
+    <title lang="el">Μπάσκετ: Κύπελλο Τουρκίας 2021-22 (Ζ)</title>
+    <desc lang="el">1ος Ημιτελικός.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20220218190000 +0200" stop="20220218200000 +0200" channel="CosmoteSport7.gr">
     <title lang="el">COSMOTESport7HD</title>
     <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
   </programme>
   <programme start="20220218200000 +0200" stop="20220218220000 +0200" channel="CosmoteSport7.gr">
-    <title lang="el">COSMOTESport7HD</title>
-    <desc lang="el">Απολαύστε συναρπαστικούς LIVE αγώνες από τις κορυφαίες αθλητικές διοργανώσεις που έχει εξασφαλίσει αποκλειστικά για εσάς η COSMOTE TV, και πάντα σε ποιότητα High Definition.</desc>
+    <title lang="el">Μπάσκετ: Κύπελλο Τουρκίας 2021-22 (Ζ)</title>
+    <desc lang="el">1ος Ημιτελικός.</desc>
+    <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20220218220000 +0200" stop="20220219000000 +0200" channel="CosmoteSport7.gr">
     <title lang="el">Ποδόσφαιρο: Λέστερ - Ράντερς (Ζ)</title>
@@ -4479,7 +4500,7 @@
     <date>2019</date>
     <category lang="el">Τρόμου</category>
   </programme>
-  <programme start="20220218041500 +0200" stop="20220218060000 +0200" channel="CosmoteCinema2.gr">
+  <programme start="20220218041500 +0200" stop="20220218060500 +0200" channel="CosmoteCinema2.gr">
     <title lang="el">Το Νησί της Αποπλάνησης</title>
     <desc lang="el">Σε ένα νησί της Καραϊβικής, ο καπετάνιος ενός αλιευτικού βλέπει την ήρεμη ζωή του να διαταράσσεται, όταν εμφανίζεται μια γυναίκα από το παρελθόν του για να του ζητήσει να δολοφονήσει τον βίαιο σύζυγό της έναντι χρηματικής αμοιβής. (102') Παραγωγή: ΗΠΑ, Βρετανία.</desc>
     <credits>
@@ -4491,7 +4512,7 @@
     <date>2019</date>
     <category lang="el">Θρίλερ - Θρίλερ</category>
   </programme>
-  <programme start="20220218060000 +0200" stop="20220218073000 +0200" channel="CosmoteCinema2.gr">
+  <programme start="20220218060500 +0200" stop="20220218073000 +0200" channel="CosmoteCinema2.gr">
     <title lang="el">My Blind Brother</title>
     <desc lang="el">Ο Ρόμπι είναι ένας γοητευτικός άντρας κι άριστος αθλητής, παρά το γεγονός ότι είναι τυφλός. Ο αδελφός του Μπιλ είναι τα 'μάτια' του και ζει στη σκιά του. Τα πάντα, όμως, ανατρέπονται όταν οι δύο νέοι ερωτεύονται την ίδια κοπέλα... (82') Παραγωγή: ΗΠΑ.</desc>
     <credits>
@@ -4594,7 +4615,7 @@
     </credits>
     <date>2017</date>
   </programme>
-  <programme start="20220218220000 +0200" stop="20220218234000 +0200" channel="CosmoteCinema2.gr">
+  <programme start="20220218220000 +0200" stop="20220218235000 +0200" channel="CosmoteCinema2.gr">
     <title lang="el">Παίζοντας στα Τυφλά (Hollywood Ending)</title>
     <desc lang="el">Ένας βραβευμένος με Όσκαρ αλλά ξεπεσμένος σκηνοθέτης επανέρχεται στην ενεργό δράση, χάρη στην πρώην γυναίκα του. Πρέπει όμως να κρύψει μια μικρή λεπτομέρεια: εξαιτίας των ψυχοσωματικών νευρώσεών του είναι προσωρινά τυφλός! (104') Παραγωγή: ΗΠΑ.</desc>
     <credits>
@@ -4606,19 +4627,7 @@
     <date>2002</date>
     <category lang="el">Ταινία - Κωμωδία</category>
   </programme>
-  <programme start="20220218234000 +0200" stop="20220218235000 +0200" channel="CosmoteCinema2.gr">
-    <title lang="el">Επικίνδυνες Κυρίες (Hustlers)</title>
-    <desc lang="el">Μια παρέα από στρίπερς στη Νέα Υόρκη εξαπατά ευκατάστατους άντρες της Γουόλ Στριτ αποσπώντας τους μεγάλα χρηματικά ποσά. Το καλοστημένο σχέδιό τους έχει επιτυχία, μέχρι που τα πράγματα αρχίζουν να βγαίνουν εκτός ελέγχου... (106') Παραγωγή: ΗΠΑ.</desc>
-    <credits>
-      <director>Λορίν Σκαφάρια</director>
-      <actor>Τζένιφερ Λόπεζ</actor>
-      <actor>Κόνστανς Γου</actor>
-      <actor>Τζούλια Στάιλς</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="el">Αστυνομική</category>
-  </programme>
-  <programme start="20220218235000 +0200" stop="20220219013000 +0200" channel="CosmoteCinema2.gr">
+  <programme start="20220218235000 +0200" stop="20220218235500 +0200" channel="CosmoteCinema2.gr">
     <title lang="el">Ιωάννα της Λωραίνης (Jeanne D'Arc)</title>
     <desc lang="el">Το 1429, μια αγράμματη κοπέλα από την επαρχία ισχυρίζεται πως έλαβε ένα μήνυμα από τον Θεό: να ηγηθεί του γαλλικού στρατού και να απελευθερώσει τη χώρα της, δίνοντας τέλος στον πολιτικό και θρησκευτικό αναβρασμό που επικρατεί. (158') Παραγωγή: Γαλλία, Τσεχία.</desc>
     <credits>
@@ -4629,6 +4638,18 @@
     </credits>
     <date>1999</date>
     <category lang="el">Ιστορική</category>
+  </programme>
+  <programme start="20220218235500 +0200" stop="20220219014500 +0200" channel="CosmoteCinema2.gr">
+    <title lang="el">Επικίνδυνες Κυρίες (Hustlers)</title>
+    <desc lang="el">Μια παρέα από στρίπερς στη Νέα Υόρκη εξαπατά ευκατάστατους άντρες της Γουόλ Στριτ αποσπώντας τους μεγάλα χρηματικά ποσά. Το καλοστημένο σχέδιό τους έχει επιτυχία, μέχρι που τα πράγματα αρχίζουν να βγαίνουν εκτός ελέγχου... (106') Παραγωγή: ΗΠΑ.</desc>
+    <credits>
+      <director>Λορίν Σκαφάρια</director>
+      <actor>Τζένιφερ Λόπεζ</actor>
+      <actor>Κόνστανς Γου</actor>
+      <actor>Τζούλια Στάιλς</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="el">Αστυνομική</category>
   </programme>
   <programme start="20220217010000 +0200" stop="20220217023500 +0200" channel="CosmoteCinema3.gr">
     <title lang="el">Ο Άνθρωπος του Τραίνου</title>
@@ -6369,20 +6390,20 @@
     <date>2022</date>
   </programme>
   <programme start="20220217060000 +0100" stop="20220217064500 +0100" channel="Kanal5.se">
-    <title lang="sv">Vintersport</title>
-    <desc lang="sv">Halfpipe, kval, herrar. . OS: Freestyle. Genting Snow Park. OS: Freestyle, halfpipe herrar kval. Genting Snow Park. Kommentatorer: Joakim Olsson och Oscar Wester. 17/02 år 2022 i Kanal 5.</desc>
+    <title lang="sv">Ishockey</title>
+    <desc lang="sv">Final, damer. KanadaUSA. OS. Wukesong Sports Centre. OS: Ishockey, Kanada - USA final damer. Wukesong Sports Centre. Kommentatorer: Tobias Dahlberg och Daniel Rudslätt. 17/02 år 2022 i Kanal 5.</desc>
     <credits>
-      <presenter>Oscar Wester Joakim Olsson</presenter>
+      <presenter>Daniel Rudslätt Tobias Dahlberg</presenter>
     </credits>
     <date>2022</date>
   </programme>
-  <programme start="20220217064500 +0100" stop="20220217065500 +0100" channel="Kanal5.se">
+  <programme start="20220217064500 +0100" stop="20220217070000 +0100" channel="Kanal5.se">
     <title lang="sv">OS-studion</title>
     <desc lang="sv">Jonas Karlsson och Karin Frick guidar tittarna till alla höjdpunkter och all dramatik direkt från vinterspelen i Peking.</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 19 av 163</episode-num>
   </programme>
-  <programme start="20220217065500 +0100" stop="20220217084000 +0100" channel="Kanal5.se">
+  <programme start="20220217070000 +0100" stop="20220217083500 +0100" channel="Kanal5.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Skicross, final, damer. . OS: Freestyle. Genting Snow Park. OS: Freestyle, skicross damer final. Genting Snow Park. Kommentator: Håkan Bergholtz och Hans Olsson. Kommentator: Hans Olsson, Håkan Bergholtz.</desc>
     <credits>
@@ -6390,7 +6411,7 @@
     </credits>
     <date>2022</date>
   </programme>
-  <programme start="20220217084000 +0100" stop="20220217090000 +0100" channel="Kanal5.se">
+  <programme start="20220217083500 +0100" stop="20220217090000 +0100" channel="Kanal5.se">
     <title lang="sv">OS-studion</title>
     <desc lang="sv">Jonas Karlsson och Karin Frick guidar tittarna till alla höjdpunkter och all dramatik direkt från vinterspelen i Peking.</desc>
     <date>2022</date>
@@ -6410,7 +6431,7 @@
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 17 av 163</episode-num>
   </programme>
-  <programme start="20220217102000 +0100" stop="20220217110500 +0100" channel="Kanal5.se">
+  <programme start="20220217102000 +0100" stop="20220217105000 +0100" channel="Kanal5.se">
     <title lang="sv">Skridsko</title>
     <desc lang="sv">1000 m, final, damer. . OS. National Speed Skating Oval. OS: Skridsko hastighetsåkning, 1000m D final. National Speed Skating Oval. Kommentator: Robin Fomin. Kommentator: Robin Fomin.</desc>
     <credits>
@@ -6418,7 +6439,13 @@
     </credits>
     <date>2022</date>
   </programme>
-  <programme start="20220217110500 +0100" stop="20220217124000 +0100" channel="Kanal5.se">
+  <programme start="20220217105000 +0100" stop="20220217110500 +0100" channel="Kanal5.se">
+    <title lang="sv">OS-studion</title>
+    <desc lang="sv">Jonas Karlsson och Karin Frick guidar tittarna till alla höjdpunkter och all dramatik direkt från vinterspelen i Peking.</desc>
+    <date>2022</date>
+    <episode-num system="onscreen">Säsong 2022. Del 29 av 163</episode-num>
+  </programme>
+  <programme start="20220217110500 +0100" stop="20220217125500 +0100" channel="Kanal5.se">
     <title lang="sv">Konståkning</title>
     <desc lang="sv">Fria programmet, damer. . OS. Capital Indoor Stadium. OS: Konståkning, fria programmet damer. Capital Indoor Stadium. Kommentatorer: Cecilia Willberg och Niklas Hogner.</desc>
     <credits>
@@ -6426,7 +6453,7 @@
     </credits>
     <date>2022</date>
   </programme>
-  <programme start="20220217124000 +0100" stop="20220217130000 +0100" channel="Kanal5.se">
+  <programme start="20220217125500 +0100" stop="20220217130000 +0100" channel="Kanal5.se">
     <title lang="sv">OS-studion</title>
     <desc lang="sv">Jonas Karlsson och Karin Frick guidar tittarna till alla höjdpunkter och all dramatik direkt från vinterspelen i Peking.</desc>
     <date>2022</date>
@@ -7066,13 +7093,13 @@
     <date>2019</date>
     <episode-num system="onscreen">Säsong 11. Del 64 av 90</episode-num>
   </programme>
-  <programme start="20220217105500 +0100" stop="20220217115500 +0100" channel="Sjuan.se">
+  <programme start="20220217105500 +0100" stop="20220217120000 +0100" channel="Sjuan.se">
     <title lang="sv">Mannen som talar med hundar</title>
     <desc lang="sv">Amerikansk realityserie från 2008. Cesar hjälper popstjärnorna Ashlee Simpson-Wentz och Pete Wentz med deras aggressiva bulldogg Hemingway. Han rehabiliterar även hunden Cricket, en retriever som attackerar allt som kommer mellan honom och hans mat. ,.</desc>
     <date>2008</date>
     <episode-num system="onscreen">Säsong 5. Del 2 av 35</episode-num>
   </programme>
-  <programme start="20220217115500 +0100" stop="20220217122500 +0100" channel="Sjuan.se">
+  <programme start="20220217120000 +0100" stop="20220217122500 +0100" channel="Sjuan.se">
     <title lang="sv">Världens häftigaste tårtor</title>
     <desc lang="sv">Brittisk realityserie från 2018. Det ska levereras tårtor föreställande en staty samt ett skelett vid ett DJ-bord. ,.</desc>
     <date>2018</date>
@@ -7084,19 +7111,19 @@
     <date>2018</date>
     <episode-num system="onscreen">Säsong 4. Del 33 av 33</episode-num>
   </programme>
-  <programme start="20220217125500 +0100" stop="20220217150000 +0100" channel="Sjuan.se">
+  <programme start="20220217125500 +0100" stop="20220217150500 +0100" channel="Sjuan.se">
     <title lang="sv">Poirot</title>
     <desc lang="sv">Brittisk kriminaldramaserie från 1995. Murder on the links. Poirot och Hastings är i Deauville, en semesterort på den franska kusten. Paul Renauld som bor på orten ber dem om hjälp eftersom han hävdar att han blir bedragen. Situationen blir allvarlig då Renauld blir bortförd och hans fru bunden och försedd med munkavle i deras sovrum. När Renaulds kropp hittas begraven i en nygjord golfbunker utmanar Frankrikes främste kriminalpolis, Giraud, Poirot att tävla om vem som tar fast mördaren först. ,.</desc>
     <date>1995</date>
     <episode-num system="onscreen">Säsong 6. Del 3 av 4</episode-num>
   </programme>
-  <programme start="20220217150000 +0100" stop="20220217160000 +0100" channel="Sjuan.se">
+  <programme start="20220217150500 +0100" stop="20220217160500 +0100" channel="Sjuan.se">
     <title lang="sv">Badhotellet</title>
     <desc lang="sv">Dansk dramaserie från 2019. Madsen närmar sig sitt efterlängtade byggtillstånd, samtidigt som hans yngsta dotter riskerar att stjälpa hela uppgörelsen. Amanda grubblar över om hon är villig att sätta sin firmas framtid på spel och ta sig an den stora turistfilmen. ,.</desc>
     <date>2019</date>
     <episode-num system="onscreen">Säsong 6. Del 4 av 6</episode-num>
   </programme>
-  <programme start="20220217160000 +0100" stop="20220217170000 +0100" channel="Sjuan.se">
+  <programme start="20220217160500 +0100" stop="20220217170000 +0100" channel="Sjuan.se">
     <title lang="sv">Det okända</title>
     <desc lang="sv">Svensk ockultserie från 2016. Holmsjö. Vendela Cederholm beger sig till Holmsjö för att hjälpa de blivande föräldrarna Anton och Sophie som precis har flyttat in i ett ensligt beläget hus. Paret känner sig inte ensamma i hemmet och Sophie funderar på om de ens kan bo kvar. ,.</desc>
     <date>2016</date>
@@ -7138,7 +7165,7 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2. Del 2 av 7</episode-num>
   </programme>
-  <programme start="20220217220000 +0100" stop="20220218000500 +0100" channel="Sjuan.se">
+  <programme start="20220217220000 +0100" stop="20220218001000 +0100" channel="Sjuan.se">
     <title lang="sv">Ett fall för Frost</title>
     <desc lang="sv">Brittisk kriminalserie från 1997. Penny for the guy. En ung pojke hittas brutalt mördad. En annan pojke hålls fånge och kidnapparna kräver en stor lösensumma av en matvarukedja, annars dör pojken. ,.</desc>
     <credits>
@@ -7147,19 +7174,19 @@
     <date>1997</date>
     <episode-num system="onscreen">Säsong 5. Del 1 av 4</episode-num>
   </programme>
-  <programme start="20220218000500 +0100" stop="20220218010000 +0100" channel="Sjuan.se">
+  <programme start="20220218001000 +0100" stop="20220218010500 +0100" channel="Sjuan.se">
     <title lang="sv">Ambulansen</title>
     <desc lang="sv">Brittisk dokumentärserie från 2016. Det är nyårsafton och ambulansenheten står inför en av årets stressigaste nätter. Sjuksköterskeeleven Michelle jobbar tillsammans med veteranen Rachel och de får ett larm om en allvarlig bilolycka. ,.</desc>
     <date>2016</date>
     <episode-num system="onscreen">Säsong 3. Del 2 av 8</episode-num>
   </programme>
-  <programme start="20220218010000 +0100" stop="20220218020000 +0100" channel="Sjuan.se">
+  <programme start="20220218010500 +0100" stop="20220218020500 +0100" channel="Sjuan.se">
     <title lang="sv">En natt på slottet</title>
     <desc lang="sv">Svensk ockultserie från 2015. Skådespelaren Micke Spreitz, artisten Jan Johansen, simmaren Emma Igelström och dansaren Ann Wilson tillbringar en natt på slottet. ,.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 2. Del 3 av 8</episode-num>
   </programme>
-  <programme start="20220218020000 +0100" stop="20220218030000 +0100" channel="Sjuan.se">
+  <programme start="20220218020500 +0100" stop="20220218030000 +0100" channel="Sjuan.se">
     <title lang="sv">Det okända</title>
     <desc lang="sv">Svensk ockultserie från 2018. Annika och dottern Sanna bor i en gammal fastighet med känslan av att vara övervakade. Andar visar sig inomhus och på gården, men när en avliden person dyker upp i sovrummet rycker mediet Vendela Cederholm ut för att råda bot på de nattliga besöken. ,.</desc>
     <date>2018</date>
@@ -9053,7 +9080,7 @@
     </credits>
     <date>2002</date>
   </programme>
-  <programme start="20220218233500 +0100" stop="20220219021000 +0100" channel="TV12.se">
+  <programme start="20220218233500 +0100" stop="20220219020500 +0100" channel="TV12.se">
     <title lang="sv">Fredsmäklaren</title>
     <desc lang="sv">Amerikansk actionthriller från 1997. Ett tåg med kärnvapenstridsspetsar exploderar i ryska Uralbergen. Men explosionen ska dölja att nio av stridsspetsarna saknas. Vita Husets kärnvapenexpert Julia Kelly och överste Thomas Defoe får i uppdrag att hitta de saknade kärnvapnen, varav ett hamnat hos en terrorist som har New York som måltavla.</desc>
     <credits>
@@ -15215,11 +15242,11 @@
     <title lang="sv">Beijing today</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220217060000 +0100" stop="20220217072500 +0100" channel="Eurosport1.se">
-    <title lang="sv">Ishockey</title>
-    <desc lang="sv">Final Damer. Vinter-OS. Final Damer.</desc>
+  <programme start="20220217060000 +0100" stop="20220217070000 +0100" channel="Eurosport1.se">
+    <title lang="sv">Längdåkning</title>
+    <desc lang="sv">Final Lagsprint, klassisk stil. Vinter-OS. Final Lagsprint, klassisk stil. ,.</desc>
   </programme>
-  <programme start="20220217072500 +0100" stop="20220217082900 +0100" channel="Eurosport1.se">
+  <programme start="20220217070000 +0100" stop="20220217082900 +0100" channel="Eurosport1.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">Slalom, kombinerat Damer. Vinter-OS. Slalom, kombinerat Damer.</desc>
   </programme>
@@ -15231,39 +15258,43 @@
     <title lang="sv">Skridsko</title>
     <desc lang="sv">Damer 1000m. OS. Beijing Damer 1000m.</desc>
   </programme>
-  <programme start="20220217110300 +0100" stop="20220217151100 +0100" channel="Eurosport1.se">
+  <programme start="20220217110300 +0100" stop="20220217151000 +0100" channel="Eurosport1.se">
     <title lang="sv">Konståkning</title>
     <desc lang="sv">Friprogram Damer. Vinter-OS. Friprogram Damer.</desc>
   </programme>
-  <programme start="20220217151100 +0100" stop="20220217152100 +0100" channel="Eurosport1.se">
+  <programme start="20220217151000 +0100" stop="20220217160000 +0100" channel="Eurosport1.se">
+    <title lang="sv">Curling</title>
+    <desc lang="sv">Semifinal Herrar. Vinter-OS. Semifinal Herrar.</desc>
+  </programme>
+  <programme start="20220217160000 +0100" stop="20220217160900 +0100" channel="Eurosport1.se">
     <title lang="sv">Essential Olympic Stories Home of the Olympics</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220217152100 +0100" stop="20220217170300 +0100" channel="Eurosport1.se">
+  <programme start="20220217160900 +0100" stop="20220217170300 +0100" channel="Eurosport1.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">Störtlopp, kombinerat Damer. Vinter-OS. Störtlopp, kombinerat Damer. ,.</desc>
   </programme>
-  <programme start="20220217170300 +0100" stop="20220217175500 +0100" channel="Eurosport1.se">
+  <programme start="20220217170300 +0100" stop="20220217180000 +0100" channel="Eurosport1.se">
     <title lang="sv">Beijing today</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220217175500 +0100" stop="20220217184700 +0100" channel="Eurosport1.se">
+  <programme start="20220217180000 +0100" stop="20220217185200 +0100" channel="Eurosport1.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">Slalom, kombinerat Damer. Vinter-OS. Slalom, kombinerat Damer. ,.</desc>
   </programme>
-  <programme start="20220217184700 +0100" stop="20220217193900 +0100" channel="Eurosport1.se">
+  <programme start="20220217185200 +0100" stop="20220217194300 +0100" channel="Eurosport1.se">
     <title lang="sv">Skridsko</title>
     <desc lang="sv">Damer 1000m. Vinter-OS. Beijing Damer 1000m. ,.</desc>
   </programme>
-  <programme start="20220217193900 +0100" stop="20220217203000 +0100" channel="Eurosport1.se">
+  <programme start="20220217194300 +0100" stop="20220217203000 +0100" channel="Eurosport1.se">
     <title lang="sv">Vintersport</title>
     <desc lang="sv">Heat 3 Tvåmanna Herrar. OS. Heat 3 Tvåmanna Herrar. ,.</desc>
   </programme>
-  <programme start="20220217203000 +0100" stop="20220217222900 +0100" channel="Eurosport1.se">
+  <programme start="20220217203000 +0100" stop="20220217222600 +0100" channel="Eurosport1.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">ATP World Tour 500-turnering. Rio de Janeiro.</desc>
   </programme>
-  <programme start="20220217222900 +0100" stop="20220217230000 +0100" channel="Eurosport1.se">
+  <programme start="20220217222600 +0100" stop="20220217230000 +0100" channel="Eurosport1.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">ATP Uncovered Tennis. ,.</desc>
   </programme>
@@ -15271,19 +15302,19 @@
     <title lang="sv">Tennis</title>
     <desc lang="sv">ATP World Tour 500-turnering. Rio de Janeiro.</desc>
   </programme>
-  <programme start="20220218005600 +0100" stop="20220218012400 +0100" channel="Eurosport1.se">
-    <title lang="sv">Snowboard</title>
-    <desc lang="sv">inga Detaljer.</desc>
+  <programme start="20220218005600 +0100" stop="20220218012500 +0100" channel="Eurosport1.se">
+    <title lang="sv">Snowboard: Vinter-OS Beijing</title>
+    <desc lang="sv">Damer Big Air Final. Vinter-OS. Damer Big Air Final. ,.</desc>
   </programme>
-  <programme start="20220218012400 +0100" stop="20220218021800 +0100" channel="Eurosport1.se">
+  <programme start="20220218012500 +0100" stop="20220218021800 +0100" channel="Eurosport1.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Sport. ,.</desc>
   </programme>
-  <programme start="20220218021800 +0100" stop="20220218033900 +0100" channel="Eurosport1.se">
+  <programme start="20220218021800 +0100" stop="20220218033800 +0100" channel="Eurosport1.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">Störtlopp, kombinerat Damer. Vinter-OS. Störtlopp, kombinerat Damer. ,.</desc>
   </programme>
-  <programme start="20220218033900 +0100" stop="20220218050000 +0100" channel="Eurosport1.se">
+  <programme start="20220218033800 +0100" stop="20220218050000 +0100" channel="Eurosport1.se">
     <title lang="sv">Curling</title>
     <desc lang="sv">Semifinal Herrar. Vinter-OS. Beijing Semifinal Herrar. ,.</desc>
   </programme>
@@ -15363,27 +15394,35 @@
     <title lang="sv">Freestyle: Vinter-OS Beijing</title>
     <desc lang="sv">Kval Halfpipe Herrar. Vinter-OS Beijing. Kval Halfpipe Herrar.</desc>
   </programme>
-  <programme start="20220217060000 +0100" stop="20220217070300 +0100" channel="Eurosport2.se">
-    <title lang="sv">Vintersport</title>
-    <desc lang="sv">Kval Halfpipe Herrar. Freestyle: OS. Kval Halfpipe Herrar.</desc>
+  <programme start="20220217060000 +0100" stop="20220217065100 +0100" channel="Eurosport2.se">
+    <title lang="sv">Freestyle: Vinter-OS Beijing</title>
+    <desc lang="sv">Final Aerials Herrar. Vinter-OS. Final Aerials Herrar. ,.</desc>
   </programme>
-  <programme start="20220217070300 +0100" stop="20220217083100 +0100" channel="Eurosport2.se">
+  <programme start="20220217065100 +0100" stop="20220217072500 +0100" channel="Eurosport2.se">
+    <title lang="sv">Nordisk kombination Vinter-OS Beijing</title>
+    <desc lang="sv">HS 140 Herrar. Vinter-OS. Beijing HS 140 Herrar. ,.</desc>
+  </programme>
+  <programme start="20220217072500 +0100" stop="20220217084000 +0100" channel="Eurosport2.se">
     <title lang="sv">Freestyle: Vinter-OS Beijing</title>
     <desc lang="sv">Final Skicross Damer. Vinter-OS Beijing. Final Skicross Damer.</desc>
   </programme>
-  <programme start="20220217083100 +0100" stop="20220217085800 +0100" channel="Eurosport2.se">
-    <title lang="sv">Freestyle</title>
-    <desc lang="sv">inga Detaljer.</desc>
-  </programme>
-  <programme start="20220217085800 +0100" stop="20220217094200 +0100" channel="Eurosport2.se">
-    <title lang="sv">Nordisk kombination Vinter-OS Beijing</title>
-    <desc lang="sv">HS 140, lag Herrar. Vinter-OS. HS 140, lag Herrar.</desc>
-  </programme>
-  <programme start="20220217094200 +0100" stop="20220217095500 +0100" channel="Eurosport2.se">
+  <programme start="20220217084000 +0100" stop="20220217084800 +0100" channel="Eurosport2.se">
     <title lang="sv">Essential Olympic Stories Home of the Olympics</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220217095500 +0100" stop="20220217120300 +0100" channel="Eurosport2.se">
+  <programme start="20220217084800 +0100" stop="20220217085800 +0100" channel="Eurosport2.se">
+    <title lang="sv">Essential Olympic Stories Home of the Olympics</title>
+    <desc lang="sv">inga Detaljer.</desc>
+  </programme>
+  <programme start="20220217085800 +0100" stop="20220217094100 +0100" channel="Eurosport2.se">
+    <title lang="sv">Nordisk kombination Vinter-OS Beijing</title>
+    <desc lang="sv">HS 140, lag Herrar. Vinter-OS. HS 140, lag Herrar.</desc>
+  </programme>
+  <programme start="20220217094100 +0100" stop="20220217095300 +0100" channel="Eurosport2.se">
+    <title lang="sv">Essential Olympic Stories Home of the Olympics</title>
+    <desc lang="sv">inga Detaljer.</desc>
+  </programme>
+  <programme start="20220217095300 +0100" stop="20220217120300 +0100" channel="Eurosport2.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">2:a åket Slalom Herrar. Vinter-OS. 2:a åket Slalom Herrar. ,.</desc>
   </programme>
@@ -15391,39 +15430,39 @@
     <title lang="sv">Nordisk kombination Vinter-OS Beijing</title>
     <desc lang="sv">Stafett 4x5km Herrar. Vinter-OS. Stafett 4x5km Herrar.</desc>
   </programme>
-  <programme start="20220217131300 +0100" stop="20220217160300 +0100" channel="Eurosport2.se">
+  <programme start="20220217131300 +0100" stop="20220217151000 +0100" channel="Eurosport2.se">
     <title lang="sv">Curling</title>
     <desc lang="sv">Semifinal Herrar. Vinter-OS. Semifinal Herrar.</desc>
   </programme>
-  <programme start="20220217160300 +0100" stop="20220217170300 +0100" channel="Eurosport2.se">
+  <programme start="20220217151000 +0100" stop="20220217170300 +0100" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Andalusien Runt, Etapp 2 Herrar. Andalusien Runt. Förra året blev Jakob Fuglsang förste dansk att vinna loppet, som även kallas Ruta del Sol och Vuelta a Andalucía, när han cyklade hem den 65:e upplagan. Flest segrar här har Alejandro Valverde med fem. Det spanska etapploppet, som ingår i Pro Series, cyk.</desc>
   </programme>
-  <programme start="20220217170300 +0100" stop="20220217182900 +0100" channel="Eurosport2.se">
+  <programme start="20220217170300 +0100" stop="20220217183700 +0100" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Volta ao Algarve, Etapp 2 Herrar. Volta ao Algarve. 46:e upplagan av portugisiska Volta ao Algarve cyklas 19-23 februari. Förra året vann slovenen Tadej Pogacar loppet som ingår i Pro Series.</desc>
   </programme>
-  <programme start="20220217182900 +0100" stop="20220217200100 +0100" channel="Eurosport2.se">
+  <programme start="20220217183700 +0100" stop="20220217200500 +0100" channel="Eurosport2.se">
     <title lang="sv">Freestyle: Vinter-OS Beijing</title>
     <desc lang="sv">Final Skicross Damer. Vinter-OS Beijing. Final Skicross Damer. ,.</desc>
   </programme>
-  <programme start="20220217200100 +0100" stop="20220217203100 +0100" channel="Eurosport2.se">
+  <programme start="20220217200500 +0100" stop="20220217203400 +0100" channel="Eurosport2.se">
     <title lang="sv">Nordisk kombination Vinter-OS Beijing</title>
     <desc lang="sv">HS 140, lag Herrar. Vinter-OS. Beijing HS 140, lag Herrar. ,.</desc>
   </programme>
-  <programme start="20220217203100 +0100" stop="20220217213100 +0100" channel="Eurosport2.se">
+  <programme start="20220217203400 +0100" stop="20220217213200 +0100" channel="Eurosport2.se">
     <title lang="sv">Beijing today: Winter Olympic Games</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220217213100 +0100" stop="20220217233500 +0100" channel="Eurosport2.se">
+  <programme start="20220217213200 +0100" stop="20220217232900 +0100" channel="Eurosport2.se">
     <title lang="sv">Curling</title>
     <desc lang="sv">Semifinal Herrar. Vinter-OS. Beijing Semifinal Herrar. ,.</desc>
   </programme>
-  <programme start="20220217233500 +0100" stop="20220218010300 +0100" channel="Eurosport2.se">
+  <programme start="20220217232900 +0100" stop="20220218010000 +0100" channel="Eurosport2.se">
     <title lang="sv">Alpint</title>
     <desc lang="sv">Störtlopp, kombinerat Damer. Vinter-OS. Störtlopp, kombinerat Damer. ,.</desc>
   </programme>
-  <programme start="20220218010300 +0100" stop="20220218023300 +0100" channel="Eurosport2.se">
+  <programme start="20220218010000 +0100" stop="20220218023300 +0100" channel="Eurosport2.se">
     <title lang="sv">Freestyle: Vinter-OS Beijing</title>
     <desc lang="sv">Kval Halfpipe Damer. Vinter-OS Beijing. Kval Halfpipe Damer. ,.</desc>
   </programme>
