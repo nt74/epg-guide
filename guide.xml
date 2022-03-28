@@ -19245,7 +19245,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220328050000 +0200" stop="20220328063000 +0200" channel="ESPN.us">
+  <programme start="20220328050000 +0200" stop="20220328065300 +0200" channel="ESPN.us">
     <title lang="en">SportsCenter</title>
     <desc lang="en">Join SportsCenter for a review of the day's scores, highlights, commentary and feature stories from major sporting events.</desc>
     <category lang="en">Sports</category>
@@ -19254,7 +19254,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220328063000 +0200" stop="20220328080000 +0200" channel="ESPN.us">
+  <programme start="20220328065300 +0200" stop="20220328082300 +0200" channel="ESPN.us">
     <title lang="en">SportsCenter</title>
     <desc lang="en">Join SportsCenter for a review of the day's scores, highlights, commentary and feature stories from major sporting events.</desc>
     <category lang="en">Sports</category>
@@ -19263,7 +19263,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220328080000 +0200" stop="20220328093000 +0200" channel="ESPN.us">
+  <programme start="20220328082300 +0200" stop="20220328095600 +0200" channel="ESPN.us">
     <title lang="en">SportsCenter</title>
     <desc lang="en">Join SportsCenter for a review of the day's scores, highlights, commentary and feature stories from major sporting events.</desc>
     <category lang="en">Sports</category>
@@ -19272,7 +19272,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220328093000 +0200" stop="20220328110000 +0200" channel="ESPN.us">
+  <programme start="20220328095600 +0200" stop="20220328113000 +0200" channel="ESPN.us">
     <title lang="en">SportsCenter</title>
     <desc lang="en">Join SportsCenter for a review of the day's scores, highlights, commentary and feature stories from major sporting events.</desc>
     <category lang="en">Sports</category>
@@ -19281,16 +19281,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220328110000 +0200" stop="20220328120000 +0200" channel="ESPN.us">
-    <title lang="en">SportsCenter</title>
-    <desc lang="en">Join SportsCenter for a review of the day's scores, highlights, commentary and feature stories from major sporting events.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">News</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20220328120000 +0200" stop="20220328130000 +0200" channel="ESPN.us">
+  <programme start="20220328113000 +0200" stop="20220328130000 +0200" channel="ESPN.us">
     <title lang="en">SportsCenter</title>
     <desc lang="en">Join SportsCenter for a review of the day's scores, highlights, commentary and feature stories from major sporting events.</desc>
     <category lang="en">Sports</category>
