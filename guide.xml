@@ -595,25 +595,15 @@
   <programme start="20220402184500 +0300" stop="20220402200000 +0300" channel="ANT1.gr">
     <title lang="el">ANT1 News</title>
   </programme>
-  <programme start="20220402200000 +0300" stop="20220402220000 +0300" channel="ANT1.gr">
+  <programme start="20220402200000 +0300" stop="20220402224500 +0300" channel="ANT1.gr">
     <title lang="el">Ελλάδα Έχεις Ταλέντο</title>
     <desc lang="el">Ψυχή, πάθος, δύναμη, έκφραση, όνειρο! Το Νο1 επιτυχημένο ψυχαγωγικό σόου στον κόσμο επιστρέφει. Ο Γρηγόρης Αρναούτογλου, ο Τάκης Ζαχαράτος, η Έλενα Χριστοπούλου και η Κρυσταλλία Ρήγα θα δίνουν το πράσινο φως στους συμμετέχοντες. Πόσα ΝΑΙ και πόσα ΟΧΙ θα πουν;.</desc>
     <category lang="el">Talent Show - Talent Show</category>
   </programme>
-  <programme start="20220402220000 +0300" stop="20220402234500 +0300" channel="ANT1.gr">
-    <title lang="el">Έριν Μπρόκοβιτς (Erin Brockovich)</title>
-    <desc lang="el">Η Έριν Μπρόκοβιτς κατάφερε να πείσει μια μικρή πόλη να ορθώσει το ανάστημά της μπροστά σε μια μεγάλη εταιρεία, η οποία τελικά υποχρεώθηκε να καταβάλει την αποζημίωση των 333.000.000 δολαρίων. (165') Παραγωγή: ΗΠΑ.</desc>
-    <credits>
-      <director>Στίβεν Σόντερμπεργκ</director>
-      <actor>Τζούλια Ρόμπερτς</actor>
-      <actor>Άαρον Έκχαρτ</actor>
-      <actor>Άλμπερτ Φίνεϊ</actor>
-      <actor>Μαρτζ Χελγκενμπέργκερ</actor>
-      <actor>Πίτερ Κογιότ</actor>
-      <actor>Σέρι Τζόουνς</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="el">Κοινωνική</category>
+  <programme start="20220402224500 +0300" stop="20220402234500 +0300" channel="ANT1.gr">
+    <title lang="el">Η Φάρμα</title>
+    <desc lang="el">Μια ειδυλλιακή τοποθεσία. Μέσα σε έναν ελαιώνα. Ένα αγρόκτημα 25 στρεμμάτων. Εκεί, βρίσκεται 'Η Φάρμα'. Εκεί, 18 παίκτες βάζουν σε δοκιμασία τις αντοχές τους και ξεπερνούν τα όριά τους. Θα αντέξουν; Διαφορετικές προσωπικότητες, δύσκολες δοκιμασίες, καθημερινές ανατροπές.</desc>
+    <category lang="el">Reality Show</category>
   </programme>
   <programme start="20220402234500 +0300" stop="20220403020000 +0300" channel="ANT1.gr">
     <title lang="el">Η Φάρμα</title>
@@ -1629,7 +1619,7 @@
     <category lang="el">Αστυνομική</category>
   </programme>
   <programme start="20220402200000 +0300" stop="20220402203000 +0300" channel="MakedoniaTV.gr">
-    <title lang="el">The Nanny</title>
+    <title lang="el">The Nanny (Ε)</title>
     <desc lang="el">Αμερικανική κωμική σειρά παραγωγής 1993-1999. Η Φραν Φαιν, μια μικροσκοπική γυναίκα, με περίεργη φωνή βρίσκεται ξαφνικά να κάνει τη νταντά στα τρία παιδιά του Μάξγουελ Σέφιλντ, ενός πλούσιου Άγγλου χήρου παραγωγού του Broadway.</desc>
     <credits>
       <actor>Φραν Ντρέσερ</actor>
@@ -1930,26 +1920,43 @@
   <programme start="20220402130000 +0300" stop="20220402134000 +0300" channel="EpsilonTV.gr">
     <title lang="el">Open News</title>
   </programme>
-  <programme start="20220402134000 +0300" stop="20220402144500 +0300" channel="EpsilonTV.gr">
+  <programme start="20220402134000 +0300" stop="20220402144000 +0300" channel="EpsilonTV.gr">
     <title lang="el">Open Sport</title>
     <desc lang="el">Αθλητική εκπομπή με έμφαση στο ποδοσφαιρικό θέαμα, που περιλαμβάνει ρεπορτάζ από τις μεγάλες ομάδες της Super League, αποκλειστικές συνεντεύξεις αθλητών, highlights και δηλώσεις από τους αγώνες της Euroleague μπάσκετ, μεγάλα αφιερώματα σε σταρ του αθλητισμού, μόνιμες εβδομαδιαίες στήλες.</desc>
   </programme>
-  <programme start="20220402144500 +0300" stop="20220402174500 +0300" channel="EpsilonTV.gr">
-    <title lang="el">Αυτό Είναι Σαββατοκύριακο</title>
-    <desc lang="el">Ψυχαγωγική εκπομπή με τη Νικολέττα Ράλλη. Όλα τα νέα της showbiz, μόδα, τάσεις, ιδέες διακόσμησεις για το σπίτι και πολλά άλλα!</desc>
+  <programme start="20220402144000 +0300" stop="20220402144500 +0300" channel="EpsilonTV.gr">
+    <title lang="el">Driver's Seat</title>
+    <desc lang="el">Infotainment σειρά επεισοδίων μικρής διάρκειας για την αυτοκίνηση και την παρουσίαση όλων των νέων τεχνολογιών ασφάλειας και υποστήριξης του οδηγού, την ηλεκτροκίνηση, τα εναλλακτικά καύσιμα, τόσο στους 4 όσο και στους 2 τροχούς με τον δημοσιογράφο Δημήτρη Μπαλή.</desc>
   </programme>
-  <programme start="20220402174500 +0300" stop="20220402175500 +0300" channel="EpsilonTV.gr">
-    <title lang="el">Open News στη Νοηματική</title>
-  </programme>
-  <programme start="20220402175500 +0300" stop="20220402185000 +0300" channel="EpsilonTV.gr">
+  <programme start="20220402144500 +0300" stop="20220402154500 +0300" channel="EpsilonTV.gr">
     <title lang="el">Ταξί</title>
     <desc lang="el">Τηλεπαιχνίδι με τον Διονύση Ατζαράκη. Ποτέ δεν ξέρεις πότε θα πετύχεις το 'Ταξί' στον δρόμο. Οι ανυποψίαστοι 'πελάτες' που θα κάνουν σήμα στο 'Ταξί' και θα πέσουν πάνω στον Διονύση, όχι μόνο δε θα πληρώσουν για τη διαδρομή τους, αλλά θα έχουν και την ευκαιρία να κερδίσουν πολλά χρήματα.</desc>
     <category lang="el">Τηλεπαιχνίδι - Τηλεπαιχνίδι</category>
   </programme>
-  <programme start="20220402185000 +0300" stop="20220402200000 +0300" channel="EpsilonTV.gr">
+  <programme start="20220402154500 +0300" stop="20220402174000 +0300" channel="EpsilonTV.gr">
+    <title lang="el">Ένας Άφραγκος Ωνάσης</title>
+    <desc lang="el">Ένας φτωχός λογιστής, αλλά με το περίλαμπρο όνομα Αγησίλαος Ωνάσης, μαθαίνει πως του απομένει μόνο ένας μήνας ζωής. Εγκαταλείπει τα πάντα και φεύγει σε ένα νησί για να περάσει τον τελευταίο μήνα της ζωής του σαν πλούσιος. (96') Παραγωγή: Ελλάδα.</desc>
+    <credits>
+      <director>Κώστας Καραγιάννης</director>
+      <actor>Κώστας Βουτσάς</actor>
+      <actor>Μέμα Σταθοπούλου</actor>
+      <actor>Αιμιλία Υψηλάντη</actor>
+      <actor>Ανδρέας Μπάρκουλης</actor>
+    </credits>
+    <date>1969</date>
+    <category lang="el">Κωμωδία - Κωμωδία</category>
+  </programme>
+  <programme start="20220402174000 +0300" stop="20220402174500 +0300" channel="EpsilonTV.gr">
+    <title lang="el">Open News στη Νοηματική</title>
+  </programme>
+  <programme start="20220402174500 +0300" stop="20220402184000 +0300" channel="EpsilonTV.gr">
+    <title lang="el">Εικόνες</title>
+    <desc lang="el">Η εκπομπή μας ταξιδεύει σε λαμπερές πόλεις, σε ερήμους, σε τόπους μαγικούς. Ο παρουσιαστής Τάσος Δούσης συνδυάζει το ταξίδι με το ρεπορτάζ και μας παρουσιάζει τον τρόπο ζωής κάθε χώρας, την κουλτούρα, τη γνωστή αλλά και την άγνωστη ιστορία της.</desc>
+  </programme>
+  <programme start="20220402184000 +0300" stop="20220402201500 +0300" channel="EpsilonTV.gr">
     <title lang="el">Open News</title>
   </programme>
-  <programme start="20220402200000 +0300" stop="20220402210000 +0300" channel="EpsilonTV.gr">
+  <programme start="20220402201500 +0300" stop="20220402211500 +0300" channel="EpsilonTV.gr">
     <title lang="el">Σ' Αγαπάω Μεν, Αλλά</title>
     <desc lang="el">Ελληνική κωμική σειρά παραγωγής 2021.</desc>
     <credits>
@@ -1962,10 +1969,14 @@
     </credits>
     <category lang="el">Κωμωδία - Κωμωδία</category>
   </programme>
-  <programme start="20220402210000 +0300" stop="20220402230000 +0300" channel="EpsilonTV.gr">
-    <title lang="el">Ταινία</title>
-    <desc lang="el">Ταινία. (270').</desc>
-    <category lang="el">Ταινία</category>
+  <programme start="20220402211500 +0300" stop="20220402230000 +0300" channel="EpsilonTV.gr">
+    <title lang="el">Playmobil: Η Ταινία (Playmobil: The Movie)</title>
+    <desc lang="el">Μετά την εξαφάνιση του μικρότερου αδελφού της στο μαγικό σύμπαν των παιχνιδιών Playmobil, η Μάρλα ξεκινά ένα επικό ταξίδι αναζήτησης, στη διάρκεια του οποίου θα συναντήσει συναρπαστικούς κόσμους και αναπάντεχους συμμάχους! (95') (Μεταγλ.) Παραγωγή: Καναδάς, Γαλλία, Κίνα.</desc>
+    <credits>
+      <director>Λίνο ΝτιΣάλβο</director>
+    </credits>
+    <date>2019</date>
+    <category lang="el">Κινούμενα Σχέδια</category>
   </programme>
   <programme start="20220402230000 +0300" stop="20220403000000 +0300" channel="EpsilonTV.gr">
     <title lang="el">After Dark</title>
@@ -2142,14 +2153,14 @@
     <title lang="el">Δες &amp; Βρες</title>
     <desc lang="el">Το νέο, διασκεδαστικό τηλεπαιχνίδι της ΕΡΤ, που παρουσιάζει ο Νίκος Κουρής, δεν θα τεστάρει μόνο τις γνώσεις και τη μνήμη μας, αλλά κυρίως την παρατηρητικότητα, την αυτοσυγκέντρωση και την ψυχραιμία μας.</desc>
   </programme>
-  <programme start="20220402053000 +0300" stop="20220402094500 +0300" channel="ERT1.gr">
+  <programme start="20220402053000 +0300" stop="20220402090000 +0300" channel="ERT1.gr">
     <title lang="el">Από τις Έξι...</title>
     <desc lang="el">Ο Δημήτρης Κοτταρίδης και ο Γιάννης Πιτταράς παρουσιάζουν όλη την τρέχουσα επικαιρότητα. Πολιτική, οικονομία, κοινωνία, διεθνείς εξελίξεις, αθλητισμός, χρηστικές ειδήσεις, κάθε τι που συμβαίνει στην Αθήνα, τη Θεσσαλονίκη και την Περιφέρεια.</desc>
   </programme>
-  <programme start="20220402094500 +0300" stop="20220402100000 +0300" channel="ERT1.gr">
+  <programme start="20220402090000 +0300" stop="20220402091500 +0300" channel="ERT1.gr">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
   </programme>
-  <programme start="20220402100000 +0300" stop="20220402120000 +0300" channel="ERT1.gr">
+  <programme start="20220402091500 +0300" stop="20220402120000 +0300" channel="ERT1.gr">
     <title lang="el">Με Νέα Ματιά</title>
     <desc lang="el">Τα Σαββατοκύριακα η Αλεξάνδρα Καϋμένου και οι συνεργάτες της, μας λένε καλημέρα και 'Με νέα ματιά' παρατηρούν και σχολιάζουν ό,τι συμβαίνει και ό,τι μας αφορά.</desc>
   </programme>
@@ -3583,7 +3594,7 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20220402060000 +0300" stop="20220402063000 +0300" channel="CosmoteSport4.gr">
-    <title lang="el">Sports Classics - Dream Teams</title>
+    <title lang="el">Sports Classics: Dream Teams</title>
     <desc lang="el">Σειρά ντοκιμαντέρ για την εξέλιξη του ΝΒΑ, από τις πρώτες δεκαετίες «ζωής» του έως και τη σύγχρονη εποχή.</desc>
   </programme>
   <programme start="20220402063000 +0300" stop="20220402083000 +0300" channel="CosmoteSport4.gr">
@@ -3596,7 +3607,7 @@
     <desc lang="el">Καλεσμένος στο στούντιο ο πρώην προπονητής της ΑΕΚ και της αιγυπτιακής Ζαμάλεκ, Bαγγέλης Αγγέλου. Οι Βασίλης Μπρατσιάκος και Ζήσης Σαρικόπουλος μιλούν από τη Ντόχα, ενώ η εκπομπή φιλοξενεί συνεντεύξεις του γκαρντ του Άρη Στέλιου Πουλιανίτη και του προπονητή της Βίρτους Μπολόνια, Σέρτζιο Σκαριόλο.</desc>
   </programme>
   <programme start="20220402101500 +0300" stop="20220402104000 +0300" channel="CosmoteSport4.gr">
-    <title lang="el">NBA Specials - Basketballography</title>
+    <title lang="el">NBA Specials: Basketballography</title>
     <desc lang="el">Dave Bing. Σειρά ντοκιμαντέρ για την εξέλιξη του ΝΒΑ, από τις πρώτες δεκαετίες «ζωής» του έως και τη σύγχρονη εποχή.</desc>
   </programme>
   <programme start="20220402104000 +0300" stop="20220402110000 +0300" channel="CosmoteSport4.gr">
@@ -3862,15 +3873,15 @@
     <desc lang="el">Η σειρά GP Confidential φωτίζει αθέατες πλευρές της Φόρμουλα 1, μέσω της χρήσης animation, που αποκαλύπτει το πώς οι ομάδες προσαρμόζονται στις ανάγκες των διαδρομών και στις εξελίξεις στην αεροδυναμική. Επίσης, προσφέρει μια αναδρομή στο ένδοξο παρελθόν, μέσα από μεγάλες στιγμές και θρύλους.</desc>
     <episode-num system="onscreen">S2022</episode-num>
   </programme>
-  <programme start="20220402224000 +0300" stop="20220402230500 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220402224000 +0300" stop="20220402230000 +0300" channel="CosmoteSport5.gr">
     <title lang="el">Moto3</title>
     <desc lang="el">GP Michelin de la Republica Argentina - Ελεύθερα Δοκιμαστικά 3. Περιγραφή: Θανάσης Κελάφης. 30 αναβάτες από 15 ομάδες θα αναμετρηθούν για την πρωτιά. Η 11η έκδοση του παγκοσμίου πρωταθλήματος Moto3 περιλαμβάνει συνολικά 21 Γκραν Πρι, που θα διεξαχθούν από 6 Μαρτίου έως 6 Νοεμβρίου 2022.</desc>
   </programme>
-  <programme start="20220402230500 +0300" stop="20220402234000 +0300" channel="CosmoteSport5.gr">
-    <title lang="el">Moto3</title>
-    <desc lang="el">GP Michelin de la Republica Argentina - Ελεύθερα Δοκιμαστικά 1. Περιγραφή: Θανάσης Κελάφης. 30 αναβάτες από 15 ομάδες θα αναμετρηθούν για την πρωτιά. Η 11η έκδοση του παγκοσμίου πρωταθλήματος Moto3 περιλαμβάνει συνολικά 21 Γκραν Πρι, που θα διεξαχθούν από 6 Μαρτίου έως 6 Νοεμβρίου 2022.</desc>
+  <programme start="20220402230000 +0300" stop="20220402234000 +0300" channel="CosmoteSport5.gr">
+    <title lang="el">WRC 2022 - Στιγμιότυπα</title>
+    <desc lang="el">Σουηδία. Μια σύντομη ματιά στη δράση του Παγκοσμίου Πρωταθλήματος ράλι. Οι καλύτερες στιγμές από τα δοκιμαστικά, την προθέρμανση, τους αγώνες και τις απονομές έρχονται στις οθόνες σας.</desc>
   </programme>
-  <programme start="20220402234000 +0300" stop="20220403000500 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220402234000 +0300" stop="20220403000000 +0300" channel="CosmoteSport5.gr">
     <title lang="el">Moto2</title>
     <desc lang="el">GP Michelin de la Republica Argentina - Ελεύθερα Δοκιμαστικά 3. Περιγραφή: Θανάσης Κελάφης. 30 οδηγοί και 15 ομάδες θα δώσουν μάχη για την πρώτη θέση στο Παγκόσμιο Πρωτάθλημα Moto2 για το 2022. Η φετινή διοργάνωση περιλαμβάνει 21 Γκραν Πρι. Όλοι οι συμμετέχοντες χρησιμοποιούν ειδικά ελαστικά Dunlop και τρικύλινδρους κινητήρες των 765 κυβικών.</desc>
   </programme>
@@ -4797,16 +4808,16 @@
     <category lang="el">Τρόμου</category>
   </programme>
   <programme start="20220402235000 +0300" stop="20220403000500 +0300" channel="CosmoteCinema2.gr">
-    <title lang="el">Medeas</title>
-    <desc lang="el">Ένας σκληρόκαρδος αγρότης, που έχει αφιερωθεί στην οικογένεια και τη φάρμα του, βλέπει τη σύζυγό του να απομακρύνεται από εκείνον και τα πέντε παιδιά τους. Σε μια προσπάθεια να σώσει τη σχέση τους θα οδηγηθεί στην τραγωδία... (97') Παραγωγή: ΗΠΑ, Ιταλία.</desc>
+    <title lang="el">Dead Reckoning</title>
+    <desc lang="el">Ένα ειδυλλιακό καλοκαίρι φέρνει κοντά τον Νίκο και την Τίλι. Όμως, η επιστροφή του τρομοκράτη αδελφού του αναγκάζει τον Νίκο να στραφεί ενάντια στην οικογένειά του, για να προστατέψει την κοπέλα που αγαπά αλλά και χιλιάδες αθώους. (91') Παραγωγή: ΗΠΑ.</desc>
     <credits>
-      <director>Αντρέα Παλάορο</director>
-      <actor>Καταλίνα Σαντίνο Μορένο</actor>
-      <actor>Μπράιαν Ο'Μπάιρν</actor>
-      <actor>Μαίρη Μάουζερ</actor>
+      <director>Αντρέι Μπαρτκόβιακ</director>
+      <actor>Ίντια Έισλι</actor>
+      <actor>Τζέιμς Ρέμαρ</actor>
+      <actor>Σκοτ Άντκινς</actor>
     </credits>
-    <date>2015</date>
-    <category lang="el">Ταινία - Δράμα</category>
+    <date>2020</date>
+    <category lang="el">Δράσης</category>
   </programme>
   <programme start="20220401012000 +0300" stop="20220401025500 +0300" channel="CosmoteCinema3.gr">
     <title lang="el">Ψυχή και Σάρκα (Εσύ και εγώ)</title>
@@ -5433,37 +5444,37 @@
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 48 av 72</episode-num>
   </programme>
-  <programme start="20220402055500 +0200" stop="20220402064000 +0200" channel="SVT1.se">
+  <programme start="20220402055500 +0200" stop="20220402063500 +0200" channel="SVT1.se">
     <title lang="sv">Fråga doktorn</title>
     <desc lang="sv">Svenskt hälsomagasin från 2022. Tema: Ögat. Om ögat, vår förmåga att se. Vilka sjukdomar kan drabba ögat och vår syn, och när ska små ögonbesvär tas på allvar?. Medverkar gör Fatmir Seremeti, som själv har en synskada, Karim Makdoumi, ögonläkare, och doktor Karin Granberg. 28/03 år 2022 i SVT1.</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 29. Del 11 av 18</episode-num>
   </programme>
-  <programme start="20220402064000 +0200" stop="20220402072500 +0200" channel="SVT1.se">
+  <programme start="20220402063500 +0200" stop="20220402072000 +0200" channel="SVT1.se">
     <title lang="sv">Landet runt</title>
     <desc lang="sv">Svenskt samhällsmagasin från 2022. Den ständiga resan genom och runt Sverige. Reportage, människor och möten i Sveriges mänskligaste tv-program. 29/03 år 2022 i SVT1.</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 11 av 22</episode-num>
   </programme>
-  <programme start="20220402072500 +0200" stop="20220402082500 +0200" channel="SVT1.se">
+  <programme start="20220402072000 +0200" stop="20220402082000 +0200" channel="SVT1.se">
     <title lang="sv">Uppdrag granskning</title>
     <desc lang="sv">Svenskt samhällsprogram från 2022. Sjukvårdens förlorare. I Sverige ska sjukvården vara på lika villkor för alla. Men något har gått fel. Det verkar finnas ett A- och B-lag i den svenska vården. Vilket lag tillhör du? I det här programmet träffar du människorna som drabbas och de som tar saken i egna händer när hjälpen är långt borta. "Sjukvårdens förlorare" är det första reportaget av tre i Uppdrag gransknings serie om Sveriges regioner, i samarbete med SVT:s lokala nyheter. 01/04 år 2022 i SVT1.</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 23. Del 9 av 31</episode-num>
   </programme>
-  <programme start="20220402082500 +0200" stop="20220402091500 +0200" channel="SVT1.se">
+  <programme start="20220402082000 +0200" stop="20220402091000 +0200" channel="SVT1.se">
     <title lang="sv">Kulturfrågan Kontrapunkt</title>
     <desc lang="sv">Svensk frågesport från 2022. Mycket står på spel för lag Sjölin och lag Lindh som under ledning av Ella Petersson ska värka fram resonemang och snärtiga svar från loge och foajé. Vikarierande domare Malin Jacobson Båth dömer hårt men rättvist och skådespelaren Stina Ekblad låter oss ta del av högklassiga uppläsningar till tonerna av klassisk musik. 02/04 år 2022 i SVT1.</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 5. Del 6 av 8</episode-num>
   </programme>
-  <programme start="20220402091500 +0200" stop="20220402100000 +0200" channel="SVT1.se">
+  <programme start="20220402091000 +0200" stop="20220402095500 +0200" channel="SVT1.se">
     <title lang="sv">Go'kväll</title>
     <desc lang="sv">Svenskt magasin från 2022. Middagsvärd Maria Blom. Middagsbjudning med regissören Maria Blom. Hon berättar om tre personer som betytt mycket i hennes liv. Konditorn Gustaf Mabrouk inspirerar oss att baka godsaker i helgen. C-G Karlsson betygsätter biofilm och tipsar om sevärda tv-serier. 02/04 år 2022 i SVT1.</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 48 av 72</episode-num>
   </programme>
-  <programme start="20220402100000 +0200" stop="20220402123000 +0200" channel="SVT1.se">
+  <programme start="20220402095500 +0200" stop="20220402125000 +0200" channel="SVT1.se">
     <title lang="sv">Längdåkning</title>
     <desc lang="sv">Reistadløpet. . Ski Classics. Norge. Reistadløpet på 50 km från Setermoen till Bardufoss i Norge.</desc>
     <credits>
@@ -5471,28 +5482,28 @@
     </credits>
     <date>2022</date>
   </programme>
-  <programme start="20220402123000 +0200" stop="20220402133000 +0200" channel="SVT1.se">
+  <programme start="20220402125000 +0200" stop="20220402135000 +0200" channel="SVT1.se">
     <title lang="sv">Mästarnas mästare</title>
     <desc lang="sv">Svensk underhållning från 2022. Dags för säsongens första gruppfinal. Nu ska det avgöras vilka tre som går vidare till slutspelet. Veckans tävlingar är Klotkontroll, Balansduell och Quadrathlon. Den sistnämnda är en ny tävling där deltagarna ska springa en bana med tre olika stationer. Missar de på stationerna i skytte, pilbåge och spjut så får de strafftid. Grupp 1: Emma Green (höjdhopp), Sofia Loft (styrkelyft), Ola Lindgren (handboll), Antonio Lindbäck (speedway) och Magnus Norman (tennis). 30/03 år 2022 i SVT1.</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 14. Del 3 av 10</episode-num>
   </programme>
-  <programme start="20220402133000 +0200" stop="20220402135000 +0200" channel="SVT1.se">
+  <programme start="20220402135000 +0200" stop="20220402141000 +0200" channel="SVT1.se">
     <title lang="sv">Mästarkvalet</title>
     <desc lang="sv">Svensk tv-lek från 2022. I Mästarkvalet får de utslagna i Mästarnas mästare en chans att ta sig tillbaka in i tävlingen. Dags för den andra deltagaren att tävla mot Pernilla Wiberg i Strategi, Balans och Precision. Man tävlar om fördelar i Mästarkvalfinalen. 31/03 år 2022 i SVT1.</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 2 av 6</episode-num>
   </programme>
-  <programme start="20220402135000 +0200" stop="20220402145000 +0200" channel="SVT1.se">
+  <programme start="20220402141000 +0200" stop="20220402151000 +0200" channel="SVT1.se">
     <title lang="sv">Street tunes</title>
     <desc lang="sv">Svensk dokumentär från 2022. För några år sedan gav skådespelaren Charlie Petersson sig själv en utmaning. Att han ensam skulle resa runt i Europa och försörja sig som gatumusikant. Här följer vi Charlies försök att lyckas med utmaningen. Med gitarren runt halsen går färden från hemstaden Stockholm till Malmö, Köpenhamn, Amsterdam, Berlin, Prag, Milano och hem igen. En fantastisk resa fylld av musik, fester och möten med publik och artister på Europas gator.</desc>
     <date>2022</date>
   </programme>
-  <programme start="20220402145000 +0200" stop="20220402155000 +0200" channel="SVT1.se">
-    <title lang="sv">Trädgårdstider</title>
-    <desc lang="sv">Svensk trädgårdsserie från 2022. Fuchsia-frossa och midsommarbesök. Midsommar är i antågande och på Torstens gård pågår ett febrilt arbete med att få trädgården redo för familjen som ska komma och semestra i den. Malin Persson tillverkar ett mänskligt solur medan John Taylor visar hur man planterar häckar. Pernilla Månsson Colt går all-in på en lite missförstådd blomma som förtjänar ett uppsving medan Tareq Taylor tar tag i midsommarbuffén. Dahlia-tävlingen går vidare och det har äntligen blivit dags att sätta ut knölarna. 29/03 år 2022 i SVT1.</desc>
-    <date>2022</date>
-    <episode-num system="onscreen">Säsong 11. Del 6 av 9</episode-num>
+  <programme start="20220402151000 +0200" stop="20220402155000 +0200" channel="SVT1.se">
+    <title lang="sv">Safari Norge</title>
+    <desc lang="sv">Norsk livsstilsserie från 2019. Isbjörn. Yosef Wolde-Mariam, rap-artist och ena halvan av duon Madcon åker till Svalbard i förhoppningen om att få se en isbjörn ute i det fria. Endast runt 300 isbjörnar lever på Svalbard och det är förbjudet att störa de vilda djuren. Avstånden är dessutom enorma på Svalbard, så det är långt ifrån säkert att Yosefs dröm kommer att gå i uppfyllelse. 31/03 år 2022 i SVT1.</desc>
+    <date>2019</date>
+    <episode-num system="onscreen">Säsong 1. Del 1 av 6</episode-num>
   </programme>
   <programme start="20220402155000 +0200" stop="20220402165000 +0200" channel="SVT1.se">
     <title lang="sv">Husdrömmar</title>
@@ -6394,13 +6405,13 @@
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 28 av 130</episode-num>
   </programme>
-  <programme start="20220402113000 +0200" stop="20220402132500 +0200" channel="TV4.se">
+  <programme start="20220402113000 +0200" stop="20220402133000 +0200" channel="TV4.se">
     <title lang="sv">Masked singer Sverige</title>
     <desc lang="sv">Svensk musikunderhållning från 2022. En av förra årets deltagare hoppar in som vikarie i panelen och vi får stifta bekantskap med sex nya masker som både förvirrar och förför. Sjöjungfrun väcker starka känslor och Nallen får panelen att tänka på både opera och hockey. ,.</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2. Del 2 av 9</episode-num>
   </programme>
-  <programme start="20220402132500 +0200" stop="20220402143000 +0200" channel="TV4.se">
+  <programme start="20220402133000 +0200" stop="20220402143000 +0200" channel="TV4.se">
     <title lang="sv">Tillsammans med Strömstedts</title>
     <desc lang="sv">Svensk livsstilsserie från 2022. Jenny och Niklas träffar den tävlingsinriktade tennisspelaren Jonas Björkman med fru Petra som ägnar mycket tid åt familjens olika åtaganden. Men är det lätt att även relationen blir ett projekt? Jonas och Petra berättar hur de klarar av allt. ,.</desc>
     <date>2022</date>
@@ -6476,13 +6487,13 @@
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 28 av 112</episode-num>
   </programme>
-  <programme start="20220402221500 +0200" stop="20220402224000 +0200" channel="TV4.se">
+  <programme start="20220402221500 +0200" stop="20220402224500 +0200" channel="TV4.se">
     <title lang="sv">Let's dance - resultatshow</title>
     <desc lang="sv">Svensk underhållning från 2022. Efter en kväll med vackra tangos, heta cha-cha-chas och fartfyllda jives är det dags för sanningens ögonblick. Vilka par kommer att dansa vidare och vilket par kommer att behöva lämna Lets Dance?</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 17. Del 2 av 8</episode-num>
   </programme>
-  <programme start="20220402224000 +0200" stop="20220403005500 +0200" channel="TV4.se">
+  <programme start="20220402224500 +0200" stop="20220403005500 +0200" channel="TV4.se">
     <title lang="sv">Gemini man</title>
     <desc lang="sv">Amerikansk actionthriller från 2019. Henry Brogan är en skicklig lönnmördare som är på väg att gå i pension när han blir måltavla för sina forna uppdragsgivare. Plötsligt har han en jämbördigt skicklig agent i hälarna, en lönnmördare som mystiskt nog liknar honom i allt.</desc>
     <credits>
@@ -9098,15 +9109,15 @@
     <date>2013</date>
     <episode-num system="onscreen">Säsong 2. Del 5 av 26</episode-num>
   </programme>
-  <programme start="20220402110000 +0200" stop="20220402113000 +0200" channel="TV12.se">
+  <programme start="20220402110000 +0200" stop="20220402113500 +0200" channel="TV12.se">
     <title lang="sv">Gränsbevakarna Kanada</title>
     <desc lang="sv">Kanadensisk dokumentärserie från 2013. Vi följer expertteamen som bevakar Kanadas gränser. Varje dag, dygnet runt, arbetar de med att skydda landet från illegala invandrare, potentiella terrorister, farliga sjukdomar och droghandel. ,.</desc>
     <date>2013</date>
     <episode-num system="onscreen">Säsong 2. Del 6 av 26</episode-num>
   </programme>
-  <programme start="20220402113000 +0200" stop="20220402132500 +0200" channel="TV12.se">
+  <programme start="20220402113500 +0200" stop="20220402132500 +0200" channel="TV12.se">
     <title lang="sv">Lego Masters Australien</title>
-    <desc lang="sv">Australisk underhållning från 2021. Out on a Limb/Underground. Fyra lag ska bli tre i säsongens näst sista avsnitt. Deltagarna presenteras för ett enormt legoträd och får i uppgift att berika varsin gren med något som ser ut att höra hemma där. Helst ska de utnyttja hela grenen och skapa ett 360-gradersbygge.</desc>
+    <desc lang="sv">Australisk underhållning från 2021. Out on a Limb/Underground. Fyra lag ska bli tre i säsongens näst sista avsnitt. Deltagarna presenteras för ett enormt legoträd och får i uppgift att berika varsin gren med något som ser ut att höra hemma där. Helst ska de utnyttja hela grenen och skapa ett 360-gradersbygge. ,.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 3. Del 13 av 14</episode-num>
   </programme>
@@ -9132,13 +9143,13 @@
     <desc lang="sv">V75 Direkt. Direktsänd V75-omgång. Med tips, intervjuer och analyser från experterna i studion.</desc>
     <date>2022</date>
   </programme>
-  <programme start="20220402180000 +0200" stop="20220402182500 +0200" channel="TV12.se">
+  <programme start="20220402180000 +0200" stop="20220402182000 +0200" channel="TV12.se">
     <title lang="sv">Ishockey: SHL Kval studio 2022 (före)</title>
     <desc lang="sv">inga Detaljer.</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 4 av 7</episode-num>
   </programme>
-  <programme start="20220402182500 +0200" stop="20220402205000 +0200" channel="TV12.se">
+  <programme start="20220402182000 +0200" stop="20220402205000 +0200" channel="TV12.se">
     <title lang="sv">Ishockey</title>
     <desc lang="sv">TimråDjurgården. SHL kval. NHC Arena. Ishockey från NHC Arena där Timrå ställs mot Djurgården i kvalet för att undvika nedflyttning. Match fyra i bäst av sju. I studion på plats finns Lena Sundqvist och Sanny Lindström.</desc>
     <date>2022</date>
@@ -12201,13 +12212,13 @@
     <date>2013</date>
     <episode-num system="onscreen">Säsong 1. Del 9</episode-num>
   </programme>
-  <programme start="20220401060900 +0200" stop="20220401063300 +0200" channel="Nickelodeon.se">
+  <programme start="20220401060900 +0200" stop="20220401063200 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">Bli Knasig. En komet gör att Thundermans krafter blir knasiga samtidigt som killen Phoebe är kär i bjuder henne på skoldansen. Phoebe och Max får veta att om de håller ihop kan de hålla sina krafter i styr, men ingen är speciellt glad för att ha den andra nära.</desc>
     <date>2013</date>
     <episode-num system="onscreen">Säsong 1. Del 10</episode-num>
   </programme>
-  <programme start="20220401063300 +0200" stop="20220401065500 +0200" channel="Nickelodeon.se">
+  <programme start="20220401063200 +0200" stop="20220401065500 +0200" channel="Nickelodeon.se">
     <title lang="sv">Lugn i stormen</title>
     <desc lang="sv">Rock och röj / Kaos kring kosing. Lincoln ska gå på sitt livs första konsert, och Luna bestämmer sig för att göra det hela till den största kvällen i sin brors liv. // Lincoln hittar ett brev på vinden där det står att det finns pengar gömda i huset!</desc>
     <date>2015</date>
@@ -12219,127 +12230,139 @@
     <date>2015</date>
     <episode-num system="onscreen">Säsong 1. Del 14</episode-num>
   </programme>
-  <programme start="20220401072000 +0200" stop="20220401074400 +0200" channel="Nickelodeon.se">
+  <programme start="20220401072000 +0200" stop="20220401074300 +0200" channel="Nickelodeon.se">
     <title lang="sv">Lugn i stormen</title>
     <desc lang="sv">Täck upp till tusen / Dubbeldejten. När Lincoln måste täcka upp för alla sina tio systrar samtidigt får han snabbt händerna fulla. // Bobby och Lori går på en dubbelträff tillsammans med Lincoln och Bobbys lillasyster Ronnie Anne.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 1. Del 15</episode-num>
   </programme>
-  <programme start="20220401074400 +0200" stop="20220401080800 +0200" channel="Nickelodeon.se">
+  <programme start="20220401074300 +0200" stop="20220401080800 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Casagrande</title>
     <desc lang="sv">Toffel-kraften / Bästa vänner. När Carl tar Rosas toffel rubbas stadens ordning och toffel-kraften härjar fritt!. // Carlitos ger sig ut på ett vilt äventyr för att hämta sitt favoritgosedjur från arkaden.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 2. Del 12</episode-num>
   </programme>
-  <programme start="20220401080800 +0200" stop="20220401083500 +0200" channel="Nickelodeon.se">
+  <programme start="20220401080800 +0200" stop="20220401082900 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Casagrande</title>
     <desc lang="sv">Coolaste morfarn / Spratt-jubileet. När Fridas roliga pappa kommer på besök, försöker Hector vinna tillbaka sina barnbarns uppmärksamhet. // Ronnie Anne och Lincoln gör sig redo för en stor dag fylld av spratt. Nybörjaren Sid vill självklart vara med!</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 2. Del 13</episode-num>
   </programme>
-  <programme start="20220401083500 +0200" stop="20220401085800 +0200" channel="Nickelodeon.se">
+  <programme start="20220401082900 +0200" stop="20220401083400 +0200" channel="Nickelodeon.se">
+    <title lang="sv">Orange Carpet</title>
+    <desc lang="sv">Orange Carpet Specialupplaga: Sonic the Hedgehog 2. I den här specialsändningen av Orange Carpet går Dana Heath och Terrence Little Gardenhigh från Danger Force bakom kulisserna. Tillsammans med skaparna bakom Sonic the Hedgehog 2, tar de tar reda på vad som krävs för att skapa en uppföljare. .</desc>
+    <date>2022</date>
+    <episode-num system="onscreen">Säsong 1. Del 1</episode-num>
+  </programme>
+  <programme start="20220401083400 +0200" stop="20220401085600 +0200" channel="Nickelodeon.se">
     <title lang="sv">Nicky, Ricky, Dicky &amp; Dawn</title>
     <desc lang="sv">Fjärkontroll-kontroll. Dickys och Dawns ständiga krig om att få kontroll över tevens fjärrkontroll förstör nästan Toms och Annes bröllopsdag. Fyrlingarna är så fixerade vid teven att de hela tiden måste vinna över varandra i bråken om fjärrkontrollen.</desc>
     <date>2014</date>
     <episode-num system="onscreen">Säsong 1. Del 5</episode-num>
   </programme>
-  <programme start="20220401085800 +0200" stop="20220401092100 +0200" channel="Nickelodeon.se">
+  <programme start="20220401085600 +0200" stop="20220401092000 +0200" channel="Nickelodeon.se">
     <title lang="sv">Game shakers</title>
     <desc lang="sv">Flygplanstjuvarna. Trip vill imponera på sina rika vänner, och Babe övertalar honom att "låna" sin pappas privata flygplan. Men när piloterna plötsligt hoppar ut ur planet måste Trip och tjejerna klura ut hur de ska lyckas landa det.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 1. Del 7</episode-num>
   </programme>
-  <programme start="20220401092100 +0200" stop="20220401094600 +0200" channel="Nickelodeon.se">
+  <programme start="20220401092000 +0200" stop="20220401094400 +0200" channel="Nickelodeon.se">
     <title lang="sv">Tyler Perrys Young Dylan</title>
     <desc lang="sv">Mamma säger. När Dylan skriver en raptext om sin mamma, blir Myles orolig och läser hans dagbok. Han blir upptäckt av Dylan, vilket leder till en ond spiral där ingen i familjen respekterar varandras privatliv.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 9</episode-num>
   </programme>
-  <programme start="20220401094600 +0200" stop="20220401100900 +0200" channel="Nickelodeon.se">
+  <programme start="20220401094400 +0200" stop="20220401100600 +0200" channel="Nickelodeon.se">
     <title lang="sv">Tyler Perrys Young Dylan</title>
     <desc lang="sv">Lärdomar. När Rebecca blir mobbad på nätet uppmuntrar Dylan Myles att svara på några av inläggen. De upptäcker snart att de inte skrivit anonymt och familjen måste ta konsekvenserna.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 10</episode-num>
   </programme>
-  <programme start="20220401100900 +0200" stop="20220401103200 +0200" channel="Nickelodeon.se">
+  <programme start="20220401100600 +0200" stop="20220401102900 +0200" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Krångliga svampen / Sjung Patriks sång. SvampBob blir den lokala favoriten efter att en matkritiker gett honom gott betyg. // SvampBob hjälper Patrik att få sin sång spelad på den lokala radiostationen.</desc>
     <date>2007</date>
     <episode-num system="onscreen">Säsong 5. Del 89</episode-num>
   </programme>
-  <programme start="20220401103200 +0200" stop="20220401105800 +0200" channel="Nickelodeon.se">
+  <programme start="20220401102900 +0200" stop="20220401105400 +0200" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">En loppa i kupolen / Skammens munk / Krångliga tallriken. SvampBob och Patrik hjälper Sandy att bli av med sina löss. // Patrik äter upp SvampBobs chokladmunk och får dåligt samvetet // SvampBob kämpar mot en intorkad smutsfläck.</desc>
     <date>2007</date>
     <episode-num system="onscreen">Säsong 5. Del 90</episode-num>
   </programme>
-  <programme start="20220401105800 +0200" stop="20220401112200 +0200" channel="Nickelodeon.se">
+  <programme start="20220401105400 +0200" stop="20220401111800 +0200" channel="Nickelodeon.se">
     <title lang="sv">Korallkollo: Svampbobs underår</title>
     <desc lang="sv">Sockerläsk / Tafatt. Kollobarnen möter två narvalar från landet som heter Narlene och Nobby, som ger dem en söt överraskning. // En regnig dag roar sig Svampbob och hans vänner med att vildsint leka tafatt inomhus.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 2</episode-num>
   </programme>
-  <programme start="20220401112200 +0200" stop="20220401114600 +0200" channel="Nickelodeon.se">
+  <programme start="20220401111800 +0200" stop="20220401114100 +0200" channel="Nickelodeon.se">
     <title lang="sv">Alvinnn!!! Och Gänget</title>
     <desc lang="sv">Nyfiken / Ohyra. Alvin får smaka på sin egen medicin när han utsätter Simon för ett spratt för mycket. // När Fröken Croner upptäcker att hennes hus har invaderats av termiter, flyttar hon hem till Gänget och driver alla till vansinne.</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 3. Del 9</episode-num>
   </programme>
-  <programme start="20220401114600 +0200" stop="20220401120800 +0200" channel="Nickelodeon.se">
+  <programme start="20220401114100 +0200" stop="20220401120300 +0200" channel="Nickelodeon.se">
     <title lang="sv">Alvinnn!!! Och Gänget</title>
     <desc lang="sv">Rymlingarna / Sherlock och Gänget. När pojkarna råkar slå sönder Daves helt nya platt-TV bestämmer dom sig allihop att rymma hemifrån. // Jeanette och Eleanor leker Sherlock Holmes och Watson när Theodores teddybjörn försvinner mystiskt.</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 3. Del 10</episode-num>
   </programme>
-  <programme start="20220401120800 +0200" stop="20220401123100 +0200" channel="Nickelodeon.se">
+  <programme start="20220401120300 +0200" stop="20220401122600 +0200" channel="Nickelodeon.se">
     <title lang="sv">Danger force</title>
     <desc lang="sv">Kids återkomst. När Henry Hart återvänder och distraherar Ray, tvingas Danger Force ge sig ut på uppdrag utan Kapten Man. Läget förvärras när en läskig prisjägare från Dystopia kommer till Swellview med siktet inställt på Henry.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 9</episode-num>
   </programme>
-  <programme start="20220401123100 +0200" stop="20220401125500 +0200" channel="Nickelodeon.se">
+  <programme start="20220401122600 +0200" stop="20220401125000 +0200" channel="Nickelodeon.se">
     <title lang="sv">Danger force</title>
     <desc lang="sv">Tusen-pranks-kriget: Del 1. Ett urgammalt prank-krig mellan Swellview och Rivalton blossar upp igen, och Skriets talang för "pranks" är Dangers Force bästa chans att vinna striden.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 10</episode-num>
   </programme>
-  <programme start="20220401125500 +0200" stop="20220401131800 +0200" channel="Nickelodeon.se">
+  <programme start="20220401125000 +0200" stop="20220401131400 +0200" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Jaspers Flickvän. Jaspers flickvän kommer till staden på besök, och får sova över hemma hos Charlotte. Hon blir dock snabbt svartsjuk och blir övertygad om att Charlotte är kär i Jasper. Charlotte börjar undra om Jaspers flickvän har en skruv lös.</desc>
     <date>2014</date>
     <episode-num system="onscreen">Säsong 1. Del 26</episode-num>
   </programme>
-  <programme start="20220401131800 +0200" stop="20220401134200 +0200" channel="Nickelodeon.se">
+  <programme start="20220401131400 +0200" stop="20220401133600 +0200" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Takten Sitter I. Doktor Minyak är tillbaka, och den här gången sitter Henry verkligen i knipa!. Doktor Minyak har nämligen förvandlat Charlotte till en jättestark varelse vars enda mål är att jaga rätt på Kid Danger och Captain Man. .</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 2. Del 1</episode-num>
   </programme>
-  <programme start="20220401134200 +0200" stop="20220401140600 +0200" channel="Nickelodeon.se">
+  <programme start="20220401133600 +0200" stop="20220401134200 +0200" channel="Nickelodeon.se">
+    <title lang="sv">Orange Carpet</title>
+    <desc lang="sv">Orange Carpet Specialupplaga: Sonic the Hedgehog 2. I den här specialsändningen av Orange Carpet går Dana Heath och Terrence Little Gardenhigh från Danger Force bakom kulisserna. Tillsammans med skaparna bakom Sonic the Hedgehog 2, tar de tar reda på vad som krävs för att skapa en uppföljare. .</desc>
+    <date>2022</date>
+    <episode-num system="onscreen">Säsong 1. Del 1</episode-num>
+  </programme>
+  <programme start="20220401134200 +0200" stop="20220401140500 +0200" channel="Nickelodeon.se">
     <title lang="sv">Overlord och familjen Underwood</title>
     <desc lang="sv">LAJV-täckmantel. Overlord finner sig tillrätta med en grupp rollspelare och försöker att bli deras ledare. Under tiden hindrar Jim och Flower Willow från att använda bilen. Hon måste klara deras bisarra körprov först.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 1. Del 10</episode-num>
   </programme>
-  <programme start="20220401140600 +0200" stop="20220401142700 +0200" channel="Nickelodeon.se">
+  <programme start="20220401140500 +0200" stop="20220401142600 +0200" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Kalla på polis / Flaskskeppen. Plankton åker i fängelse. Receptet blir bevismaterial. Svampbob och Herr Krabba gör upp en plan hur dom får tillbaks det. // Sandy bygger ett flaskskepp inför en stor tävling och Svampbob skaffar hjälp åt henne.</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 11. Del 236</episode-num>
   </programme>
-  <programme start="20220401142700 +0200" stop="20220401144200 +0200" channel="Nickelodeon.se">
+  <programme start="20220401142600 +0200" stop="20220401144000 +0200" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Grannstrul. En ny granne flyttar in och blir Bläckwards bästa vän.</desc>
     <date>2009</date>
     <episode-num system="onscreen">Säsong 7. Del 151</episode-num>
   </programme>
-  <programme start="20220401144200 +0200" stop="20220401150400 +0200" channel="Nickelodeon.se">
+  <programme start="20220401144000 +0200" stop="20220401150500 +0200" channel="Nickelodeon.se">
     <title lang="sv">Lugn i stormen</title>
     <desc lang="sv">Operation övertalning / Viktig vänskap. Systrarna tar hjälp av övertalningens mästare, det vill säga Lincoln, för att lära dem hur man lättast ber mamma och pappa om pengar. // Lisa får ett F i ämnet social kompetens. För att förbättra sitt betyg måste hon bli vän med någon.</desc>
     <date>2016</date>
     <episode-num system="onscreen">Säsong 2. Del 20</episode-num>
   </programme>
-  <programme start="20220401150400 +0200" stop="20220401152900 +0200" channel="Nickelodeon.se">
+  <programme start="20220401150500 +0200" stop="20220401152900 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Casagrande</title>
     <desc lang="sv">Stresstest / Att träna sin Carl. Familjen försöker hjälpa Bobby att komma över sin nervositet inför att skriva prov. // Carl smyger iväg från sin familj inne på zoo men går vilse när han letar efter komodovaranen Keyon.</desc>
     <date>2019</date>
@@ -12363,61 +12386,67 @@
     <date>2018</date>
     <episode-num system="onscreen">Säsong 5. Del 11</episode-num>
   </programme>
-  <programme start="20220401163900 +0200" stop="20220401170000 +0200" channel="Nickelodeon.se">
+  <programme start="20220401163900 +0200" stop="20220401170100 +0200" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Hela familjen Bilsky. Henrys tålamod sätts på prov när Piper bjuder in sin nye pojkvän och hela hans familj på middag.</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 5. Del 12</episode-num>
   </programme>
-  <programme start="20220401170000 +0200" stop="20220401172200 +0200" channel="Nickelodeon.se">
+  <programme start="20220401170100 +0200" stop="20220401172200 +0200" channel="Nickelodeon.se">
     <title lang="sv">Lugn i stormen</title>
     <desc lang="sv">Uppskjutet uppkast / Diamantfeber. Lynn försöker hindra hennes vänner från att åka den nya berg- och dalbanan på Mjölka Lund så att de inte får reda på hennes stora hemlighet. // Lola och farbror Knot bråkar om vem som ska vakta en värdefull ädelsten som de har hittat.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 5. Del 13</episode-num>
   </programme>
-  <programme start="20220401172200 +0200" stop="20220401173500 +0200" channel="Nickelodeon.se">
+  <programme start="20220401172200 +0200" stop="20220401173400 +0200" channel="Nickelodeon.se">
     <title lang="sv">Lugn i stormen</title>
     <desc lang="sv">Spalt eller inget. Mamma försöker övertyga en tidningsredaktör om att hennes barn är perfekta för att få jobbet som skribent av en spalt med föräldratips.</desc>
     <date>2019</date>
     <episode-num system="onscreen">Säsong 4. Del 17</episode-num>
   </programme>
-  <programme start="20220401173500 +0200" stop="20220401180000 +0200" channel="Nickelodeon.se">
+  <programme start="20220401173400 +0200" stop="20220401180000 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">Driva Runt. Trots att han lovat sin flickvän att sluta driva med folk gör Max ett episkt bus som hans vän får skulden för. Eftersom skolans rektor tänker relegera kompisen måste Max fixa situationen utan att avslöja att det var han som var skyldig.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 3. Del 21</episode-num>
   </programme>
-  <programme start="20220401180000 +0200" stop="20220401182300 +0200" channel="Nickelodeon.se">
+  <programme start="20220401180000 +0200" stop="20220401182200 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">Mörkrets Krafter. När Max var ond installerade han en manick för att förstöra ett superhjälte-möte och nu tar han hjälp av Phoebe för att rädda det. Men när deras krafter inte räcker till för att stoppa hotet tar Phoebe ett livsavgörande beslut.</desc>
     <date>2016</date>
     <episode-num system="onscreen">Säsong 4. Del 18</episode-num>
   </programme>
-  <programme start="20220401182300 +0200" stop="20220401184800 +0200" channel="Nickelodeon.se">
+  <programme start="20220401182200 +0200" stop="20220401183400 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Casagrande</title>
     <desc lang="sv">Spratt-jubileet. Ronnie Anne och Lincoln gör sig redo för en stor dag fylld av spratt. Nybörjaren Sid vill självklart vara med!</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 2. Del 13</episode-num>
   </programme>
-  <programme start="20220401184800 +0200" stop="20220401191300 +0200" channel="Nickelodeon.se">
+  <programme start="20220401183400 +0200" stop="20220401184900 +0200" channel="Nickelodeon.se">
+    <title lang="sv">Smurfarna</title>
+    <desc lang="sv">Sprattar bäst som sprattar sist. Kokettsmurfen tröttnar på Sprattsmurfens konstanta busande och bestämmer sig för att ordna med en explosiv hämndaktion.</desc>
+    <date>2021</date>
+    <episode-num system="onscreen">Säsong 1. Del 5</episode-num>
+  </programme>
+  <programme start="20220401184900 +0200" stop="20220401191400 +0200" channel="Nickelodeon.se">
     <title lang="sv">Smurfarna</title>
     <desc lang="sv">Snigelloppet / Våffeldagen. Sprattsmurfen ger Bondsmurfens tävlingssniglar en trolldryck som gör dem supersnabba. //Kökis blir avundsjuk när Smurflilja börjar grädda våfflor som är godare än hans. .</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 1. Del 13</episode-num>
   </programme>
-  <programme start="20220401191300 +0200" stop="20220401193700 +0200" channel="Nickelodeon.se">
+  <programme start="20220401191400 +0200" stop="20220401193800 +0200" channel="Nickelodeon.se">
     <title lang="sv">Alvinnn!!! Och Gänget</title>
     <desc lang="sv">Dubbel-Trubbel / Lögnhals!. Alvin smyger sig in i Simons labb för att titta på hans senaste uppfinning men råkar klona sig själv. // Alvin drar till med en liten lögn som snabbt leder till en stor katastrof och gör att alla blir indragna i hans trassliga nät.</desc>
     <date>2016</date>
     <episode-num system="onscreen">Säsong 2. Del 10</episode-num>
   </programme>
-  <programme start="20220401193700 +0200" stop="20220401200000 +0200" channel="Nickelodeon.se">
+  <programme start="20220401193800 +0200" stop="20220401200100 +0200" channel="Nickelodeon.se">
     <title lang="sv">Alvinnn!!! Och Gänget</title>
     <desc lang="sv">Sug-Paddan / En Hemlig Beundrare. Brittany förbereder ett skolföredrag om "inre skönhet" när hon får eksem i ansiktet. // Alvin tror att Kevin är hemligt förälskad i en av Chipettes-tjejerna. När tjejerna får reda på det försöker de hitta en snällt sätt att säga nej till Kevin.</desc>
     <date>2016</date>
     <episode-num system="onscreen">Säsong 2. Del 11</episode-num>
   </programme>
-  <programme start="20220401200000 +0200" stop="20220401202400 +0200" channel="Nickelodeon.se">
+  <programme start="20220401200100 +0200" stop="20220401202400 +0200" channel="Nickelodeon.se">
     <title lang="sv">Korallkollo: Svampbobs underår</title>
     <desc lang="sv">Korallkollots skatt / Kollodeltagare Gary. Svampbob och Patrik hittar en nergrävd skatt på kollot, men herr Krabba vill desperat lägga klorna på den. // Svampbob klär ut Gary till en av camparna för att hålla honom säker från fru Puff.</desc>
     <date>2020</date>
@@ -12429,133 +12458,133 @@
     <date>2011</date>
     <episode-num system="onscreen">Säsong 8. Del 178</episode-num>
   </programme>
-  <programme start="20220401205000 +0200" stop="20220401211700 +0200" channel="Nickelodeon.se">
+  <programme start="20220401205000 +0200" stop="20220401211600 +0200" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Extrem sport / Ekorre-rekord. SvampBob och Patrik vill vara med i ett gäng - Drastiska radikalerna - som håller på med extrem sport. // Sandy hittar en bok med världsrekord och vill med SvampBobs hjälp försöka att slå alla rekorden.</desc>
     <date>2012</date>
     <episode-num system="onscreen">Säsong 9. Del 179</episode-num>
   </programme>
-  <programme start="20220401211700 +0200" stop="20220401214100 +0200" channel="Nickelodeon.se">
+  <programme start="20220401211600 +0200" stop="20220401214000 +0200" channel="Nickelodeon.se">
     <title lang="sv">SvampBob Fyrkant</title>
     <desc lang="sv">Patrik-mannen / Garys nya leksak. Patrik utser sig själv till superhjälten Patrik-Man och trots att behovet inte finns, ger han sig ut för att hjälpa innevånarna på Bikini-botten. // Gary blir besatt av sin nya röda boll vilket tvingar SvampBob att vidta drastiska åtgärder.</desc>
     <date>2012</date>
     <episode-num system="onscreen">Säsong 9. Del 180</episode-num>
   </programme>
-  <programme start="20220401214100 +0200" stop="20220401220600 +0200" channel="Nickelodeon.se">
+  <programme start="20220401214000 +0200" stop="20220401220400 +0200" channel="Nickelodeon.se">
     <title lang="sv">Smurfarna</title>
     <desc lang="sv">Junior / Förvandlingen. När Dummersmurfen hittar ett ägg i skogen får han och de andra smurferna testa sina föräldraförmågor. // Kokettsmurfen vill designa nya kläder till smurfarna men han och Skräddarsmurfen har olika visioner. .</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 1. Del 9</episode-num>
   </programme>
-  <programme start="20220401220600 +0200" stop="20220401222800 +0200" channel="Nickelodeon.se">
+  <programme start="20220401220400 +0200" stop="20220401222500 +0200" channel="Nickelodeon.se">
     <title lang="sv">Danger force</title>
     <desc lang="sv">Vänner på prov. Utan deras vetskap, utsätter Kapten Man gänget i Danger Force för olika tester för att se om han kan lita på dem. Testerna spårar ur och frågan vem som kan lita på vem ställs på sin spets.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 15</episode-num>
   </programme>
-  <programme start="20220401222800 +0200" stop="20220401224900 +0200" channel="Nickelodeon.se">
+  <programme start="20220401222500 +0200" stop="20220401224700 +0200" channel="Nickelodeon.se">
     <title lang="sv">Danger force</title>
     <desc lang="sv">Må bäste tvilling vinna. Kapten Man tvingar superhjältetvillingarna, Skriet och PutsVäck, att tävla om vem som kan fånga flest bovar, men de får bara använda sina egna metoder för brottsbekvämpning.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 17</episode-num>
   </programme>
-  <programme start="20220401224900 +0200" stop="20220401231100 +0200" channel="Nickelodeon.se">
+  <programme start="20220401224700 +0200" stop="20220401230900 +0200" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Riddare på irrvägar. När den onde riddaren Ryker dyker upp i Swellview åker Kapten Man och Kid Danger ner till snabbmatsrestaurangen Hamburgerslottet för att stoppa honom. Men Ryker lyckas lura våra hjältar att hjälpa honom istället.?</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 5. Del 9</episode-num>
   </programme>
-  <programme start="20220401231100 +0200" stop="20220401233300 +0200" channel="Nickelodeon.se">
+  <programme start="20220401230900 +0200" stop="20220401233100 +0200" channel="Nickelodeon.se">
     <title lang="sv">Henry Danger</title>
     <desc lang="sv">Armbruten och hånad. När Kid Danger bryter armen måste Henry och resten av gänget komma på ett sätt att dölja det för att skydda hans hemliga identitet!</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 5. Del 10</episode-num>
   </programme>
-  <programme start="20220401233300 +0200" stop="20220401235600 +0200" channel="Nickelodeon.se">
+  <programme start="20220401233100 +0200" stop="20220401235400 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">På Skolbänken Igen. Efter att ha återvänt till sin grundskola för att slutföra en hjälte-examen, inser Phoebe och Max att det inte är det lättaste att klara femteklassens prov när instruktören är en tidigare klasskamrat som Max plågade när de var yngre.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 3. Del 20</episode-num>
   </programme>
-  <programme start="20220401235600 +0200" stop="20220402001800 +0200" channel="Nickelodeon.se">
+  <programme start="20220401235400 +0200" stop="20220402001600 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Thunderman</title>
     <desc lang="sv">Driva Runt. Trots att han lovat sin flickvän att sluta driva med folk gör Max ett episkt bus som hans vän får skulden för. Eftersom skolans rektor tänker relegera kompisen måste Max fixa situationen utan att avslöja att det var han som var skyldig.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 3. Del 21</episode-num>
   </programme>
-  <programme start="20220402001800 +0200" stop="20220402004000 +0200" channel="Nickelodeon.se">
+  <programme start="20220402001600 +0200" stop="20220402003800 +0200" channel="Nickelodeon.se">
     <title lang="sv">Lön för mödan</title>
     <desc lang="sv">Kärlekssensei. Fisher vänder sig till 'kärlekssensein' Jaget för att få hjälp med att fixa en dejt med Lex. När Jagets avancerade plan får Lex hund att springa bort, måste Fisher hjälpa Lex att hitta honom utan att hon upptäcker sanningen bakom försvinnandet.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 23</episode-num>
   </programme>
-  <programme start="20220402004000 +0200" stop="20220402010300 +0200" channel="Nickelodeon.se">
+  <programme start="20220402003800 +0200" stop="20220402010100 +0200" channel="Nickelodeon.se">
     <title lang="sv">iCarly</title>
     <desc lang="sv">iNTE uthärdligt. Freddies mamma upptäcker Sams och Freddies relation efter att Gibby, nu föremål för Sams hämnd, gjort upp planer för att splittra dem. Kommer Carly att kämpa för Sam och Freddie, eller hjälpa Gibby att få dem att göra slut?</desc>
     <date>2011</date>
     <episode-num system="onscreen">Säsong 4. Del 3</episode-num>
   </programme>
-  <programme start="20220402010300 +0200" stop="20220402012500 +0200" channel="Nickelodeon.se">
+  <programme start="20220402010100 +0200" stop="20220402012200 +0200" channel="Nickelodeon.se">
     <title lang="sv">Sam &amp; Cat</title>
     <desc lang="sv">#Barnvaktskriget. När Sam och Cat sitter barnvakt åt ett liten kille som plötsligt utbrister, 'Du är den bästa barnvakten jag någonsin haft', börjar tjejerna tjafsa om vem av dem han egentligen menar. De börjar tävla om vem som kan bli mest omtyckt av nya kunder.</desc>
     <date>2013</date>
     <episode-num system="onscreen">Säsong 1. Del 5</episode-num>
   </programme>
-  <programme start="20220402012500 +0200" stop="20220402014700 +0200" channel="Nickelodeon.se">
+  <programme start="20220402012200 +0200" stop="20220402014400 +0200" channel="Nickelodeon.se">
     <title lang="sv">Lugn i stormen</title>
     <desc lang="sv">Storstadspuls / Dubbelt lurigt. Lori och Lincoln besöker storstaden. Lori gör sitt bästa för att passa in, medan Lincoln inser att Ronnie Anne har förändrats. // Familjens hyr in ett gäng dubbelgångare för att slippa undan Luans första april-skämt.</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 3. Del 5</episode-num>
   </programme>
-  <programme start="20220402014700 +0200" stop="20220402020800 +0200" channel="Nickelodeon.se">
+  <programme start="20220402014400 +0200" stop="20220402020600 +0200" channel="Nickelodeon.se">
     <title lang="sv">Lugn i stormen</title>
     <desc lang="sv">En sportslig chans / Röriga drömmar. Lynn vill desperat vinna den stora baskettävlingen, men laget hon får spela med visar sig vara uruselt. // Mamma och pappa är trötta på att behöva stå i kö till badrummet på morgonen, så de bestämmer sig för att bygga ett hemlig badrum.</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 3. Del 6</episode-num>
   </programme>
-  <programme start="20220402020800 +0200" stop="20220402023000 +0200" channel="Nickelodeon.se">
+  <programme start="20220402020600 +0200" stop="20220402022800 +0200" channel="Nickelodeon.se">
     <title lang="sv">Lugn i stormen</title>
     <desc lang="sv">En skön historia / Pappaprövning. Lola ska ställa upp i en regional skönhetstävling och oroar sig för att förlora för första gången. // Pappa ber herr Knot att vakta Lily medan han går på konsert, men det dröjer inte länge förrän saker börjar gå snett.</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 3. Del 12</episode-num>
   </programme>
-  <programme start="20220402023000 +0200" stop="20220402025200 +0200" channel="Nickelodeon.se">
+  <programme start="20220402022800 +0200" stop="20220402024900 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Casagrande</title>
     <desc lang="sv">Gratis leksaker / Konstig konst. Carls kärlek till leksaker slungar honom in i en superkarriär som leksaksrecensent. // Fridas konst får dåliga recensioner och barnen försöker anordna en ny auktion för att få henne på bättre humör.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 2. Del 1</episode-num>
   </programme>
-  <programme start="20220402025200 +0200" stop="20220402031300 +0200" channel="Nickelodeon.se">
+  <programme start="20220402024900 +0200" stop="20220402031100 +0200" channel="Nickelodeon.se">
     <title lang="sv">Familjen Casagrande</title>
     <desc lang="sv">Befjädrad hämnare / Natt på kyrkogården. En hemsökt kyckling plågar familjen Casagrande - men är han bara ute efter Sergio?. // Barnen försöker slå rekord i vem som vågar stanna längst på kyrkogården när det blir mörkt!</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 2. Del 2</episode-num>
   </programme>
-  <programme start="20220402031300 +0200" stop="20220402033600 +0200" channel="Nickelodeon.se">
+  <programme start="20220402031100 +0200" stop="20220402033300 +0200" channel="Nickelodeon.se">
     <title lang="sv">School of Rock</title>
     <desc lang="sv">Pengar (Det Vill Jag Ha). När bandet snabbt slösar bort de pengar de tjänat ihop till den stora bandstridens anmälningsavgift, måste de med musikens hjälp försöka att tjäna ihop pengarna igen.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 1. Del 9</episode-num>
   </programme>
-  <programme start="20220402033600 +0200" stop="20220402035800 +0200" channel="Nickelodeon.se">
+  <programme start="20220402033300 +0200" stop="20220402035400 +0200" channel="Nickelodeon.se">
     <title lang="sv">School of Rock</title>
     <desc lang="sv">Freddy Slåss för Sin Rätt att Festa. Freddy jobbar hårt på att han och Zack ska bli inbjudna till en exklusiv överklass-fest men upptäcker att inbjudan bara gäller honom själv. Han tvingas ta ett svårt beslut, ska han välja den nya gruppen eller hans riktiga vänner i bandet.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 1. Del 10</episode-num>
   </programme>
-  <programme start="20220402035800 +0200" stop="20220402042000 +0200" channel="Nickelodeon.se">
+  <programme start="20220402035400 +0200" stop="20220402041600 +0200" channel="Nickelodeon.se">
     <title lang="sv">Overlord och familjen Underwood</title>
     <desc lang="sv">I snårskogen. Jim ser fram emot att ta familjen på deras årliga campingtur men när Overlord våldgästar dom, blir familjen frestade av hans manicker och mojänger. RO-FL får en skönt ledig dag och bestämmer sig för att släppa loss i Underwoods hem.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 1. Del 5</episode-num>
   </programme>
-  <programme start="20220402042000 +0200" stop="20220402043700 +0200" channel="Nickelodeon.se">
+  <programme start="20220402041600 +0200" stop="20220402043800 +0200" channel="Nickelodeon.se">
     <title lang="sv">Nicky, Ricky, Dicky &amp; Dawn</title>
     <desc lang="sv">Jag ställer upp!. Dawn kommer med i skolans fotbollslag, men när hon förstår att hon förväntas driva med Nicky måste hon bestämma sig för vems sida hon står på. Ricky hjälper Dicky att slippa ett prov, men inte utan konsekvenser.</desc>
     <date>2014</date>
     <episode-num system="onscreen">Säsong 1. Del 9</episode-num>
   </programme>
-  <programme start="20220402043700 +0200" stop="20220402050000 +0200" channel="Nickelodeon.se">
+  <programme start="20220402043800 +0200" stop="20220402050000 +0200" channel="Nickelodeon.se">
     <title lang="sv">Nicky, Ricky, Dicky &amp; Dawn</title>
     <desc lang="sv">Vem är den skyldige?. Fyrlingarnas resa till vattenland blir inställd när deras föräldrar upptäcker att någon har glömt att spola i toaletten. igene. För att rädda resan samarbetar barnen i en kamp mot klockan för att avslöja vem som är den skyldigeg.</desc>
     <date>2014</date>
@@ -15346,19 +15375,19 @@
     <title lang="sv">Cykel</title>
     <desc lang="sv">Cholet-Pays de la Loire, Herrar. Cykel Franska cupen Cholet-Pays de la Loire. Cholet-Pays de la Loire, Herrar. ,.</desc>
   </programme>
-  <programme start="20220401125000 +0200" stop="20220401144600 +0200" channel="Eurosport1.se">
+  <programme start="20220401125000 +0200" stop="20220401143900 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 7 Herrar. Katalonien Runt. Volta Ciclista a Catalunya avgörs över sju etapper och drygt 100 mil. ,.</desc>
   </programme>
-  <programme start="20220401144600 +0200" stop="20220401151500 +0200" channel="Eurosport1.se">
+  <programme start="20220401143900 +0200" stop="20220401150800 +0200" channel="Eurosport1.se">
     <title lang="sv">Ridsport</title>
     <desc lang="sv">Paris Hopp. Saut Hermès. Paris, Frankrike. ,.</desc>
   </programme>
-  <programme start="20220401151500 +0200" stop="20220401165800 +0200" channel="Eurosport1.se">
+  <programme start="20220401150800 +0200" stop="20220401165100 +0200" channel="Eurosport1.se">
     <title lang="sv">Ridsport</title>
     <desc lang="sv">Paris Hopp. Saut Hermès. Paris, Frankrike. ,.</desc>
   </programme>
-  <programme start="20220401165800 +0200" stop="20220401190000 +0200" channel="Eurosport1.se">
+  <programme start="20220401165100 +0200" stop="20220401190000 +0200" channel="Eurosport1.se">
     <title lang="sv">Ridsport</title>
     <desc lang="sv">Paris Hopp. Saut Hermès. Paris, Frankrike. ,.</desc>
   </programme>
@@ -15430,11 +15459,11 @@
     <title lang="sv">Cykel</title>
     <desc lang="sv">Cykel Pro Series Grand Prix Miguel Induráin. Cykel Pro Series Grand Prix Miguel Induráin. Cykel Pro Series Grand Prix Miguel Induráin.</desc>
   </programme>
-  <programme start="20220402174500 +0200" stop="20220402202000 +0200" channel="Eurosport1.se">
+  <programme start="20220402174500 +0200" stop="20220402200300 +0200" channel="Eurosport1.se">
     <title lang="sv">Futsal</title>
     <desc lang="sv">Final, herrar. Örebro SKIFK Uddevalla. Örebro SK - IFK Uddevalla. Final Herrar.</desc>
   </programme>
-  <programme start="20220402202000 +0200" stop="20220403000000 +0200" channel="Eurosport1.se">
+  <programme start="20220402200300 +0200" stop="20220403000800 +0200" channel="Eurosport1.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">1:a omgången. Dart: WDF VM. 1:a omgången.</desc>
   </programme>
@@ -15458,63 +15487,63 @@
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Lombardiet Lopp 2 MX2. VM. Lombardiet. ,.</desc>
   </programme>
-  <programme start="20220401060000 +0200" stop="20220401080400 +0200" channel="Eurosport2.se">
+  <programme start="20220401060000 +0200" stop="20220401080500 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 7 Herrar. Katalonien Runt. Volta Ciclista a Catalunya avgörs över sju etapper och drygt 100 mil. ,.</desc>
   </programme>
-  <programme start="20220401080400 +0200" stop="20220401110400 +0200" channel="Eurosport2.se">
+  <programme start="20220401080500 +0200" stop="20220401110500 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">1000 Miles of Sebring Loppet. Endurance Car Racing: VM. 1000 Miles of Sebring Loppet. ,.</desc>
   </programme>
-  <programme start="20220401110400 +0200" stop="20220401125500 +0200" channel="Eurosport2.se">
+  <programme start="20220401110500 +0200" stop="20220401125500 +0200" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Semifinal. Welsh Open. Cardiff, Storbritannien. ,.</desc>
   </programme>
-  <programme start="20220401125500 +0200" stop="20220401144900 +0200" channel="Eurosport2.se">
+  <programme start="20220401125500 +0200" stop="20220401145000 +0200" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Final. Welsh Open. Cardiff, Storbritannien. ,.</desc>
   </programme>
-  <programme start="20220401144900 +0200" stop="20220401152100 +0200" channel="Eurosport2.se">
+  <programme start="20220401145000 +0200" stop="20220401152200 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Challenge Mallorca Herrar. Cykel Challenge Mallorca. Challenge Mallorca Herrar. ,.</desc>
   </programme>
-  <programme start="20220401152100 +0200" stop="20220401170600 +0200" channel="Eurosport2.se">
+  <programme start="20220401152200 +0200" stop="20220401170700 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 5 Herrar. World Tour - Baskien runt. Etapp 5 Herrar. ,.</desc>
   </programme>
-  <programme start="20220401170600 +0200" stop="20220401180400 +0200" channel="Eurosport2.se">
+  <programme start="20220401170700 +0200" stop="20220401180500 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Herrar. World Tour - Gent-Wevelgem. Herrar. ,.</desc>
   </programme>
-  <programme start="20220401180400 +0200" stop="20220401200300 +0200" channel="Eurosport2.se">
+  <programme start="20220401180500 +0200" stop="20220401200300 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 7 Herrar. Katalonien Runt. Volta Ciclista a Catalunya avgörs över sju etapper och drygt 100 mil. ,.</desc>
   </programme>
-  <programme start="20220401200300 +0200" stop="20220401220300 +0200" channel="Eurosport2.se">
+  <programme start="20220401200300 +0200" stop="20220401220000 +0200" channel="Eurosport2.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">Valero Texas Open Dag 1. PGA TOUR - Texas Open. Valero Texas Open Dag 1. ,.</desc>
   </programme>
-  <programme start="20220401220300 +0200" stop="20220402010200 +0200" channel="Eurosport2.se">
+  <programme start="20220401220000 +0200" stop="20220402005900 +0200" channel="Eurosport2.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">Valero Texas Open Dag 2. PGA TOUR - Texas Open. Valero Texas Open Dag 2.</desc>
   </programme>
-  <programme start="20220402010200 +0200" stop="20220402020700 +0200" channel="Eurosport2.se">
+  <programme start="20220402005900 +0200" stop="20220402020500 +0200" channel="Eurosport2.se">
     <title lang="sv">Ridsport</title>
     <desc lang="sv">Coapexpan Hopp. FEI Nations Cup. Coapexpan. ,.</desc>
   </programme>
-  <programme start="20220402020700 +0200" stop="20220402031300 +0200" channel="Eurosport2.se">
+  <programme start="20220402020500 +0200" stop="20220402031100 +0200" channel="Eurosport2.se">
     <title lang="sv">Endurance Car Racing, VM</title>
     <desc lang="sv">1000 Miles of Sebring Sammanfattning. ,.</desc>
   </programme>
-  <programme start="20220402031300 +0200" stop="20220402040200 +0200" channel="Eurosport2.se">
+  <programme start="20220402031100 +0200" stop="20220402040000 +0200" channel="Eurosport2.se">
     <title lang="sv">Fäktning</title>
     <desc lang="sv">Budapest. Fäktning Grand Prix. Budapest. ,.</desc>
   </programme>
-  <programme start="20220402040200 +0200" stop="20220402053000 +0200" channel="Eurosport2.se">
+  <programme start="20220402040000 +0200" stop="20220402052700 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 5 Herrar. World Tour - Baskien runt. Etapp 5 Herrar. ,.</desc>
   </programme>
-  <programme start="20220402053000 +0200" stop="20220402060000 +0200" channel="Eurosport2.se">
+  <programme start="20220402052700 +0200" stop="20220402060000 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Cycling show Cykel. ,.</desc>
   </programme>
@@ -15542,21 +15571,25 @@
     <title lang="sv">Snooker</title>
     <desc lang="sv">Final London Masters. London Masters. Final London Masters. ,.</desc>
   </programme>
-  <programme start="20220402120600 +0200" stop="20220402140000 +0200" channel="Eurosport2.se">
+  <programme start="20220402120600 +0200" stop="20220402140300 +0200" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Final London Masters. London Masters. Final London Masters. ,.</desc>
   </programme>
-  <programme start="20220402140000 +0200" stop="20220402175800 +0200" channel="Eurosport2.se">
+  <programme start="20220402140300 +0200" stop="20220402175900 +0200" channel="Eurosport2.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">1:a omgången. Dart: WDF VM. 1:a omgången.</desc>
   </programme>
-  <programme start="20220402175800 +0200" stop="20220402190000 +0200" channel="Eurosport2.se">
+  <programme start="20220402175900 +0200" stop="20220402190300 +0200" channel="Eurosport2.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">Valero Texas Open Dag 2. PGA TOUR - Texas Open. Valero Texas Open Dag 2. ,.</desc>
   </programme>
-  <programme start="20220402190000 +0200" stop="20220403000500 +0200" channel="Eurosport2.se">
+  <programme start="20220402190300 +0200" stop="20220402235800 +0200" channel="Eurosport2.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">Valero Texas Open Dag 3. PGA TOUR - Texas Open. Valero Texas Open Dag 3.</desc>
+  </programme>
+  <programme start="20220402235800 +0200" stop="20220403015800 +0200" channel="Eurosport2.se">
+    <title lang="sv">Cykel</title>
+    <desc lang="sv">Cykel Pro Series Grand Prix Miguel Induráin. Cykel Pro Series Grand Prix Miguel Induráin. Cykel Pro Series Grand Prix Miguel Induráin. ,.</desc>
   </programme>
   <programme start="20220401010000 +0200" stop="20220401130000 +0200" channel="ViasatSport.se">
     <title lang="sv">Sändningsuppehåll</title>
