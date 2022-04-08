@@ -239,70 +239,87 @@
   </channel>
   <channel id="NBATV.us">
     <display-name lang="en">NBA TV USA</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbatv.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TNT.us">
     <display-name lang="en">TNT - Eastern Feed</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tnt-16.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="ESPN.us">
     <display-name lang="en">ESPN</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/espn.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="ESPN2.us">
     <display-name lang="en">ESPN 2</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/espn2.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="Hallmark.us">
     <display-name lang="en">Hallmark - Eastern Feed</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/hallmark.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN1.ca">
     <display-name lang="en">TSN1 HD</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN2.ca">
     <display-name lang="en">TSN2 HD</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN3.ca">
     <display-name lang="en">TSN3 HD</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN4.ca">
     <display-name lang="en">TSN4 HD</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN5.ca">
     <display-name lang="en">TSN5 HD</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="FoxSports1.us">
     <display-name lang="en">Fox Sports 1</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/fs1.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="FoxSports2.us">
     <display-name lang="en">Fox Sports 2</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/foxsports2.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="NBCSportsBoston.us">
     <display-name lang="en">NBC Sports Boston</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbc_sports_boston.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="HBO.us">
     <display-name lang="en">HBO East US</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/hbo.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="HBO2.us">
     <display-name lang="en">HBO 2 East US</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/hbo2.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="Syfy.us">
     <display-name lang="en">Syfy US</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/syfy.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="ABCWJLA.us">
     <display-name lang="en">ABC WJLA Washington US</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/abc.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <programme start="20220408000000 +0300" stop="20220408020000 +0300" channel="ANT1.gr">
@@ -15485,71 +15502,67 @@
     <title lang="sv">Alpint</title>
     <desc lang="sv">2:a åket Slalom Herrar. Världscupen. Flachau. ,.</desc>
   </programme>
-  <programme start="20220408081100 +0200" stop="20220408090800 +0200" channel="Eurosport1.se">
+  <programme start="20220408081100 +0200" stop="20220408090900 +0200" channel="Eurosport1.se">
     <title lang="sv">Skidskytte</title>
     <desc lang="sv">Sprint Damer. Världscupen. Kontiolahti. ,.</desc>
   </programme>
-  <programme start="20220408090800 +0200" stop="20220408100700 +0200" channel="Eurosport1.se">
+  <programme start="20220408090900 +0200" stop="20220408100800 +0200" channel="Eurosport1.se">
     <title lang="sv">Skidskytte</title>
     <desc lang="sv">Sprint Herrar. Världscupen. Kontiolahti. ,.</desc>
   </programme>
-  <programme start="20220408100700 +0200" stop="20220408111200 +0200" channel="Eurosport1.se">
+  <programme start="20220408100800 +0200" stop="20220408111300 +0200" channel="Eurosport1.se">
     <title lang="sv">Friåkning World Tour Fieberbrunn</title>
     <desc lang="sv">Fieberbrunn. Friåkning: World Tour. Fieberbrunn. ,.</desc>
   </programme>
-  <programme start="20220408111200 +0200" stop="20220408130700 +0200" channel="Eurosport1.se">
+  <programme start="20220408111300 +0200" stop="20220408130800 +0200" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Final Turkish Masters. Turkish Masters. Final Turkish Masters. ,.</desc>
   </programme>
-  <programme start="20220408130700 +0200" stop="20220408140300 +0200" channel="Eurosport1.se">
+  <programme start="20220408130800 +0200" stop="20220408140500 +0200" channel="Eurosport1.se">
     <title lang="sv">Friidrott</title>
     <desc lang="sv">Paris Maraton. Friidrott Paris. Paris Maraton. ,.</desc>
   </programme>
-  <programme start="20220408140300 +0200" stop="20220408143300 +0200" channel="Eurosport1.se">
+  <programme start="20220408140500 +0200" stop="20220408143500 +0200" channel="Eurosport1.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">Golf PGA-touren. ,.</desc>
   </programme>
-  <programme start="20220408143300 +0200" stop="20220408153300 +0200" channel="Eurosport1.se">
+  <programme start="20220408143500 +0200" stop="20220408153300 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 4 Herrar. World Tour - Baskien runt. Etapp 4 Herrar. ,.</desc>
   </programme>
-  <programme start="20220408153300 +0200" stop="20220408172900 +0200" channel="Eurosport1.se">
+  <programme start="20220408153300 +0200" stop="20220408173300 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 5 Herrar. World Tour - Baskien runt. Etapp 5 Herrar.</desc>
   </programme>
-  <programme start="20220408172900 +0200" stop="20220408180100 +0200" channel="Eurosport1.se">
-    <title lang="sv">Teqball uppvisning</title>
-    <desc lang="sv">inga Detaljer.</desc>
+  <programme start="20220408173300 +0200" stop="20220408182900 +0200" channel="Eurosport1.se">
+    <title lang="sv">Sport generellt</title>
+    <desc lang="sv">Dart.</desc>
   </programme>
-  <programme start="20220408180100 +0200" stop="20220408185900 +0200" channel="Eurosport1.se">
-    <title lang="sv">Cykel</title>
-    <desc lang="sv">Herrar. World Tour - Multiplex. Herrar. ,.</desc>
-  </programme>
-  <programme start="20220408185900 +0200" stop="20220408193100 +0200" channel="Eurosport1.se">
+  <programme start="20220408182900 +0200" stop="20220408191800 +0200" channel="Eurosport1.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Lombardiet Lopp 1 MXGP. VM. Lombardiet. ,.</desc>
   </programme>
-  <programme start="20220408193100 +0200" stop="20220408200300 +0200" channel="Eurosport1.se">
+  <programme start="20220408191800 +0200" stop="20220408200300 +0200" channel="Eurosport1.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Lombardiet Lopp 2 MXGP. VM. Lombardiet. ,.</desc>
   </programme>
-  <programme start="20220408200300 +0200" stop="20220409001500 +0200" channel="Eurosport1.se">
+  <programme start="20220408200300 +0200" stop="20220409003000 +0200" channel="Eurosport1.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Kvartsfinal. Dart: WDF VM. Kvartsfinal.</desc>
   </programme>
-  <programme start="20220409001500 +0200" stop="20220409020900 +0200" channel="Eurosport1.se">
+  <programme start="20220409003000 +0200" stop="20220409022400 +0200" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">Final Turkish Masters. Turkish Masters. Final Turkish Masters. ,.</desc>
   </programme>
-  <programme start="20220409020900 +0200" stop="20220409035700 +0200" channel="Eurosport1.se">
+  <programme start="20220409022400 +0200" stop="20220409040900 +0200" channel="Eurosport1.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">Dag 3. PGA TOUR - Valspar Championship. Dag 3. ,.</desc>
   </programme>
-  <programme start="20220409035700 +0200" stop="20220409045500 +0200" channel="Eurosport1.se">
+  <programme start="20220409040900 +0200" stop="20220409050700 +0200" channel="Eurosport1.se">
     <title lang="sv">Ridsport</title>
     <desc lang="sv">Coapexpan Hopp. FEI Nations Cup. Coapexpan. ,.</desc>
   </programme>
-  <programme start="20220409045500 +0200" stop="20220409060000 +0200" channel="Eurosport1.se">
+  <programme start="20220409050700 +0200" stop="20220409060000 +0200" channel="Eurosport1.se">
     <title lang="sv">Ridsport</title>
     <desc lang="sv">Paris Hopp. Saut Hermès. Paris, Frankrike. ,.</desc>
   </programme>
@@ -15557,31 +15570,31 @@
     <title lang="sv">Teqball uppvisning</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220409063100 +0200" stop="20220409072800 +0200" channel="Eurosport1.se">
+  <programme start="20220409063100 +0200" stop="20220409072700 +0200" channel="Eurosport1.se">
     <title lang="sv">Fäktning</title>
     <desc lang="sv">Doha. Fäktning Grand Prix. Doha. ,.</desc>
   </programme>
-  <programme start="20220409072800 +0200" stop="20220409092100 +0200" channel="Eurosport1.se">
+  <programme start="20220409072700 +0200" stop="20220409092100 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Herrar. World Tour - Flandern runt. Herrar. ,.</desc>
   </programme>
-  <programme start="20220409092100 +0200" stop="20220409102500 +0200" channel="Eurosport1.se">
+  <programme start="20220409092100 +0200" stop="20220409102400 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Damer. Cykel World Tour Brygge-De Panne. Damer. ,.</desc>
   </programme>
-  <programme start="20220409102500 +0200" stop="20220409105500 +0200" channel="Eurosport1.se">
+  <programme start="20220409102400 +0200" stop="20220409105700 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Cycling show Cykel. ,.</desc>
   </programme>
-  <programme start="20220409105500 +0200" stop="20220409122500 +0200" channel="Eurosport1.se">
+  <programme start="20220409105700 +0200" stop="20220409122700 +0200" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">European Series, Gibraltar Open, Final. European Series. European Series, Gibraltar Open, Final. ,.</desc>
   </programme>
-  <programme start="20220409122500 +0200" stop="20220409125500 +0200" channel="Eurosport1.se">
+  <programme start="20220409122700 +0200" stop="20220409125800 +0200" channel="Eurosport1.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">Golf PGA-touren. ,.</desc>
   </programme>
-  <programme start="20220409125500 +0200" stop="20220409140300 +0200" channel="Eurosport1.se">
+  <programme start="20220409125800 +0200" stop="20220409140300 +0200" channel="Eurosport1.se">
     <title lang="sv">Formel E, VM Mexico City</title>
     <desc lang="sv">Mexico City Sammanfattning. ,.</desc>
   </programme>
@@ -15593,11 +15606,19 @@
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Lopp 1. Formel E, VM Rom. Lopp 1.</desc>
   </programme>
-  <programme start="20220409160300 +0200" stop="20220409200300 +0200" channel="Eurosport1.se">
+  <programme start="20220409160300 +0200" stop="20220409173000 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 6 Herrar. World Tour - Baskien runt. Etapp 6 Herrar.</desc>
   </programme>
-  <programme start="20220409200300 +0200" stop="20220410000300 +0200" channel="Eurosport1.se">
+  <programme start="20220409173000 +0200" stop="20220409175800 +0200" channel="Eurosport1.se">
+    <title lang="sv">Sport generellt</title>
+    <desc lang="sv">Teqball. ,.</desc>
+  </programme>
+  <programme start="20220409175800 +0200" stop="20220409200300 +0200" channel="Eurosport1.se">
+    <title lang="sv">Sport generellt</title>
+    <desc lang="sv">Final Boulder Damer. Klättring: Världscupen. Meiringen.</desc>
+  </programme>
+  <programme start="20220409200300 +0200" stop="20220410000000 +0200" channel="Eurosport1.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Semifinal. Dart: WDF VM. Semifinal.</desc>
   </programme>
@@ -15617,41 +15638,41 @@
     <title lang="sv">Golf</title>
     <desc lang="sv">Valero Texas Open Dag 4. PGA TOUR - Valero Texas Open. Valero Texas Open Dag 4. ,.</desc>
   </programme>
-  <programme start="20220408060000 +0200" stop="20220408063500 +0200" channel="Eurosport2.se">
+  <programme start="20220408060000 +0200" stop="20220408063000 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Argentina Lopp 1 MX2. VM. Neuquen, Argentina. ,.</desc>
   </programme>
-  <programme start="20220408063500 +0200" stop="20220408070400 +0200" channel="Eurosport2.se">
+  <programme start="20220408063000 +0200" stop="20220408070000 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Argentina Lopp 2 MX2. VM. Neuquen, Argentina. ,.</desc>
   </programme>
-  <programme start="20220408070400 +0200" stop="20220408080800 +0200" channel="Eurosport2.se">
+  <programme start="20220408070000 +0200" stop="20220408080400 +0200" channel="Eurosport2.se">
     <title lang="sv">Endurance Car Racing, VM</title>
     <desc lang="sv">1000 Miles of Sebring Sammanfattning. ,.</desc>
   </programme>
-  <programme start="20220408080800 +0200" stop="20220408090400 +0200" channel="Eurosport2.se">
+  <programme start="20220408080400 +0200" stop="20220408100700 +0200" channel="Eurosport2.se">
     <title lang="sv">Friidrott</title>
     <desc lang="sv">Paris Maraton. Friidrott Paris. Paris Maraton. ,.</desc>
   </programme>
-  <programme start="20220408090400 +0200" stop="20220408100800 +0200" channel="Eurosport2.se">
-    <title lang="sv">Offroadrally Extreme E</title>
-    <desc lang="sv">Saudiarabien Sammanfattning. ,.</desc>
-  </programme>
-  <programme start="20220408100800 +0200" stop="20220408111200 +0200" channel="Eurosport2.se">
-    <title lang="sv">Ridsport</title>
-    <desc lang="sv">Coapexpan Hopp. FEI Nations Cup. Coapexpan. ,.</desc>
-  </programme>
-  <programme start="20220408111200 +0200" stop="20220408130300 +0200" channel="Eurosport2.se">
+  <programme start="20220408100700 +0200" stop="20220408110300 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Damer. World Tour - Flandern runt. Damer. ,.</desc>
   </programme>
-  <programme start="20220408130300 +0200" stop="20220408140300 +0200" channel="Eurosport2.se">
+  <programme start="20220408110300 +0200" stop="20220408122900 +0200" channel="Eurosport2.se">
+    <title lang="sv">Curling</title>
+    <desc lang="sv">inga Detaljer.</desc>
+  </programme>
+  <programme start="20220408122900 +0200" stop="20220408140300 +0200" channel="Eurosport2.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Frimley Green 3:a omgången. Dart. Frimley Green 3:a omgången. ,.</desc>
   </programme>
-  <programme start="20220408140300 +0200" stop="20220408180300 +0200" channel="Eurosport2.se">
+  <programme start="20220408140300 +0200" stop="20220408173200 +0200" channel="Eurosport2.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Kvartsfinal. Dart. Kvartsfinal.</desc>
+  </programme>
+  <programme start="20220408173200 +0200" stop="20220408180300 +0200" channel="Eurosport2.se">
+    <title lang="sv">Motorsport</title>
+    <desc lang="sv">Motocross. ,.</desc>
   </programme>
   <programme start="20220408180300 +0200" stop="20220408210000 +0200" channel="Eurosport2.se">
     <title lang="sv">Curling</title>
@@ -15741,23 +15762,23 @@
     <title lang="sv">Friidrott</title>
     <desc lang="sv">Paris Maraton. Friidrott Paris. Paris Maraton. ,.</desc>
   </programme>
-  <programme start="20220409170300 +0200" stop="20220409194000 +0200" channel="Eurosport2.se">
+  <programme start="20220409170300 +0200" stop="20220409193800 +0200" channel="Eurosport2.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Triathlon Super League Arena Games München.</desc>
   </programme>
-  <programme start="20220409194000 +0200" stop="20220409201100 +0200" channel="Eurosport2.se">
+  <programme start="20220409193800 +0200" stop="20220409200800 +0200" channel="Eurosport2.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">Golf PGA-touren. ,.</desc>
   </programme>
-  <programme start="20220409201100 +0200" stop="20220409211600 +0200" channel="Eurosport2.se">
+  <programme start="20220409200800 +0200" stop="20220409211300 +0200" channel="Eurosport2.se">
     <title lang="sv">Offroadrally Extreme E</title>
     <desc lang="sv">Saudiarabien Sammanfattning. ,.</desc>
   </programme>
-  <programme start="20220409211600 +0200" stop="20220409221600 +0200" channel="Eurosport2.se">
+  <programme start="20220409211300 +0200" stop="20220409221300 +0200" channel="Eurosport2.se">
     <title lang="sv">Curling</title>
     <desc lang="sv">Prince George Match om 3:e pris Damer. VM. Prince George. ,.</desc>
   </programme>
-  <programme start="20220409221600 +0200" stop="20220410000900 +0200" channel="Eurosport2.se">
+  <programme start="20220409221300 +0200" stop="20220410000700 +0200" channel="Eurosport2.se">
     <title lang="sv">Curling</title>
     <desc lang="sv">Prince George Final Damer. VM. Prince George. ,.</desc>
   </programme>
