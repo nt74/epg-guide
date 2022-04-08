@@ -239,87 +239,70 @@
   </channel>
   <channel id="NBATV.us">
     <display-name lang="en">NBA TV USA</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbatv.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TNT.us">
     <display-name lang="en">TNT - Eastern Feed</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tnt-16.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="ESPN.us">
     <display-name lang="en">ESPN</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/espn.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="ESPN2.us">
     <display-name lang="en">ESPN 2</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/espn2.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="Hallmark.us">
     <display-name lang="en">Hallmark - Eastern Feed</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/hallmark.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN1.ca">
     <display-name lang="en">TSN1 HD</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN2.ca">
     <display-name lang="en">TSN2 HD</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN3.ca">
     <display-name lang="en">TSN3 HD</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN4.ca">
     <display-name lang="en">TSN4 HD</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN5.ca">
     <display-name lang="en">TSN5 HD</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="FoxSports1.us">
     <display-name lang="en">Fox Sports 1</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/fs1.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="FoxSports2.us">
     <display-name lang="en">Fox Sports 2</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/foxsports2.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="NBCSportsBoston.us">
     <display-name lang="en">NBC Sports Boston</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbc_sports_boston.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="HBO.us">
     <display-name lang="en">HBO East US</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/hbo.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="HBO2.us">
     <display-name lang="en">HBO 2 East US</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/hbo2.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="Syfy.us">
     <display-name lang="en">Syfy US</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/syfy.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="ABCWJLA.us">
     <display-name lang="en">ABC WJLA Washington US</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/abc.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <programme start="20220408000000 +0300" stop="20220408020000 +0300" channel="ANT1.gr">
@@ -2184,14 +2167,14 @@
     <title lang="el">Δες &amp; Βρες (Ε)</title>
     <desc lang="el">Το νέο, διασκεδαστικό τηλεπαιχνίδι της ΕΡΤ, που παρουσιάζει ο Νίκος Κουρής, δεν θα τεστάρει μόνο τις γνώσεις και τη μνήμη μας, αλλά κυρίως την παρατηρητικότητα, την αυτοσυγκέντρωση και την ψυχραιμία μας.</desc>
   </programme>
-  <programme start="20220409050000 +0300" stop="20220409094500 +0300" channel="ERT1.gr">
+  <programme start="20220409050000 +0300" stop="20220409090000 +0300" channel="ERT1.gr">
     <title lang="el">Από τις Έξι...</title>
     <desc lang="el">Ο Δημήτρης Κοτταρίδης και ο Γιάννης Πιτταράς παρουσιάζουν όλη την τρέχουσα επικαιρότητα. Πολιτική, οικονομία, κοινωνία, διεθνείς εξελίξεις, αθλητισμός, χρηστικές ειδήσεις, κάθε τι που συμβαίνει στην Αθήνα, τη Θεσσαλονίκη και την Περιφέρεια.</desc>
   </programme>
-  <programme start="20220409094500 +0300" stop="20220409100000 +0300" channel="ERT1.gr">
+  <programme start="20220409090000 +0300" stop="20220409091500 +0300" channel="ERT1.gr">
     <title lang="el">Ειδήσεις - Αθλητικά - Καιρός</title>
   </programme>
-  <programme start="20220409100000 +0300" stop="20220409120000 +0300" channel="ERT1.gr">
+  <programme start="20220409091500 +0300" stop="20220409120000 +0300" channel="ERT1.gr">
     <title lang="el">Με Νέα Ματιά</title>
     <desc lang="el">Τα Σαββατοκύριακα η Αλεξάνδρα Καϋμένου και οι συνεργάτες της, μας λένε καλημέρα και 'Με νέα ματιά' παρατηρούν και σχολιάζουν ό,τι συμβαίνει και ό,τι μας αφορά.</desc>
   </programme>
@@ -2259,9 +2242,16 @@
     <title lang="el">Κεντρικό Δελτίο Ειδήσεων - Αθλητικά - Καιρός</title>
   </programme>
   <programme start="20220409220000 +0300" stop="20220409230000 +0300" channel="ERT1.gr">
-    <title lang="el">Δυνατά</title>
-    <desc lang="el">Ο Κωστής Μαραβέγιας και η μπάντα του, δημιουργούν μια ατμόσφαιρα γεμάτη θετική ενέργεια για να υποδεχθούν καλλιτέχνες με τους οποίους θα συζητήσουν, θα αποκαλύψουν και θα αποκαλυφθούν,θα τραγουδήσουν, θα χορέψουν, θα παίξουν.</desc>
-    <category lang="el">Μουσική εκπομπή</category>
+    <title lang="el">Ο Όρκος</title>
+    <desc lang="el">Επεισόδιο: Τρεις Μέρες Καλοσύνης. Επί τρεις συνεχόμενες μέρες η Ομάδα βγαίνει στο δρόμο παλεύοντας με το κρύο. Ο Γρηγόρης προσπαθεί να επικοινωνήσει με τον Ανδρέα Ζαφείρη για να μάθει για το πάρτι, από το οποίο εξαφανίστηκε η Μιράντα Αλυφαντή, αλλά πέφτει σε τοίχο.</desc>
+    <credits>
+      <director>Σπύρος Μιχαλόπουλος</director>
+      <actor>Γιάννης Στάνκογλου</actor>
+      <actor>Άννα Μαρία Παπαχαραλάμπους</actor>
+      <actor>Γιώργος Γάλλος</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="el">Κοινωνική</category>
   </programme>
   <programme start="20220409230000 +0300" stop="20220410000000 +0300" channel="ERT1.gr">
     <title lang="el">Ο Όρκος</title>
@@ -2474,9 +2464,15 @@
     </credits>
     <category lang="el">Εποχής</category>
   </programme>
-  <programme start="20220409070000 +0300" stop="20220409072000 +0300" channel="ERT2.gr">
+  <programme start="20220409070000 +0300" stop="20220409071000 +0300" channel="ERT2.gr">
     <title lang="el">Υδρόγειος Ε11 (Ε)</title>
     <desc lang="el">Επεισόδιο: Σιβηρία. Οι μαθητές της τούνδρας. Μέσα από τη συναρπαστική σειρά ντοκιμαντέρ, γνωρίζουμε τη ζωή, τις περιπέτειες και τα ενδιαφέροντα παιδιών και εφήβων από όλο τον κόσμο, αλλά και συναρπαστικές πληροφορίες για ζώα υπό προστασία, υπό εξαφάνιση ή που απλώς είναι υπέροχα. Παραγωγή: Γαλλία, Γερμανία.</desc>
+    <date>2016</date>
+    <category lang="el">Τηλεοπτική σειρά</category>
+  </programme>
+  <programme start="20220409071000 +0300" stop="20220409072000 +0300" channel="ERT2.gr">
+    <title lang="el">Υδρόγειος</title>
+    <desc lang="el">Επεισόδιο: Ιταλία - Οι Σκύλοι Ναυαγοσώστες της Λίμνης Γκάρντα. Μέσα από τη συναρπαστική σειρά ντοκιμαντέρ, γνωρίζουμε τη ζωή, τις περιπέτειες και τα ενδιαφέροντα παιδιών και εφήβων από όλο τον κόσμο, αλλά και συναρπαστικές πληροφορίες για ζώα υπό προστασία, υπό εξαφάνιση ή που απλώς είναι υπέροχα. Παραγωγή: Γαλλία, Γερμανία.</desc>
     <date>2016</date>
     <category lang="el">Τηλεοπτική σειρά</category>
   </programme>
@@ -2546,9 +2542,22 @@
     <date>1958</date>
     <category lang="el">Ταινία - Κωμωδία</category>
   </programme>
-  <programme start="20220409153000 +0300" stop="20220409170000 +0300" channel="ERT2.gr">
+  <programme start="20220409153000 +0300" stop="20220409161500 +0300" channel="ERT2.gr">
     <title lang="el">Το Μικρό Σπίτι στο Λιβάδι Ε18 (Ε)</title>
     <desc lang="el">Επεισόδιο: Η Πανούκλα. Μια λοιμώδης νόσος εξαπλώνεται στο ανυποψίαστο Γουόλνατ Γκρόουβ. Ο Τσαρλς Ίνγκαλς, ο γιατρός Μπέικερ και ο αιδεσιμότατος Άλντεν συνεργάζονται για να σώσουν την κοινότητα από την αρρώστια και το θάνατο.</desc>
+    <credits>
+      <director>Βίκτορ Φρεντς</director>
+      <actor>Μελίσα Γκίλμπερτ</actor>
+      <actor>Μάικλ Λάντον</actor>
+      <actor>Κάρεν Γκρασλ</actor>
+      <actor>Μελίσα Σου Άντερσον</actor>
+      <actor>Λίντσεϊ Γκρίνμπους</actor>
+    </credits>
+    <category lang="el">Οικογενειακή</category>
+  </programme>
+  <programme start="20220409161500 +0300" stop="20220409170000 +0300" channel="ERT2.gr">
+    <title lang="el">Το Μικρό Σπίτι στο Λιβάδι Ε19 (Ε)</title>
+    <desc lang="el">Επεισόδιο: Ο θαυματοποιός. Ένας περιπλανώμενος πωλητής καταφέρνει ν' απαλλάξει τον κύριο Χάνσον από έναν χρόνιο και 'ανίατο' πονοκέφαλο. Η κοινότητα πείθεται ότι το γιατροσόφι του Γουίλι Ο' Χάρα θεραπεύει πάσα νόσο και η άποψη αυτή ενισχύεται, καθώς οι μέρες περνούν.</desc>
     <credits>
       <director>Βίκτορ Φρεντς</director>
       <actor>Μελίσα Γκίλμπερτ</actor>
@@ -4267,8 +4276,8 @@
     <desc lang="el">Επεισόδιο: Red Bull Grand Prix of The Americas - Ελεύθερα Δοκιμαστικά 3. Περιγραφή: Δημήτρης Διατσίδης. Το Παγκόσμιο Πρωτάθλημα MotoGP 2022 φιλοξενεί 12 ομάδες από 6 κατασκευαστές, καθώς και 24 οδηγούς που θα λάβουν μέρος σε 21 Γκραν Πρι. Ο Γάλλος Φάμπιο Κουαρταρό, ως ο κάτοχος του τίτλου, θα προσπαθήσει να κρατήσει τα πρωτεία.</desc>
   </programme>
   <programme start="20220409185000 +0300" stop="20220409195000 +0300" channel="CosmoteSport8.gr">
-    <title lang="el">Moto3</title>
-    <desc lang="el">Επεισόδιο: Red Bull Grand Prix of The Americas - Ελεύθερα Δοκιμαστικά 3. Περιγραφή: Θανάσης Κελάφης. 30 αναβάτες από 15 ομάδες θα αναμετρηθούν για την πρωτιά. Η 11η έκδοση του παγκοσμίου πρωταθλήματος Moto3 περιλαμβάνει συνολικά 21 Γκραν Πρι, που θα διεξαχθούν από 6 Μαρτίου έως 6 Νοεμβρίου 2022.</desc>
+    <title lang="el">Moto3 2022 (Ζ)</title>
+    <desc lang="el">Red Bull Grand Prix of The Americas - Ελεύθερα Δοκιμαστικά 3. Περιγραφή: Θανάσης Κελάφης. 30 αναβάτες από 15 ομάδες θα αναμετρηθούν για την πρωτιά. Η 11η έκδοση του παγκοσμίου πρωταθλήματος Moto3 περιλαμβάνει συνολικά 21 Γκραν Πρι, που θα διεξαχθούν από 6 Μαρτίου έως 6 Νοεμβρίου 2022.</desc>
   </programme>
   <programme start="20220409195000 +0300" stop="20220409201000 +0300" channel="CosmoteSport8.gr">
     <title lang="el">COSMOTESport8HD</title>
@@ -6539,13 +6548,13 @@
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 30 av 130</episode-num>
   </programme>
-  <programme start="20220409113000 +0200" stop="20220409125500 +0200" channel="TV4.se">
+  <programme start="20220409113000 +0200" stop="20220409130000 +0200" channel="TV4.se">
     <title lang="sv">Masked singer Sverige</title>
     <desc lang="sv">Svensk musikunderhållning från 2022. Första omgångens masker är tillbaka och Spelmannen, Trollkarlen, Cyberninjan, Fru Kanin och Riddaren bjuder på nya spektakulära framträdanden. Gissningarna haglar från panelen och både Zlatan och tjuvrökning diskuteras flitigt. ,.</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2. Del 3 av 9</episode-num>
   </programme>
-  <programme start="20220409125500 +0200" stop="20220409140000 +0200" channel="TV4.se">
+  <programme start="20220409130000 +0200" stop="20220409140000 +0200" channel="TV4.se">
     <title lang="sv">Benjamin's</title>
     <desc lang="sv">Svensk underhållning från 2022. Benjamin bjuder på Fried Chicken Burger och de som får smaka är inga mindre än Moonica Mac, Klas Eriksson och Steffo Törnqvist. Dessutom lagar Steffo en överraskningsdessert och Icona Pop dyker upp och serverar hotshots. ,.</desc>
     <date>2022</date>
@@ -9268,13 +9277,13 @@
     <date>2019</date>
     <episode-num system="onscreen">Säsong 32. Del 4 av 8</episode-num>
   </programme>
-  <programme start="20220409220000 +0200" stop="20220409225500 +0200" channel="TV12.se">
+  <programme start="20220409220000 +0200" stop="20220409230000 +0200" channel="TV12.se">
     <title lang="sv">America's funniest home videos</title>
     <desc lang="sv">Amerikansk underhållning från 2015. Det bjuds på skrattfest i Americas' Funniest Homevideos. Massor av pinsamma stunder, komiska olyckor, gulliga djur och klumpiga barn utlovas. ,.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 26. Del 4 av 46</episode-num>
   </programme>
-  <programme start="20220409225500 +0200" stop="20220410015500 +0200" channel="TV12.se">
+  <programme start="20220409230000 +0200" stop="20220410020000 +0200" channel="TV12.se">
     <title lang="sv">I hennes majestäts hemliga tjänst</title>
     <desc lang="sv">Brittisk action från 1969. James Bond arbetar under täckmantel för att försöka ta reda på vad organisationen Spectres ledare, Ernst Stavros Blofeld, har i kikaren. Hans jakt tar honom till Schweiz där Blofeldt nyligen har startat en klinik. När Bonds chef, M, plockar bort honom från uppdraget tar han ledigt och forsätter undersökningarna på egen hand. Det hela går så långt att Bond är beredd att sluta på underrättelsetjänsten när de vill stoppa uppdraget.</desc>
     <credits>
