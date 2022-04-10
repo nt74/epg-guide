@@ -239,70 +239,87 @@
   </channel>
   <channel id="NBATV.us">
     <display-name lang="en">NBA TV USA</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbatv.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TNT.us">
     <display-name lang="en">TNT - Eastern Feed</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tnt-16.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="ESPN.us">
     <display-name lang="en">ESPN</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/espn.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="ESPN2.us">
     <display-name lang="en">ESPN 2</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/espn2.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="Hallmark.us">
     <display-name lang="en">Hallmark - Eastern Feed</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/hallmark.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN1.ca">
     <display-name lang="en">TSN1 HD</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN2.ca">
     <display-name lang="en">TSN2 HD</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN3.ca">
     <display-name lang="en">TSN3 HD</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN4.ca">
     <display-name lang="en">TSN4 HD</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN5.ca">
     <display-name lang="en">TSN5 HD</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="FoxSports1.us">
     <display-name lang="en">Fox Sports 1</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/fs1.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="FoxSports2.us">
     <display-name lang="en">Fox Sports 2</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/foxsports2.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="NBCSportsBoston.us">
     <display-name lang="en">NBC Sports Boston</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbc_sports_boston.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="HBO.us">
     <display-name lang="en">HBO East US</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/hbo.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="HBO2.us">
     <display-name lang="en">HBO 2 East US</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/hbo2.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="Syfy.us">
     <display-name lang="en">Syfy US</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/syfy.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="ABCWJLA.us">
     <display-name lang="en">ABC WJLA Washington US</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/abc.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <programme start="20220410003000 +0300" stop="20220410030000 +0300" channel="ANT1.gr">
