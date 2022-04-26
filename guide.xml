@@ -3,107 +3,107 @@
   <channel id="ANT1.gr">
     <display-name lang="el">Ant1</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/ant1.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="Star.gr">
     <display-name lang="el">Star</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/star.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="Alpha.gr">
     <display-name lang="el">Alpha</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/alpha.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="MakedoniaTV.gr">
     <display-name lang="el">Μακεδονία TV</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/makedonia.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="Skai.gr">
     <display-name lang="el">ΣΚΑΪ</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/skai.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="EpsilonTV.gr">
     <display-name lang="el">Open Beyond TV</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/opentv.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="ERT1.gr">
     <display-name lang="el">ΕΡΤ1</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/ert1.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="ERT2.gr">
     <display-name lang="el">ΕΡΤ2</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/ert2.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="ERT3.gr">
     <display-name lang="el">ΕΡΤ3</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/ert3.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="Mega.gr">
     <display-name lang="el">MEGA HD</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/MEGA-dig.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport1.gr">
     <display-name lang="el">COSMOTESport1HD</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/sport1-otetv-dig.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport2.gr">
     <display-name lang="el">COSMOTESport2HD</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/sport2-otetv-dig.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport3.gr">
     <display-name lang="el">COSMOTESport3HD</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/sport3-otetv-dig.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport4.gr">
     <display-name lang="el">COSMOTESport4HD</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-4-HD-dig.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport5.gr">
     <display-name lang="el">COSMOTESport5HD</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-5-HD-dig.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport6.gr">
     <display-name lang="el">COSMOTESport6HD</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-6-HD-dig.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport7.gr">
     <display-name lang="el">COSMOTESport7HD</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-7-HD-dig.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport8.gr">
     <display-name lang="el">COSMOTESport8HD</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-8-HD-dig.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteCinema1.gr">
     <display-name lang="el">COSMOTECinema1HD</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Cinema-1-HD-dig.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteCinema2.gr">
     <display-name lang="el">COSMOTECinema2HD</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Cinema-2-HD-dig.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteCinema3.gr">
     <display-name lang="el">COSMOTECinema3</display-name>
     <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/ote-cinema-dig.jpg" />
-    <url>http://www.tv.pathfinder.gr.E</url>
+    <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="SVT1.se">
     <display-name lang="sv">SVT1</display-name>
