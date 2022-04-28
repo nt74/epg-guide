@@ -239,87 +239,70 @@
   </channel>
   <channel id="NBATV.us">
     <display-name lang="en">NBA TV USA</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbatv.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TNT.us">
     <display-name lang="en">TNT - Eastern Feed</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tnt-16.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="ESPN.us">
     <display-name lang="en">ESPN</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/espn.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="ESPN2.us">
     <display-name lang="en">ESPN 2</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/espn2.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="Hallmark.us">
     <display-name lang="en">Hallmark - Eastern Feed</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/hallmark.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN1.ca">
     <display-name lang="en">TSN1 HD</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN2.ca">
     <display-name lang="en">TSN2 HD</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN3.ca">
     <display-name lang="en">TSN3 HD</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN4.ca">
     <display-name lang="en">TSN4 HD</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TSN5.ca">
     <display-name lang="en">TSN5 HD</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="FoxSports1.us">
     <display-name lang="en">Fox Sports 1</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/fs1.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="FoxSports2.us">
     <display-name lang="en">Fox Sports 2</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/foxsports2.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="NBCSportsBoston.us">
     <display-name lang="en">NBC Sports Boston</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbc_sports_boston.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="HBO.us">
     <display-name lang="en">HBO East US</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/hbo.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="HBO2.us">
     <display-name lang="en">HBO 2 East US</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/hbo2.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="Syfy.us">
     <display-name lang="en">Syfy US</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/syfy.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="ABCWJLA.us">
     <display-name lang="en">ABC WJLA Washington US</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/abc.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <programme start="20220428000000 +0300" stop="20220428020000 +0300" channel="ANT1.gr">
@@ -617,17 +600,8 @@
     </credits>
   </programme>
   <programme start="20220429231500 +0300" stop="20220430000000 +0300" channel="ANT1.gr">
-    <title lang="el">Γλυκός Πειρασμός (The Sweetest Thing)</title>
-    <desc lang="el">Η Κριστίνα λατρεύει το παιχνίδι του φλερτ, αλλά ακολουθεί πάντα έναν απαράβατο κανόνα: να μην ερωτεύεται... Μέχρι την στιγμή που γνωρίζει τον άνδρα των ονείρων της! (120') Παραγωγή: ΗΠΑ.</desc>
-    <credits>
-      <director>Ρότζερ Καμπλ</director>
-      <actor>Κάμερον Ντίαζ</actor>
-      <actor>Κριστίνα Απλγκέιτ</actor>
-      <actor>Σέλμα Μπλερ</actor>
-      <actor>Τόμας Τζέιν</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="el">Αισθηματική</category>
+    <title lang="el">Special Report</title>
+    <desc lang="el">Ο Τάσος Τέλλογλου, ο Αντώνης Φουρλής και η Μαρία Σαράφογλου ενώνουν τις δυνάμεις τους με τον έμπειρο δημοσιογράφο Γιάννη Παπαδόπουλο και αναλαμβάνουν μέσα από αποκαλυπτικά ρεπορτάζ, ειδικές αποστολές εντός και εκτός συνόρων, αποκλειστικές συνεντεύξεις και μαρτυρίες.</desc>
   </programme>
   <programme start="20220428020000 +0300" stop="20220428060000 +0300" channel="Star.gr">
     <title lang="el">Η Απίστευτη Ιστορία του Μπέντζαμιν Μπάτον (The Curious Case of Benjamin Button)</title>
@@ -2835,9 +2809,8 @@
     <title lang="el">Σύντομο Δελτίο Ειδήσεων</title>
   </programme>
   <programme start="20220429191500 +0300" stop="20220429210000 +0300" channel="ERT3.gr">
-    <title lang="el">Μπάσκετ: ΑΕΚ - Ολυμπιακός (Ζ)</title>
-    <desc lang="el">Κύπελλο Ελλάδας Ανδρών 2021-22. Β' Ημιτελικός. H 47η διοργάνωση Κυπέλλου Ελλάδας χαρακτηρίζεται σπό την επαναφορά του θεσμού του Φάιναλ Φορ μετά απο 18 χρόνια. Η τελική φάση διεξάγεται στο Ηράκλειο Κρήτης 18-20 Φεβρουαρίου 2022.</desc>
-    <category lang="el">Μπάσκετ</category>
+    <title lang="el">Χάντμπολ: ΑΕΚ - Ολυμπιακός (Ζ)</title>
+    <desc lang="el">Κύπελλο Ελλάδας Χάντμπολ Ανδρών. Final 4. Β' Ημιτελικός. Παρακολουθήστε τους αγώνες του Κυπέλλου Χάντμπολ Ανδρών.</desc>
   </programme>
   <programme start="20220429210000 +0300" stop="20220429220000 +0300" channel="ERT3.gr">
     <title lang="el">Στους Δρόμους του Νερού Κ6 Ε14 (Ε)</title>
@@ -3179,46 +3152,34 @@
     <desc lang="el">Hμιτελικός, 1ος αγώνας. Η 51η σεζόν της δεύτερης σε δυναμικότητα ευρωπαϊκής διασυλλογικής διοργάνωσης περιλαμβάνει έναν μειωμένο αριθμό 32 ομάδων στη φάση των ομίλων, ώστε να αναδειχθεί ο διάδοχος της κάτοχου του τροπαίου Βιγιαρεάλ. Ο τελικός θα διεξαχθεί στη Σεβίλλη.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
-  <programme start="20220429120000 +0300" stop="20220429130000 +0300" channel="CosmoteSport1.gr">
-    <title lang="el">Αγγλικό Πρωτάθλημα 2021-22 - Ανασκόπηση της Κυριακής</title>
-    <desc lang="el">34η αγωνιστική. Η εκπομπή εστιάζει στους αγώνες της Κυριακής, αναλύοντας και την αθλητική δράση της προηγούμενης μέρας. Επίσης, περιλαμβάνει στατιστικά και τακτικές ενώ αναμεταδίδει και τα αθλητικά νέα που ξεχώρισαν στις Κυριακάτικες εφημερίδες, το διαδίκτυο και τα μέσα κοινωνικής δικτύωσης.</desc>
+  <programme start="20220429120000 +0300" stop="20220429140000 +0300" channel="CosmoteSport1.gr">
+    <title lang="el">Ποδόσφαιρο: Γουέστ Χαμ - Άιντραχτ Φρανκφούρτης</title>
+    <desc lang="el">UEFA Europa League 2021-22. Hμιτελικός, 1ος αγώνας. Η 51η σεζόν της δεύτερης σε δυναμικότητα ευρωπαϊκής διασυλλογικής διοργάνωσης περιλαμβάνει έναν μειωμένο αριθμό 32 ομάδων στη φάση των ομίλων, ώστε να αναδειχθεί ο διάδοχος της κάτοχου του τροπαίου Βιγιαρεάλ. Ο τελικός θα διεξαχθεί στη Σεβίλλη. Περιγραφή: Άλκης Τσαβδαράς.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
-  <programme start="20220429130000 +0300" stop="20220429133000 +0300" channel="CosmoteSport1.gr">
-    <title lang="el">UEFA Champions League - Στιγμιότυπα 2021-22</title>
-    <desc lang="el">Hμιτελικοί. 11η αγωνιστική. 2ος Αγώνας. Τα καλύτερα στιγμιότυπα της αγωνιστικής του UEFA Champions League. Στιγμές γεμάτες πάθος, δυνατές μάχες και τα καλύτερα γκολ που ξεχώρισαν ανά αγωνιστική ημέρα αφιερωμένα στην κορυφαία διοργάνωση.</desc>
-  </programme>
-  <programme start="20220429133000 +0300" stop="20220429153000 +0300" channel="CosmoteSport1.gr">
-    <title lang="el">Ποδόσφαιρο: UEFA Europa Conference League 2021-22</title>
-    <desc lang="el">Hμιτελικός, 1ος αγώνας. Ένας θεσμός που κάνει ντεμπούτο τη σεζόν 2021-22, συνιστά την 3η ευρωπαϊκή διοργάνωση, όπου συμμετέχουν κυρίως ομάδες που βρίσκονται χαμηλά στην κατάταξη της UEFA. Συνολικά, θα διεξαχθούν 141 αγώνες σε 15 αγωνιστικές ημέρες.</desc>
+  <programme start="20220429140000 +0300" stop="20220429160000 +0300" channel="CosmoteSport1.gr">
+    <title lang="el">Ποδόσφαιρο: Λέστερ - Ρόμα</title>
+    <desc lang="el">UEFA Europa Conference League 2021-22. Hμιτελικός, 1ος αγώνας. Ένας θεσμός που κάνει ντεμπούτο τη σεζόν 2021-22, συνιστά την 3η ευρωπαϊκή διοργάνωση, όπου συμμετέχουν κυρίως ομάδες που βρίσκονται χαμηλά στην κατάταξη της UEFA. Συνολικά, θα διεξαχθούν 141 αγώνες σε 15 αγωνιστικές ημέρες. Περιγραφή: Γιώργος Θαναηλάκης.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
-  <programme start="20220429153000 +0300" stop="20220429173000 +0300" channel="CosmoteSport1.gr">
-    <title lang="el">Ποδόσφαιρο: UEFA Europa Conference League 2021-22</title>
-    <desc lang="el">Hμιτελικός, 1ος αγώνας. Ένας θεσμός που κάνει ντεμπούτο τη σεζόν 2021-22, συνιστά την 3η ευρωπαϊκή διοργάνωση, όπου συμμετέχουν κυρίως ομάδες που βρίσκονται χαμηλά στην κατάταξη της UEFA. Συνολικά, θα διεξαχθούν 141 αγώνες σε 15 αγωνιστικές ημέρες.</desc>
+  <programme start="20220429160000 +0300" stop="20220429180000 +0300" channel="CosmoteSport1.gr">
+    <title lang="el">Ποδόσφαιρο: Φέγενορντ - Μαρσέιγ</title>
+    <desc lang="el">UEFA Europa Conference League 2021-22. Hμιτελικός, 1ος αγώνας. Ένας θεσμός που κάνει ντεμπούτο τη σεζόν 2021-22, συνιστά την 3η ευρωπαϊκή διοργάνωση, όπου συμμετέχουν κυρίως ομάδες που βρίσκονται χαμηλά στην κατάταξη της UEFA. Συνολικά, θα διεξαχθούν 141 αγώνες σε 15 αγωνιστικές ημέρες. Περιγραφή: Δημήτρης Σπηλιόπουλος.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
-  <programme start="20220429173000 +0300" stop="20220429180000 +0300" channel="CosmoteSport1.gr">
-    <title lang="el">UEFA Champions League - Στιγμιότυπα 2021-22</title>
-    <desc lang="el">Hμιτελικοί. 11η αγωνιστική. 2ος Αγώνας. Τα καλύτερα στιγμιότυπα της αγωνιστικής του UEFA Champions League. Στιγμές γεμάτες πάθος, δυνατές μάχες και τα καλύτερα γκολ που ξεχώρισαν ανά αγωνιστική ημέρα αφιερωμένα στην κορυφαία διοργάνωση.</desc>
-  </programme>
-  <programme start="20220429180000 +0300" stop="20220429183000 +0300" channel="CosmoteSport1.gr">
-    <title lang="el">Ο Κόσμος του Αγγλικού Πρωταθλήματος 2021-22</title>
-    <desc lang="el">Κατά τη διάρκεια της σεζόν, η εκπομπή παρουσιάζει όλες τις τελευταίες τροποποιήσεις των ποδοσφαιρικών ομάδων καθώς και συνεντεύξεις με παίκτες και προπονητές. Δείτε επίσης, ρεπορτάζ και ανασκοπήσεις σε πρώην και νυν αθλητές από όλο τον κόσμο.</desc>
-  </programme>
-  <programme start="20220429183000 +0300" stop="20220429203000 +0300" channel="CosmoteSport1.gr">
-    <title lang="el">Ποδόσφαιρο: UEFA Europa League 2021-22</title>
-    <desc lang="el">Hμιτελικός, 1ος αγώνας. Η 51η σεζόν της δεύτερης σε δυναμικότητα ευρωπαϊκής διασυλλογικής διοργάνωσης περιλαμβάνει έναν μειωμένο αριθμό 32 ομάδων στη φάση των ομίλων, ώστε να αναδειχθεί ο διάδοχος της κάτοχου του τροπαίου Βιγιαρεάλ. Ο τελικός θα διεξαχθεί στη Σεβίλλη.</desc>
+  <programme start="20220429180000 +0300" stop="20220429200000 +0300" channel="CosmoteSport1.gr">
+    <title lang="el">Ποδόσφαιρο: Μάντσεστερ Γιουνάιτεντ - Τσέλσι</title>
+    <desc lang="el">Πρέμιερ Λιγκ 2021-22. 37η αγωνιστική. Η 30ή σεζόν της κορυφαίας κατηγορίας του αγγλικού ποδοσφαίρου περιλαμβάνει 20 ομάδες, εκ των οποίων η Νόριτς, η Γουότφορντ και η Μπέντφορντ προβιβάστηκαν από τη 2η κατηγορία. Η Μάντσεστερ Σίτι είναι η κάτοχος του τίτλου, ωστόσο και φέτος οι 'μνηστήρες' αναμένεται να είναι αρκετοί. Περιγραφή: Μιχάλης Τσόχος.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
-  <programme start="20220429203000 +0300" stop="20220429220000 +0300" channel="CosmoteSport1.gr">
-    <title lang="el">Ποδόσφαιρο: UEFA Europa League 2021-22</title>
-    <desc lang="el">Hμιτελικός, 1ος αγώνας. Η 51η σεζόν της δεύτερης σε δυναμικότητα ευρωπαϊκής διασυλλογικής διοργάνωσης περιλαμβάνει έναν μειωμένο αριθμό 32 ομάδων στη φάση των ομίλων, ώστε να αναδειχθεί ο διάδοχος της κάτοχου του τροπαίου Βιγιαρεάλ. Ο τελικός θα διεξαχθεί στη Σεβίλλη.</desc>
+  <programme start="20220429200000 +0300" stop="20220429220000 +0300" channel="CosmoteSport1.gr">
+    <title lang="el">Ποδόσφαιρο: Γουέστ Χαμ - Άιντραχτ Φρανκφούρτης</title>
+    <desc lang="el">UEFA Europa League 2021-22. Hμιτελικός, 1ος αγώνας. Η 51η σεζόν της δεύτερης σε δυναμικότητα ευρωπαϊκής διασυλλογικής διοργάνωσης περιλαμβάνει έναν μειωμένο αριθμό 32 ομάδων στη φάση των ομίλων, ώστε να αναδειχθεί ο διάδοχος της κάτοχου του τροπαίου Βιγιαρεάλ. Ο τελικός θα διεξαχθεί στη Σεβίλλη. Περιγραφή: Άλκης Τσαβδαράς.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
   <programme start="20220429220000 +0300" stop="20220429223000 +0300" channel="CosmoteSport1.gr">
-    <title lang="el">European Football 2021-22 Λεπτό προς Λεπτό (Ζ)</title>
-    <desc lang="el">Η εκπομπή σας ταξιδεύει στα ευρωπαϊκά γήπεδα, προσφέροντας όλα τα γκολ και τις σημαντικότερες φάσεις της αγωνιστικής μέρας από το UEFA Europa League και το UEFA Conference League.</desc>
+    <title lang="el">Ο Κόσμος του Αγγλικού Πρωταθλήματος 2021-22</title>
+    <desc lang="el">Κατά τη διάρκεια της σεζόν, η εκπομπή παρουσιάζει όλες τις τελευταίες τροποποιήσεις των ποδοσφαιρικών ομάδων καθώς και συνεντεύξεις με παίκτες και προπονητές. Δείτε επίσης, ρεπορτάζ και ανασκοπήσεις σε πρώην και νυν αθλητές από όλο τον κόσμο.</desc>
   </programme>
   <programme start="20220429223000 +0300" stop="20220429230000 +0300" channel="CosmoteSport1.gr">
     <title lang="el">Game R1</title>
@@ -3498,9 +3459,14 @@
     <title lang="el">Sports Classics: Ultimate Rush</title>
     <desc lang="el">Γιατί οι αθλητές των extreme sports θέτουν τη ζωή τους σε κίνδυνο; Η σειρά επικεντρώνεται στα εξωφρενικά κατορθώματα μερικών από τους καλύτερους αθλητές στον κόσμο και στο πώς εξερευνούν τη λεπτή γραμμή μεταξύ extreme sports, φιλοσοφίας και τέχνης.</desc>
   </programme>
-  <programme start="20220429153000 +0300" stop="20220429193000 +0300" channel="CosmoteSport3.gr">
+  <programme start="20220429153000 +0300" stop="20220429173000 +0300" channel="CosmoteSport3.gr">
     <title lang="el">Ποδόσφαιρο: Μοντεβιδέο Γουόντερερς - Λανούς</title>
-    <desc lang="el">Copa Sudamericana 2022. Φάση Ομίλων. 3η Αγωνιστική. Η δεύτερη τη τάξει ποδοσφαιρική διασυλλογική διοργάνωση στη Νότιο Αμερική είναι ένα τουρνουά με τη συμμετοχή 44 ομάδων. Συνολικά, 17 ομάδες έχουν κατακτήσει το τρόπαιο, με τελευταία τη βραζιλιάνικη Ατλέτικο Παραναένσε.</desc>
+    <desc lang="el">Copa Sudamericana 2022. Φάση Ομίλων. 3η Αγωνιστική. Η δεύτερη τη τάξει ποδοσφαιρική διασυλλογική διοργάνωση στη Νότιο Αμερική είναι ένα τουρνουά με τη συμμετοχή 44 ομάδων. Συνολικά, 17 ομάδες έχουν κατακτήσει το τρόπαιο, με τελευταία τη βραζιλιάνικη Ατλέτικο Παραναένσε. Περιγραφή: Δημήτρης Ξαρλής.</desc>
+    <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20220429173000 +0300" stop="20220429193000 +0300" channel="CosmoteSport3.gr">
+    <title lang="el">Ποδόσφαιρο: Μπενφίκα - Φαμαλικάο</title>
+    <desc lang="el">Liga Portugal BWIN 2021-22. 31η αγωνιστική. Η 88η σεζόν του πορτογαλικού πρωταθλήματος περιλαμβάνει συνολικά 18 ομάδες, από τις οποίες οι Εστορίλ, Βισέλα και Αρούκα προήχθησαν από τη 2η κατηγορία. Η Σπόρτινγκ Λισαβόνας είναι η κάτοχος του τίτλου, για πρώτη φορά μετά από 19 χρόνια. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
   <programme start="20220429193000 +0300" stop="20220429200000 +0300" channel="CosmoteSport3.gr">
@@ -3613,14 +3579,9 @@
     <desc lang="el">NBA Playoffs 2022. Ανατολική Περιφέρεια. 1ος γύρος. 5ος αγώνας. Οι πρώτες έξι ομάδες στην κανονική περίοδο από κάθε περιφέρεια συμμετέχουν απευθείας στα πλέι οφ, ενώ οι δύο νικητές του play-in τουρνουά κάθε περιφέρειας συμπληρώνουν τους 16 διεκδικητές του τίτλου στην 76η σεζόν του ΝΒΑ. Περιγραφή: Βασίλης Σκουντής.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20220429053000 +0300" stop="20220429060000 +0300" channel="CosmoteSport4.gr">
+  <programme start="20220429053000 +0300" stop="20220429080000 +0300" channel="CosmoteSport4.gr">
     <title lang="el">NBA Daily</title>
     <desc lang="el">Η εκπομπή καλύπτει διαφορετικές ιστορίες από τον κόσμο του ΝΒΑ σε καθημερινή βάση, ενημερώνοντας τους φίλους του μπάσκετ αναφορικά με τους αγώνες και τους σταρ του αθλήματος.</desc>
-    <category lang="el">Μπάσκετ</category>
-  </programme>
-  <programme start="20220429060000 +0300" stop="20220429080000 +0300" channel="CosmoteSport4.gr">
-    <title lang="el">Μπάσκετ: FIBA Basketball Champions League 2021-22</title>
-    <desc lang="el">Προημιτελικός. 3ος αγώνας. Η 6η διοργάνωση του Basketball Champions League ξεκινά με 32 συλλόγους στη φάση των ομίλων, συνεχίζεται με γύρο των 16, πλέι-οφ και καταλήγει στο Φάιναλ Φορ του Μαΐου. Η Μπούργος προέρχεται από δύο συνεχόμενες κατακτήσεις.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20220429080000 +0300" stop="20220429083000 +0300" channel="CosmoteSport4.gr">
@@ -3819,8 +3780,8 @@
     <episode-num system="onscreen">S2022</episode-num>
   </programme>
   <programme start="20220429083500 +0300" stop="20220429093500 +0300" channel="CosmoteSport5.gr">
-    <title lang="el">Moto2 2022- Στιγμιότυπα</title>
-    <desc lang="el">Gran Premio de Europa. Δείτε τις καλύτερες στιγμές από το Gran Premio de Europa.</desc>
+    <title lang="el">MotoGP 2022 - Στιγμιότυπα</title>
+    <desc lang="el">Grande Premio de Portugal. Το MotoGP, το παγκόσμιο πρωτάθλημα μοτοσυκλέτας, προσφέρει πολλές συγκινήσεις. Παρακολουθήστε μια συμπυκνωμένη εκδοχή όσων συνέβησαν σε μια από τις κούρσες του 2021.</desc>
   </programme>
   <programme start="20220429093500 +0300" stop="20220429095500 +0300" channel="CosmoteSport5.gr">
     <title lang="el">MotoGP</title>
@@ -3854,11 +3815,15 @@
     <title lang="el">MotoGP 2022 (Ζ)</title>
     <desc lang="el">Gran Premio Red Bull de Espana - Ελεύθερα Δοκιμαστικά 2. Περιγραφή: Δημήτρης Διατσίδης. Το Παγκόσμιο Πρωτάθλημα MotoGP 2022 φιλοξενεί 12 ομάδες από 6 κατασκευαστές, καθώς και 24 οδηγούς που θα λάβουν μέρος σε 21 Γκραν Πρι. Ο Γάλλος Φάμπιο Κουαρταρό, ως ο κάτοχος του τίτλου, θα προσπαθήσει να κρατήσει τα πρωτεία.</desc>
   </programme>
-  <programme start="20220429160500 +0300" stop="20220429172000 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220429160500 +0300" stop="20220429171000 +0300" channel="CosmoteSport5.gr">
     <title lang="el">Moto2 2022 (Ζ)</title>
     <desc lang="el">Gran Premio Red Bull de Espana - Ελεύθερα Δοκιμαστικά 2. Περιγραφή: Θανάσης Κελάφης. 30 οδηγοί και 15 ομάδες θα δώσουν μάχη για την πρώτη θέση στο Παγκόσμιο Πρωτάθλημα Moto2 για το 2022. Η φετινή διοργάνωση περιλαμβάνει 21 Γκραν Πρι. Όλοι οι συμμετέχοντες χρησιμοποιούν ειδικά ελαστικά Dunlop και τρικύλινδρους κινητήρες των 765 κυβικών.</desc>
   </programme>
-  <programme start="20220429172000 +0300" stop="20220429182000 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220429171000 +0300" stop="20220429173000 +0300" channel="CosmoteSport5.gr">
+    <title lang="el">Dirt Games - Στιγμιότυπα</title>
+    <desc lang="el">Πάτρα. Δείτε τα καλύτερα στιγμιότυπα από τους αγώνες Dirt Games.</desc>
+  </programme>
+  <programme start="20220429173000 +0300" stop="20220429182000 +0300" channel="CosmoteSport5.gr">
     <title lang="el">Ferrari Challenge Europe</title>
     <desc lang="el">Portimao. Το Ferrari Challenge, που γιόρτασε την εναρκτήρια σεζόν του το 2011, είναι το μακροβιότερο πρωτάθλημα σειράς single-make στην ιστορία της εταιρείας με έδρα το Maranello. Είναι χωρισμένο σε τρεις ηπειρωτικές σειρές: Ευρώπη, Βόρεια Αμερική και Ασία-Ειρηνικός.</desc>
   </programme>
@@ -3971,7 +3936,12 @@
     <desc lang="el">BMW Open by American Express. Προημιτελικός. Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας</category>
   </programme>
-  <programme start="20220429203000 +0300" stop="20220429220000 +0300" channel="CosmoteSport6.gr">
+  <programme start="20220429203000 +0300" stop="20220429210000 +0300" channel="CosmoteSport6.gr">
+    <title lang="el">Sports Classics: The Outdoor Sports Show</title>
+    <desc lang="el">Αυτή η σειρά παρουσιάζει ένα ευρύ φάσμα υπαίθριων αθλημάτων, παρουσιάζοντας τους αθλητές που αγωνίζονται. Η εκπομπή καλύπτει από επαγγελματικά και ψυχαγωγικά έως και extreme sports, όπως αγώνες μαραθωνίου, αναρρίχηση, σκι, σέρφινγκ, πεζοπορία, τρίαθλο, ιστιοπλοΐα και ποδηλασία.</desc>
+    <episode-num system="onscreen">S2022</episode-num>
+  </programme>
+  <programme start="20220429210000 +0300" stop="20220429220000 +0300" channel="CosmoteSport6.gr">
     <title lang="el">Topspin</title>
     <desc lang="el">Η μοναδική εκπομπή για το τένις, φιλοξενεί πλούσια αγωνιστική επικαιρότητα και θεματολογία από το χώρο του τένις, στην Ελλάδα και το εξωτερικό.</desc>
   </programme>
@@ -3982,9 +3952,8 @@
     <episode-num system="onscreen">S250</episode-num>
   </programme>
   <programme start="20220429223000 +0300" stop="20220429230000 +0300" channel="CosmoteSport6.gr">
-    <title lang="el">Sports Classics: The Outdoor Sports Show</title>
-    <desc lang="el">Αυτή η σειρά παρουσιάζει ένα ευρύ φάσμα υπαίθριων αθλημάτων, παρουσιάζοντας τους αθλητές που αγωνίζονται. Η εκπομπή καλύπτει από επαγγελματικά και ψυχαγωγικά έως και extreme sports, όπως αγώνες μαραθωνίου, αναρρίχηση, σκι, σέρφινγκ, πεζοπορία, τρίαθλο, ιστιοπλοΐα και ποδηλασία.</desc>
-    <episode-num system="onscreen">S2022</episode-num>
+    <title lang="el">Super Skicross 2021 - Στιγμιότυπα</title>
+    <desc lang="el">Οι κορυφαίοι αθλητές του σκι cross στον κόσμο συναντώνται στο Άντερματ της Ελβετίας για έναν εξαιρετικό αγώνα: το Red Bull SuperSkicross. Ένας αγώνας, δύο διαδρομές και πρωτοφανή εμπόδια.</desc>
   </programme>
   <programme start="20220429230000 +0300" stop="20220430040000 +0300" channel="CosmoteSport6.gr">
     <title lang="el">Topspin</title>
@@ -4380,7 +4349,7 @@
     <date>2021</date>
     <category lang="el">Ταινία - Δράμα</category>
   </programme>
-  <programme start="20220429043000 +0300" stop="20220429063000 +0300" channel="CosmoteCinema1.gr">
+  <programme start="20220429043000 +0300" stop="20220429062000 +0300" channel="CosmoteCinema1.gr">
     <title lang="el">Το Χρονικό μιας Αθωότητας (Chronic)</title>
     <desc lang="el">Ο Ντέιβιντ είναι ένας νοσηλευτής που φροντίζει ασθενείς στο τελικό στάδιο της νόσου τους. Αφοσιωμένος στο λειτούργημά του, δένεται με τους αρρώστους... αλλά το παρελθόν του κρύβει πολύ περισσότερο σκοτάδι από όσο αποκαλύπτει. (93') Παραγωγή: Μεξικό, Γαλλία.</desc>
     <credits>
@@ -4392,7 +4361,7 @@
     <date>2015</date>
     <category lang="el">Ταινία - Δράμα</category>
   </programme>
-  <programme start="20220429063000 +0300" stop="20220429075000 +0300" channel="CosmoteCinema1.gr">
+  <programme start="20220429062000 +0300" stop="20220429075000 +0300" channel="CosmoteCinema1.gr">
     <title lang="el">Τρία Γενναία Κορίτσια και οι Ιστορίες τους (3 Tales of Feminine Early Bravery)</title>
     <desc lang="el">Τρία νεαρά κορίτσια ξεπερνούν τις προκλήσεις της ζωής και καταφέρνουν να θριαμβεύσουν σε ένα νέο και άγνωστο περιβάλλον. Απολαύστε τις συναρπαστικές ιστορίες ενηλικίωσης της δεκάχρονης Έλι και των εννιάχρονων Λουίζ και Νόα. (86') (Μεταγλ.) Παραγωγή: Γαλλία.</desc>
     <credits>
@@ -4707,7 +4676,7 @@
     <date>2020</date>
     <category lang="el">Τρόμου</category>
   </programme>
-  <programme start="20220429045500 +0300" stop="20220429060000 +0300" channel="CosmoteCinema2.gr">
+  <programme start="20220429045500 +0300" stop="20220429060500 +0300" channel="CosmoteCinema2.gr">
     <title lang="el">Nice and Easy</title>
     <desc lang="el">Ο Σεμπαστιέν έχει μόνο μία φιλοδοξία στη ζωή του: να μην κάνει τίποτα. Μα στις μέρες μας, αν δεν κάνεις τίποτα... είσαι ένα τίποτα! Γι' αυτό, μετά την παρότρυνση των συγκατοίκων του, ο νεαρός αποφασίζει να κάνει επιτέλους... κάτι. (93') Παραγωγή: Γαλλία.</desc>
     <credits>
@@ -4719,7 +4688,7 @@
     <date>2014</date>
     <category lang="el">Κωμωδία - Κωμωδία</category>
   </programme>
-  <programme start="20220429060000 +0300" stop="20220429074000 +0300" channel="CosmoteCinema2.gr">
+  <programme start="20220429060500 +0300" stop="20220429074500 +0300" channel="CosmoteCinema2.gr">
     <title lang="el">Καμιά δεν Είναι Τέλεια (Girl Most Likely)</title>
     <desc lang="el">Όταν η καριέρα και η σχέση της πιάνουν πάτο, μια αποτυχημένη θεατρική συγγραφέας αναγκάζεται να αποδεχτεί την πραγματικότητα και να επιστρέψει στο πατρικό της, όπου την περιμένουν η εκκεντρική μητέρα της κι ο μικρός αδελφός της... (99') Παραγωγή: ΗΠΑ.</desc>
     <credits>
@@ -4731,7 +4700,7 @@
     <date>2013</date>
     <category lang="el">Κωμωδία - Κωμωδία</category>
   </programme>
-  <programme start="20220429074000 +0300" stop="20220429094500 +0300" channel="CosmoteCinema2.gr">
+  <programme start="20220429074500 +0300" stop="20220429095000 +0300" channel="CosmoteCinema2.gr">
     <title lang="el">Ο Ζωολογικός μας Κήπος (We Bought a Zoo)</title>
     <desc lang="el">Σε μια προσπάθεια να κάνει μια νέα αρχή, ένας χήρος και πατέρας δυο παιδιών παραιτείται από τη δουλειά του και αγοράζει μια κατοικία που έρχεται πακέτο με έναν παρατημένο ζωολογικό κήπο. Η ταινία βασίζεται σε αληθινή ιστορία. (119') Παραγωγή: ΗΠΑ.</desc>
     <credits>
@@ -4742,7 +4711,7 @@
     </credits>
     <date>2011</date>
   </programme>
-  <programme start="20220429094500 +0300" stop="20220429103000 +0300" channel="CosmoteCinema2.gr">
+  <programme start="20220429095000 +0300" stop="20220429103000 +0300" channel="CosmoteCinema2.gr">
     <title lang="el">TIME</title>
     <desc lang="el">Μια ματιά στη λίστα του περιοδικού TIME με τα 100 πιο επιδραστικά πρόσωπα στον κόσμο. Γνωρίστε τους ηγέτες, τους καλλιτέχνες, τους πρωτοπόρους και τους ήρωες της καθημερινότητας, που ξεχωρίζουν για τη ζωή και το έργο τους. (42') Παραγωγή: ΗΠΑ.</desc>
     <date>2021</date>
@@ -4831,7 +4800,7 @@
     <date>2015</date>
     <category lang="el">Ντοκιμαντέρ</category>
   </programme>
-  <programme start="20220429233000 +0300" stop="20220429235000 +0300" channel="CosmoteCinema2.gr">
+  <programme start="20220429233000 +0300" stop="20220430000000 +0300" channel="CosmoteCinema2.gr">
     <title lang="el">Όταν Έγινα Πλούσιος (If I Were Rich Man)</title>
     <desc lang="el">Άνεργος και οσονούπω διαζευγμένος, ο Σάντι βρίσκεται αντιμέτωπος με ένα αβέβαιο μέλλον. Ξαφνικά, η τύχη τού χαμογελά και κερδίζει ένα υπέρογκο ποσό στο λαχείο. Μα υπάρχει ένα μεγάλο πρόβλημα... δεν πρέπει να το μάθει κανείς. (95') Παραγωγή: Ισπανία.</desc>
     <credits>
@@ -4842,18 +4811,6 @@
     </credits>
     <date>2019</date>
     <category lang="el">Κωμωδία - Κωμωδία</category>
-  </programme>
-  <programme start="20220429235000 +0300" stop="20220430013500 +0300" channel="CosmoteCinema2.gr">
-    <title lang="el">Τιμώμενος Επισκέπτης</title>
-    <desc lang="el">Μια καθηγήτρια καταδικάζεται για ένα έγκλημα που δεν διέπραξε, όμως η ίδια θεωρεί πως αξίζει να τιμωρηθεί. Καθώς ο μπερδεμένος πατέρας της επιχειρεί να τη βοηθήσει, τα αλληλένδετα μυστικά τους αρχίζουν να βγαίνουν στην επιφάνεια. (100') Παραγωγή: Καναδάς.</desc>
-    <credits>
-      <director>Ατόμ Εγκογιάν</director>
-      <actor>Ντέιβιντ Θιούλις</actor>
-      <actor>Λάισλα ντε Ολιβέιρα</actor>
-      <actor>Λουκ Γουίλσον</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="el">Ταινία - Δράμα</category>
   </programme>
   <programme start="20220428011500 +0300" stop="20220428030000 +0300" channel="CosmoteCinema3.gr">
     <title lang="el">Μπραζιλέρο</title>
@@ -7627,19 +7584,19 @@
     <date>2019</date>
     <episode-num system="onscreen">Säsong 2. Del 6 av 8</episode-num>
   </programme>
-  <programme start="20220429161500 +0200" stop="20220429172500 +0200" channel="Sjuan.se">
+  <programme start="20220429161500 +0200" stop="20220429173000 +0200" channel="Sjuan.se">
     <title lang="sv">Det okända</title>
     <desc lang="sv">Svensk ockultserie från 2018. 17-åriga Agnes sover i föräldrarnas sovrum, då hon är för rädd för att vistas i sitt eget rum. Situationen är ohållbar och familjen kontaktar Det okända. Mediet Lena Ranehag får kontakt med en så kraftfull ande att familjen fysiskt kan känna den. ,.</desc>
     <date>2018</date>
     <episode-num system="onscreen">Säsong 26. Del 4 av 13</episode-num>
   </programme>
-  <programme start="20220429172500 +0200" stop="20220429182500 +0200" channel="Sjuan.se">
+  <programme start="20220429173000 +0200" stop="20220429183000 +0200" channel="Sjuan.se">
     <title lang="sv">Hudson &amp; Rex</title>
     <desc lang="sv">Kanadensisk kriminalserie från 2020. Manhunt. Under jakten på en förrymd mördare blir Charlie och Rex tagna som gisslan på brottsplatsen. Men när ett ännu större hot närmar sig måste Charlie samarbeta med brottslingen för att de ska kunna ta sig ur situationen med livet i behåll. ,.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 3. Del 2 av 16</episode-num>
   </programme>
-  <programme start="20220429182500 +0200" stop="20220429193000 +0200" channel="Sjuan.se">
+  <programme start="20220429183000 +0200" stop="20220429193000 +0200" channel="Sjuan.se">
     <title lang="sv">Privatdetektiverna Shakespeare &amp; Hathaway</title>
     <desc lang="sv">Brittisk kriminalserie från 2022. If music be the food of love. Beattie Delamar fruktar att hennes dansskola har drabbats av en förbannelse och hoppas att Frank och Lu kan lösa gåtan. Flera av skolans sponsorer har dött på kort tid och Seb går under täckmantel för att ta reda på mer om vad som pågår. ,.</desc>
     <date>2022</date>
@@ -8013,19 +7970,19 @@
     <date>2012</date>
     <episode-num system="onscreen">Säsong 2. Del 5 av 12</episode-num>
   </programme>
-  <programme start="20220428120000 +0200" stop="20220428130500 +0200" channel="Kanal9.se">
+  <programme start="20220428120000 +0200" stop="20220428130000 +0200" channel="Kanal9.se">
     <title lang="sv">Salvage hunters</title>
     <desc lang="sv">Brittisk realityserie från 2015. Den moderna skattjägaren Drew Pritchard är ständigt på jakt efter dyra, makalösa föremål åt sina krävande kunder. Han reser Storbritannien runt för att hitta det perfekta objektet. ,.</desc>
     <date>2015</date>
     <episode-num system="onscreen">Säsong 6. Del 9 av 10</episode-num>
   </programme>
-  <programme start="20220428130500 +0200" stop="20220428141000 +0200" channel="Kanal9.se">
+  <programme start="20220428130000 +0200" stop="20220428140500 +0200" channel="Kanal9.se">
     <title lang="sv">Wheeler dealers</title>
     <desc lang="sv">Amerikansk realityserie från 2014. BMW Z1. Bilhandlaren Mike Brewer och hans mekaniker har ett uppdrag - att hitta och renovera ikoniska bilar, och sälja dem vidare i butiken i Los Angeles.</desc>
     <date>2014</date>
     <episode-num system="onscreen">Säsong 11. Del 12 av 15</episode-num>
   </programme>
-  <programme start="20220428141000 +0200" stop="20220428151000 +0200" channel="Kanal9.se">
+  <programme start="20220428140500 +0200" stop="20220428151000 +0200" channel="Kanal9.se">
     <title lang="sv">Ullared</title>
     <desc lang="sv">Svensk realityserie från 2019. Konfetti och fanfarer. I dag är en festlig dag. Den tre miljonte besökaren shoppar loss på varuhuset och det ska firas!. Boris har förberett konfettiregn och väntar på kunden med en blåsorkester. Morgan testar en ny arbetsuppgift och är nervös. 27/04 år 2022 i Kanal 9.</desc>
     <date>2019</date>
@@ -8228,7 +8185,7 @@
     <date>2020</date>
     <episode-num system="onscreen">Säsong 2. Del 8 av 17</episode-num>
   </programme>
-  <programme start="20220429220000 +0200" stop="20220429235500 +0200" channel="Kanal9.se">
+  <programme start="20220429220000 +0200" stop="20220429235000 +0200" channel="Kanal9.se">
     <title lang="sv">Rivalerna</title>
     <desc lang="sv">Amerikansk komedi från 2012. Politikern Cam Brady är mitt i en sexskandal när han plötsligt får oväntad politisk konkurrens från Marty Huggins, en turistguide från landet. Bakom honom står två affärsmän som hoppas att den godtrogne Huggins ska kunna bli en lättstyrd marionett.</desc>
     <credits>
@@ -8245,7 +8202,7 @@
     </credits>
     <date>2012</date>
   </programme>
-  <programme start="20220429235500 +0200" stop="20220430023500 +0200" channel="Kanal9.se">
+  <programme start="20220429235000 +0200" stop="20220430022000 +0200" channel="Kanal9.se">
     <title lang="sv">Blade</title>
     <desc lang="sv">Amerikansk action från 1998. En man vars mor blev biten av en vampyr när hon var gravid, växer upp med extraordinära krafter. Beväpnad med ett samurajsvärd av silver och kanoner som skjuter silverkulor är hans mål att jaga vampyrer och rädda ont anande offer från att bli attackerade. Blades fiender är en grupp skurkar ledda av Deacon Frost, en listig och karismatisk vampyr som tror att hans folk borde styra världen och att mänskligheten bara är till för föda. Baserad på karaktärer skapade av Marvel Comics av Marv Wolfman &amp; Gene Colan.</desc>
     <credits>
@@ -9104,36 +9061,31 @@
     <date>2019</date>
     <episode-num system="onscreen">Säsong 16. Del 2 av 15</episode-num>
   </programme>
-  <programme start="20220428170000 +0200" stop="20220428175500 +0200" channel="TV12.se">
+  <programme start="20220428170000 +0200" stop="20220428180000 +0200" channel="TV12.se">
     <title lang="sv">Police interceptors</title>
     <desc lang="sv">Brittisk dokumentärserie från 2019. Polisofficer Steve måste färdas akut till sjukhus efter att en misstänkt attackerat honom med sina nycklar. En bensintjuv jagas till fots efter att han övergivit sitt fordon och Chris Bastow åker larm om en minst sagt galen bilist. ,.</desc>
     <date>2019</date>
     <episode-num system="onscreen">Säsong 16. Del 3 av 15</episode-num>
   </programme>
-  <programme start="20220428175500 +0200" stop="20220428190000 +0200" channel="TV12.se">
+  <programme start="20220428180000 +0200" stop="20220428190000 +0200" channel="TV12.se">
     <title lang="sv">MacGyver</title>
     <desc lang="sv">Amerikansk actionserie från 1987. The widowmaker. MacGyvers bästa vän faller mot sin död när de är ute och bergsklättrar tillsammans men han har inte tid att sörja då en hämndlysten galning dyker upp. ,.</desc>
     <date>1987</date>
     <episode-num system="onscreen">Säsong 3. Del 8 av 20</episode-num>
   </programme>
-  <programme start="20220428190000 +0200" stop="20220428192500 +0200" channel="TV12.se">
-    <title lang="sv">SM-slutspel studio</title>
-    <desc lang="sv">inga Detaljer.</desc>
-    <date>2022</date>
-    <episode-num system="onscreen">Säsong 2022. Del 7 av 13</episode-num>
+  <programme start="20220428190000 +0200" stop="20220428200000 +0200" channel="TV12.se">
+    <title lang="sv">Kronofogden knackar på</title>
+    <desc lang="sv">Brittisk realityserie från 2018. Här följer man kronoinspektörer i deras arbete runt om i Storbritannien. Det blir en nära inblick när de besöker företag och privatpersoner för att utmäta deras skulder. Det är ingen lätt uppgift och de möter personer som är aggressiva, känslosamma och sådana som ljuger dem rakt upp i ansiktet. ,.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">Säsong 5. Del 10 av 32</episode-num>
   </programme>
-  <programme start="20220428192500 +0200" stop="20220428215000 +0200" channel="TV12.se">
-    <title lang="sv">Ishockey</title>
-    <desc lang="sv">RögleFärjestad. SM-slutspel.</desc>
-    <date>2022</date>
+  <programme start="20220428200000 +0200" stop="20220428210000 +0200" channel="TV12.se">
+    <title lang="sv">Mythbusters: There's your problem</title>
+    <desc lang="sv">Amerikansk dokumentärserie från 2021. Shock &amp; force. Mythbusters testar om man kan överleva en undervattensexplosion genom att dyka djupt, kan man surfa på en våg skapad av en explosion, flyger man baklänges om man blir träffad av en kula?</desc>
+    <date>2021</date>
+    <episode-num system="onscreen">Säsong 1. Del 8 av 10</episode-num>
   </programme>
-  <programme start="20220428215000 +0200" stop="20220428220000 +0200" channel="TV12.se">
-    <title lang="sv">SM-slutspel studio</title>
-    <desc lang="sv">inga Detaljer.</desc>
-    <date>2022</date>
-    <episode-num system="onscreen">Säsong 2022. Del 7 av 13</episode-num>
-  </programme>
-  <programme start="20220428220000 +0200" stop="20220429003000 +0200" channel="TV12.se">
+  <programme start="20220428210000 +0200" stop="20220428233000 +0200" channel="TV12.se">
     <title lang="sv">Leva och låta dö</title>
     <desc lang="sv">Brittisk action från 1973. När tre brittiska agenter dödas får James Bond i uppdrag att undersöka saken. Spåren leder till Kananga, premiärminister på ön San Monique. Bond beger sig till Harlem där han blir tillfångatagen av gangstern mr Big och han förs till en källarlokal. Han lyckas fly och tar hjälp av Felix Leiter i sin jakt på Kananga och mr Big.</desc>
     <credits>
@@ -9145,7 +9097,7 @@
     </credits>
     <date>1973</date>
   </programme>
-  <programme start="20220429003000 +0200" stop="20220429031000 +0200" channel="TV12.se">
+  <programme start="20220428233000 +0200" stop="20220429020500 +0200" channel="TV12.se">
     <title lang="sv">Unfaithful</title>
     <desc lang="sv">Amerikansk thriller från 2002. Edward och Connie Sumner har ett lyckligt liv och äktenskap, en åttaårig son och ett vackert hus utanför stan. Men när Connies slumpartade möte med en förförisk främling blossar upp till en affär, förvandlas passion till besatthet. Otrohetens pris blir förkrossande när Edward till slut konfronterar sin hustrus älskare.</desc>
     <credits>
@@ -9157,17 +9109,25 @@
     </credits>
     <date>2002</date>
   </programme>
-  <programme start="20220429031000 +0200" stop="20220429034000 +0200" channel="TV12.se">
+  <programme start="20220429020500 +0200" stop="20220429042500 +0200" channel="TV12.se">
+    <title lang="sv">Kingpin</title>
+    <desc lang="sv">Amerikansk komedi från 1996. Roy Munson blev bowlingmästare 1979 men hans karriär tog ett tvärt slut när han miste sin ena hand. I många år har han hankat sig fram som försäljare av bowlingutrustning men när han möter bowlingtalangen Ishmael, som tillhör Amishfolket, förändras hans tillvaro. Han övertalar Ishmael att satsa på att spela bowling för pengar och de börjar resa runt landet för att vinna den ena turneringen efter den andra. En dag möter de Roys gamle ärkerival Ernie för en slutlig uppgörelse om vem som verkligen är mästare.</desc>
+    <credits>
+      <director>Bobby Farrelly</director>
+      <director>Peter Farrelly</director>
+      <actor>Vanessa Angel</actor>
+      <actor>Bill Murray</actor>
+      <actor>Chris Elliott</actor>
+      <actor>Randy Quaid</actor>
+      <actor>Woody Harrelson</actor>
+    </credits>
+    <date>1996</date>
+  </programme>
+  <programme start="20220429042500 +0200" stop="20220429050000 +0200" channel="TV12.se">
     <title lang="sv">Mordutredarnas nya fall</title>
     <desc lang="sv">Amerikansk dokumentärserie från 2010. Hear no evil. En döv kvinna blir brutalt mördad och det ska visa sig att hon haft en komplicerat kärleksliv med flera personer inblandade. Kriminalteknikerna säkrar bevis på ett otippat ställe. ,.</desc>
     <date>2010</date>
     <episode-num system="onscreen">Säsong 14. Del 2 av 21</episode-num>
-  </programme>
-  <programme start="20220429034000 +0200" stop="20220429050000 +0200" channel="TV12.se">
-    <title lang="sv">CSI</title>
-    <desc lang="sv">Amerikansk kriminalserie från 2006. Double-cross. Två nunnor hittar en korsfäst död kvinna i en kyrka och prästen verkar inte direkt vara en perfekt Gudstjänare. Grissom och Sara får några överraskningar om varandras inställning till religion. ,.</desc>
-    <date>2006</date>
-    <episode-num system="onscreen">Säsong 7. Del 5 av 24</episode-num>
   </programme>
   <programme start="20220429050000 +0200" stop="20220429060000 +0200" channel="TV12.se">
     <title lang="sv">Cheaters</title>
@@ -9263,7 +9223,7 @@
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 1 av 7</episode-num>
   </programme>
-  <programme start="20220429210000 +0200" stop="20220429223500 +0200" channel="TV12.se">
+  <programme start="20220429210000 +0200" stop="20220429224000 +0200" channel="TV12.se">
     <title lang="sv">Nakna pistolen 33 1/3</title>
     <desc lang="sv">Amerikansk komedi från 1994. Frank Drebin övertalas att återvända från sin pensionärstillvaro för att jobba under täckmantel på statsfängelset. Hans uppdrag är ta reda på vad den beryktade terroristen Rocco har för planer när han blir frisläppt. Den rafflande jakten på Rocco leder till Oscarsgalan och där finns det hur många tillfällen som helst för Drebin att skämma ut såväl sig själv som andra.</desc>
     <credits>
@@ -9273,7 +9233,7 @@
     </credits>
     <date>1994</date>
   </programme>
-  <programme start="20220429223500 +0200" stop="20220430003000 +0200" channel="TV12.se">
+  <programme start="20220429224000 +0200" stop="20220430003500 +0200" channel="TV12.se">
     <title lang="sv">Meet the parents: Little Fockers</title>
     <desc lang="sv">Amerikansk komedi från 2010. Så är de tillbaka, de galna familjerna Byrnes och Focker. Denna gång ska hela släkten samlas för att fira Greg och Pams tvillingars födelsedag. Jack har fortfarande ögonen på sin svärson och Greg är lika nervös och knasig som vanligt.</desc>
     <credits>
