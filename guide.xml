@@ -19785,8 +19785,8 @@
     </rating>
   </programme>
   <programme start="20220502093000 +0200" stop="20220502113000 +0200" channel="ESPN.us">
-    <title lang="en">Basketball</title>
-    <desc lang="en">Basketball.</desc>
+    <title lang="en">Golden State Warriors vs. Memphis Grizzlies</title>
+    <desc lang="en">Basketball. Western Conference Semifinal Game 1.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <rating system="US">
@@ -19893,7 +19893,8 @@
     </rating>
   </programme>
   <programme start="20220503010000 +0200" stop="20220503033000 +0200" channel="ESPN.us">
-    <title lang="en">Hockey</title>
+    <title lang="en">Boston Bruins vs. Carolina Hurricanes</title>
+    <desc lang="en">Metropolitan Division Semifinal Game 1.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
     <rating system="US">
@@ -19901,7 +19902,8 @@
     </rating>
   </programme>
   <programme start="20220503033000 +0200" stop="20220503060000 +0200" channel="ESPN.us">
-    <title lang="en">Hockey</title>
+    <title lang="en">St. Louis Blues vs. Minnesota Wild</title>
+    <desc lang="en">Central Division Semifinal Game 1.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
     <rating system="US">
@@ -19945,7 +19947,8 @@
     </rating>
   </programme>
   <programme start="20220503100000 +0200" stop="20220503120000 +0200" channel="ESPN.us">
-    <title lang="en">Hockey</title>
+    <title lang="en">Boston Bruins vs. Carolina Hurricanes</title>
+    <desc lang="en">Metropolitan Division Semifinal Game 1.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
     <rating system="US">
@@ -20206,7 +20209,8 @@
     </rating>
   </programme>
   <programme start="20220503040000 +0200" stop="20220503063000 +0200" channel="ESPN2.us">
-    <title lang="en">Hockey</title>
+    <title lang="en">Los Angeles Kings vs. Edmonton Oilers</title>
+    <desc lang="en">Pacific Division Semifinal Game 1.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
     <rating system="US">
@@ -20239,7 +20243,8 @@
     </rating>
   </programme>
   <programme start="20220503080000 +0200" stop="20220503100000 +0200" channel="ESPN2.us">
-    <title lang="en">Hockey</title>
+    <title lang="en">St. Louis Blues vs. Minnesota Wild</title>
+    <desc lang="en">Central Division Semifinal Game 1.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Hockey</category>
     <rating system="US">
@@ -22024,39 +22029,41 @@
     </rating>
   </programme>
   <programme start="20220503010000 +0200" stop="20220503013000 +0200" channel="TSN3.ca">
-    <title lang="en">That's Hockey Playoff Edition</title>
-    <desc lang="en">Canada's definitive NHL hockey magazine program.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Hockey</category>
-  </programme>
-  <programme start="20220503013000 +0200" stop="20220503040000 +0200" channel="TSN3.ca">
-    <title lang="en">Basketball</title>
-    <desc lang="en">Basketball.</desc>
+    <title lang="en">NBA Tip-Off</title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220503040000 +0200" stop="20220503050000 +0200" channel="TSN3.ca">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship sports news and information program, from Canada's Sports Leader.</desc>
+  <programme start="20220503013000 +0200" stop="20220503040000 +0200" channel="TSN3.ca">
+    <title lang="en">Philadelphia 76ers vs. Miami Heat</title>
+    <desc lang="en">Basketball. Eastern Conference Semifinal Game 1.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
+    <category lang="en">Basketball</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220503050000 +0200" stop="20220503060000 +0200" channel="TSN3.ca">
-    <title lang="en">SportsCentre</title>
-    <desc lang="en">TSN's flagship sports news and information program, from Canada's Sports Leader.</desc>
+  <programme start="20220503040000 +0200" stop="20220503040000 +0200" channel="TSN3.ca">
+    <title lang="en">Dallas Mavericks vs. Phoenix Suns</title>
+    <desc lang="en">Basketball. Western Conference Semifinal Game 1.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">News</category>
+    <category lang="en">Basketball</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220503060000 +0200" stop="20220503070000 +0200" channel="TSN3.ca">
+  <programme start="20220503040000 +0200" stop="20220503063000 +0200" channel="TSN3.ca">
+    <title lang="en">Dallas Mavericks vs. Phoenix Suns</title>
+    <desc lang="en">Basketball. Western Conference Semifinal Game 1.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20220503063000 +0200" stop="20220503070000 +0200" channel="TSN3.ca">
     <title lang="en">SC With Jay Onrait</title>
     <category lang="en">Sports</category>
     <category lang="en">News</category>
@@ -22238,10 +22245,10 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20220502180000 +0200" stop="20220502200000 +0200" channel="TSN4.ca">
-    <title lang="en">Curling</title>
-    <desc lang="en">Final.</desc>
+    <title lang="en">First Take</title>
+    <desc lang="en">Host Molly Qerim joins featured commentators Stephen A. Smith and Max Kellerman while they go head to head debating the hottest topics in sports.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Curling</category>
+    <category lang="en">Talk Show</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
@@ -22277,8 +22284,8 @@
     <category lang="en">Hockey</category>
   </programme>
   <programme start="20220503013000 +0200" stop="20220503040000 +0200" channel="TSN4.ca">
-    <title lang="en">Basketball</title>
-    <desc lang="en">Basketball.</desc>
+    <title lang="en">Philadelphia 76ers vs. Miami Heat</title>
+    <desc lang="en">Basketball. Eastern Conference Semifinal Game 1.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <rating system="US">
@@ -22497,24 +22504,14 @@
     <category lang="en">Sports</category>
     <category lang="en">News</category>
   </programme>
-  <programme start="20220502180000 +0200" stop="20220502200000 +0200" channel="TSN5.ca">
-    <title lang="en">First Take</title>
-    <desc lang="en">Host Molly Qerim joins featured commentators Stephen A. Smith and Max Kellerman while they go head to head debating the hottest topics in sports.</desc>
+  <programme start="20220502180000 +0200" stop="20220502220000 +0200" channel="TSN5.ca">
+    <title lang="en">Auto Racing</title>
+    <desc lang="en">Auto racing. Cup Series.</desc>
     <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
+    <category lang="en">Auto Racing</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
-  </programme>
-  <programme start="20220502200000 +0200" stop="20220502210000 +0200" channel="TSN5.ca">
-    <title lang="en">This Just In</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-  </programme>
-  <programme start="20220502210000 +0200" stop="20220502220000 +0200" channel="TSN5.ca">
-    <title lang="en">NBA Today</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
   </programme>
   <programme start="20220502220000 +0200" stop="20220502230000 +0200" channel="TSN5.ca">
     <title lang="en">NFL Live</title>
@@ -22561,8 +22558,8 @@
     <category lang="en">Hockey</category>
   </programme>
   <programme start="20220503013000 +0200" stop="20220503040000 +0200" channel="TSN5.ca">
-    <title lang="en">Basketball</title>
-    <desc lang="en">Basketball.</desc>
+    <title lang="en">Philadelphia 76ers vs. Miami Heat</title>
+    <desc lang="en">Basketball. Eastern Conference Semifinal Game 1.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
     <rating system="US">
