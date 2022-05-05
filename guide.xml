@@ -944,8 +944,8 @@
     <desc lang="el">Είστε έτοιμοι; Έρχεται η Super Κατερίνα, το πιο super πρωινό, τηλεοπτικό μαγκαζίνο με την πιο super παρέα!</desc>
   </programme>
   <programme start="20220506130000 +0300" stop="20220506140000 +0300" channel="Alpha.gr">
-    <title lang="el">Το Σόι σου Κ5 Ε18 (Ε)</title>
-    <desc lang="el">Η Μπέλα μετά από πολύ καιρό έχει βρει έναν σύντροφο που έχει σοβαρό σκοπό και έχει έρθει πλέον η στιγμή να τον γνωρίσει και στα υπόλοιπα μέλη της οικογένειας. Πρόκειται για τον Μάκη, ένα παλιό της συμμαθητή, που είναι ερωτευμένος μαζί της από το γυμνάσιο.</desc>
+    <title lang="el">Το Σόι σου Κ5 (Ε)</title>
+    <desc lang="el">Ελληνική κωμική σειρά παραγωγής 2018-2019. Ο Σάββας και η Λυδία παντρεύτηκαν από έρωτα πριν από περίπου δέκα χρόνια. Από το γάμο τους απέκτησαν δύο κόρες και ένα πλήρες σετ συγγενών έκαστος, για να τους ταλαιπωρούν και να τους υπενθυμίζουν κάθε Κυριακή ότι τίποτα σε αυτή τη ζωή δεν είναι δωρεάν.</desc>
     <credits>
       <director>Αντώνης Αγγελόπουλος</director>
       <actor>Μίρκα Παπακωνσταντίνου</actor>
@@ -992,11 +992,15 @@
     </credits>
     <category lang="el">Κωμωδία - Κωμωδία</category>
   </programme>
-  <programme start="20220506210000 +0300" stop="20220506223000 +0300" channel="Alpha.gr">
-    <title lang="el">Τ! Φάση;</title>
-    <desc lang="el">Καθημερινοί άνθρωποι επιλέγονται μυστικά την ώρα που ετοιμάζονται να απολαύσουν τον καφέ ή το γεύμα με την παρέα τους, συνωμοτούν με τον Γιώργο Τσαλίκη και την Εβελίνα Νικόλιζα και καταστρώνουν μια ξεκαρδιστική φάρσα στους φίλους τους!</desc>
+  <programme start="20220506210000 +0300" stop="20220506234500 +0300" channel="Alpha.gr">
+    <title lang="el">Τα Νεοκλασικά</title>
+    <desc lang="el">Αγαπημένα ελληνικά θεατρικά έργα μεγάλων δημιουργών που έχουν γράψει ιστορία και θεωρούνται κλασικά, παίρνουν νέα μορφή και αναβιώνουν στις οθόνες μας.</desc>
   </programme>
-  <programme start="20220506223000 +0300" stop="20220506234500 +0300" channel="Alpha.gr">
+  <programme start="20220506234500 +0300" stop="20220506235000 +0300" channel="Alpha.gr">
+    <title lang="el">Αυτοψία</title>
+    <desc lang="el">Ο Αντώνης Σρόιτερ βρίσκεται εκεί που τα φλέγοντα κοινωνικά και πολιτικά θέματα εξελίσσονται, προκαλούν αντιπαραθέσεις, ζητούν απαντήσεις, απαιτούν λύσεις. Μέσα από αντικειμενική καταγραφή, αποκαλυπτική έρευνα και τεκμηριωμένες θέσεις παρουσιάζει όλα τα στοιχεία που συνθέτουν την επικαιρότητα.</desc>
+  </programme>
+  <programme start="20220506235000 +0300" stop="20220507011500 +0300" channel="Alpha.gr">
     <title lang="el">Κάτι να Καίει</title>
     <desc lang="el">Μια παρέα νεαρών μουσικών από τη Θεσσαλονίκη έρχεται στην Αθήνα, αναζητώντας την επιτυχία. (105') Παραγωγή: Ελλάδα.</desc>
     <credits>
@@ -1008,10 +1012,6 @@
     </credits>
     <date>1964</date>
     <category lang="el">Κωμωδία - Κωμωδία</category>
-  </programme>
-  <programme start="20220506234500 +0300" stop="20220507011500 +0300" channel="Alpha.gr">
-    <title lang="el">Αυτοψία</title>
-    <desc lang="el">Ο Αντώνης Σρόιτερ βρίσκεται εκεί που τα φλέγοντα κοινωνικά και πολιτικά θέματα εξελίσσονται, προκαλούν αντιπαραθέσεις, ζητούν απαντήσεις, απαιτούν λύσεις. Μέσα από αντικειμενική καταγραφή, αποκαλυπτική έρευνα και τεκμηριωμένες θέσεις παρουσιάζει όλα τα στοιχεία που συνθέτουν την επικαιρότητα.</desc>
   </programme>
   <programme start="20220505060000 +0300" stop="20220505070000 +0300" channel="MakedoniaTV.gr">
     <title lang="el">Γυναίκα Χωρίς Όνομα (Ε)</title>
@@ -2918,23 +2918,21 @@
     <title lang="el">Serie A Full Impact 2021-22</title>
     <desc lang="el">Στιγμιότυπα. Ένα μαγκαζίνο αφιερωμένο στο ιταλικό πρωτάθλημα. Παρουσιάζει συνεντεύξεις με παίκτες, στιγμιότυπα και προεπισκοπήσεις από τα επερχόμενα παιχνίδια.</desc>
   </programme>
-  <programme start="20220506200000 +0300" stop="20220506210000 +0300" channel="CosmoteSport2.gr">
+  <programme start="20220506200000 +0300" stop="20220506205500 +0300" channel="CosmoteSport2.gr">
     <title lang="el">Στο Πλεχτό</title>
     <desc lang="el">Στο 'γήπεδο' της εκπομπής παίζουν μπάλα οι αγαπημένοι δημοσιογράφοι και ραδιοφωνικοί παραγωγοί, οι οποίοι αναλαμβάνουν να σχολιάσουν τα ποδοσφαιρικά highlights με χιουμοριστική διάθεση και πλούσιο οπτικοακουστικό υλικό απ' ό,τι ξεχωρίζει στο γήπεδο, τις κερκίδες και τα αποδυτήρια.</desc>
   </programme>
-  <programme start="20220506210000 +0300" stop="20220506220000 +0300" channel="CosmoteSport2.gr">
-    <title lang="el">Ποδόσφαιρο: UEFA Europa Conference League 2021-22</title>
-    <desc lang="el">Hμιτελικός, 2ος αγώνας. Ένας θεσμός που κάνει ντεμπούτο τη σεζόν 2021-22, συνιστά την 3η ευρωπαϊκή διοργάνωση, όπου συμμετέχουν κυρίως ομάδες που βρίσκονται χαμηλά στην κατάταξη της UEFA. Συνολικά, θα διεξαχθούν 141 αγώνες σε 15 αγωνιστικές ημέρες.</desc>
-    <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
+  <programme start="20220506205500 +0300" stop="20220506212500 +0300" channel="CosmoteSport2.gr">
+    <title lang="el">Sports Classics: Send It</title>
+    <desc lang="el">Αθλητικό Ντοκιμαντέρ. O τίτλος της εκπομπής παραπέμπει στην προσπάθεια να δίνει κανείς τον καλύτερο εαυτό του στην επίτευξη ενός αθλητικού στόχου. Σε κάθε επεισόδιο, παρακολουθούμε σύντομες ιστορίες αθλητών που δοκιμάζουν τα όριά τους σε διάφορα σημεία του κόσμου.</desc>
   </programme>
-  <programme start="20220506220000 +0300" stop="20220506230000 +0300" channel="CosmoteSport2.gr">
-    <title lang="el">Ποδόσφαιρο: Ρόμα - Λέστερ (Ζ)</title>
-    <desc lang="el">UEFA Europa Conference League 2021-22. Hμιτελικός, 2ος αγώνας. Ένας θεσμός που κάνει ντεμπούτο τη σεζόν 2021-22, συνιστά την 3η ευρωπαϊκή διοργάνωση, όπου συμμετέχουν κυρίως ομάδες που βρίσκονται χαμηλά στην κατάταξη της UEFA. Συνολικά, θα διεξαχθούν 141 αγώνες σε 15 αγωνιστικές ημέρες. Περιγραφή: Γιώργος Θαναηλάκης.</desc>
-    <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
+  <programme start="20220506212500 +0300" stop="20220506220000 +0300" channel="CosmoteSport2.gr">
+    <title lang="el">Sports Classics: Send It</title>
+    <desc lang="el">Αθλητικό Ντοκιμαντέρ. O τίτλος της εκπομπής παραπέμπει στην προσπάθεια να δίνει κανείς τον καλύτερο εαυτό του στην επίτευξη ενός αθλητικού στόχου. Σε κάθε επεισόδιο, παρακολουθούμε σύντομες ιστορίες αθλητών που δοκιμάζουν τα όριά τους σε διάφορα σημεία του κόσμου.</desc>
   </programme>
-  <programme start="20220506230000 +0300" stop="20220507000000 +0300" channel="CosmoteSport2.gr">
-    <title lang="el">Ποδόσφαιρο: UEFA Europa Conference League 2021-22</title>
-    <desc lang="el">Hμιτελικός, 2ος αγώνας. Ένας θεσμός που κάνει ντεμπούτο τη σεζόν 2021-22, συνιστά την 3η ευρωπαϊκή διοργάνωση, όπου συμμετέχουν κυρίως ομάδες που βρίσκονται χαμηλά στην κατάταξη της UEFA. Συνολικά, θα διεξαχθούν 141 αγώνες σε 15 αγωνιστικές ημέρες.</desc>
+  <programme start="20220506220000 +0300" stop="20220507000000 +0300" channel="CosmoteSport2.gr">
+    <title lang="el">Ποδόσφαιρο: Τζένοα - Γιουβέντους (Ζ)</title>
+    <desc lang="el">Serie A 2021-22. 36η αγωνιστική. Η 120ή σεζόν του ιταλικού πρωταθλήματος ποδοσφαίρου περιλαμβάνει 20 ομάδες, από τις οποίες οι Έμπολι, Σαλερνιτάνα και Βενέτσια προβιβάστηκαν από τη Serie B. Η πρωταθλήτρια Ίντερ θα πρέπει να υπερασπιστεί τον τίτλο της απέναντι σε Μίλαν, Γιουβέντους, Ρόμα και Νάπολι. Περιγραφή: Μάνος Σπανόπουλος.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
   <programme start="20220505060000 +0300" stop="20220505080000 +0300" channel="CosmoteSport3.gr">
@@ -3028,9 +3026,14 @@
     <desc lang="el">31η αγωνιστική. Η 88η σεζόν του πορτογαλικού πρωταθλήματος περιλαμβάνει συνολικά 18 ομάδες, από τις οποίες οι Εστορίλ, Βισέλα και Αρούκα προήχθησαν από τη 2η κατηγορία. Η Σπόρτινγκ Λισαβόνας είναι η κάτοχος του τίτλου, για πρώτη φορά μετά από 19 χρόνια.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
-  <programme start="20220506080000 +0300" stop="20220506120000 +0300" channel="CosmoteSport3.gr">
+  <programme start="20220506080000 +0300" stop="20220506100000 +0300" channel="CosmoteSport3.gr">
     <title lang="el">Ποδόσφαιρο: Μπάνφιλντ - Ουνιόν Λα Καλέρα</title>
-    <desc lang="el">Copa Sudamericana 2022. Φάση Ομίλων. 4η Αγωνιστική. Η δεύτερη τη τάξει ποδοσφαιρική διασυλλογική διοργάνωση στη Νότιο Αμερική είναι ένα τουρνουά με τη συμμετοχή 44 ομάδων. Συνολικά, 17 ομάδες έχουν κατακτήσει το τρόπαιο, με τελευταία τη βραζιλιάνικη Ατλέτικο Παραναένσε.</desc>
+    <desc lang="el">Copa Sudamericana 2022. Φάση Ομίλων. 4η Αγωνιστική. Η δεύτερη τη τάξει ποδοσφαιρική διασυλλογική διοργάνωση στη Νότιο Αμερική είναι ένα τουρνουά με τη συμμετοχή 44 ομάδων. Συνολικά, 17 ομάδες έχουν κατακτήσει το τρόπαιο, με τελευταία τη βραζιλιάνικη Ατλέτικο Παραναένσε. Περιγραφή: Δημήτρης Ξαρλής.</desc>
+    <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20220506100000 +0300" stop="20220506120000 +0300" channel="CosmoteSport3.gr">
+    <title lang="el">Ποδόσφαιρο: Σέλτικ - Ρέιντζερς</title>
+    <desc lang="el">cinch Scottish Premiership 2021-22. 35η αγωνιστική. Παρακολουθήστε τους σπουδαιότερους αγώνες του σκωτσέζικου πρωταθλήματος ποδοσφαίρου, που είναι το δεύτερο παλαιότερο στον κόσμο. 12 ομάδες θα παλέψουν για τον τίτλο, τον οποίο κατάκτησαν οι Ρέιντζερς το 2021. Περιγραφή: Χρήστος Σωτηρακόπουλος.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
   <programme start="20220506120000 +0300" stop="20220506140000 +0300" channel="CosmoteSport3.gr">
@@ -3038,29 +3041,37 @@
     <desc lang="el">31η αγωνιστική. Η 88η σεζόν του πορτογαλικού πρωταθλήματος περιλαμβάνει συνολικά 18 ομάδες, από τις οποίες οι Εστορίλ, Βισέλα και Αρούκα προήχθησαν από τη 2η κατηγορία. Η Σπόρτινγκ Λισαβόνας είναι η κάτοχος του τίτλου, για πρώτη φορά μετά από 19 χρόνια.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
-  <programme start="20220506140000 +0300" stop="20220506160000 +0300" channel="CosmoteSport3.gr">
-    <title lang="el">Ποδόσφαιρο: Μπάνφιλντ - Ουνιόν Λα Καλέρα</title>
-    <desc lang="el">Copa Sudamericana 2022. Φάση Ομίλων. 4η Αγωνιστική. Η δεύτερη τη τάξει ποδοσφαιρική διασυλλογική διοργάνωση στη Νότιο Αμερική είναι ένα τουρνουά με τη συμμετοχή 44 ομάδων. Συνολικά, 17 ομάδες έχουν κατακτήσει το τρόπαιο, με τελευταία τη βραζιλιάνικη Ατλέτικο Παραναένσε.</desc>
-    <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
+  <programme start="20220506140000 +0300" stop="20220506155500 +0300" channel="CosmoteSport3.gr">
+    <title lang="el">Ποδόσφαιρο Σάλας: Μπαρτσελόνα - Σπόρτινγκ Λισαβόνας</title>
+    <desc lang="el">UEFA Futsal Champions League 2021-22. Τελικός. Η 36η έκδοση της κορυφαίας διοργάνωσης ποδοσφαίρου σάλας στην Ευρώπη περιλαμβάνει συνολικά 55 ομάδες από 51 χώρες. Φέτος, η τελική φάση θα γίνει με 4 ομάδες, οι οποίες θα αγωνιστούν σε έδρα που θα καθοριστεί όταν προκύψουν οι ημιφιναλίστ. Η Σπόρτινγκ είναι η κάτοχος του τίτλου. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
   </programme>
-  <programme start="20220506160000 +0300" stop="20220506180000 +0300" channel="CosmoteSport3.gr">
+  <programme start="20220506155500 +0300" stop="20220506175000 +0300" channel="CosmoteSport3.gr">
     <title lang="el">Ποδόσφαιρο: Φορταλέζα - Ρίβερ Πλέιτ</title>
-    <desc lang="el">Copa Libertadores 2022. Φάση Ομίλων, 4η αγωνιστική. Στην 63η έκδοση του Κόπα Λιμπερταδόρες, του κορυφαίου διασυλλογικού τουρνουά ποδοσφαίρου στη Νότιο Αμερική, συμμετέχουν 47 ομάδες από 10 χώρες. Ο τελικός θα γίνει στο Εκουαδόρ στις 29 Οκτωβρίου 2022, με τη βραζιλιάνικη Παλμέιρας να καλείται να υπερασπιστεί τον τίτλο της.</desc>
+    <desc lang="el">Copa Libertadores 2022. Φάση Ομίλων, 4η αγωνιστική. Στην 63η έκδοση του Κόπα Λιμπερταδόρες, του κορυφαίου διασυλλογικού τουρνουά ποδοσφαίρου στη Νότιο Αμερική, συμμετέχουν 47 ομάδες από 10 χώρες. Ο τελικός θα γίνει στο Εκουαδόρ στις 29 Οκτωβρίου 2022, με τη βραζιλιάνικη Παλμέιρας να καλείται να υπερασπιστεί τον τίτλο της. Περιγραφή: Αλέξανδρος Σωτηρόπουλος.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
-  <programme start="20220506180000 +0300" stop="20220506200000 +0300" channel="CosmoteSport3.gr">
+  <programme start="20220506175000 +0300" stop="20220506194500 +0300" channel="CosmoteSport3.gr">
     <title lang="el">Ποδόσφαιρο: Αμέρικα Μινέιρο - Ατλέτικο Μινέιρο</title>
-    <desc lang="el">Copa Libertadores 2022. Φάση Ομίλων, 4η αγωνιστική. Στην 63η έκδοση του Κόπα Λιμπερταδόρες, του κορυφαίου διασυλλογικού τουρνουά ποδοσφαίρου στη Νότιο Αμερική, συμμετέχουν 47 ομάδες από 10 χώρες. Ο τελικός θα γίνει στο Εκουαδόρ στις 29 Οκτωβρίου 2022, με τη βραζιλιάνικη Παλμέιρας να καλείται να υπερασπιστεί τον τίτλο της.</desc>
+    <desc lang="el">Copa Libertadores 2022. Φάση Ομίλων, 4η αγωνιστική. Στην 63η έκδοση του Κόπα Λιμπερταδόρες, του κορυφαίου διασυλλογικού τουρνουά ποδοσφαίρου στη Νότιο Αμερική, συμμετέχουν 47 ομάδες από 10 χώρες. Ο τελικός θα γίνει στο Εκουαδόρ στις 29 Οκτωβρίου 2022, με τη βραζιλιάνικη Παλμέιρας να καλείται να υπερασπιστεί τον τίτλο της. Περιγραφή: Δημήτρης Ξαρλής.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
-  <programme start="20220506200000 +0300" stop="20220506220000 +0300" channel="CosmoteSport3.gr">
-    <title lang="el">Ποδόσφαιρο: Liga Portugal BWIN 2021-22</title>
-    <desc lang="el">31η αγωνιστική. Η 88η σεζόν του πορτογαλικού πρωταθλήματος περιλαμβάνει συνολικά 18 ομάδες, από τις οποίες οι Εστορίλ, Βισέλα και Αρούκα προήχθησαν από τη 2η κατηγορία. Η Σπόρτινγκ Λισαβόνας είναι η κάτοχος του τίτλου, για πρώτη φορά μετά από 19 χρόνια.</desc>
+  <programme start="20220506194500 +0300" stop="20220506214500 +0300" channel="CosmoteSport3.gr">
+    <title lang="el">Ποδόσφαιρο: Ίντερ - Έμπολι (Ζ)</title>
+    <desc lang="el">Serie A 2021-22. 36η αγωνιστική. Η 120ή σεζόν του ιταλικού πρωταθλήματος ποδοσφαίρου περιλαμβάνει 20 ομάδες, από τις οποίες οι Έμπολι, Σαλερνιτάνα και Βενέτσια προβιβάστηκαν από τη Serie B. Η πρωταθλήτρια Ίντερ θα πρέπει να υπερασπιστεί τον τίτλο της απέναντι σε Μίλαν, Γιουβέντους, Ρόμα και Νάπολι. Περιγραφή: Αντρέα Παλομπαρίνι.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
-  <programme start="20220506220000 +0300" stop="20220507000000 +0300" channel="CosmoteSport3.gr">
-    <title lang="el">Ποδόσφαιρο: Liga Portugal BWIN 2021-22</title>
-    <desc lang="el">31η αγωνιστική. Η 88η σεζόν του πορτογαλικού πρωταθλήματος περιλαμβάνει συνολικά 18 ομάδες, από τις οποίες οι Εστορίλ, Βισέλα και Αρούκα προήχθησαν από τη 2η κατηγορία. Η Σπόρτινγκ Λισαβόνας είναι η κάτοχος του τίτλου, για πρώτη φορά μετά από 19 χρόνια.</desc>
+  <programme start="20220506214500 +0300" stop="20220506220000 +0300" channel="CosmoteSport3.gr">
+    <title lang="el">cinch Scottish Premiership 2021-22 - Στιγμιότυπα</title>
+    <desc lang="el">35η αγωνιστική. Δείτε τις καλύτερες στιγμές από την 1η κατηγορία του σκωτσέζικου ποδοσφαίρου, της δεύτερης παλαιότερης λίγκας στην Ευρώπη.</desc>
+  </programme>
+  <programme start="20220506220000 +0300" stop="20220506220500 +0300" channel="CosmoteSport3.gr">
+    <title lang="el">Ποδόσφαιρο: Άιντραχτ Φρανκφούρτης - Γουέστ Χαμ (Ζ)</title>
+    <desc lang="el">UEFA Europa League 2021-22. Hμιτελικός, 2ος αγώνας. Μετά τη Βαρκελώνη, η Άιντραχτ άλωσε και το Λονδίνο, θριαμβεύοντας με 2-1 επί της Γουέστ Χαμ, η οποία θα προσπαθήσει να επαναλάβει τον θρίαμβο των προημιτελικών κόντρα στη Λιόν, όταν και είχε προκριθεί εκτός έδρας. Περιγραφή: Άλκης Τσαβδαράς.</desc>
+    <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20220506220500 +0300" stop="20220507000000 +0300" channel="CosmoteSport3.gr">
+    <title lang="el">Ποδόσφαιρο: Σέλτικ - Ρέιντζερς</title>
+    <desc lang="el">cinch Scottish Premiership 2021-22. 35η αγωνιστική. Παρακολουθήστε τους σπουδαιότερους αγώνες του σκωτσέζικου πρωταθλήματος ποδοσφαίρου, που είναι το δεύτερο παλαιότερο στον κόσμο. 12 ομάδες θα παλέψουν για τον τίτλο, τον οποίο κατάκτησαν οι Ρέιντζερς το 2021. Περιγραφή: Χρήστος Σωτηρακόπουλος.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
   <programme start="20220505060000 +0300" stop="20220505075500 +0300" channel="CosmoteSport4.gr">
@@ -3173,9 +3184,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20220506160000 +0300" stop="20220506163000 +0300" channel="CosmoteSport4.gr">
-    <title lang="el">NBA Daily</title>
-    <desc lang="el">Η εκπομπή καλύπτει διαφορετικές ιστορίες από τον κόσμο του ΝΒΑ σε καθημερινή βάση, ενημερώνοντας τους φίλους του μπάσκετ αναφορικά με τους αγώνες και τους σταρ του αθλήματος.</desc>
-    <category lang="el">Μπάσκετ</category>
+    <title lang="el">Sports Classics - The Shortlist</title>
+    <desc lang="el">Σειρά ντοκιμαντέρ για την εξέλιξη του ΝΒΑ, από τις πρώτες δεκαετίες «ζωής» του έως και τη σύγχρονη εποχή.</desc>
   </programme>
   <programme start="20220506163000 +0300" stop="20220506185000 +0300" channel="CosmoteSport4.gr">
     <title lang="el">Μπάσκετ: NBA Playoffs</title>
@@ -3192,18 +3202,18 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20220506210500 +0300" stop="20220506213000 +0300" channel="CosmoteSport4.gr">
-    <title lang="el">NBA Daily</title>
-    <desc lang="el">Η εκπομπή καλύπτει διαφορετικές ιστορίες από τον κόσμο του ΝΒΑ σε καθημερινή βάση, ενημερώνοντας τους φίλους του μπάσκετ αναφορικά με τους αγώνες και τους σταρ του αθλήματος.</desc>
+    <title lang="el">Μπάσκετ: Φοίνιξ Σανς - Ντάλας Μάβερικς</title>
+    <desc lang="el">NBA Playoffs 2022. Δυτική Περιφέρεια. Ημιτελικοί. 2ος αγώνας. Οι πρώτες έξι ομάδες στην κανονική περίοδο από κάθε περιφέρεια συμμετέχουν απευθείας στα πλέι οφ, ενώ οι δύο νικητές του play-in τουρνουά κάθε περιφέρειας συμπληρώνουν τους 16 διεκδικητές του τίτλου στην 76η σεζόν του ΝΒΑ. Περιγραφή: Κώστας Κατέβας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20220506213000 +0300" stop="20220506213500 +0300" channel="CosmoteSport4.gr">
+  <programme start="20220506213000 +0300" stop="20220506233500 +0300" channel="CosmoteSport4.gr">
     <title lang="el">Μπάσκετ: Μαϊάμι Χιτ - Φιλαδέλφεια 76ερς</title>
-    <desc lang="el">NBA Playoffs 2022. Ανατολική Περιφέρεια. Ημιτελικοί. 2ος αγώνας. Οι πρώτες έξι ομάδες στην κανονική περίοδο από κάθε περιφέρεια συμμετέχουν απευθείας στα πλέι οφ, ενώ οι δύο νικητές του play-in τουρνουά κάθε περιφέρειας συμπληρώνουν τους 16 διεκδικητές του τίτλου στην 76η σεζόν του ΝΒΑ.</desc>
+    <desc lang="el">NBA Playoffs 2022. Ανατολική Περιφέρεια. Ημιτελικοί. 2ος αγώνας. Οι πρώτες έξι ομάδες στην κανονική περίοδο από κάθε περιφέρεια συμμετέχουν απευθείας στα πλέι οφ, ενώ οι δύο νικητές του play-in τουρνουά κάθε περιφέρειας συμπληρώνουν τους 16 διεκδικητές του τίτλου στην 76η σεζόν του ΝΒΑ. Περιγραφή: Βασίλης Σκουντής.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20220506213500 +0300" stop="20220507000000 +0300" channel="CosmoteSport4.gr">
-    <title lang="el">Μπάσκετ: NBA Playoffs</title>
-    <desc lang="el">1ος γύρος. 1ος αγώνας.</desc>
+  <programme start="20220506233500 +0300" stop="20220507000000 +0300" channel="CosmoteSport4.gr">
+    <title lang="el">Μπάσκετ: Μαϊάμι Χιτ - Φιλαδέλφεια 76ερς</title>
+    <desc lang="el">NBA Playoffs 2022. Ανατολική Περιφέρεια. Ημιτελικοί. 1ος αγώνας. Οι πρώτες έξι ομάδες στην κανονική περίοδο από κάθε περιφέρεια συμμετέχουν απευθείας στα πλέι οφ, ενώ οι δύο νικητές του play-in τουρνουά κάθε περιφέρειας συμπληρώνουν τους 16 διεκδικητές του τίτλου στην 76η σεζόν του ΝΒΑ. Περιγραφή: Δημήτρης Ζαφειρόπουλος.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20220505060000 +0300" stop="20220505091500 +0300" channel="CosmoteSport5.gr">
@@ -3337,9 +3347,13 @@
     <desc lang="el">Η σειρά GP Confidential φωτίζει αθέατες πλευρές της Φόρμουλα 1, μέσω της χρήσης animation, που αποκαλύπτει το πώς οι ομάδες προσαρμόζονται στις ανάγκες των διαδρομών και στις εξελίξεις στην αεροδυναμική. Επίσης, προσφέρει μια αναδρομή στο ένδοξο παρελθόν, μέσα από μεγάλες στιγμές και θρύλους.</desc>
     <episode-num system="onscreen">S2022</episode-num>
   </programme>
-  <programme start="20220506212000 +0300" stop="20220506225000 +0300" channel="CosmoteSport5.gr">
-    <title lang="el">Formula 1 2022 - Crypto.Com Miami Grand Prix (Ζ)</title>
+  <programme start="20220506212000 +0300" stop="20220506223500 +0300" channel="CosmoteSport5.gr">
+    <title lang="el">Formula 1 2022 - Γκραν Πρι Crypto.com Μαϊάμι (Ζ)</title>
     <desc lang="el">Ελεύθερα Δοκιμαστικά 1. Περιγραφή: Κώστας Ψάρρας, Γιάννης Μάριος Παπαδόπουλος. Παρακολουθήστε τα ελεύθερα δοκιμαστικά 1 που διεξάγονται στo Μαϊάμι, για το Παγκόσμιο Πρωτάθλημα Formula 1.</desc>
+  </programme>
+  <programme start="20220506223500 +0300" stop="20220506225000 +0300" channel="CosmoteSport5.gr">
+    <title lang="el">Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
   </programme>
   <programme start="20220506225000 +0300" stop="20220506231500 +0300" channel="CosmoteSport5.gr">
     <title lang="el">Sports Classics: Gearing Up</title>
@@ -5562,13 +5576,13 @@
     <date>2021</date>
     <episode-num system="onscreen">Säsong 2. Del 5 av 6</episode-num>
   </programme>
-  <programme start="20220506025500 +0200" stop="20220506040000 +0200" channel="TV4.se">
+  <programme start="20220506025500 +0200" stop="20220506035500 +0200" channel="TV4.se">
     <title lang="sv">En plats i solen - borta eller hemma bäst?</title>
     <desc lang="sv">Brittisk livsstilsserie från 2020. Pensionen närmar sig med stormsteg och Gary och Janet är på jakt efter ett hus i Spanien där de kan slå sig till ro. Fastighet i Storbritannien har de redan sålt så nu gäller det bara att hitta något som faller de båda i smaken. ,.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 12. Del 51 av 80</episode-num>
   </programme>
-  <programme start="20220506040000 +0200" stop="20220506050500 +0200" channel="TV4.se">
+  <programme start="20220506035500 +0200" stop="20220506050500 +0200" channel="TV4.se">
     <title lang="sv">House</title>
     <desc lang="sv">Amerikansk dramaserie från 2004. Histories. Doktor Foreman misstänker att en hemlös kvinna låtsas få anfall bara för att få stanna kvar på sjukhuset. Doktor Wilson å sin sida gör allt för att hålla kvar henne. Kvinnans symtom blir värre men eftersom man inte känner till hennes identitet och sjukdomshistoria står House och hans team maktlösa. ,.</desc>
     <date>2004</date>
@@ -8191,13 +8205,13 @@
     </credits>
     <date>1989</date>
   </programme>
-  <programme start="20220506035000 +0200" stop="20220506043000 +0200" channel="TV4Film.se">
+  <programme start="20220506035000 +0200" stop="20220506042500 +0200" channel="TV4Film.se">
     <title lang="sv">Planet action</title>
     <desc lang="sv">Amerikansk dokumentärserie från 2020. Amerikanskt nöjesprogram som tar oss med bakom kulisserna på hollywoods största actionfilmer. Här får följa med på inspelningsplatserna och se hur actionmagin skapas, med allt från exploderande bilar till vådliga stunts, och får se hur filmmakarna skapar fantastiska platser och läskiga varelser. ,.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 1. Del 7 av 55</episode-num>
   </programme>
-  <programme start="20220506043000 +0200" stop="20220506050500 +0200" channel="TV4Film.se">
+  <programme start="20220506042500 +0200" stop="20220506050500 +0200" channel="TV4Film.se">
     <title lang="sv">Planet action</title>
     <desc lang="sv">Amerikansk dokumentärserie från 2020. Amerikanskt nöjesprogram som tar oss med bakom kulisserna på hollywoods största actionfilmer. Här får följa med på inspelningsplatserna och se hur actionmagin skapas, med allt från exploderande bilar till vådliga stunts, och får se hur filmmakarna skapar fantastiska platser och läskiga varelser. ,.</desc>
     <date>2020</date>
@@ -10526,17 +10540,11 @@
     <date>2009</date>
     <episode-num system="onscreen">Säsong 2. Del 3 av 26</episode-num>
   </programme>
-  <programme start="20220506154000 +0200" stop="20220506154500 +0200" channel="Boomerang.se">
+  <programme start="20220506154000 +0200" stop="20220506155000 +0200" channel="Boomerang.se">
     <title lang="sv">Masha och björnen</title>
     <desc lang="sv">Växtdryck. När björnen inspekterar sin trädgård så upptäcker han att hans tulpaner inte trivs särskilt bra. Björnen är less på det hela och bestämmer sig för att skapa den ultimata tillväxtdrycken.</desc>
     <date>2009</date>
     <episode-num system="onscreen">Säsong 2. Del 4 av 26</episode-num>
-  </programme>
-  <programme start="20220506154500 +0200" stop="20220506155000 +0200" channel="Boomerang.se">
-    <title lang="sv">Masha och björnen</title>
-    <desc lang="sv">Undansopad. Masha och Haren spelar en fantastisk hockeymatch. När Masha går i väg för att hitta en försvunnen puck så hittar hon en kvast och får en idé.</desc>
-    <date>2009</date>
-    <episode-num system="onscreen">Säsong 2. Del 5 av 26</episode-num>
   </programme>
   <programme start="20220506155000 +0200" stop="20220506155500 +0200" channel="Boomerang.se">
     <title lang="sv">Masha och björnen</title>
@@ -13689,9 +13697,15 @@
     <episode-num system="onscreen">Säsong 2022. Del 28 av 29</episode-num>
   </programme>
   <programme start="20220506185000 +0200" stop="20220506204500 +0200" channel="Sportkanalen.se">
-    <title lang="sv">Handboll</title>
-    <desc lang="sv">LugiSävehof. SHE.</desc>
-    <date>2022</date>
+    <title lang="sv">Four Falls of Buffalo</title>
+    <desc lang="sv">Amerikansk dokumentär från 2015. Dokumentär från ESPN:s filmserie "30 for 30" om det amerikanska fotbollslaget Buffalo Bills som i början av 90-talet lyckades ta sig till finalen Super Bowl hela fyra år i rad - bara för att förlora allihop. "Four Falls of Buffalo" skildrar laget och de avgörande moment som ledde till den rekordartade förlustsviten.</desc>
+    <credits>
+      <director>Ken Rodgers</director>
+      <actor>Marv Levy</actor>
+      <actor>Troy Aikman</actor>
+      <actor>Jim Kelly</actor>
+    </credits>
+    <date>2015</date>
   </programme>
   <programme start="20220506204500 +0200" stop="20220506210000 +0200" channel="Sportkanalen.se">
     <title lang="sv">Höjdpunkter</title>
@@ -13734,39 +13748,39 @@
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 2 av 5</episode-num>
   </programme>
-  <programme start="20220505060000 +0200" stop="20220505064600 +0200" channel="Eurosport1.se">
+  <programme start="20220505060000 +0200" stop="20220505064400 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 17 Herrar. World Tour - Giro d'Italia. Etapp 17 Herrar. ,.</desc>
   </programme>
-  <programme start="20220505064600 +0200" stop="20220505074300 +0200" channel="Eurosport1.se">
+  <programme start="20220505064400 +0200" stop="20220505073900 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 18 Herrar. World Tour - Giro d'Italia. Etapp 18 Herrar. ,.</desc>
   </programme>
-  <programme start="20220505074300 +0200" stop="20220505083800 +0200" channel="Eurosport1.se">
+  <programme start="20220505073900 +0200" stop="20220505083100 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 19 Herrar. World Tour - Giro d'Italia. Etapp 19 Herrar. ,.</desc>
   </programme>
-  <programme start="20220505083800 +0200" stop="20220505093300 +0200" channel="Eurosport1.se">
+  <programme start="20220505083100 +0200" stop="20220505092400 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 20 Herrar. World Tour - Giro d'Italia. Etapp 20 Herrar. ,.</desc>
   </programme>
-  <programme start="20220505093300 +0200" stop="20220505102900 +0200" channel="Eurosport1.se">
+  <programme start="20220505092400 +0200" stop="20220505102000 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 21 Herrar. World Tour - Giro d'Italia. Etapp 21 Herrar. ,.</desc>
   </programme>
-  <programme start="20220505102900 +0200" stop="20220505122000 +0200" channel="Eurosport1.se">
+  <programme start="20220505102000 +0200" stop="20220505121400 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 4 Herrar. World Tour - Romandiet runt. Etapp 4 Herrar. ,.</desc>
   </programme>
-  <programme start="20220505122000 +0200" stop="20220505131700 +0200" channel="Eurosport1.se">
+  <programme start="20220505121400 +0200" stop="20220505131000 +0200" channel="Eurosport1.se">
     <title lang="sv">Fäktning</title>
     <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220505131700 +0200" stop="20220505144200 +0200" channel="Eurosport1.se">
+  <programme start="20220505131000 +0200" stop="20220505143500 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 2 Herrar 4 Jours de Dunkerque. Cykel Pro Series 4 Jours de Dunkerque. Etapp 2 Herrar 4 Jours de Dunkerque. ,.</desc>
   </programme>
-  <programme start="20220505144200 +0200" stop="20220505160000 +0200" channel="Eurosport1.se">
+  <programme start="20220505143500 +0200" stop="20220505160000 +0200" channel="Eurosport1.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Meiringen Final Boulder Herrar. Klättring: Världscupen. Meiringen. ,.</desc>
   </programme>
@@ -13786,23 +13800,23 @@
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 3 Herrar 4 Jours de Dunkerque. Cykel Pro Series 4 Jours de Dunkerque. Etapp 3 Herrar 4 Jours de Dunkerque. ,.</desc>
   </programme>
-  <programme start="20220505225800 +0200" stop="20220505235900 +0200" channel="Eurosport1.se">
+  <programme start="20220505225800 +0200" stop="20220505235800 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Damer. World Tour - Liège-Bastogne-Liège. Damer. ,.</desc>
   </programme>
-  <programme start="20220505235900 +0200" stop="20220506010100 +0200" channel="Eurosport1.se">
+  <programme start="20220505235800 +0200" stop="20220506010100 +0200" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">VM Semifinal. Snooker, VM. VM Semifinal. ,.</desc>
   </programme>
-  <programme start="20220506010100 +0200" stop="20220506020000 +0200" channel="Eurosport1.se">
+  <programme start="20220506010100 +0200" stop="20220506015500 +0200" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">VM Semifinal. Snooker, VM. VM Semifinal. ,.</desc>
   </programme>
-  <programme start="20220506020000 +0200" stop="20220506035400 +0200" channel="Eurosport1.se">
+  <programme start="20220506015500 +0200" stop="20220506040300 +0200" channel="Eurosport1.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">VM Final. Snooker, VM. VM Final. ,.</desc>
   </programme>
-  <programme start="20220506035400 +0200" stop="20220506060000 +0200" channel="Eurosport1.se">
+  <programme start="20220506040300 +0200" stop="20220506060000 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 4 Herrar. World Tour - Romandiet runt. Etapp 4 Herrar. ,.</desc>
   </programme>
@@ -13878,19 +13892,19 @@
     <title lang="sv">Snooker</title>
     <desc lang="sv">VM Semifinal. Snooker, VM. VM Semifinal. ,.</desc>
   </programme>
-  <programme start="20220505114300 +0200" stop="20220505124000 +0200" channel="Eurosport2.se">
+  <programme start="20220505114300 +0200" stop="20220505123500 +0200" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">VM Semifinal. Snooker, VM. VM Semifinal. ,.</desc>
   </programme>
-  <programme start="20220505124000 +0200" stop="20220505133600 +0200" channel="Eurosport2.se">
+  <programme start="20220505123500 +0200" stop="20220505133200 +0200" channel="Eurosport2.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Meiringen Final Boulder Damer. Klättring: Världscupen. Meiringen. ,.</desc>
   </programme>
-  <programme start="20220505133600 +0200" stop="20220505143300 +0200" channel="Eurosport2.se">
+  <programme start="20220505133200 +0200" stop="20220505142800 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Herrar. World Tour - Eschborn Frankfurt. Herrar. ,.</desc>
   </programme>
-  <programme start="20220505143300 +0200" stop="20220505153000 +0200" channel="Eurosport2.se">
+  <programme start="20220505142800 +0200" stop="20220505153000 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 2 Herrar 4 Jours de Dunkerque. Cykel Pro Series 4 Jours de Dunkerque. Etapp 2 Herrar 4 Jours de Dunkerque. ,.</desc>
   </programme>
@@ -13926,15 +13940,15 @@
     <title lang="sv">Snooker</title>
     <desc lang="sv">VM Semifinal. Snooker, VM. VM Semifinal. ,.</desc>
   </programme>
-  <programme start="20220506034600 +0200" stop="20220506043500 +0200" channel="Eurosport2.se">
+  <programme start="20220506034600 +0200" stop="20220506043100 +0200" channel="Eurosport2.se">
     <title lang="sv">Snooker</title>
     <desc lang="sv">VM Semifinal. Snooker, VM. VM Semifinal. ,.</desc>
   </programme>
-  <programme start="20220506043500 +0200" stop="20220506052300 +0200" channel="Eurosport2.se">
+  <programme start="20220506043100 +0200" stop="20220506051900 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Herrar. World Tour - Liège-Bastogne-Liège. Herrar. ,.</desc>
   </programme>
-  <programme start="20220506052300 +0200" stop="20220506060000 +0200" channel="Eurosport2.se">
+  <programme start="20220506051900 +0200" stop="20220506060000 +0200" channel="Eurosport2.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">PGA-touren Magasin. ,.</desc>
   </programme>
