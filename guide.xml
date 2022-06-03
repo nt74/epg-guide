@@ -7,70 +7,87 @@
   </channel>
   <channel id="Star.gr">
     <display-name lang="el">Star</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/star.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="Alpha.gr">
     <display-name lang="el">Alpha</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/alpha.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="MakedoniaTV.gr">
     <display-name lang="el">Μακεδονία TV</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/makedonia.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="Skai.gr">
     <display-name lang="el">ΣΚΑΪ</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/skai.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="EpsilonTV.gr">
     <display-name lang="el">Open Beyond TV</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/opentv.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="ERT1.gr">
     <display-name lang="el">ΕΡΤ1</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/ert1.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="ERT2.gr">
     <display-name lang="el">ΕΡΤ2</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/ert2.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="ERT3.gr">
     <display-name lang="el">ΕΡΤ3</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/ert3.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="Mega.gr">
     <display-name lang="el">MEGA HD</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/MEGA-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport1.gr">
     <display-name lang="el">COSMOTESport1HD</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/sport1-otetv-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport2.gr">
     <display-name lang="el">COSMOTESport2HD</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/sport2-otetv-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport3.gr">
     <display-name lang="el">COSMOTESport3HD</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/sport3-otetv-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport4.gr">
     <display-name lang="el">COSMOTESport4HD</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-4-HD-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport5.gr">
     <display-name lang="el">COSMOTESport5HD</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-5-HD-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport6.gr">
     <display-name lang="el">COSMOTESport6HD</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-6-HD-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport7.gr">
     <display-name lang="el">COSMOTESport7HD</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-7-HD-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="CosmoteSport8.gr">
     <display-name lang="el">COSMOTESport8HD</display-name>
+    <icon src="http://img.pathfinder.gr/Pathfinder/Tv/channels/OTE-Sport-8-HD-dig.jpg" />
     <url>http://www.tv.pathfinder.gr</url>
   </channel>
   <channel id="SVT1.se">
@@ -195,10 +212,12 @@
   </channel>
   <channel id="NBATV.us">
     <display-name lang="en">NBA TV USA</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbatv.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TNT.us">
     <display-name lang="en">TNT - Eastern Feed</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tnt-16.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <programme start="20220603060000 +0300" stop="20220603095000 +0300" channel="ANT1.gr">
@@ -14566,7 +14585,7 @@
     </credits>
     <date>2008</date>
   </programme>
-  <programme start="20220603054500 -0400" stop="20220603071500 -0400" channel="NBATV.us">
+  <programme start="20220603054500 +0200" stop="20220603071500 +0200" channel="NBATV.us">
     <title lang="en">NBA Post-game Show</title>
     <sub-title lang="en">Live at the Finals</sub-title>
     <category lang="en">Sports</category>
@@ -14575,7 +14594,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220603071500 -0400" stop="20220603084500 -0400" channel="NBATV.us">
+  <programme start="20220603071500 +0200" stop="20220603084500 +0200" channel="NBATV.us">
     <title lang="en">NBA Post-game Show</title>
     <sub-title lang="en">Live at the Finals</sub-title>
     <category lang="en">Sports</category>
@@ -14584,7 +14603,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220603084500 -0400" stop="20220603101500 -0400" channel="NBATV.us">
+  <programme start="20220603084500 +0200" stop="20220603101500 +0200" channel="NBATV.us">
     <title lang="en">NBA Post-game Show</title>
     <sub-title lang="en">Live at the Finals</sub-title>
     <category lang="en">Sports</category>
@@ -14593,7 +14612,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220603101500 -0400" stop="20220603120000 -0400" channel="NBATV.us">
+  <programme start="20220603101500 +0200" stop="20220603120000 +0200" channel="NBATV.us">
     <title lang="en">NBA Post-game Show</title>
     <sub-title lang="en">Live at the Finals</sub-title>
     <category lang="en">Sports</category>
@@ -14602,7 +14621,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220603120000 -0400" stop="20220603133000 -0400" channel="NBATV.us">
+  <programme start="20220603120000 +0200" stop="20220603133000 +0200" channel="NBATV.us">
     <title lang="en">NBA Post-game Show</title>
     <sub-title lang="en">Live at the Finals</sub-title>
     <category lang="en">Sports</category>
@@ -14611,7 +14630,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220603133000 -0400" stop="20220603150000 -0400" channel="NBATV.us">
+  <programme start="20220603133000 +0200" stop="20220603150000 +0200" channel="NBATV.us">
     <title lang="en">NBA Post-game Show</title>
     <sub-title lang="en">Live at the Finals</sub-title>
     <category lang="en">Sports</category>
@@ -14620,7 +14639,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220603150000 -0400" stop="20220603163000 -0400" channel="NBATV.us">
+  <programme start="20220603150000 +0200" stop="20220603163000 +0200" channel="NBATV.us">
     <title lang="en">NBA Post-game Show</title>
     <sub-title lang="en">Live at the Finals</sub-title>
     <category lang="en">Sports</category>
@@ -14629,7 +14648,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220603163000 -0400" stop="20220603183000 -0400" channel="NBATV.us">
+  <programme start="20220603163000 +0200" stop="20220603183000 +0200" channel="NBATV.us">
     <title lang="en">Playoff Playback</title>
     <desc lang="en">Hour-long replays of the NBA Playoffs. Final Game 1.</desc>
     <category lang="en">Sports</category>
@@ -14638,7 +14657,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220603183000 -0400" stop="20220603200000 -0400" channel="NBATV.us">
+  <programme start="20220603183000 +0200" stop="20220603200000 +0200" channel="NBATV.us">
     <title lang="en">NBA Post-game Show</title>
     <sub-title lang="en">Live at the Finals</sub-title>
     <category lang="en">Sports</category>
@@ -14647,13 +14666,13 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220603200000 -0400" stop="20220603210000 -0400" channel="NBATV.us">
+  <programme start="20220603200000 +0200" stop="20220603210000 +0200" channel="NBATV.us">
     <title lang="en">As We Rise: 25 Years of the WNBA</title>
     <desc lang="en">Candace Parker, Diana Taurasi, A'Ja Wilson and more look at how the WNBA and its players have evolved through the first 25 years of the league.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220603210000 -0400" stop="20220603230000 -0400" channel="NBATV.us">
+  <programme start="20220603210000 +0200" stop="20220603230000 +0200" channel="NBATV.us">
     <title lang="en">Playoff Playback</title>
     <desc lang="en">Hour-long replays of the NBA Playoffs. Final Game 1.</desc>
     <category lang="en">Sports</category>
@@ -14662,7 +14681,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220603230000 -0400" stop="20220604010000 -0400" channel="NBATV.us">
+  <programme start="20220603230000 +0200" stop="20220604010000 +0200" channel="NBATV.us">
     <title lang="en">Playoff Playback</title>
     <desc lang="en">Hour-long replays of the NBA Playoffs. Final Game 1.</desc>
     <category lang="en">Sports</category>
@@ -14671,49 +14690,49 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220604010000 -0400" stop="20220604013000 -0400" channel="NBATV.us">
+  <programme start="20220604010000 +0200" stop="20220604013000 +0200" channel="NBATV.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">The latest NBA news, scores and highlights.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604013000 -0400" stop="20220604020000 -0400" channel="NBATV.us">
+  <programme start="20220604013000 +0200" stop="20220604020000 +0200" channel="NBATV.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">The latest NBA news, scores and highlights.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604020000 -0400" stop="20220604023000 -0400" channel="NBATV.us">
+  <programme start="20220604020000 +0200" stop="20220604023000 +0200" channel="NBATV.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">The latest NBA news, scores and highlights.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604023000 -0400" stop="20220604030000 -0400" channel="NBATV.us">
+  <programme start="20220604023000 +0200" stop="20220604030000 +0200" channel="NBATV.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">The latest NBA news, scores and highlights.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604030000 -0400" stop="20220604033000 -0400" channel="NBATV.us">
+  <programme start="20220604030000 +0200" stop="20220604033000 +0200" channel="NBATV.us">
     <title lang="en">NBA Finals Film Room</title>
     <sub-title lang="en">Game 1</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604033000 -0400" stop="20220604040000 -0400" channel="NBATV.us">
+  <programme start="20220604033000 +0200" stop="20220604040000 +0200" channel="NBATV.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">The latest NBA news, scores and highlights.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604040000 -0400" stop="20220604043000 -0400" channel="NBATV.us">
+  <programme start="20220604040000 +0200" stop="20220604043000 +0200" channel="NBATV.us">
     <title lang="en">NBA Finals Film Room</title>
     <sub-title lang="en">Game 1</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604043000 -0400" stop="20220604043000 -0400" channel="NBATV.us">
+  <programme start="20220604043000 +0200" stop="20220604043000 +0200" channel="NBATV.us">
     <title lang="en">Playoff Playback</title>
     <desc lang="en">Hour-long replays of the NBA Playoffs. Final Game 1.</desc>
     <category lang="en">Sports</category>
@@ -14722,7 +14741,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220604043000 -0400" stop="20220604063000 -0400" channel="NBATV.us">
+  <programme start="20220604043000 +0200" stop="20220604063000 +0200" channel="NBATV.us">
     <title lang="en">Playoff Playback</title>
     <desc lang="en">Hour-long replays of the NBA Playoffs. Final Game 1.</desc>
     <category lang="en">Sports</category>
@@ -14731,25 +14750,25 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220604063000 -0400" stop="20220604070000 -0400" channel="NBATV.us">
+  <programme start="20220604063000 +0200" stop="20220604070000 +0200" channel="NBATV.us">
     <title lang="en">NBA Finals Film Room</title>
     <sub-title lang="en">Game 1</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604070000 -0400" stop="20220604073000 -0400" channel="NBATV.us">
+  <programme start="20220604070000 +0200" stop="20220604073000 +0200" channel="NBATV.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">The latest NBA news, scores and highlights.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604073000 -0400" stop="20220604080000 -0400" channel="NBATV.us">
+  <programme start="20220604073000 +0200" stop="20220604080000 +0200" channel="NBATV.us">
     <title lang="en">NBA Finals Film Room</title>
     <sub-title lang="en">Game 1</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604080000 -0400" stop="20220604100000 -0400" channel="NBATV.us">
+  <programme start="20220604080000 +0200" stop="20220604100000 +0200" channel="NBATV.us">
     <title lang="en">Playoff Playback</title>
     <desc lang="en">Hour-long replays of the NBA Playoffs. Final Game 1.</desc>
     <category lang="en">Sports</category>
@@ -14758,91 +14777,91 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220604100000 -0400" stop="20220604103000 -0400" channel="NBATV.us">
+  <programme start="20220604100000 +0200" stop="20220604103000 +0200" channel="NBATV.us">
     <title lang="en">NBA Finals Film Room</title>
     <sub-title lang="en">Game 1</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604103000 -0400" stop="20220604110000 -0400" channel="NBATV.us">
+  <programme start="20220604103000 +0200" stop="20220604110000 +0200" channel="NBATV.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">The latest NBA news, scores and highlights.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604110000 -0400" stop="20220604113000 -0400" channel="NBATV.us">
+  <programme start="20220604110000 +0200" stop="20220604113000 +0200" channel="NBATV.us">
     <title lang="en">NBA Finals Film Room</title>
     <sub-title lang="en">Game 1</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604113000 -0400" stop="20220604120000 -0400" channel="NBATV.us">
+  <programme start="20220604113000 +0200" stop="20220604120000 +0200" channel="NBATV.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">The latest NBA news, scores and highlights.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604120000 -0400" stop="20220604123000 -0400" channel="NBATV.us">
+  <programme start="20220604120000 +0200" stop="20220604123000 +0200" channel="NBATV.us">
     <title lang="en">NBA Finals Film Room</title>
     <sub-title lang="en">Game 1</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604123000 -0400" stop="20220604130000 -0400" channel="NBATV.us">
+  <programme start="20220604123000 +0200" stop="20220604130000 +0200" channel="NBATV.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">The latest NBA news, scores and highlights.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604130000 -0400" stop="20220604133000 -0400" channel="NBATV.us">
+  <programme start="20220604130000 +0200" stop="20220604133000 +0200" channel="NBATV.us">
     <title lang="en">NBA Finals Film Room</title>
     <sub-title lang="en">Game 1</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604133000 -0400" stop="20220604140000 -0400" channel="NBATV.us">
+  <programme start="20220604133000 +0200" stop="20220604140000 +0200" channel="NBATV.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">The latest NBA news, scores and highlights.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604140000 -0400" stop="20220604143000 -0400" channel="NBATV.us">
+  <programme start="20220604140000 +0200" stop="20220604143000 +0200" channel="NBATV.us">
     <title lang="en">NBA Finals Film Room</title>
     <sub-title lang="en">Game 1</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604143000 -0400" stop="20220604150000 -0400" channel="NBATV.us">
+  <programme start="20220604143000 +0200" stop="20220604150000 +0200" channel="NBATV.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">The latest NBA news, scores and highlights.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604150000 -0400" stop="20220604153000 -0400" channel="NBATV.us">
+  <programme start="20220604150000 +0200" stop="20220604153000 +0200" channel="NBATV.us">
     <title lang="en">NBA Finals Film Room</title>
     <sub-title lang="en">Game 1</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604153000 -0400" stop="20220604160000 -0400" channel="NBATV.us">
+  <programme start="20220604153000 +0200" stop="20220604160000 +0200" channel="NBATV.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">The latest NBA news, scores and highlights.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604160000 -0400" stop="20220604163000 -0400" channel="NBATV.us">
+  <programme start="20220604160000 +0200" stop="20220604163000 +0200" channel="NBATV.us">
     <title lang="en">NBA GameTime</title>
     <desc lang="en">The latest NBA news, scores and highlights.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604163000 -0400" stop="20220604170000 -0400" channel="NBATV.us">
+  <programme start="20220604163000 +0200" stop="20220604170000 +0200" channel="NBATV.us">
     <title lang="en">NBA Finals Film Room</title>
     <sub-title lang="en">Game 1</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20220604170000 -0400" stop="20220604190000 -0400" channel="NBATV.us">
+  <programme start="20220604170000 +0200" stop="20220604190000 +0200" channel="NBATV.us">
     <title lang="en">Playoff Playback</title>
     <desc lang="en">Hour-long replays of the NBA Playoffs. Final Game 1.</desc>
     <category lang="en">Sports</category>
@@ -14851,7 +14870,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220604190000 -0400" stop="20220604210000 -0400" channel="NBATV.us">
+  <programme start="20220604190000 +0200" stop="20220604210000 +0200" channel="NBATV.us">
     <title lang="en">Playoff Playback</title>
     <desc lang="en">Hour-long replays of the NBA Playoffs. Final Game 1.</desc>
     <category lang="en">Sports</category>
@@ -14860,7 +14879,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220604210000 -0400" stop="20220604230000 -0400" channel="NBATV.us">
+  <programme start="20220604210000 +0200" stop="20220604230000 +0200" channel="NBATV.us">
     <title lang="en">NBA Finals Media Availability</title>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
@@ -14868,7 +14887,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220604230000 -0400" stop="20220605010000 -0400" channel="NBATV.us">
+  <programme start="20220604230000 +0200" stop="20220605010000 +0200" channel="NBATV.us">
     <title lang="en">Playoff Playback</title>
     <desc lang="en">Hour-long replays of the NBA Playoffs. Final Game 1.</desc>
     <category lang="en">Sports</category>
@@ -14877,7 +14896,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220603053000 -0400" stop="20220603063100 -0400" channel="TNT.us">
+  <programme start="20220603053000 +0200" stop="20220603063100 +0200" channel="TNT.us">
     <title lang="en">Guy's Grocery Games</title>
     <sub-title lang="en">Burgers or Bust</sub-title>
     <desc lang="en">Four chefs who specialize in making baller burgers go head-to-head to find out which burger expert reigns supreme. Guy Fieri starts things off strong by having the chefs make a double burger, but all the burger buns are out of stock.</desc>
@@ -14886,7 +14905,7 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20220603063100 -0400" stop="20220603090100 -0400" channel="TNT.us">
+  <programme start="20220603063100 +0200" stop="20220603090100 +0200" channel="TNT.us">
     <title lang="en">The Legend of Tarzan</title>
     <desc lang="en">Many years after Tarzan left the jungles of Africa to live in London with his wife Jane, he is invited back as a trade emissary to the Congo. He is unaware that he is just a pawn in a deadly convergence of greed, putting both his lives in danger.</desc>
     <credits>
@@ -14905,7 +14924,7 @@
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20220603090100 -0400" stop="20220603100000 -0400" channel="TNT.us">
+  <programme start="20220603090100 +0200" stop="20220603100000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">The Order of the Mongoose</sub-title>
     <desc lang="en">Sebastian calls the NCIS team to assist with a possible kidnapping case when a dignitary’s son he was assigned to protect disappears from a local concert venue.Guests: The Revivalists..</desc>
@@ -14919,7 +14938,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220603100000 -0400" stop="20220603110000 -0400" channel="TNT.us">
+  <programme start="20220603100000 +0200" stop="20220603110000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">Convicted</sub-title>
     <desc lang="en">After Eddie Barrett provides an alibi witness, Pride and the team are more determined than ever to find a break in the case and avenge Lasalle’s murder.Guests: Eddie Cahill..</desc>
@@ -14933,7 +14952,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220603110000 -0400" stop="20220603120000 -0400" channel="TNT.us">
+  <programme start="20220603110000 +0200" stop="20220603120000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">Requital</sub-title>
     <desc lang="en">Pride is cut off from the team and backed into a corner after the investigation into Eddie Barrett uncovers a malicious plot.Guests: Eddie Cahill..</desc>
@@ -14947,7 +14966,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220603120000 -0400" stop="20220603130000 -0400" channel="TNT.us">
+  <programme start="20220603120000 +0200" stop="20220603130000 +0200" channel="TNT.us">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Scry Hard</sub-title>
     <desc lang="en">Zankou tries to lure the sisters out of their house so he can search for the Nexus.Guests: Oded Feher, Collective Soul..</desc>
@@ -14961,7 +14980,7 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20220603130000 -0400" stop="20220603140000 -0400" channel="TNT.us">
+  <programme start="20220603130000 +0200" stop="20220603140000 +0200" channel="TNT.us">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Little Box of Horrors</sub-title>
     <desc lang="en">The sisters must find the guardian of Pandora's Box to return any released spirits.Guests: Michelle Hurd, Brooke Nevin..</desc>
@@ -14975,7 +14994,7 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20220603140000 -0400" stop="20220603150000 -0400" channel="TNT.us">
+  <programme start="20220603140000 +0200" stop="20220603150000 +0200" channel="TNT.us">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Freaky Phoebe</sub-title>
     <desc lang="en">After a power-hungry sorceress casts a spell on Phoebe, their souls switch bodies.Guests: Suzanne Krull, Oded Feher, Seamus Dever..</desc>
@@ -14989,7 +15008,7 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20220603150000 -0400" stop="20220603160000 -0400" channel="TNT.us">
+  <programme start="20220603150000 +0200" stop="20220603160000 +0200" channel="TNT.us">
     <title lang="en">Charmed</title>
     <sub-title lang="en">Imaginary Friends</sub-title>
     <desc lang="en">Unbeknownst to the Charmed Ones, Wyatt's new imaginary friend is actually a demon.</desc>
@@ -15003,7 +15022,7 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20220603160000 -0400" stop="20220603170000 -0400" channel="TNT.us">
+  <programme start="20220603160000 +0200" stop="20220603170000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">Bad Moon Rising</sub-title>
     <desc lang="en">The team is concerned when Sebastian becomes unreachable while undercover as a new recruit.</desc>
@@ -15017,7 +15036,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220603170000 -0400" stop="20220603180000 -0400" channel="TNT.us">
+  <programme start="20220603170000 +0200" stop="20220603180000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">Waiting for Monroe</sub-title>
     <desc lang="en">The team must track down a mysterious female assassin responsible for murders in Athens, Rome and London. Also, Wade’s son begs her to allow him to go on a police ride-along for an article he’s writing.</desc>
@@ -15031,7 +15050,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220603180000 -0400" stop="20220603190000 -0400" channel="TNT.us">
+  <programme start="20220603180000 +0200" stop="20220603190000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">The Root of All Evil</sub-title>
     <desc lang="en">The team investigates the murder of a JAG captain who was discovered at home by his daughter, the only heir to his large estate.</desc>
@@ -15045,7 +15064,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220603190000 -0400" stop="20220603200000 -0400" channel="TNT.us">
+  <programme start="20220603190000 +0200" stop="20220603200000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">The Man in the Red Suit</sub-title>
     <desc lang="en">When Pride is unable to sleep due to continuing nightmares about the mysterious man in the red suit, he undergoes a specialized treatment to help him figure out the man’s identity. An arrogant new officer, Special Agent Quentin Carter, joins the team.</desc>
@@ -15059,7 +15078,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220603200000 -0400" stop="20220603210000 -0400" channel="TNT.us">
+  <programme start="20220603200000 +0200" stop="20220603210000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">Relentless</sub-title>
     <desc lang="en">Tammy must protect Rachel, a research-obsessed teenage girl, after her father is shot in their home, while the rest of the team searches for a motive.</desc>
@@ -15073,7 +15092,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220603210000 -0400" stop="20220603230000 -0400" channel="TNT.us">
+  <programme start="20220603210000 +0200" stop="20220603230000 +0200" channel="TNT.us">
     <title lang="en">Hercules</title>
     <desc lang="en">Since completing the legendary 12 labours, Hercules has been living the life of a mercenary alongside six companions. When the King of Thrace enlists the band to help defeat a savage warlord, Hercules must once again use his strength for good to prevail.</desc>
     <credits>
@@ -15092,7 +15111,7 @@
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20220603230000 -0400" stop="20220604013000 -0400" channel="TNT.us">
+  <programme start="20220603230000 +0200" stop="20220604013000 +0200" channel="TNT.us">
     <title lang="en">Godzilla: King of the Monsters</title>
     <desc lang="en">The agency Monarch battles the monsters known as Titans.</desc>
     <credits>
@@ -15111,7 +15130,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20220604013000 -0400" stop="20220604040000 -0400" channel="TNT.us">
+  <programme start="20220604013000 +0200" stop="20220604040000 +0200" channel="TNT.us">
     <title lang="en">The Meg</title>
     <desc lang="en">After a research vessel is attacked, a prehistoric shark that was believed to be long-since extinct is found living in the ocean's deepest depths, and as it emerges to shallower waters a rescue diver who encountered it years prior must stop it.</desc>
     <credits>
@@ -15130,7 +15149,7 @@
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20220604040000 -0400" stop="20220604050000 -0400" channel="TNT.us">
+  <programme start="20220604040000 +0200" stop="20220604050000 +0200" channel="TNT.us">
     <title lang="en">All Elite Wrestling: Rampage</title>
     <category lang="en">Sports</category>
     <category lang="en">Wrestling</category>
@@ -15138,7 +15157,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220604050000 -0400" stop="20220604050000 -0400" channel="TNT.us">
+  <programme start="20220604050000 +0200" stop="20220604050000 +0200" channel="TNT.us">
     <title lang="en">Kong: Skull Island</title>
     <desc lang="en">In the 1970s, a team of explorers and soldiers are brought together to explore an uncharted island in the Pacific Ocean. When they arrive, they realize it is the home of a monstrous gorilla named Kong, who protects the island from deeper monsters.</desc>
     <credits>
@@ -15157,7 +15176,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20220604050000 -0400" stop="20220604073000 -0400" channel="TNT.us">
+  <programme start="20220604050000 +0200" stop="20220604073000 +0200" channel="TNT.us">
     <title lang="en">Kong: Skull Island</title>
     <desc lang="en">In the 1970s, a team of explorers and soldiers are brought together to explore an uncharted island in the Pacific Ocean. When they arrive, they realize it is the home of a monstrous gorilla named Kong, who protects the island from deeper monsters.</desc>
     <credits>
@@ -15176,7 +15195,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20220604073000 -0400" stop="20220604100000 -0400" channel="TNT.us">
+  <programme start="20220604073000 +0200" stop="20220604100000 +0200" channel="TNT.us">
     <title lang="en">Gone in 60 Seconds</title>
     <desc lang="en">A retired car thief re-enters the business to steal 50 cars with his crew in one night.</desc>
     <credits>
@@ -15195,7 +15214,7 @@
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20220604100000 -0400" stop="20220604110000 -0400" channel="TNT.us">
+  <programme start="20220604100000 +0200" stop="20220604110000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">Pride and Prejudice</sub-title>
     <desc lang="en">When a man impersonating Lasalle attempts to free a young woman from jail, the team investigates both the imposter and the prisoner. Also, Pride’s daughter pays him a surprise visit.</desc>
@@ -15209,7 +15228,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220604110000 -0400" stop="20220604120000 -0400" channel="TNT.us">
+  <programme start="20220604110000 +0200" stop="20220604120000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">Biased</sub-title>
     <desc lang="en">Racial tensions rise in New Orleans when a white NOPD officer shoots a black Navy officer he believed was armed in the middle of a busy street party.</desc>
@@ -15223,7 +15242,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220604120000 -0400" stop="20220604130000 -0400" channel="TNT.us">
+  <programme start="20220604120000 +0200" stop="20220604130000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">Aftershocks</sub-title>
     <desc lang="en">The NCIS team partners with several federal agencies to track a sniper who is targeting crowded events in the city.Guests: Steven Weber, Derek Webster, Jared Day, Doris Morgado, Steven Waldren, Kwajaylyn Brown, Lenita Henderson..</desc>
@@ -15238,7 +15257,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220604130000 -0400" stop="20220604140000 -0400" channel="TNT.us">
+  <programme start="20220604130000 +0200" stop="20220604140000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">Suspicious Minds</sub-title>
     <desc lang="en">Pride faces further backlash from the FBI when he helps former Navy Intelligence Analyst Elvis Bertrand, who is the lead suspect in a multiple homicide case.Guests: Tom Arnold, Grace..</desc>
@@ -15253,7 +15272,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220604140000 -0400" stop="20220604150000 -0400" channel="TNT.us">
+  <programme start="20220604140000 +0200" stop="20220604150000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">Man on Fire</sub-title>
     <desc lang="en">After a decorated petty officer is found dead inside a sports arena, evidence leads Pride and the team to a kidnapping case of a petty officer who was last seen in Mexico.</desc>
@@ -15268,7 +15287,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220604150000 -0400" stop="20220604160000 -0400" channel="TNT.us">
+  <programme start="20220604150000 +0200" stop="20220604160000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">Escape Plan</sub-title>
     <desc lang="en">The team must rescue one of their own after Sebastian is kidnapped while at a restaurant with his mother. While being held by his captors, he's forced to use his gaming skills in a prison break.Guests: Wendie Malick..</desc>
@@ -15283,7 +15302,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220604160000 -0400" stop="20220604170000 -0400" channel="TNT.us">
+  <programme start="20220604160000 +0200" stop="20220604170000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">Course Correction</sub-title>
     <desc lang="en">NCIS and the FBI investigate a private plane crash in the bayou that killed three sailors. Also, Sonja and Lasalle interview candidates for the team's open agent position.</desc>
@@ -15298,7 +15317,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220604170000 -0400" stop="20220604180000 -0400" channel="TNT.us">
+  <programme start="20220604170000 +0200" stop="20220604180000 +0200" channel="TNT.us">
     <title lang="en">NCIS: New Orleans</title>
     <sub-title lang="en">One Good Man</sub-title>
     <desc lang="en">The team reviews unorthodox training exercises after a Navy Seal candidate is found murdered weeks before his graduation. Also, a concerned Wade turns to Pride after her adopted son, Danny, announces his plan to enter the Navy.</desc>
@@ -15313,7 +15332,7 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220604180000 -0400" stop="20220604203000 -0400" channel="TNT.us">
+  <programme start="20220604180000 +0200" stop="20220604203000 +0200" channel="TNT.us">
     <title lang="en">Godzilla: King of the Monsters</title>
     <desc lang="en">The agency Monarch battles the monsters known as Titans.</desc>
     <credits>
@@ -15332,7 +15351,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20220604203000 -0400" stop="20220604224500 -0400" channel="TNT.us">
+  <programme start="20220604203000 +0200" stop="20220604224500 +0200" channel="TNT.us">
     <title lang="en">Kong: Skull Island</title>
     <desc lang="en">In the 1970s, a team of explorers and soldiers are brought together to explore an uncharted island in the Pacific Ocean. When they arrive, they realize it is the home of a monstrous gorilla named Kong, who protects the island from deeper monsters.</desc>
     <credits>
@@ -15351,7 +15370,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20220604224500 -0400" stop="20220605010000 -0400" channel="TNT.us">
+  <programme start="20220604224500 +0200" stop="20220605010000 +0200" channel="TNT.us">
     <title lang="en">The Meg</title>
     <desc lang="en">After a research vessel is attacked, a prehistoric shark that was believed to be long-since extinct is found living in the ocean's deepest depths, and as it emerges to shallower waters a rescue diver who encountered it years prior must stop it.</desc>
     <credits>
