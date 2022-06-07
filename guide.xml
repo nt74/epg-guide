@@ -212,10 +212,12 @@
   </channel>
   <channel id="NBATV.us">
     <display-name lang="en">NBA TV USA</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbatv.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TNT.us">
     <display-name lang="en">TNT - Eastern Feed</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tnt-16.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <programme start="20220607000000 +0300" stop="20220607021500 +0300" channel="ANT1.gr">
