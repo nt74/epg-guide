@@ -212,12 +212,10 @@
   </channel>
   <channel id="NBATV.us">
     <display-name lang="en">NBA TV USA</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/nbatv.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="TNT.us">
     <display-name lang="en">TNT - Eastern Feed</display-name>
-    <icon src="http://cdn.tvpassport.com/image/station/240x135/tnt-16.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
   <programme start="20220607000000 +0300" stop="20220607021500 +0300" channel="ANT1.gr">
@@ -2628,25 +2626,21 @@
     <title lang="el">Άξονες Ανάπτυξης Κ3 Ε7 (Ε)</title>
     <desc lang="el">Επεισόδιο: Ιωάννινα. Η εκπομπή επισκέπτεται το Πανεπιστήμιο Ιωαννίνων και παρουσιάζει το πρόγραμμα 'Περιφερειακή Αριστεία', υπό την 'ομπρέλα' του οποίου εξελίσσονται τέσσερα σημαντικά ερευνητικά προγράμματα.</desc>
   </programme>
-  <programme start="20220608190000 +0300" stop="20220608190500 +0300" channel="ERT3.gr">
+  <programme start="20220608190000 +0300" stop="20220608191000 +0300" channel="ERT3.gr">
     <title lang="el">Σύντομο Δελτίο Ειδήσεων</title>
   </programme>
-  <programme start="20220608190500 +0300" stop="20220608193000 +0300" channel="ERT3.gr">
-    <title lang="el">Food Safari: Θαλασσινά Ε10 (Ε)</title>
-    <desc lang="el">Θαλασσινά &amp; Κρεατικά. Το πάντρεμα των πρωτεϊνών του ωκεανού και της στεριάς οδηγεί σε ευρηματικούς συνδυασμούς. Ο Βιετναμέζος σεφ Ντάι Ντουόνγκ μάς δείχνει πώς φτιάχνεται το κλασικό Τσάο Τομ και τα θρυλικά αδέρφια Γουν ετοιμάζουν ζωμό με χοιρινό και γαρίδες.</desc>
+  <programme start="20220608191000 +0300" stop="20220608193000 +0300" channel="ERT3.gr">
+    <title lang="el">Μνήμες Γηπέδων (Ε)</title>
+    <desc lang="el">Αθλητικό ένθετο.</desc>
   </programme>
-  <programme start="20220608193000 +0300" stop="20220608200000 +0300" channel="ERT3.gr">
+  <programme start="20220608193000 +0300" stop="20220608213000 +0300" channel="ERT3.gr">
+    <title lang="el">Μπάσκετ: ΚΑΕ Παναθηναϊκός ΟΠΑΠ - ΚΑΕ Λάρισα (Ζ)</title>
+    <desc lang="el">Basket League 2021-22. Play off. Ένα διαφορετικό πρωτάθλημα μπάσκετ διεξάγεται τη σεζόν 2021-22. Η επιστροφή του Ολυμπιακού, η συμμετοχή 13 ομάδων, αλλά και τα πολλά νέα πρόσωπα σε Παναθηναϊκό και ΑΕΚ, δημιουργούν ένα ενδιαφέρον μείγμα.</desc>
+    <category lang="el">Μπάσκετ</category>
+  </programme>
+  <programme start="20220608213000 +0300" stop="20220608220000 +0300" channel="ERT3.gr">
     <title lang="el">Χωρίς Αποσκευές: Μέση Ανατολή και Αφρική Ε10 (Ε)</title>
     <desc lang="el">Επεισόδιο: Μαρόκο - Εθνικός Δρυμός. Εξερευνήστε τη Μέση Ανατολή και την υποσαχάρια Αφρική με αυτή τη μίνι σειρά που ταξιδεύει στο Μαρόκο, την Αιθιοπία, τη Νότια Αφρική, την Τανζανία και την Αίγυπτο.</desc>
-  </programme>
-  <programme start="20220608200000 +0300" stop="20220608210000 +0300" channel="ERT3.gr">
-    <title lang="el">Το Αφρικανικό Μονοπάτι Ε13 (Ε)</title>
-    <desc lang="el">Επεισόδιο: Στην χερσόνησο Μασοάλα. Τα προβλήματα για τους Πουσάν συνεχίζονται. Μετά τις αναποδιές στον Εθνικό Δρόμο 5, προσπαθούν να περάσουν τα ζεμπού μέσα απ' τον κόλπο του Αντονζίλ εν μέσω καταιγίδας.</desc>
-  </programme>
-  <programme start="20220608210000 +0300" stop="20220608220000 +0300" channel="ERT3.gr">
-    <title lang="el">Ο Δούναβης Ε2 (Ε)</title>
-    <desc lang="el">Επεισόδιο: Από το Βασάου στην Ουγγαρία. Δούναβης, ένας πραγματικά ευρωπαϊκός ποταμός. Με τα 2.888 χιλιόμετρα από την πηγή του στον Μέλανα Δρυμό μέχρι την εκβολή του στη Μαύρη Θάλασσα, ο Δούναβης συνδέει δέκα χώρες με πολύ διαφορετικούς πολιτισμούς. H σειρά παρουσιάζει τη φύση και τους ανθρώπους κατά μήκος του Δούναβη. Παραγωγή: Γερμανία.</desc>
-    <date>2020</date>
   </programme>
   <programme start="20220608220000 +0300" stop="20220608224000 +0300" channel="ERT3.gr">
     <title lang="el">ΕΡΤ Ειδήσεις</title>
@@ -3555,49 +3549,45 @@
     <desc lang="el">Η σειρά GP Confidential φωτίζει αθέατες πλευρές της Φόρμουλα 1, μέσω της χρήσης animation, που αποκαλύπτει το πώς οι ομάδες προσαρμόζονται στις ανάγκες των διαδρομών και στις εξελίξεις στην αεροδυναμική. Επίσης, προσφέρει μια αναδρομή στο ένδοξο παρελθόν, μέσα από μεγάλες στιγμές και θρύλους.</desc>
     <episode-num system="onscreen">S2022</episode-num>
   </programme>
-  <programme start="20220608082500 +0300" stop="20220608090500 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220608082500 +0300" stop="20220608091000 +0300" channel="CosmoteSport5.gr">
     <title lang="el">WRC</title>
     <desc lang="el">SS13, Erula - Tula 2, Σαρδηνία. Περιγραφή: Βιδιανός Ρούσσος. Το Παγκόσμιο Πρωτάθλημα ράλι του 2022 είναι το 50ό μιας διοργάνωσης που φέρει τη σφραγίδα της FIA. Ομάδες, οδηγοί, συνοδηγοί και κατασκευαστές θα τα δώσουν όλα για την επικράτηση στις 13 κούρσες της χρονιάς, που θα λάβουν χώρα σε 4 ηπείρους.</desc>
   </programme>
-  <programme start="20220608090500 +0300" stop="20220608101000 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220608091000 +0300" stop="20220608101500 +0300" channel="CosmoteSport5.gr">
     <title lang="el">WRC</title>
     <desc lang="el">SS19, Sassari - Argentiera 1, Σαρδηνία. Περιγραφή: Βιδιανός Ρούσσος. Το Παγκόσμιο Πρωτάθλημα ράλι του 2022 είναι το 50ό μιας διοργάνωσης που φέρει τη σφραγίδα της FIA. Ομάδες, οδηγοί, συνοδηγοί και κατασκευαστές θα τα δώσουν όλα για την επικράτηση στις 13 κούρσες της χρονιάς, που θα λάβουν χώρα σε 4 ηπείρους.</desc>
   </programme>
-  <programme start="20220608101000 +0300" stop="20220608104500 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220608101500 +0300" stop="20220608110000 +0300" channel="CosmoteSport5.gr">
     <title lang="el">WRC</title>
     <desc lang="el">SS20 Cala Flumini 2, Σαρδηνία. Περιγραφή: Βιδιανός Ρούσσος. Το Παγκόσμιο Πρωτάθλημα ράλι του 2022 είναι το 50ό μιας διοργάνωσης που φέρει τη σφραγίδα της FIA. Ομάδες, οδηγοί, συνοδηγοί και κατασκευαστές θα τα δώσουν όλα για την επικράτηση στις 13 κούρσες της χρονιάς, που θα λάβουν χώρα σε 4 ηπείρους.</desc>
   </programme>
-  <programme start="20220608104500 +0300" stop="20220608111500 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220608110000 +0300" stop="20220608113000 +0300" channel="CosmoteSport5.gr">
     <title lang="el">Μηχανοκίνητα: ROC Nations Cup</title>
     <desc lang="el">Απολαύστε τις καλύτερες στιγμές από τον αγώνα που αναδεικνύει την πιο γρήγορη χώρα του κόσμου.</desc>
   </programme>
-  <programme start="20220608111500 +0300" stop="20220608114500 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220608113000 +0300" stop="20220608120000 +0300" channel="CosmoteSport5.gr">
     <title lang="el">ROC Race of Champions 2022 - Στιγμιότυπα</title>
     <desc lang="el">Απολαύστε το διεθνές πρωτάθλημα που λαμβάνει χώρα κάθε χρόνο, με τη συμμετοχή μερικών από τους καλύτερους οδηγούς αγώνων του κόσμου. Η διοργάνωση του 2022 διεξάγεται στη Βαλτική θάλασσα, στη βόρεια Σουηδία.</desc>
   </programme>
-  <programme start="20220608114500 +0300" stop="20220608123000 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220608120000 +0300" stop="20220608124500 +0300" channel="CosmoteSport5.gr">
     <title lang="el">Moto-E World Championship</title>
     <desc lang="el">Gran Premio d'Italia Oakley - 1ος Αγώνας. Περιγραφή: Θανάσης Κελάφης. Η τέταρτη σεζόν του Παγκοσμίου Κυπέλλου MotoE για αγώνες ηλεκτρικών μοτοσικλετών περιλαμβάνει 7 Grand Prix που πραγματοποιούνται μεταξύ 30 Απριλίου και 4 Σεπτεμβρίου.</desc>
   </programme>
-  <programme start="20220608123000 +0300" stop="20220608131500 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220608124500 +0300" stop="20220608133000 +0300" channel="CosmoteSport5.gr">
     <title lang="el">Moto-E World Championship</title>
     <desc lang="el">Gran Premio d'Italia Oakley - 2ος Αγώνας. Περιγραφή: Θανάσης Κελάφης. Η τέταρτη σεζόν του Παγκοσμίου Κυπέλλου MotoE για αγώνες ηλεκτρικών μοτοσικλετών περιλαμβάνει 7 Grand Prix που πραγματοποιούνται μεταξύ 30 Απριλίου και 4 Σεπτεμβρίου.</desc>
   </programme>
-  <programme start="20220608131500 +0300" stop="20220608145000 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220608133000 +0300" stop="20220608150500 +0300" channel="CosmoteSport5.gr">
     <title lang="el">WRC</title>
     <desc lang="el">SS21, Sassari - Argentiera 2 Power Stage, Σαρδηνία. Περιγραφή: Βιδιανός Ρούσσος. Το Παγκόσμιο Πρωτάθλημα ράλι του 2022 είναι το 50ό μιας διοργάνωσης που φέρει τη σφραγίδα της FIA. Ομάδες, οδηγοί, συνοδηγοί και κατασκευαστές θα τα δώσουν όλα για την επικράτηση στις 13 κούρσες της χρονιάς, που θα λάβουν χώρα σε 4 ηπείρους.</desc>
   </programme>
-  <programme start="20220608145000 +0300" stop="20220608155000 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220608150500 +0300" stop="20220608160500 +0300" channel="CosmoteSport5.gr">
     <title lang="el">WRC 2022 - Στιγμιότυπα</title>
     <desc lang="el">Σαρδηνία. Μια σύντομη ματιά στη δράση του Παγκοσμίου Πρωταθλήματος ράλι. Οι καλύτερες στιγμές από τα δοκιμαστικά, την προθέρμανση, τους αγώνες και τις απονομές έρχονται στις οθόνες σας.</desc>
   </programme>
-  <programme start="20220608155000 +0300" stop="20220608165500 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220608160500 +0300" stop="20220608171000 +0300" channel="CosmoteSport5.gr">
     <title lang="el">ERC</title>
     <desc lang="el">SS13 San Mateo 2 Power Stage - Κανάρια Νησιά. Περιγραφή: Βιδιάνος Ρούσσος. Η 70ή σεζόν του Ευρωπαϊκού Πρωταθλήματος Ράλλυ της FIA διεξάγεται σε οκτώ γύρους στην Κεντρική, Βόρεια και Νότια Ευρώπη. 5 κατασκευαστές και συνολικά 27 οδηγοί θα διαγωνιστούν για τον τίτλο ERC, τον οποίο κατέχει ο Andreas Mikkelsen.</desc>
-  </programme>
-  <programme start="20220608165500 +0300" stop="20220608171000 +0300" channel="CosmoteSport5.gr">
-    <title lang="el">Sports Classics: 2021 Outdoor Specials</title>
-    <desc lang="el">Classic Rally Acropolis Legends 2021. Δείτε τις καλύτερες στιγμές από το Classic Rally Acropolis Legends, μια διήμερη εκδήλωση για ιστορικά αυτοκίνητα, που ξεκινάει από την Ακρόπολη, διατρέχει θρυλικές διαδρομές της Στερεάς Ελλάδας και διανυκτερεύει στα Καμμένα Βούρλα.</desc>
   </programme>
   <programme start="20220608171000 +0300" stop="20220608183000 +0300" channel="CosmoteSport5.gr">
     <title lang="el">Μηχανοκίνητα: Formula</title>
@@ -3613,21 +3603,21 @@
     <title lang="el">MotoGP 2022 - Στιγμιότυπα</title>
     <desc lang="el">Επεισόδιο: Gran Premi Monster Energy de Catalunya . Το MotoGP, το παγκόσμιο πρωτάθλημα μοτοσυκλέτας, προσφέρει πολλές συγκινήσεις. Παρακολουθήστε μια συμπυκνωμένη εκδοχή όσων συνέβησαν σε μια από τις κούρσες του 2022.</desc>
   </programme>
-  <programme start="20220608210000 +0300" stop="20220608224000 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220608210000 +0300" stop="20220608223500 +0300" channel="CosmoteSport5.gr">
     <title lang="el">Εκπομπή Grand Prix</title>
     <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η COSMΟΤΕ TV (F1, MotoGP, WRC, FIA WORLD RALLYCROSS, Formula E).</desc>
   </programme>
-  <programme start="20220608224000 +0300" stop="20220608230000 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220608223500 +0300" stop="20220608230000 +0300" channel="CosmoteSport5.gr">
     <title lang="el">ERC 2022 - Στιγμιότυπα</title>
     <desc lang="el">Κανάρια Νησιά. Παρακολουθήστε στιγμιότυπα της 70ής σεζόν του Ευρωπαϊκού Πρωταθλήματος Ράλλυ της FIA.</desc>
   </programme>
-  <programme start="20220608230000 +0300" stop="20220608231000 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220608230000 +0300" stop="20220608230500 +0300" channel="CosmoteSport5.gr">
     <title lang="el">WRC 2022 - Στιγμιότυπα</title>
     <desc lang="el">Σαρδηνία. Μια σύντομη ματιά στη δράση του Παγκοσμίου Πρωταθλήματος ράλι. Οι καλύτερες στιγμές από τα δοκιμαστικά, την προθέρμανση, τους αγώνες και τις απονομές έρχονται στις οθόνες σας.</desc>
   </programme>
-  <programme start="20220608231000 +0300" stop="20220609000000 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220608230500 +0300" stop="20220609000000 +0300" channel="CosmoteSport5.gr">
     <title lang="el">MotoGP 2022 - Στιγμιότυπα</title>
-    <desc lang="el">Επεισόδιο: Gran Premi Monster Energy de Catalunya . Το MotoGP, το παγκόσμιο πρωτάθλημα μοτοσυκλέτας, προσφέρει πολλές συγκινήσεις. Παρακολουθήστε μια συμπυκνωμένη εκδοχή όσων συνέβησαν σε μια από τις κούρσες του 2022.</desc>
+    <desc lang="el">Gran Premi Monster Energy de Catalunya . Το MotoGP, το παγκόσμιο πρωτάθλημα μοτοσυκλέτας, προσφέρει πολλές συγκινήσεις. Παρακολουθήστε μια συμπυκνωμένη εκδοχή όσων συνέβησαν σε μια από τις κούρσες του 2022.</desc>
   </programme>
   <programme start="20220607003000 +0300" stop="20220607023500 +0300" channel="CosmoteSport6.gr">
     <title lang="el">Στίβος: World Athletics Continental Tour Gold</title>
@@ -3737,13 +3727,13 @@
     <title lang="el">Topspin</title>
     <desc lang="el">Η μοναδική εκπομπή για το τένις, φιλοξενεί πλούσια αγωνιστική επικαιρότητα και θεματολογία από το χώρο του τένις, στην Ελλάδα και το εξωτερικό.</desc>
   </programme>
-  <programme start="20220608220000 +0300" stop="20220608220500 +0300" channel="CosmoteSport6.gr">
+  <programme start="20220608220000 +0300" stop="20220608223000 +0300" channel="CosmoteSport6.gr">
     <title lang="el">Τένις: ATP</title>
     <desc lang="el">Libema Open. Αγώνες κυρίως ταμπλό. Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας</category>
     <episode-num system="onscreen">S250</episode-num>
   </programme>
-  <programme start="20220608220500 +0300" stop="20220609023500 +0300" channel="CosmoteSport6.gr">
+  <programme start="20220608223000 +0300" stop="20220609023500 +0300" channel="CosmoteSport6.gr">
     <title lang="el">Τένις: ATP</title>
     <desc lang="el">Libema Open. Αγώνες κυρίως ταμπλό. Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας</category>
