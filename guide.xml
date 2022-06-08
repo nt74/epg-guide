@@ -797,14 +797,14 @@
     <date>2016</date>
     <category lang="el">Περιπέτεια</category>
   </programme>
-  <programme start="20220609231500 +0300" stop="20220609234500 +0300" channel="Star.gr">
+  <programme start="20220609231500 +0300" stop="20220609235000 +0300" channel="Star.gr">
     <title lang="el">Οι</title>
     <desc lang="el">Διαδραστικό comedy show με τον Λάμπρο Φισφή, ο οποίος θα υποδέχεται κάθε εβδομάδα τρεις 'παίκτες' celebrities. Τελικά τι λένε οι αριθμοί για εμάς; Πόσα εκπληκτικά πράγματα θα ανακαλύψουμε; Όλη η Ελλάδα περιμένει με αγωνία να μάθει!</desc>
     <category lang="el">Τηλεπαιχνίδι - Τηλεπαιχνίδι</category>
   </programme>
-  <programme start="20220609234500 +0300" stop="20220610020000 +0300" channel="Star.gr">
+  <programme start="20220609235000 +0300" stop="20220610020000 +0300" channel="Star.gr">
     <title lang="el">Ο Κυρίαρχος του Παιχνιδιού</title>
-    <desc lang="el">Η κατηγορία του βιασμού στέλνει τον παγκόσμιο πρωταθλητή πυγμαχίας στη φυλακή. Η συνάντησή του με τον επί δέκα χρόνια πρώτο μποξέρ των φυλακών γεννά μίσος ανάμεσά τους. (135') Παραγωγή: ΗΠΑ.</desc>
+    <desc lang="el">Η κατηγορία του βιασμού στέλνει τον παγκόσμιο πρωταθλητή πυγμαχίας στη φυλακή. Η συνάντησή του με τον επί δέκα χρόνια πρώτο μποξέρ των φυλακών γεννά μίσος ανάμεσά τους. (130') Παραγωγή: ΗΠΑ.</desc>
     <credits>
       <director>Άιζακ Φλορεντάιν</director>
       <actor>Βέλιζαρ Μπινέφ</actor>
@@ -3123,9 +3123,14 @@
     <desc lang="el">Super League Interwetten 2021-22. 1η αγωνιστική. Τα καλύτερα στιγμιότυπα της αγωνιστικής του UEFA Champions League. Στιγμές γεμάτες πάθος, δυνατές μάχες και τα καλύτερα γκολ που ξεχώρισαν ανά αγωνιστική ημέρα αφιερωμένα στην κορυφαία διοργάνωση. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
-  <programme start="20220609070000 +0300" stop="20220609110000 +0300" channel="CosmoteSport2.gr">
+  <programme start="20220609070000 +0300" stop="20220609090000 +0300" channel="CosmoteSport2.gr">
     <title lang="el">Ποδόσφαιρο: Μίλαν - Λάτσιο</title>
     <desc lang="el">Serie A 2021-22. 3η αγωνιστική. Η 120ή σεζόν του ιταλικού πρωταθλήματος ποδοσφαίρου περιλαμβάνει 20 ομάδες, από τις οποίες οι Έμπολι, Σαλερνιτάνα και Βενέτσια προβιβάστηκαν από τη Serie B. Η πρωταθλήτρια Ίντερ θα πρέπει να υπερασπιστεί τον τίτλο της απέναντι σε Μίλαν, Γιουβέντους, Ρόμα και Νάπολι. Περιγραφή: Άλκης Τσαβδαράς.</desc>
+    <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20220609090000 +0300" stop="20220609110000 +0300" channel="CosmoteSport2.gr">
+    <title lang="el">Ποδόσφαιρο: Ζιλ Βισέντε - Μπενφίκα</title>
+    <desc lang="el">Liga Portugal BWIN 2021-22. 3η αγωνιστική. Η 88η σεζόν του πορτογαλικού πρωταθλήματος περιλαμβάνει συνολικά 18 ομάδες, από τις οποίες οι Εστορίλ, Βισέλα και Αρούκα προήχθησαν από τη 2η κατηγορία. Η Σπόρτινγκ Λισαβόνας είναι η κάτοχος του τίτλου, για πρώτη φορά μετά από 19 χρόνια. Περιγραφή: Κώστας Γιαλιτάκης.</desc>
     <category lang="el">Αθλητική Εκπομπή - Αγώνας - Ποδόσφαιρο</category>
   </programme>
   <programme start="20220609110000 +0300" stop="20220609130000 +0300" channel="CosmoteSport2.gr">
@@ -3661,30 +3666,25 @@
     <title lang="el">Moto2</title>
     <desc lang="el">Gran Premi Monster Energy de Catalunya - Αγώνας. Περιγραφή: Θανάσης Κελάφης. 30 οδηγοί και 15 ομάδες θα δώσουν μάχη για την πρώτη θέση στο Παγκόσμιο Πρωτάθλημα Moto2 για το 2022. Η φετινή διοργάνωση περιλαμβάνει 21 Γκραν Πρι. Όλοι οι συμμετέχοντες χρησιμοποιούν ειδικά ελαστικά Dunlop και τρικύλινδρους κινητήρες των 765 κυβικών.</desc>
   </programme>
-  <programme start="20220609173500 +0300" stop="20220609192000 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220609173500 +0300" stop="20220609191500 +0300" channel="CosmoteSport5.gr">
     <title lang="el">MotoGP</title>
     <desc lang="el">Gran Premi Monster Energy de Catalunya - Αγώνας. Περιγραφή: Δημήτρης Διατσίδης. Το Παγκόσμιο Πρωτάθλημα MotoGP 2022 φιλοξενεί 12 ομάδες από 6 κατασκευαστές, καθώς και 24 οδηγούς που θα λάβουν μέρος σε 21 Γκραν Πρι. Ο Γάλλος Φάμπιο Κουαρταρό, ως ο κάτοχος του τίτλου, θα προσπαθήσει να κρατήσει τα πρωτεία.</desc>
   </programme>
-  <programme start="20220609192000 +0300" stop="20220609210000 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220609191500 +0300" stop="20220609194500 +0300" channel="CosmoteSport5.gr">
+    <title lang="el">W Series 2022 - Στιγμιότυπα</title>
+    <desc lang="el">Βαρκελώνη. Η δεύτερη σεζόν του πρωταθλήματος μονοθεσίων αποκλειστικά για γυναίκες οδηγούς αποτελεί από φέτος υποστηρικτικό αγώνα της FORMULA 1 και περιλαμβάνει 8 αγώνες.</desc>
+  </programme>
+  <programme start="20220609194500 +0300" stop="20220609212000 +0300" channel="CosmoteSport5.gr">
     <title lang="el">Εκπομπή Grand Prix</title>
     <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η COSMΟΤΕ TV (F1, MotoGP, WRC, FIA WORLD RALLYCROSS, Formula E).</desc>
   </programme>
-  <programme start="20220609210000 +0300" stop="20220609230500 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220609212000 +0300" stop="20220609230500 +0300" channel="CosmoteSport5.gr">
     <title lang="el">Formula 1 2022 - Γκραν Πρι Μονακό</title>
     <desc lang="el">Αγώνας. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος. Παρακολουθήστε τον αγώνα που διεξάγεται στο Μόντε Κάρλο, για το Παγκόσμιο Πρωτάθλημα Φόρμουλα 1.</desc>
   </programme>
-  <programme start="20220609230500 +0300" stop="20220609231500 +0300" channel="CosmoteSport5.gr">
+  <programme start="20220609230500 +0300" stop="20220610000500 +0300" channel="CosmoteSport5.gr">
     <title lang="el">MotoGP 2022 - Στιγμιότυπα</title>
     <desc lang="el">Gran Premi Monster Energy de Catalunya . Το MotoGP, το παγκόσμιο πρωτάθλημα μοτοσυκλέτας, προσφέρει πολλές συγκινήσεις. Παρακολουθήστε μια συμπυκνωμένη εκδοχή όσων συνέβησαν σε μια από τις κούρσες του 2022.</desc>
-  </programme>
-  <programme start="20220609231500 +0300" stop="20220609234500 +0300" channel="CosmoteSport5.gr">
-    <title lang="el">Sports Classics: Gearing Up</title>
-    <desc lang="el">Συναρπαστικοί αγώνες από τις πιο απαιτητικές διοργανώσεις. Βραχώδη εδάφη, βαθιά ποτάμια, εξαντλητικοί αγώνες στην έρημο, κόντρες σε χωματόδρομους και αγώνες ταχύτητα στην άσφαλτο. Απολαύστε όλα αυτά σε μια σειρά γεμάτη δράση.</desc>
-    <episode-num system="onscreen">S2022</episode-num>
-  </programme>
-  <programme start="20220609234500 +0300" stop="20220610000500 +0300" channel="CosmoteSport5.gr">
-    <title lang="el">Sports Classics: 2021 Outdoor Specials</title>
-    <desc lang="el">Classic Rally Acropolis Legends 2021. Δείτε τις καλύτερες στιγμές από το Classic Rally Acropolis Legends, μια διήμερη εκδήλωση για ιστορικά αυτοκίνητα, που ξεκινάει από την Ακρόπολη, διατρέχει θρυλικές διαδρομές της Στερεάς Ελλάδας και διανυκτερεύει στα Καμμένα Βούρλα.</desc>
   </programme>
   <programme start="20220608040000 +0300" stop="20220608050000 +0300" channel="CosmoteSport6.gr">
     <title lang="el">Τένις: ATP Masters 1000 2022 - Στιγμιότυπα</title>
@@ -5168,31 +5168,31 @@
     <date>2006</date>
     <episode-num system="onscreen">Säsong 3. Del 19 av 24</episode-num>
   </programme>
-  <programme start="20220609002500 +0200" stop="20220609012500 +0200" channel="TV4.se">
+  <programme start="20220609002500 +0200" stop="20220609012000 +0200" channel="TV4.se">
     <title lang="sv">Law &amp; order: Special victims unit</title>
     <desc lang="sv">Amerikansk kriminalserie från 2012. Twenty-five acts. Den unga författaren till en framgångsrik sadomasochistisk kärleksroman går hem med en berömd tv-programledare, men blir då våldtagen. Detektiverna Benson och Rollins försöker övertala henne att anmäla honom. ,.</desc>
     <date>2012</date>
     <episode-num system="onscreen">Säsong 14. Del 3 av 24</episode-num>
   </programme>
-  <programme start="20220609012500 +0200" stop="20220609022000 +0200" channel="TV4.se">
+  <programme start="20220609012000 +0200" stop="20220609021500 +0200" channel="TV4.se">
     <title lang="sv">CSI</title>
     <desc lang="sv">Amerikansk kriminalserie från 2007. The case of the cross-dressing carp. En ung man hittas hängd till döds i ett träd men det konstiga är att hans kropp mer ser ut som en kvinnas än som en mans. ,.</desc>
     <date>2007</date>
     <episode-num system="onscreen">Säsong 8. Del 4 av 17</episode-num>
   </programme>
-  <programme start="20220609022000 +0200" stop="20220609032500 +0200" channel="TV4.se">
+  <programme start="20220609021500 +0200" stop="20220609031500 +0200" channel="TV4.se">
     <title lang="sv">The drowning</title>
     <desc lang="sv">Brittisk thrillerserie från 2021. Mark kräver att Jodie håller sig borta från Daniel, men hon bryter mot hans önskemål när Daniel hamnar i slagsmål på skolan. Ade har försatt sig i en farlig situation och spänningarna i familjen växer när Jodie känner sig motarbetad av sina närmaste.</desc>
     <date>2021</date>
     <episode-num system="onscreen">Säsong 1. Del 2 av 4</episode-num>
   </programme>
-  <programme start="20220609032500 +0200" stop="20220609042500 +0200" channel="TV4.se">
+  <programme start="20220609031500 +0200" stop="20220609041500 +0200" channel="TV4.se">
     <title lang="sv">House</title>
     <desc lang="sv">Amerikansk dramaserie från 2005. Distractions. Teamet kämpar med en brandskadad tonårspojke som drabbats av hjärtproblem. På grund av hans brännskador kan de inte utföra EKG och House föreslår att de ska använda sig av ett belgiskt redskap, en så kallad galvanometer. Problemet är att sjukhuset inte har någon sådan. ,.</desc>
     <date>2005</date>
     <episode-num system="onscreen">Säsong 2. Del 12 av 24</episode-num>
   </programme>
-  <programme start="20220609042500 +0200" stop="20220609050500 +0200" channel="TV4.se">
+  <programme start="20220609041500 +0200" stop="20220609050500 +0200" channel="TV4.se">
     <title lang="sv">Younger</title>
     <desc lang="sv">Amerikansk dramakomediserie från 2018. The Bubble. Liza försöker anpassa sig till sin nya vardag efter julhelgerna. Maggie konfronterar begravda problem och Kelsey korrigerar riktningen för sitt kärleksliv. ,.</desc>
     <date>2018</date>
@@ -5480,13 +5480,13 @@
     <date>2020</date>
     <episode-num system="onscreen">Säsong 4. Del 3 av 12</episode-num>
   </programme>
-  <programme start="20220608213000 +0200" stop="20220608220000 +0200" channel="Kanal5.se">
+  <programme start="20220608213000 +0200" stop="20220608220500 +0200" channel="Kanal5.se">
     <title lang="sv">Sommaren med släkten</title>
     <desc lang="sv">Svensk komediserie från 2020. Jens och svärfar Gunnar ska renovera utedasset, vilket genast sätter press på deras redan ansträngda relation. Åsa ska passa Carros hus men trasslar snart in sig i lögner när hon träffar en snobbig bekant.</desc>
     <date>2020</date>
     <episode-num system="onscreen">Säsong 4. Del 4 av 12</episode-num>
   </programme>
-  <programme start="20220608220000 +0200" stop="20220608232000 +0200" channel="Kanal5.se">
+  <programme start="20220608220500 +0200" stop="20220608232000 +0200" channel="Kanal5.se">
     <title lang="sv">Alla mot alla med Filip och Fredrik</title>
     <desc lang="sv">Svensk frågesport från 2021. Det vackraste Vennersten vet. Pelle Almqvist och Josefine Jinder gör lysande debut och möter Nina Persson och John Ajvide Lindqvist. Hur klarar musikerna Doppa tårna i en låt?. Vem vinner Rickard Olsson?. ,.</desc>
     <date>2021</date>
@@ -7922,7 +7922,7 @@
     </credits>
     <date>1985</date>
   </programme>
-  <programme start="20220609234500 +0200" stop="20220610024000 +0200" channel="TV12.se">
+  <programme start="20220609234500 +0200" stop="20220610023000 +0200" channel="TV12.se">
     <title lang="sv">Den of thieves</title>
     <desc lang="sv">Amerikansk actionthriller från 2018. L.A. är bankrånens huvudstad. De enda som är tuffare än brottslingarna är en specialdivision poliser som leds av Big Nick. En dag får han höra att den legendariske rånaren Merrimen planerar sin största stöt någonsin  centralbanken i Los Angeles.</desc>
     <credits>
@@ -13236,7 +13236,7 @@
     <date>2022</date>
     <episode-num system="onscreen">Säsong 8. Del 4 av 12</episode-num>
   </programme>
-  <programme start="20220608210000 +0200" stop="20220608223000 +0200" channel="Sportkanalen.se">
+  <programme start="20220608210000 +0200" stop="20220608223500 +0200" channel="Sportkanalen.se">
     <title lang="sv">Hawaiian: The legend of Eddie Aikau</title>
     <desc lang="sv">Amerikansk dokumentär från 2013. Dokumentär om en av Hawaiis stora söner, den legendariske surfaren och livräddaren Eddie Aikau som tidigt tog sig an de största vågorna vid öns kust. Han omkom under ett räddningsförsök till havs men minnet av legenden lever, inte minst i form av den årliga surftävlingen "The Eddie" i Waimea Bay där han jobbade som livräddare. "Hawaiian: The Legend of Eddie Aikau" ingår i ESPN:s serie "30 for 30".</desc>
     <credits>
@@ -13248,7 +13248,7 @@
     </credits>
     <date>2013</date>
   </programme>
-  <programme start="20220608223000 +0200" stop="20220609003000 +0200" channel="Sportkanalen.se">
+  <programme start="20220608223500 +0200" stop="20220609003000 +0200" channel="Sportkanalen.se">
     <title lang="sv">O.J. Simpson: Made in America</title>
     <desc lang="sv">Amerikansk dokumentärserie från 2016. C More dokumentär O.J.: Made in America Del 3. Den 13 juni 1994 inträffar morden på Nicole Brown Simpson och hennes vän Ronald Goldman. ,.</desc>
     <date>2016</date>
@@ -13260,23 +13260,28 @@
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 3 av 20</episode-num>
   </programme>
-  <programme start="20220609004500 +0200" stop="20220609010000 +0200" channel="Sportkanalen.se">
+  <programme start="20220609004500 +0200" stop="20220609005500 +0200" channel="Sportkanalen.se">
     <title lang="sv">La Liga 5 things</title>
     <desc lang="sv">I detta underhållande magasin från LaLiga får vi reda på fakta om varje klubb i LaLiga som vi kanske inte hört talas om tidigare. Varje episod handlar om topp fem-fakta om en klubb i ligan. ,.</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 2022. Del 4 av 20</episode-num>
   </programme>
-  <programme start="20220609010000 +0200" stop="20220609013000 +0200" channel="Sportkanalen.se">
+  <programme start="20220609005500 +0200" stop="20220609012000 +0200" channel="Sportkanalen.se">
     <title lang="sv">Sverige springer</title>
     <desc lang="sv">I förberedelserna för Kia Fjällmaraton i sommar besöker Andreas Team Lost, Fanny Ahlfors och Patrik Widell, och springer i myrmark. Sanna Mustonen, Kristofer Låås och Tommy Myllymäki jämför erfarenheter inför adidas Stockholm Marathon. ,.</desc>
     <date>2022</date>
     <episode-num system="onscreen">Säsong 10. Del 7 av 16</episode-num>
   </programme>
-  <programme start="20220609013000 +0200" stop="20220609030000 +0200" channel="Sportkanalen.se">
+  <programme start="20220609012000 +0200" stop="20220609015000 +0200" channel="Sportkanalen.se">
     <title lang="sv">Fiskedestination</title>
     <desc lang="sv">Svenskt fiskemagasin från 2015. Eriksberg. Johan Broman tar med sig några fiskekompisar på en tur till vackra Eriksbergsreservatet i Blekinge. Där bjuds det på både gäddfiske och god mat och dryck. ,.</desc>
     <date>2017</date>
     <episode-num system="onscreen">Säsong 4. Del 1 av 10</episode-num>
+  </programme>
+  <programme start="20220609015000 +0200" stop="20220609030000 +0200" channel="Sportkanalen.se">
+    <title lang="sv">Höjdpunkter</title>
+    <desc lang="sv">Höjdpunkter från bland annat SHL, SDHL, Serie A, La Liga, Handbollsligan och SHE.</desc>
+    <date>2020</date>
   </programme>
   <programme start="20220609030000 +0200" stop="20220609070000 +0200" channel="Sportkanalen.se">
     <title lang="sv">Basket</title>
@@ -13462,113 +13467,125 @@
     <title lang="sv">Kanot</title>
     <desc lang="sv">Racice Dag 2. Kanotsprint: Världscupen. Racice Dag 2. ,.</desc>
   </programme>
-  <programme start="20220608060000 +0200" stop="20220608075400 +0200" channel="Eurosport1.se">
+  <programme start="20220608060000 +0200" stop="20220608073500 +0200" channel="Eurosport1.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">The Memorial Tournament Dag 2. PGA Tour - The Memorial Tournament. The Memorial Tournament Dag 2. ,.</desc>
   </programme>
-  <programme start="20220608075400 +0200" stop="20220608085200 +0200" channel="Eurosport1.se">
+  <programme start="20220608073500 +0200" stop="20220608083300 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Mercan'tour Classic, Herrar. Franska cupen. Mercan'tour Classic, Herrar. ,.</desc>
   </programme>
-  <programme start="20220608085200 +0200" stop="20220608095000 +0200" channel="Eurosport1.se">
-    <title lang="sv">Breaking Life</title>
-    <desc lang="sv">Breaking Life Home of the Olympics Magasin. ,.</desc>
-  </programme>
-  <programme start="20220608095000 +0200" stop="20220608104800 +0200" channel="Eurosport1.se">
+  <programme start="20220608083300 +0200" stop="20220608092900 +0200" channel="Eurosport1.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam Final Mixed Dubbel. Franska mästerskapen. Grand Slam Final Mixed Dubbel. ,.</desc>
   </programme>
-  <programme start="20220608104800 +0200" stop="20220608120300 +0200" channel="Eurosport1.se">
+  <programme start="20220608092900 +0200" stop="20220608104000 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 3 Herrar. World Tour - Criterium du Dauphine. Etapp 3 Herrar. ,.</desc>
   </programme>
-  <programme start="20220608120300 +0200" stop="20220608133300 +0200" channel="Eurosport1.se">
-    <title lang="sv">Cykel</title>
-    <desc lang="sv">Etapp 4, herrar. . Adriatica Ionica Race. Etapp 4 Adriatica Ionica Race Herrar.</desc>
+  <programme start="20220608104000 +0200" stop="20220608120000 +0200" channel="Eurosport1.se">
+    <title lang="sv">Tennis</title>
+    <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220608133300 +0200" stop="20220608145800 +0200" channel="Eurosport1.se">
+  <programme start="20220608120000 +0200" stop="20220608122800 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 2 Damer. World Tour - The Women's Tour. Etapp 2 Damer.</desc>
   </programme>
-  <programme start="20220608145800 +0200" stop="20220608180300 +0200" channel="Eurosport1.se">
-    <title lang="sv">Cykel</title>
-    <desc lang="sv">Etapp 4 Herrar. World Tour - Criterium du Dauphine. Etapp 4 Herrar.</desc>
-  </programme>
-  <programme start="20220608180300 +0200" stop="20220608191500 +0200" channel="Eurosport1.se">
+  <programme start="20220608122800 +0200" stop="20220608132600 +0200" channel="Eurosport1.se">
     <title lang="sv">Ridsport</title>
-    <desc lang="sv">Langley Hopp. FEI Nations Cup. Langley.</desc>
+    <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220608191500 +0200" stop="20220608193000 +0200" channel="Eurosport1.se">
-    <title lang="sv">Kraftsport</title>
-    <desc lang="sv">Sun City. Styrkelyft. Sun City.</desc>
+  <programme start="20220608132600 +0200" stop="20220608142400 +0200" channel="Eurosport1.se">
+    <title lang="sv">Motorsport</title>
+    <desc lang="sv">Formel E. ,.</desc>
   </programme>
-  <programme start="20220608193000 +0200" stop="20220608200000 +0200" channel="Eurosport1.se">
+  <programme start="20220608142400 +0200" stop="20220608145500 +0200" channel="Eurosport1.se">
     <title lang="sv">EWC All Access</title>
     <desc lang="sv">Endurance Racing World Championships Magasin. ,.</desc>
   </programme>
-  <programme start="20220608200000 +0200" stop="20220608210000 +0200" channel="Eurosport1.se">
-    <title lang="sv">Best of Roland Garros</title>
-    <desc lang="sv">Tennis, Grand Slam Magasin. ,.</desc>
+  <programme start="20220608145500 +0200" stop="20220608164100 +0200" channel="Eurosport1.se">
+    <title lang="sv">Cykel</title>
+    <desc lang="sv">Etapp 4 Herrar. World Tour - Criterium du Dauphine. Etapp 4 Herrar.</desc>
   </programme>
-  <programme start="20220608210000 +0200" stop="20220608220300 +0200" channel="Eurosport1.se">
-    <title lang="sv">Breaking Life</title>
-    <desc lang="sv">Breaking Life Home of the Olympics Magasin. ,.</desc>
+  <programme start="20220608164100 +0200" stop="20220608173000 +0200" channel="Eurosport1.se">
+    <title lang="sv">Cykel</title>
+    <desc lang="sv">inga Detaljer.</desc>
   </programme>
-  <programme start="20220608220300 +0200" stop="20220609001400 +0200" channel="Eurosport1.se">
+  <programme start="20220608173000 +0200" stop="20220608183000 +0200" channel="Eurosport1.se">
+    <title lang="sv">Ridsport</title>
+    <desc lang="sv">Langley Hopp. FEI Nations Cup. Langley.</desc>
+  </programme>
+  <programme start="20220608183000 +0200" stop="20220608190000 +0200" channel="Eurosport1.se">
+    <title lang="sv">Övriga sporter</title>
+    <desc lang="sv">Sport.</desc>
+  </programme>
+  <programme start="20220608190000 +0200" stop="20220608220000 +0200" channel="Eurosport1.se">
+    <title lang="sv">Kraftsport</title>
+    <desc lang="sv">Sun City. Styrkelyft. Sun City.</desc>
+  </programme>
+  <programme start="20220608220000 +0200" stop="20220609001500 +0200" channel="Eurosport1.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Le Mans 24-timmars Fri träning 2. Endurance. Le Mans 24-timmars Fri träning 2.</desc>
   </programme>
-  <programme start="20220609001400 +0200" stop="20220609011600 +0200" channel="Eurosport1.se">
+  <programme start="20220609001500 +0200" stop="20220609012000 +0200" channel="Eurosport1.se">
     <title lang="sv">Speedway Grand Prix Teterow</title>
     <desc lang="sv">Sammanfattning. ,.</desc>
   </programme>
-  <programme start="20220609011600 +0200" stop="20220609022400 +0200" channel="Eurosport1.se">
+  <programme start="20220609012000 +0200" stop="20220609021800 +0200" channel="Eurosport1.se">
     <title lang="sv">Kanot</title>
     <desc lang="sv">Racice Dag 2. Kanotsprint: Världscupen. Racice Dag 2. ,.</desc>
   </programme>
-  <programme start="20220609022400 +0200" stop="20220609035100 +0200" channel="Eurosport1.se">
-    <title lang="sv">Cykel</title>
-    <desc lang="sv">Etapp 2 Damer. World Tour - The Women's Tour. Etapp 2 Damer. ,.</desc>
+  <programme start="20220609021800 +0200" stop="20220609031500 +0200" channel="Eurosport1.se">
+    <title lang="sv">Best of Roland Garros</title>
+    <desc lang="sv">Tennis, Grand Slam Magasin. ,.</desc>
   </programme>
-  <programme start="20220609035100 +0200" stop="20220609050300 +0200" channel="Eurosport1.se">
+  <programme start="20220609031500 +0200" stop="20220609044000 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 4 Herrar. World Tour - Criterium du Dauphine. Etapp 4 Herrar. ,.</desc>
   </programme>
-  <programme start="20220609050300 +0200" stop="20220609060000 +0200" channel="Eurosport1.se">
+  <programme start="20220609044000 +0200" stop="20220609060000 +0200" channel="Eurosport1.se">
     <title lang="sv">Kampsport</title>
     <desc lang="sv">Full contact. Karate full contact. Full contact. ,.</desc>
   </programme>
-  <programme start="20220609060000 +0200" stop="20220609065800 +0200" channel="Eurosport1.se">
+  <programme start="20220609060000 +0200" stop="20220609071000 +0200" channel="Eurosport1.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">The Memorial Tournament Dag 3. PGA Tour - The Memorial Tournament. The Memorial Tournament Dag 3. ,.</desc>
   </programme>
-  <programme start="20220609065800 +0200" stop="20220609075600 +0200" channel="Eurosport1.se">
+  <programme start="20220609071000 +0200" stop="20220609081000 +0200" channel="Eurosport1.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Salt Lake City Final Boulder Damer. Klättring: Världscupen. Salt Lake City. ,.</desc>
   </programme>
-  <programme start="20220609075600 +0200" stop="20220609085400 +0200" channel="Eurosport1.se">
+  <programme start="20220609081000 +0200" stop="20220609091000 +0200" channel="Eurosport1.se">
     <title lang="sv">Sport generellt</title>
     <desc lang="sv">Salt Lake City Final Boulder Herrar. Klättring: Världscupen. Salt Lake City. ,.</desc>
   </programme>
-  <programme start="20220609085400 +0200" stop="20220609095200 +0200" channel="Eurosport1.se">
+  <programme start="20220609091000 +0200" stop="20220609100800 +0200" channel="Eurosport1.se">
     <title lang="sv">Fäktning</title>
     <desc lang="sv">Kairo. Grand Prix. Kairo. ,.</desc>
   </programme>
-  <programme start="20220609095200 +0200" stop="20220609105000 +0200" channel="Eurosport1.se">
+  <programme start="20220609100800 +0200" stop="20220609110700 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Herrar Brussels Classic. Pro Series Brussels Classic. Herrar Brussels Classic. ,.</desc>
   </programme>
-  <programme start="20220609105000 +0200" stop="20220609120300 +0200" channel="Eurosport1.se">
+  <programme start="20220609110700 +0200" stop="20220609120300 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 4 Herrar. World Tour - Criterium du Dauphine. Etapp 4 Herrar. ,.</desc>
   </programme>
-  <programme start="20220609120300 +0200" stop="20220609133300 +0200" channel="Eurosport1.se">
-    <title lang="sv">Cykel</title>
-    <desc lang="sv">Etapp 5, herrar. . Adriatica Ionica Race. Etapp 5 Adriatica Ionica Race Herrar.</desc>
-  </programme>
-  <programme start="20220609133300 +0200" stop="20220609142400 +0200" channel="Eurosport1.se">
+  <programme start="20220609120300 +0200" stop="20220609120500 +0200" channel="Eurosport1.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 3 Damer. World Tour - The Women's Tour. Etapp 3 Damer.</desc>
+  </programme>
+  <programme start="20220609120500 +0200" stop="20220609130300 +0200" channel="Eurosport1.se">
+    <title lang="sv">Övriga sporter</title>
+    <desc lang="sv">Speedway. ,.</desc>
+  </programme>
+  <programme start="20220609130300 +0200" stop="20220609140400 +0200" channel="Eurosport1.se">
+    <title lang="sv">Motorsport</title>
+    <desc lang="sv">Endurance Moto Racing. ,.</desc>
+  </programme>
+  <programme start="20220609140400 +0200" stop="20220609142400 +0200" channel="Eurosport1.se">
+    <title lang="sv">Cykel</title>
+    <desc lang="sv">inga Detaljer.</desc>
   </programme>
   <programme start="20220609142400 +0200" stop="20220609145800 +0200" channel="Eurosport1.se">
     <title lang="sv">Cycling show</title>
@@ -13578,27 +13595,27 @@
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 5 Herrar. World Tour - Criterium du Dauphine. Etapp 5 Herrar.</desc>
   </programme>
-  <programme start="20220609164400 +0200" stop="20220609174200 +0200" channel="Eurosport1.se">
-    <title lang="sv">Formel E, VM Jakarta</title>
-    <desc lang="sv">Jakarta Sammanfattning. ,.</desc>
-  </programme>
-  <programme start="20220609174200 +0200" stop="20220609180300 +0200" channel="Eurosport1.se">
+  <programme start="20220609164400 +0200" stop="20220609180300 +0200" channel="Eurosport1.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">24-timmars på Spa-Francorchamps Race. Endurance Moto Racing. 24-timmars på Spa-Francorchamps Race. ,.</desc>
   </programme>
-  <programme start="20220609180300 +0200" stop="20220609194800 +0200" channel="Eurosport1.se">
+  <programme start="20220609180300 +0200" stop="20220609185400 +0200" channel="Eurosport1.se">
     <title lang="sv">Ridsport</title>
     <desc lang="sv">St Gallen Hopp. FEI Nations Cup. St Gallen.</desc>
   </programme>
-  <programme start="20220609194800 +0200" stop="20220609204800 +0200" channel="Eurosport1.se">
+  <programme start="20220609185400 +0200" stop="20220609194800 +0200" channel="Eurosport1.se">
+    <title lang="sv">Formel E, VM Jakarta</title>
+    <desc lang="sv">Jakarta Sammanfattning. ,.</desc>
+  </programme>
+  <programme start="20220609194800 +0200" stop="20220609204400 +0200" channel="Eurosport1.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Le Mans 24-timmars Hyperpole. Endurance. Le Mans 24-timmars Hyperpole.</desc>
   </programme>
-  <programme start="20220609204800 +0200" stop="20220609214800 +0200" channel="Eurosport1.se">
+  <programme start="20220609204400 +0200" stop="20220609214800 +0200" channel="Eurosport1.se">
     <title lang="sv">Speedway Grand Prix Teterow</title>
     <desc lang="sv">Sammanfattning. ,.</desc>
   </programme>
-  <programme start="20220609214800 +0200" stop="20220610001400 +0200" channel="Eurosport1.se">
+  <programme start="20220609214800 +0200" stop="20220610001800 +0200" channel="Eurosport1.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Le Mans 24-timmars Fri träning 4. Endurance. Le Mans 24-timmars Fri träning 4.</desc>
   </programme>
@@ -13622,31 +13639,31 @@
     <title lang="sv">Olympiska spelen</title>
     <desc lang="sv">Home of the Olympics Magasin. ,.</desc>
   </programme>
-  <programme start="20220608060000 +0200" stop="20220608075400 +0200" channel="Eurosport2.se">
+  <programme start="20220608060000 +0200" stop="20220608074100 +0200" channel="Eurosport2.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam Final Damer Singel. Franska mästerskapen. Grand Slam Final Damer Singel. ,.</desc>
   </programme>
-  <programme start="20220608075400 +0200" stop="20220608082400 +0200" channel="Eurosport2.se">
+  <programme start="20220608074100 +0200" stop="20220608081100 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Frankrike Lopp 1 MX2. VM. Frankrike. ,.</desc>
   </programme>
-  <programme start="20220608082400 +0200" stop="20220608085400 +0200" channel="Eurosport2.se">
+  <programme start="20220608081100 +0200" stop="20220608084300 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Frankrike Lopp 1 MXGP. VM. Frankrike. ,.</desc>
   </programme>
-  <programme start="20220608085400 +0200" stop="20220608092400 +0200" channel="Eurosport2.se">
+  <programme start="20220608084300 +0200" stop="20220608091300 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Frankrike Lopp 2 MX2. VM. Frankrike. ,.</desc>
   </programme>
-  <programme start="20220608092400 +0200" stop="20220608095400 +0200" channel="Eurosport2.se">
+  <programme start="20220608091300 +0200" stop="20220608094300 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Frankrike Lopp 2 MXGP. VM. Frankrike. ,.</desc>
   </programme>
-  <programme start="20220608095400 +0200" stop="20220608114800 +0200" channel="Eurosport2.se">
+  <programme start="20220608094300 +0200" stop="20220608113700 +0200" channel="Eurosport2.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">The Memorial Tournament Dag 2. PGA Tour - The Memorial Tournament. The Memorial Tournament Dag 2. ,.</desc>
   </programme>
-  <programme start="20220608114800 +0200" stop="20220608124600 +0200" channel="Eurosport2.se">
+  <programme start="20220608113700 +0200" stop="20220608124600 +0200" channel="Eurosport2.se">
     <title lang="sv">Olympiska spelen</title>
     <desc lang="sv">Breaking Life Home of the Olympics Magasin. ,.</desc>
   </programme>
@@ -13658,43 +13675,47 @@
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Le Mans 24-timmars Fri träning 1. Endurance car racing: VM. Le Mans 24-timmars Fri träning 1.</desc>
   </programme>
-  <programme start="20220608171400 +0200" stop="20220608181000 +0200" channel="Eurosport2.se">
+  <programme start="20220608171400 +0200" stop="20220608180800 +0200" channel="Eurosport2.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam Final Damer Dubbel. Franska mästerskapen. Grand Slam Final Damer Dubbel. ,.</desc>
   </programme>
-  <programme start="20220608181000 +0200" stop="20220608184800 +0200" channel="Eurosport2.se">
+  <programme start="20220608180800 +0200" stop="20220608184800 +0200" channel="Eurosport2.se">
     <title lang="sv">Olympiska spelen</title>
     <desc lang="sv">Home of the Olympics Magasin. ,.</desc>
   </programme>
-  <programme start="20220608184800 +0200" stop="20220608201800 +0200" channel="Eurosport2.se">
+  <programme start="20220608184800 +0200" stop="20220608201400 +0200" channel="Eurosport2.se">
     <title lang="sv">Motorsport</title>
     <desc lang="sv">Le Mans 24-timmars Kval. Endurance car racing: VM. Le Mans 24-timmars Kval.</desc>
+  </programme>
+  <programme start="20220608201400 +0200" stop="20220608201800 +0200" channel="Eurosport2.se">
+    <title lang="sv">Sport generellt</title>
+    <desc lang="sv">Gwangju Compound. Bågskytte: World Cup. Gwangju Compound. ,.</desc>
   </programme>
   <programme start="20220608201800 +0200" stop="20220608204800 +0200" channel="Eurosport2.se">
     <title lang="sv">The power of sport</title>
     <desc lang="sv">All sports Magasin.</desc>
   </programme>
-  <programme start="20220608204800 +0200" stop="20220608211400 +0200" channel="Eurosport2.se">
+  <programme start="20220608204800 +0200" stop="20220608212100 +0200" channel="Eurosport2.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">PGA-touren Magasin.</desc>
   </programme>
-  <programme start="20220608211400 +0200" stop="20220608221600 +0200" channel="Eurosport2.se">
+  <programme start="20220608212100 +0200" stop="20220608221900 +0200" channel="Eurosport2.se">
     <title lang="sv">Speedway Grand Prix</title>
     <desc lang="sv">Sammanfattning. ,.</desc>
   </programme>
-  <programme start="20220608221600 +0200" stop="20220608224500 +0200" channel="Eurosport2.se">
+  <programme start="20220608221900 +0200" stop="20220608225100 +0200" channel="Eurosport2.se">
     <title lang="sv">The power of sport</title>
     <desc lang="sv">All sports Magasin. ,.</desc>
   </programme>
-  <programme start="20220608224500 +0200" stop="20220609002000 +0200" channel="Eurosport2.se">
+  <programme start="20220608225100 +0200" stop="20220609002500 +0200" channel="Eurosport2.se">
     <title lang="sv">Cykel</title>
     <desc lang="sv">Etapp 4 Herrar. World Tour - Criterium du Dauphine. Etapp 4 Herrar. ,.</desc>
   </programme>
-  <programme start="20220609002000 +0200" stop="20220609031900 +0200" channel="Eurosport2.se">
+  <programme start="20220609002500 +0200" stop="20220609032400 +0200" channel="Eurosport2.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">The Memorial Tournament Dag 3. PGA Tour - The Memorial Tournament. The Memorial Tournament Dag 3. ,.</desc>
   </programme>
-  <programme start="20220609031900 +0200" stop="20220609060000 +0200" channel="Eurosport2.se">
+  <programme start="20220609032400 +0200" stop="20220609060000 +0200" channel="Eurosport2.se">
     <title lang="sv">Tennis</title>
     <desc lang="sv">Grand Slam Final Herrar Singel. Franska mästerskapen. Grand Slam Final Herrar Singel. ,.</desc>
   </programme>
@@ -13746,7 +13767,7 @@
     <title lang="sv">Golf</title>
     <desc lang="sv">Canadian Open Dag 1. PGA Tour - Canadian Open. Canadian Open Dag 1.</desc>
   </programme>
-  <programme start="20220609235900 +0200" stop="20220610030500 +0200" channel="Eurosport2.se">
+  <programme start="20220609235900 +0200" stop="20220610030400 +0200" channel="Eurosport2.se">
     <title lang="sv">Golf</title>
     <desc lang="sv">The Memorial Tournament Dag 4. PGA Tour - The Memorial Tournament. The Memorial Tournament Dag 4. ,.</desc>
   </programme>
@@ -13938,17 +13959,7 @@
     </credits>
     <date>2022</date>
   </programme>
-  <programme start="20220609010000 +0200" stop="20220609020500 +0200" channel="ViasatSportPremium.se">
-    <title lang="sv">NHL Tonight</title>
-    <desc lang="sv">Studioprogram med analyser och highlights från NHL. 08/06 år 2022 i V Sport Premium.</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20220609020500 +0200" stop="20220609050000 +0200" channel="ViasatSportPremium.se">
-    <title lang="sv">Ishockey</title>
-    <desc lang="sv">Stanley Cup-slutspelet. NHL. TBA: Match meddelas senare. 30/05 år 2022 i V Sport Premium.</desc>
-    <date>2022</date>
-  </programme>
-  <programme start="20220609050000 +0200" stop="20220609113000 +0200" channel="ViasatSportPremium.se">
+  <programme start="20220609010000 +0200" stop="20220609113000 +0200" channel="ViasatSportPremium.se">
     <title lang="sv">Sändningsuppehåll</title>
     <desc lang="sv">Sändningsuppehåll. 08/06 år 2022 i V Sport Premium.</desc>
   </programme>
